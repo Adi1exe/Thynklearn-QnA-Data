@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.09",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Trade"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the voluntary exchange of goods and services called?",
+      "options": [
+        { "option_id": 1, "text": "Production", "is_correct": false },
+        { "option_id": 2, "text": "Trade", "is_correct": true },
+        { "option_id": 3, "text": "Transport", "is_correct": false },
+        { "option_id": 4, "text": "Manufacturing", "is_correct": false }
+      ],
+      "answer": "Trade"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In ancient times, what system was used for trade before currency?",
+      "options": [
+        { "option_id": 1, "text": "Credit system", "is_correct": false },
+        { "option_id": 2, "text": "Online trading", "is_correct": false },
+        { "option_id": 3, "text": "Barter system", "is_correct": true },
+        { "option_id": 4, "text": "Banking system", "is_correct": false }
+      ],
+      "answer": "Barter system"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Buying and selling of goods is known as which type of trade?",
+      "options": [
+        { "option_id": 1, "text": "Invisible trade", "is_correct": false },
+        { "option_id": 2, "text": "Visible trade", "is_correct": true },
+        { "option_id": 3, "text": "Bilateral trade", "is_correct": false },
+        { "option_id": 4, "text": "Multilateral trade", "is_correct": false }
+      ],
+      "answer": "Visible trade"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Exchange of services (like a doctor's advice) is known as which type of trade?",
+      "options": [
+        { "option_id": 1, "text": "Visible trade", "is_correct": false },
+        { "option_id": 2, "text": "Invisible trade", "is_correct": true },
+        { "option_id": 3, "text": "Retail trade", "is_correct": false },
+        { "option_id": 4, "text": "Wholesale trade", "is_correct": false }
+      ],
+      "answer": "Invisible trade"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Traders who buy commodities on a large scale directly from producers are called?",
+      "options": [
+        { "option_id": 1, "text": "Retail traders", "is_correct": false },
+        { "option_id": 2, "text": "Wholesale traders", "is_correct": true },
+        { "option_id": 3, "text": "Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Exporters", "is_correct": false }
+      ],
+      "answer": "Wholesale traders"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Traders who sell goods directly to consumers are called?",
+      "options": [
+        { "option_id": 1, "text": "Wholesalers", "is_correct": false },
+        { "option_id": 2, "text": "Manufacturers", "is_correct": false },
+        { "option_id": 3, "text": "Retail traders", "is_correct": true },
+        { "option_id": 4, "text": "Importers", "is_correct": false }
+      ],
+      "answer": "Retail traders"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Trade that takes place between different regions within the same country is called?",
+      "options": [
+        { "option_id": 1, "text": "International trade", "is_correct": false },
+        { "option_id": 2, "text": "Domestic (Internal) trade", "is_correct": true },
+        { "option_id": 3, "text": "Bilateral trade", "is_correct": false },
+        { "option_id": 4, "text": "Multilateral trade", "is_correct": false }
+      ],
+      "answer": "Domestic (Internal) trade"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When international trade takes place between two countries, it is called?",
+      "options": [
+        { "option_id": 1, "text": "Unilateral trade", "is_correct": false },
+        { "option_id": 2, "text": "Bilateral trade", "is_correct": true },
+        { "option_id": 3, "text": "Multilateral trade", "is_correct": false },
+        { "option_id": 4, "text": "Domestic trade", "is_correct": false }
+      ],
+      "answer": "Bilateral trade"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "When trade occurs between more than two countries, it is called?",
+      "options": [
+        { "option_id": 1, "text": "Bilateral trade", "is_correct": false },
+        { "option_id": 2, "text": "Multilateral trade", "is_correct": true },
+        { "option_id": 3, "text": "Local trade", "is_correct": false },
+        { "option_id": 4, "text": "Retail trade", "is_correct": false }
+      ],
+      "answer": "Multilateral trade"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Buying goods and services from another country due to scarcity is known as?",
+      "options": [
+        { "option_id": 1, "text": "Export", "is_correct": false },
+        { "option_id": 2, "text": "Import", "is_correct": true },
+        { "option_id": 3, "text": "Production", "is_correct": false },
+        { "option_id": 4, "text": "Distribution", "is_correct": false }
+      ],
+      "answer": "Import"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Selling excess goods to countries that have a demand for them is known as?",
+      "options": [
+        { "option_id": 1, "text": "Import", "is_correct": false },
+        { "option_id": 2, "text": "Export", "is_correct": true },
+        { "option_id": 3, "text": "Consumption", "is_correct": false },
+        { "option_id": 4, "text": "Hoarding", "is_correct": false }
+      ],
+      "answer": "Export"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the difference between the import and export values of a country called?",
+      "options": [
+        { "option_id": 1, "text": "Gross Domestic Product", "is_correct": false },
+        { "option_id": 2, "text": "Balance of trade", "is_correct": true },
+        { "option_id": 3, "text": "National Income", "is_correct": false },
+        { "option_id": 4, "text": "Profit Margin", "is_correct": false }
+      ],
+      "answer": "Balance of trade"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When the value of imports is more than the value of exports, it is called?",
+      "options": [
+        { "option_id": 1, "text": "Favourable balance of trade", "is_correct": false },
+        { "option_id": 2, "text": "Balanced trade", "is_correct": false },
+        { "option_id": 3, "text": "Unfavourable balance of trade", "is_correct": true },
+        { "option_id": 4, "text": "Profitable trade", "is_correct": false }
+      ],
+      "answer": "Unfavourable balance of trade"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "When the value of exports is more than the value of imports, it is called?",
+      "options": [
+        { "option_id": 1, "text": "Unfavourable balance of trade", "is_correct": false },
+        { "option_id": 2, "text": "Favourable balance of trade", "is_correct": true },
+        { "option_id": 3, "text": "Balanced trade", "is_correct": false },
+        { "option_id": 4, "text": "Deficit trade", "is_correct": false }
+      ],
+      "answer": "Favourable balance of trade"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of the World Trade Organisation (WTO)?",
+      "options": [
+        { "option_id": 1, "text": "Vienna (Austria)", "is_correct": false },
+        { "option_id": 2, "text": "Jakarta (Indonesia)", "is_correct": false },
+        { "option_id": 3, "text": "Geneva (Switzerland)", "is_correct": true },
+        { "option_id": 4, "text": "Brussels (Belgium)", "is_correct": false }
+      ],
+      "answer": "Geneva (Switzerland)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which organisation established the common 'Euro' currency?",
+      "options": [
+        { "option_id": 1, "text": "World Trade Organisation (WTO)", "is_correct": false },
+        { "option_id": 2, "text": "European Union (EU)", "is_correct": true },
+        { "option_id": 3, "text": "OPEC", "is_correct": false },
+        { "option_id": 4, "text": "SAARC", "is_correct": false }
+      ],
+      "answer": "European Union (EU)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of OPEC?",
+      "options": [
+        { "option_id": 1, "text": "Vienna (Austria)", "is_correct": true },
+        { "option_id": 2, "text": "Geneva (Switzerland)", "is_correct": false },
+        { "option_id": 3, "text": "Kathmandu (Nepal)", "is_correct": false },
+        { "option_id": 4, "text": "Singapore", "is_correct": false }
+      ],
+      "answer": "Vienna (Austria)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the main aim of OPEC?",
+      "options": [
+        { "option_id": 1, "text": "To remove unrest in South Asia", "is_correct": false },
+        { "option_id": 2, "text": "To control international trade of crude oil", "is_correct": true },
+        { "option_id": 3, "text": "To promote free trade in Europe", "is_correct": false },
+        { "option_id": 4, "text": "To enhance cultural harmony in SE Asia", "is_correct": false }
+      ],
+      "answer": "To control international trade of crude oil"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which organisation has its headquarters in Kathmandu, Nepal?",
+      "options": [
+        { "option_id": 1, "text": "ASEAN", "is_correct": false },
+        { "option_id": 2, "text": "APEC", "is_correct": false },
+        { "option_id": 3, "text": "SAARC", "is_correct": true },
+        { "option_id": 4, "text": "BRICS", "is_correct": false }
+      ],
+      "answer": "SAARC"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a member of BRICS?",
+      "options": [
+        { "option_id": 1, "text": "Brazil", "is_correct": false },
+        { "option_id": 2, "text": "Russia", "is_correct": false },
+        { "option_id": 3, "text": "USA", "is_correct": true },
+        { "option_id": 4, "text": "India", "is_correct": false }
+      ],
+      "answer": "USA"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of ASEAN?",
+      "options": [
+        { "option_id": 1, "text": "Singapore", "is_correct": false },
+        { "option_id": 2, "text": "Jakarta (Indonesia)", "is_correct": true },
+        { "option_id": 3, "text": "Shanghai (China)", "is_correct": false },
+        { "option_id": 4, "text": "Kathmandu (Nepal)", "is_correct": false }
+      ],
+      "answer": "Jakarta (Indonesia)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of APEC?",
+      "options": [
+        { "option_id": 1, "text": "Singapore", "is_correct": true },
+        { "option_id": 2, "text": "Shanghai", "is_correct": false },
+        { "option_id": 3, "text": "Jakarta", "is_correct": false },
+        { "option_id": 4, "text": "Geneva", "is_correct": false }
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The invisible flow that develops when a product goes from producer to consumer is called?",
+      "options": [
+        { "option_id": 1, "text": "Manufacturing", "is_correct": false },
+        { "option_id": 2, "text": "Marketing", "is_correct": true },
+        { "option_id": 3, "text": "Importing", "is_correct": false },
+        { "option_id": 4, "text": "Bartering", "is_correct": false }
+      ],
+      "answer": "Marketing"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which Act has been enacted to protect consumers from fraudulent advertisements?",
+      "options": [
+        { "option_id": 1, "text": "Trade Union Act", "is_correct": false },
+        { "option_id": 2, "text": "Consumer Protection Act", "is_correct": true },
+        { "option_id": 3, "text": "Companies Act", "is_correct": false },
+        { "option_id": 4, "text": "Competition Act", "is_correct": false }
+      ],
+      "answer": "Consumer Protection Act"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What happens when the value of exports and imports is almost the same?",
+      "options": [
+        { "option_id": 1, "text": "Favourable balance of trade", "is_correct": false },
+        { "option_id": 2, "text": "Unfavourable balance of trade", "is_correct": false },
+        { "option_id": 3, "text": "Balanced balance of trade", "is_correct": true },
+        { "option_id": 4, "text": "No trade", "is_correct": false }
+      ],
+      "answer": "Balanced balance of trade"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the main difference between visible and invisible trade?",
+      "answer": "Visible trade involves the buying and selling of physical goods (commodities), whereas invisible trade involves the exchange of services."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why is the barter system problematic in modern times?",
+      "answer": "The barter system makes it difficult to estimate the proper price or value of commodities being exchanged, leading to issues in fair trade."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the difference between wholesale and retail trade?",
+      "answer": "Wholesale trade involves buying large quantities from producers and selling to retailers. Retail trade involves buying from wholesalers and selling directly to consumers in smaller quantities."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What determines the extent of domestic trade?",
+      "answer": "Factors such as the size of the country, diversity, distribution of natural resources, population, transport, communication services, and the living standard of people."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Define 'Balance of Trade'.",
+      "answer": "The difference between the import and export values of a country in a specific period is called the balance of trade."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "List any two functions of the World Trade Organisation (WTO).",
+      "answer": "To provide a platform for negotiations in international trade and to handle differences related to trade."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are the member states of BRICS?",
+      "answer": "Brazil, Russia, India, China, and South Africa."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why is marketing important in today's era?",
+      "answer": "Marketing systematically increases business, distributes production on a large scale, increases selling price, and attracts consumers to products."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are the major components of marketing?",
+      "answer": "Price of the commodity, sales promotion, advertising, and distribution."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is 'Unfavourable Balance of Trade'?",
+      "answer": "It is a situation where the value of a country's imports is more than the value of its exports."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the classification of trade based on the quantity of goods.",
+      "answer": "Based on quantity, trade is classified into Wholesale and Retail trade. Wholesale trade involves traders buying commodities on a large scale directly from producers (e.g., farmers, industrialists) and selling them to retail traders. Retail trade involves buying goods from wholesalers and selling them directly to consumers in smaller quantities (e.g., vegetable vendors, shopkeepers)."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Describe the types of Balance of Trade with examples.",
+      "answer": "There are three types: 1. Unfavourable Balance of Trade: When the value of imports > value of exports. 2. Favourable Balance of Trade: When the value of exports > value of imports. 3. Balanced Balance of Trade: When the value of exports is almost equal to the value of imports."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "Why were international economic organisations formed? Name any two.",
+      "answer": "International trade is complex due to factors like economy, government policies, laws, currency, and language differences. Organisations were formed to smoothen the process, facilitate growth, and handle trade-related differences. Examples include the World Trade Organisation (WTO) and the European Union (EU)."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Explain the importance of marketing with the example of Dhondiba.",
+      "answer": "Dhondiba grew good vegetables but got low prices. His son cleaned and packed the vegetables neatly, contacted a supermarket, and advertised the quality. This presentation increased the value and demand for the product, fetching a higher price. This shows that quality, grading, presentation, and advertisement (marketing) are crucial for business success."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "What are the aims and functions of the South Asian Association for Regional Cooperation (SAARC)?",
+      "answer": "SAARC aims to find satisfactory solutions to common problems faced by South Asian countries. Its functions include increasing social welfare, raising living standards, increasing regional cooperation among member states, and removing unrest in South Asia."
+    }
+  ]
+}

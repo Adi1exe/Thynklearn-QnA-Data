@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.03",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Current Electricity"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The flow of electrons in a circuit is from ________.",
+      "options": [
+        { "option_id": 1, "text": "Positive to Negative terminal", "is_correct": false },
+        { "option_id": 2, "text": "Negative to Positive terminal", "is_correct": true },
+        { "option_id": 3, "text": "Higher to Lower potential", "is_correct": false },
+        { "option_id": 4, "text": "Neutral to Positive terminal", "is_correct": false }
+      ],
+      "answer": "Negative to Positive terminal"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The conventional direction of current flow is from ________.",
+      "options": [
+        { "option_id": 1, "text": "Negative to Positive terminal", "is_correct": false },
+        { "option_id": 2, "text": "Lower to Higher potential", "is_correct": false },
+        { "option_id": 3, "text": "Positive to Negative terminal", "is_correct": true },
+        { "option_id": 4, "text": "Neutral to Negative terminal", "is_correct": false }
+      ],
+      "answer": "Positive to Negative terminal"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The SI unit of Potential Difference is ________.",
+      "options": [
+        { "option_id": 1, "text": "Ampere", "is_correct": false },
+        { "option_id": 2, "text": "Volt", "is_correct": true },
+        { "option_id": 3, "text": "Ohm", "is_correct": false },
+        { "option_id": 4, "text": "Coulomb", "is_correct": false }
+      ],
+      "answer": "Volt"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "1 Volt = ________ / 1 Coulomb.",
+      "options": [
+        { "option_id": 1, "text": "1 Ampere", "is_correct": false },
+        { "option_id": 2, "text": "1 Joule", "is_correct": true },
+        { "option_id": 3, "text": "1 Ohm", "is_correct": false },
+        { "option_id": 4, "text": "1 Watt", "is_correct": false }
+      ],
+      "answer": "1 Joule"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The SI unit of Electric Current is ________.",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": false },
+        { "option_id": 3, "text": "Ampere", "is_correct": true },
+        { "option_id": 4, "text": "Ohm", "is_correct": false }
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "According to Ohm's Law, V = ________.",
+      "options": [
+        { "option_id": 1, "text": "I / R", "is_correct": false },
+        { "option_id": 2, "text": "R / I", "is_correct": false },
+        { "option_id": 3, "text": "I × R", "is_correct": true },
+        { "option_id": 4, "text": "I + R", "is_correct": false }
+      ],
+      "answer": "I × R"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The SI unit of Resistance is ________.",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": false },
+        { "option_id": 3, "text": "Ohm", "is_correct": true },
+        { "option_id": 4, "text": "Mho", "is_correct": false }
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Resistance of a conductor is directly proportional to its ________.",
+      "options": [
+        { "option_id": 1, "text": "Area of cross-section", "is_correct": false },
+        { "option_id": 2, "text": "Length", "is_correct": true },
+        { "option_id": 3, "text": "Density", "is_correct": false },
+        { "option_id": 4, "text": "Volume", "is_correct": false }
+      ],
+      "answer": "Length"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The effective resistance of resistors connected in series is ________ than individual resistances.",
+      "options": [
+        { "option_id": 1, "text": "Less", "is_correct": false },
+        { "option_id": 2, "text": "Equal", "is_correct": false },
+        { "option_id": 3, "text": "Greater", "is_correct": true },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "Greater"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In a parallel combination of resistors, the ________ across each resistor is the same.",
+      "options": [
+        { "option_id": 1, "text": "Current", "is_correct": false },
+        { "option_id": 2, "text": "Potential Difference", "is_correct": true },
+        { "option_id": 3, "text": "Power", "is_correct": false },
+        { "option_id": 4, "text": "Heat", "is_correct": false }
+      ],
+      "answer": "Potential Difference"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which material is a good conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Rubber", "is_correct": false },
+        { "option_id": 2, "text": "Wood", "is_correct": false },
+        { "option_id": 3, "text": "Copper", "is_correct": true },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The symbol for a variable resistance (Rheostat) is ________.",
+      "options": [
+        { "option_id": 1, "text": "Zigzag line", "is_correct": false },
+        { "option_id": 2, "text": "Zigzag line with an arrow", "is_correct": true },
+        { "option_id": 3, "text": "Two parallel lines", "is_correct": false },
+        { "option_id": 4, "text": "Circle with A inside", "is_correct": false }
+      ],
+      "answer": "Zigzag line with an arrow"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "If the length of a wire is doubled, its resistance ________.",
+      "options": [
+        { "option_id": 1, "text": "Remains same", "is_correct": false },
+        { "option_id": 2, "text": "Halves", "is_correct": false },
+        { "option_id": 3, "text": "Doubles", "is_correct": true },
+        { "option_id": 4, "text": "Quadruples", "is_correct": false }
+      ],
+      "answer": "Doubles"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The unit of Resistivity is ________.",
+      "options": [
+        { "option_id": 1, "text": "Ohm", "is_correct": false },
+        { "option_id": 2, "text": "Ohm-meter", "is_correct": true },
+        { "option_id": 3, "text": "Ohm/meter", "is_correct": false },
+        { "option_id": 4, "text": "Volt/meter", "is_correct": false }
+      ],
+      "answer": "Ohm-meter"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which component is used to measure electric current?",
+      "options": [
+        { "option_id": 1, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 2, "text": "Ammeter", "is_correct": true },
+        { "option_id": 3, "text": "Galvanometer", "is_correct": false },
+        { "option_id": 4, "text": "Potentiometer", "is_correct": false }
+      ],
+      "answer": "Ammeter"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Fuse wire is made of a material with ________.",
+      "options": [
+        { "option_id": 1, "text": "High melting point", "is_correct": false },
+        { "option_id": 2, "text": "Low melting point", "is_correct": true },
+        { "option_id": 3, "text": "High conductivity", "is_correct": false },
+        { "option_id": 4, "text": "High resistivity", "is_correct": false }
+      ],
+      "answer": "Low melting point"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which combination of resistors is used to decrease the effective resistance in a circuit?",
+      "options": [
+        { "option_id": 1, "text": "Series", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "Mixed", "is_correct": false },
+        { "option_id": 4, "text": "Linear", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The potential difference between two points is said to be 1 Volt if ________ work is done to move 1 Coulomb charge.",
+      "options": [
+        { "option_id": 1, "text": "1 Watt", "is_correct": false },
+        { "option_id": 2, "text": "1 Joule", "is_correct": true },
+        { "option_id": 3, "text": "1 Newton", "is_correct": false },
+        { "option_id": 4, "text": "1 Erg", "is_correct": false }
+      ],
+      "answer": "1 Joule"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Free electrons in a metal wire move randomly with ________ speed.",
+      "options": [
+        { "option_id": 1, "text": "Zero", "is_correct": false },
+        { "option_id": 2, "text": "Average", "is_correct": true },
+        { "option_id": 3, "text": "Infinite", "is_correct": false },
+        { "option_id": 4, "text": "Drift", "is_correct": false }
+      ],
+      "answer": "Average"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "1 milliampere (mA) is equal to ________ Amperes.",
+      "options": [
+        { "option_id": 1, "text": "10⁻⁶", "is_correct": false },
+        { "option_id": 2, "text": "10⁻³", "is_correct": true },
+        { "option_id": 3, "text": "10³", "is_correct": false },
+        { "option_id": 4, "text": "10⁶", "is_correct": false }
+      ],
+      "answer": "10⁻³"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Substances with very low resistance are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Insulators", "is_correct": false },
+        { "option_id": 2, "text": "Conductors", "is_correct": true },
+        { "option_id": 3, "text": "Semiconductors", "is_correct": false },
+        { "option_id": 4, "text": "Superconductors", "is_correct": false }
+      ],
+      "answer": "Conductors"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Voltmeter is always connected in ________ in a circuit.",
+      "options": [
+        { "option_id": 1, "text": "Series", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "Series-Parallel", "is_correct": false },
+        { "option_id": 4, "text": "Any manner", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "If three resistors of 2Ω, 3Ω, and 5Ω are connected in series, the effective resistance is ________.",
+      "options": [
+        { "option_id": 1, "text": "10 Ω", "is_correct": true },
+        { "option_id": 2, "text": "30 Ω", "is_correct": false },
+        { "option_id": 3, "text": "0.96 Ω", "is_correct": false },
+        { "option_id": 4, "text": "1.0 Ω", "is_correct": false }
+      ],
+      "answer": "10 Ω"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The resistance of a wire is inversely proportional to its ________.",
+      "options": [
+        { "option_id": 1, "text": "Length", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": false },
+        { "option_id": 3, "text": "Cross-sectional Area", "is_correct": true },
+        { "option_id": 4, "text": "Material", "is_correct": false }
+      ],
+      "answer": "Cross-sectional Area"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "When resistors are connected in series, the ________ flowing through them is the same.",
+      "options": [
+        { "option_id": 1, "text": "Voltage", "is_correct": false },
+        { "option_id": 2, "text": "Current", "is_correct": true },
+        { "option_id": 3, "text": "Power", "is_correct": false },
+        { "option_id": 4, "text": "Resistance", "is_correct": false }
+      ],
+      "answer": "Current"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Electric Current.",
+      "answer": "Electric current is the flow of electrons through a conductor. Quantitatively, I = Q / t, where I is current, Q is charge, and t is time."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Potential Difference?",
+      "answer": "The potential difference between two points is the amount of work done to carry a unit positive charge from one point to the other."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "State Ohm's Law.",
+      "answer": "If the physical state of a conductor remains constant, the current (I) flowing through it is directly proportional to the potential difference (V) between its two ends. V = IR."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is 1 Ampere?",
+      "answer": "One Ampere current is said to flow in a conductor if one Coulomb charge flows through it every second. 1 A = 1 C / 1 s."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is 1 Volt?",
+      "answer": "The potential difference between two points is 1 Volt if 1 Joule of work is done to move 1 Coulomb of charge from one point to another. 1 V = 1 J / 1 C."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Define Resistance.",
+      "answer": "Resistance is the property of a conductor to oppose the flow of current through it. It is the ratio of potential difference to current (R = V / I)."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is 1 Ohm?",
+      "answer": "If a potential difference of 1 Volt across a conductor causes a current of 1 Ampere to flow through it, the resistance is called 1 Ohm. 1 Ω = 1 V / 1 A."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are Conductors?",
+      "answer": "Substances that have very low electrical resistance and allow current to flow through them easily are called conductors. E.g., Copper, Aluminum."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are Insulators?",
+      "answer": "Substances that have extremely high electrical resistance and do not allow current to flow through them are called insulators. E.g., Rubber, Wood."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "State the factors affecting resistance of a conductor.",
+      "answer": "Resistance depends on: 1) Length of conductor (L), 2) Area of cross-section (A), and 3) Material of the conductor."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Define Resistivity.",
+      "answer": "Resistivity is a characteristic property of a material. It is the resistance of a conductor of unit length and unit cross-sectional area. Its unit is Ohm-meter (Ω m)."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Write the formula for effective resistance in series.",
+      "answer": "Rs = R1 + R2 + R3 + ... + Rn."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Write the formula for effective resistance in parallel.",
+      "answer": "1/Rp = 1/R1 + 1/R2 + 1/R3 + ... + 1/Rn."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why is a voltmeter connected in parallel?",
+      "answer": "To measure the potential difference across two points, the voltmeter must be connected across those points, i.e., in parallel, and it has high resistance to draw negligible current."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why is an ammeter connected in series?",
+      "answer": "To measure the total current flowing through a circuit, the ammeter must be connected in the path of the current, i.e., in series."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the function of a fuse wire?",
+      "answer": "A fuse wire protects electrical appliances from damage due to excess current. It melts and breaks the circuit if current exceeds a specific limit."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the difference between conventional current and electron flow?",
+      "answer": "Conventional current flows from positive to negative terminal, while actual electron flow is from negative to positive terminal."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "If length of a wire is doubled, what happens to its resistance?",
+      "answer": "Since R ∝ L, if length is doubled, the resistance also doubles."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "If cross-sectional area of a wire is doubled, what happens to its resistance?",
+      "answer": "Since R ∝ 1/A, if area is doubled, the resistance becomes half."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Give two examples of Resistors in Series in daily life.",
+      "answer": "1) Decorative string lights used in festivals. 2) Batteries in a torch are connected in series."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why are domestic appliances connected in parallel?",
+      "answer": "To ensure that each appliance gets the full voltage and operates independently; if one fails, others continue to work."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Calculate potential difference if 50J work is done to move 10C charge.",
+      "answer": "V = W / Q = 50 / 10 = 5 Volts."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Calculate current if 2A current flows through a 10Ω resistor.",
+      "answer": "This question asks for current but gives current. Assuming it asks for voltage: V = IR = 2 × 10 = 20 Volts."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is a Circuit Diagram?",
+      "answer": "A schematic representation of an electric circuit using standard symbols for components is called a circuit diagram."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a Superconductor?",
+      "answer": "A material that offers zero resistance to the flow of current at very low temperatures is called a superconductor."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define Free Electrons.",
+      "answer": "Electrons in the outermost orbit of an atom that are weakly bound to the nucleus and can move freely within the metal are called free electrons."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is Lightning?",
+      "answer": "Lightning is a natural electrical discharge of very high voltage between clouds or between a cloud and the ground."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the direction of water flow between two points?",
+      "answer": "Water flows from a higher level to a lower level due to gravity."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is 'Electric Potential'?",
+      "answer": "The electric level at a point that determines the direction of electric charge flow is called electric potential."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two devices that use resistance.",
+      "answer": "1) Electric Bulb 2) Electric Heater."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happens to resistance if temperature increases?",
+      "answer": "For most conductors (metals), resistance increases with an increase in temperature."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the symbol for an electric cell?",
+      "answer": "Two parallel lines, one longer (positive) and one shorter (negative)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the symbol for a key or switch (open)?",
+      "answer": "A break in the line or parentheses without a dot: ( )."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Calculate resistance if V = 10V and I = 2A.",
+      "answer": "R = V / I = 10 / 2 = 5 Ω."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the unit of charge?",
+      "answer": "The SI unit of charge is Coulomb (C)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is Tungsten used in bulbs?",
+      "answer": "Tungsten has a very high melting point and high resistance, allowing it to glow white-hot without melting."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is Copper used for connection wires?",
+      "answer": "Copper is a good conductor with low resistivity, minimizing energy loss as heat."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the difference between EMF and Potential Difference?",
+      "answer": "EMF is potential difference when no current flows (open circuit); PD is potential difference when current flows (closed circuit)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a 'Plug Key'?",
+      "answer": "A switch used to open or close an electric circuit by inserting or removing a plug."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "If 1A current flows for 1 minute, charge Q = ?",
+      "answer": "Q = I × t = 1 A × 60 s = 60 Coulombs."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the effective resistance of two 4Ω resistors in parallel?",
+      "answer": "1/Rp = 1/4 + 1/4 = 2/4 = 1/2. So, Rp = 2 Ω."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the effective resistance of two 4Ω resistors in series?",
+      "answer": "Rs = 4 + 4 = 8 Ω."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Define 'Drift Speed' of electrons.",
+      "answer": "The average speed with which free electrons move in a conductor under the influence of an electric field."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a 'Battery'?",
+      "answer": "A collection of two or more cells connected in series."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why does resistance increase in series?",
+      "answer": "Connecting in series effectively increases the length of the conductor, and R ∝ L."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why does resistance decrease in parallel?",
+      "answer": "Connecting in parallel effectively increases the cross-sectional area, and R ∝ 1/A."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "State the relation V = W / Q in words.",
+      "answer": "Potential Difference is equal to Work done per unit Charge."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'Specific Resistance'?",
+      "answer": "Specific Resistance is another name for Resistivity."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name two good insulators.",
+      "answer": "Rubber, Plastic, Glass, Wood."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Does a thicker wire have more or less resistance than a thinner wire of same material and length?",
+      "answer": "Thicker wire has less resistance because it has a larger cross-sectional area."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "State and explain Ohm's Law. Draw the V-I graph.",
+      "answer": "Ohm's Law states that if the physical state of a conductor (length, area, temp, material) remains constant, the current (I) flowing through it is directly proportional to the potential difference (V) across it. I ∝ V, so V = IR, where R is resistance. The V-I graph is a straight line passing through origin, showing linear relationship. "
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Derive the expression for effective resistance of resistors connected in Series.",
+      "answer": "Let R1, R2, R3 be connected in series. Current I is same through all. Potential difference V splits: V = V1 + V2 + V3. By Ohm's law, V1=IR1, V2=IR2, V3=IR3. Total V = IRs. So, IRs = IR1 + IR2 + IR3. Dividing by I, we get Rs = R1 + R2 + R3. "
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Derive the expression for effective resistance of resistors connected in Parallel.",
+      "answer": "Let R1, R2, R3 be in parallel. Potential difference V is same across all. Current I splits: I = I1 + I2 + I3. By Ohm's law, I1=V/R1, I2=V/R2, I3=V/R3. Total I = V/Rp. So, V/Rp = V/R1 + V/R2 + V/R3. Dividing by V, we get 1/Rp = 1/R1 + 1/R2 + 1/R3. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Distinguish between Series and Parallel combination of resistors.",
+      "answer": "1) Series: Current is same, PD splits. Parallel: PD is same, Current splits. 2) Series: Effective R increases (Rs > max individual R). Parallel: Effective R decreases (Rp < min individual R). 3) Series: Used to increase resistance. Parallel: Used to decrease resistance. 4) Series: One break stops flow. Parallel: One break doesn't affect other paths."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the concept of Resistance and Resistivity.",
+      "answer": "Resistance (R): Obstruction to electron flow due to collisions with atoms/ions. Depends on dimensions (L, A). Unit: Ohm. Resistivity (ρ): Specific property of material, resistance of unit cube. R = ρ(L/A). Independent of dimensions, depends on material and temp. Unit: Ohm-meter."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the flow of current through a conductor with the help of a diagram showing electron motion.",
+      "answer": "In absence of battery, free electrons move randomly. When PD is applied, an electric field is set up. Electrons experience force towards positive terminal. They drift from negative to positive end, colliding with atoms. This drift constitutes electric current. Conventional current is shown from positive to negative. "
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Resistances R1, R2, R3 are connected in series. Their effective resistance is 40Ω. If R1=10Ω, R2=10Ω, find R3. Also, if V=20V, find current.",
+      "answer": "1) Series: Rs = R1 + R2 + R3. 40 = 10 + 10 + R3. 40 = 20 + R3. R3 = 20 Ω. 2) Current I = V / Rs = 20 / 40 = 0.5 A."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a simple electric circuit using symbols.",
+      "answer": "A simple circuit consists of a Cell (source), Plug Key (switch), Bulb (load), and connecting wires. When key is closed, circuit is complete. Current flows from +ve to -ve terminal. Bulb glows. Ammeter can be added in series to measure current, Voltmeter in parallel to measure PD. "
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why are metals good conductors while wood is an insulator? Explain on basis of free electrons.",
+      "answer": "Metals have a large number of free electrons in their outer shells which are loosely bound and can move freely throughout the lattice. These facilitate charge transfer. Wood has tightly bound electrons, so no free charge carriers are available to conduct electricity, making it an insulator."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Solve: A wire of length 2m and area 10⁻⁶ m² has a resistance of 10Ω. Calculate its resistivity.",
+      "answer": "Given: L = 2m, A = 10⁻⁶ m², R = 10Ω. Formula: R = ρ(L/A) => ρ = (R × A) / L. Calculation: ρ = (10 × 10⁻⁶) / 2 = 5 × 10⁻⁶ Ωm. Resistivity is 5 × 10⁻⁶ Ωm."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Compare the properties of Resistances connected in Series and Parallel.",
+      "answer": "Series: Rs = sum of individual R; Rs > individual R; I constant; V divides; Used to increase R. Parallel: 1/Rp = sum of reciprocals; Rp < individual R; V constant; I divides; Used to decrease R. Domestic circuits use parallel."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "If three resistors 5Ω, 10Ω, 30Ω are connected in parallel, calculate effective resistance.",
+      "answer": "1/Rp = 1/5 + 1/10 + 1/30. LCM is 30. 1/Rp = (6 + 3 + 1) / 30 = 10 / 30 = 1/3. So, Rp = 3 Ω. Effective resistance is 3 Ohms."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What is the importance of a fuse in domestic circuits? How does it work?",
+      "answer": "A fuse is a safety device connected in series. It has a low melting point. If current exceeds a safe limit (due to short circuit or overload), the fuse wire heats up (Joule heating), melts, and breaks the circuit. This prevents damage to expensive appliances and prevents fire."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Define electric potential and potential difference using the water flow analogy.",
+      "answer": "Just as water flows from higher level to lower level, electric charge flows from higher electric potential to lower electric potential. The 'level' is potential. The difference in levels causing flow is potential difference. A battery creates this PD to pump electrons."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Two resistors of 6Ω and 4Ω are connected in series to a 20V battery. Find: a) Total Resistance, b) Total Current, c) PD across 6Ω resistor.",
+      "answer": "a) Rs = 6 + 4 = 10Ω. b) I = V / Rs = 20 / 10 = 2 A. c) V1 = I × R1 = 2 × 6 = 12 V."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "List standard symbols for: Cell, Battery, Open Key, Closed Key, Resistance, Ammeter, Voltmeter.",
+      "answer": "1) Cell: Two parallel lines (+ long, - short). 2) Battery: Multiple cells. 3) Open Key: ( ). 4) Closed Key: ( . ). 5) Resistance: Zigzag line. 6) Ammeter: Circle with A. 7) Voltmeter: Circle with V. "
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Physical State of Conductor' in Ohm's Law.",
+      "answer": "Ohm's Law holds true only if 'physical state' is constant. This includes Length (L), Area (A), Temperature (T), and Material. If T changes (heating), R changes, and V/I is no longer constant. So Ohm's law is valid for ohmic conductors at constant temperature."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Three resistors x1, x2, x3 are in a circuit. If effective resistance x < x1, x < x2, x < x3, how are they connected? Explain.",
+      "answer": "They are connected in Parallel. In parallel combination, the effective resistance (Rp) is always smaller than the smallest individual resistance in the combination. The formula 1/Rp = 1/R1 + ... implies Rp decreases as more paths are added."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "If a charge of 420 C flows through a wire in 5 minutes, what is the current?",
+      "answer": "Given: Q = 420 C, t = 5 min = 5 × 60 = 300 s. Formula: I = Q / t. Calculation: I = 420 / 300 = 1.4 A. Current is 1.4 Amperes."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "A wire has resistance 6Ω. If its length is reduced to 70cm (original unspecified but implied change), new resistance? (Assume original L was 1m/100cm for calculation logic or clarify proportional change). Let's assume wire is cut.",
+      "answer": "Assuming original length L1 and new length L2 = 0.7 L1 (just shortening). R ∝ L. So R2/R1 = L2/L1. If just cut: R2 = (L2/L1) × 6. If original L unknown, problem relies on direct prop. Example: If L becomes 0.7 times, R becomes 0.7 × 6 = 4.2 Ω."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Two resistors in series give 80Ω, in parallel give 20Ω. Find the values.",
+      "answer": "1) Rs = R1 + R2 = 80. 2) Rp = (R1R2)/(R1+R2) = 20. 3) (R1R2)/80 = 20 => R1R2 = 1600. 4) R1 and R2 are roots of x² - 80x + 1600 = 0. (x-40)² = 0. So R1 = 40Ω, R2 = 40Ω."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss the resistivity of conductors, alloys, and insulators.",
+      "answer": "1) Conductors (Metals): Very low resistivity (10⁻⁸ to 10⁻⁶ Ωm). Good for transmission. 2) Alloys: Higher resistivity than constituent metals (10⁻⁶ range). Used in heaters. 3) Insulators: Very high resistivity (10¹² to 10¹⁷ Ωm). Used for safety covering."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Why is the effective resistance in parallel less than individual resistances? Explain logically.",
+      "answer": "Connecting resistors in parallel is equivalent to increasing the cross-sectional area of the conductor path for current flow. Since Resistance is inversely proportional to Area (R ∝ 1/A), increasing the area (more paths) reduces the overall resistance."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Drift' motion of electrons.",
+      "answer": "Electrons in a metal move randomly at high speeds but have zero net velocity. When potential difference is applied, they gain a small component of velocity towards the positive terminal. This slow, average uniform velocity is called Drift Velocity, responsible for current."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key points of 'Current Electricity'.",
+      "answer": "1) Current is flow of charge (I=Q/t). 2) Potential difference drives current (V=W/Q). 3) Ohm's Law: V=IR. 4) Resistance depends on L, A, material. 5) Series: R adds up, I same. 6) Parallel: 1/R adds up, V same. 7) Power P=VI."
+    }
+  ]
+}

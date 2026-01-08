@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.12",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "India's Foreign Policy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the theoretical framework in which decisions regarding international relations are taken called?",
+      "options": [
+        { "option_id": 1, "text": "Constitution", "is_correct": false },
+        { "option_id": 2, "text": "Foreign Policy", "is_correct": true },
+        { "option_id": 3, "text": "Industrial Policy", "is_correct": false },
+        { "option_id": 4, "text": "Defence Policy", "is_correct": false }
+      ],
+      "answer": "Foreign Policy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which article of the Indian Constitution lays down the Directive Principles for foreign policy?",
+      "options": [
+        { "option_id": 1, "text": "Article 45", "is_correct": false },
+        { "option_id": 2, "text": "Article 51", "is_correct": true },
+        { "option_id": 3, "text": "Article 370", "is_correct": false },
+        { "option_id": 4, "text": "Article 21", "is_correct": false }
+      ],
+      "answer": "Article 51"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is considered the highest national interest of a country?",
+      "options": [
+        { "option_id": 1, "text": "Economic development", "is_correct": false },
+        { "option_id": 2, "text": "Defence (Independence and Sovereignty)", "is_correct": true },
+        { "option_id": 3, "text": "Trade relations", "is_correct": false },
+        { "option_id": 4, "text": "Cultural exchange", "is_correct": false }
+      ],
+      "answer": "Defence (Independence and Sovereignty)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which factor acquired great importance in deciding foreign policy in modern times?",
+      "options": [
+        { "option_id": 1, "text": "Religion", "is_correct": false },
+        { "option_id": 2, "text": "Economy", "is_correct": true },
+        { "option_id": 3, "text": "Language", "is_correct": false },
+        { "option_id": 4, "text": "Culture", "is_correct": false }
+      ],
+      "answer": "Economy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who contributed the policy of Non-alignment to India's foreign policy?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Pandit Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Atal Bihari Vajpayee", "is_correct": false },
+        { "option_id": 4, "text": "Lal Bahadur Shastri", "is_correct": false }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister contributed significantly to improving Sino-Indian relations?",
+      "options": [
+        { "option_id": 1, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Atal Bihari Vajpayee", "is_correct": true },
+        { "option_id": 3, "text": "V.P. Singh", "is_correct": false },
+        { "option_id": 4, "text": "P.V. Narasimha Rao", "is_correct": false }
+      ],
+      "answer": "Atal Bihari Vajpayee"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which administrative officer plays a crucial role in collecting information for foreign policy?",
+      "options": [
+        { "option_id": 1, "text": "Home Secretary", "is_correct": false },
+        { "option_id": 2, "text": "Foreign Secretary", "is_correct": true },
+        { "option_id": 3, "text": "Finance Secretary", "is_correct": false },
+        { "option_id": 4, "text": "Defence Secretary", "is_correct": false }
+      ],
+      "answer": "Foreign Secretary"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which post also completes the task of advising on foreign policy alongside the Foreign Secretary?",
+      "options": [
+        { "option_id": 1, "text": "National Security Advisor", "is_correct": true },
+        { "option_id": 2, "text": "Chief Justice", "is_correct": false },
+        { "option_id": 3, "text": "Governor", "is_correct": false },
+        { "option_id": 4, "text": "Speaker", "is_correct": false }
+      ],
+      "answer": "National Security Advisor"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year did India conduct its first nuclear test?",
+      "options": [
+        { "option_id": 1, "text": "1971", "is_correct": false },
+        { "option_id": 2, "text": "1974", "is_correct": true },
+        { "option_id": 3, "text": "1998", "is_correct": false },
+        { "option_id": 4, "text": "1965", "is_correct": false }
+      ],
+      "answer": "1974"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which organization was established to increase cooperation among South Asian countries?",
+      "options": [
+        { "option_id": 1, "text": "ASEAN", "is_correct": false },
+        { "option_id": 2, "text": "SAARC", "is_correct": true },
+        { "option_id": 3, "text": "NATO", "is_correct": false },
+        { "option_id": 4, "text": "OPEC", "is_correct": false }
+      ],
+      "answer": "SAARC"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When did the second stage of India's foreign policy begin?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1971", "is_correct": false },
+        { "option_id": 3, "text": "1991", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1991"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which countries are members of BRICS?",
+      "options": [
+        { "option_id": 1, "text": "Brazil, Russia, India, China, South Africa", "is_correct": true },
+        { "option_id": 2, "text": "Britain, Russia, India, China, Spain", "is_correct": false },
+        { "option_id": 3, "text": "Brazil, Romania, Indonesia, Canada, Sudan", "is_correct": false },
+        { "option_id": 4, "text": "Belgium, Russia, Italy, China, Sweden", "is_correct": false }
+      ],
+      "answer": "Brazil, Russia, India, China, South Africa"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was the first Chairman of the Indian Atomic Energy Commission?",
+      "options": [
+        { "option_id": 1, "text": "Dr. APJ Abdul Kalam", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Homi Bhabha", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Raja Ramanna", "is_correct": false }
+      ],
+      "answer": "Dr. Homi Bhabha"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In which year did India conduct its second series of nuclear tests?",
+      "options": [
+        { "option_id": 1, "text": "1974", "is_correct": false },
+        { "option_id": 2, "text": "1991", "is_correct": false },
+        { "option_id": 3, "text": "1998", "is_correct": true },
+        { "option_id": 4, "text": "2001", "is_correct": false }
+      ],
+      "answer": "1998"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following treaties has India NOT signed?",
+      "options": [
+        { "option_id": 1, "text": "Panchsheel Agreement", "is_correct": false },
+        { "option_id": 2, "text": "Tashkent Agreement", "is_correct": false },
+        { "option_id": 3, "text": "NPT and CTBT", "is_correct": true },
+        { "option_id": 4, "text": "Shimla Agreement", "is_correct": false }
+      ],
+      "answer": "NPT and CTBT"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which department was established for the nuclear energy programme?",
+      "options": [
+        { "option_id": 1, "text": "Department of Space", "is_correct": false },
+        { "option_id": 2, "text": "Department of Defence", "is_correct": false },
+        { "option_id": 3, "text": "Department of Atomic Energy", "is_correct": true },
+        { "option_id": 4, "text": "Department of Power", "is_correct": false }
+      ],
+      "answer": "Department of Atomic Energy"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was the main purpose behind India's nuclear energy programme?",
+      "options": [
+        { "option_id": 1, "text": "Creating weapons", "is_correct": false },
+        { "option_id": 2, "text": "Generation of electricity", "is_correct": true },
+        { "option_id": 3, "text": "Space travel", "is_correct": false },
+        { "option_id": 4, "text": "Exporting technology", "is_correct": false }
+      ],
+      "answer": "Generation of electricity"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which country helped India's defence technology in the early phase?",
+      "options": [
+        { "option_id": 1, "text": "USA", "is_correct": false },
+        { "option_id": 2, "text": "Soviet Russia", "is_correct": true },
+        { "option_id": 3, "text": "China", "is_correct": false },
+        { "option_id": 4, "text": "Japan", "is_correct": false }
+      ],
+      "answer": "Soviet Russia"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which region did India initially decide to improve relations with?",
+      "options": [
+        { "option_id": 1, "text": "Europe", "is_correct": false },
+        { "option_id": 2, "text": "Asia", "is_correct": true },
+        { "option_id": 3, "text": "North America", "is_correct": false },
+        { "option_id": 4, "text": "South America", "is_correct": false }
+      ],
+      "answer": "Asia"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the 'Look East' policy related to?",
+      "options": [
+        { "option_id": 1, "text": "Relations with West Asian countries", "is_correct": false },
+        { "option_id": 2, "text": "Relations with South East Asian countries", "is_correct": true },
+        { "option_id": 3, "text": "Relations with Europe", "is_correct": false },
+        { "option_id": 4, "text": "Relations with Africa", "is_correct": false }
+      ],
+      "answer": "Relations with South East Asian countries"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is meant by 'National Interest'?",
+      "answer": "National interest implies the means to safeguard the independence and sovereignty of the country, and efforts to achieve economic development and national power."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What does Article 51 of the Indian Constitution state?",
+      "answer": "It states that India should promote international peace and security, maintain just relations between nations, respect international law, and encourage settlement of disputes by arbitration."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why did India adopt the policy of Non-alignment?",
+      "answer": "India adopted non-alignment to maintain friendly relations with all nations, avoid joining military blocs during the Cold War, and get aid from both super powers for development."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "How does geography influence foreign policy?",
+      "answer": "Factors like size, population, topography, coastline, and natural resources determine a country's strategic needs and relations with neighbours."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the role of the Parliament in foreign policy?",
+      "answer": "The Parliament discusses foreign policy aspects, and opposition parties regulate it by raising questions."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why is economic security considered important today?",
+      "answer": "A strong economy makes a nation less dependent on others and allows it to have an independent foreign policy, which is essential for national security."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which countries helped India in strengthening its defence in the early phase?",
+      "answer": "Soviet Russia, France, and Germany."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What changed in India's foreign policy after 1991?",
+      "answer": "India adopted free market policies, reduced government control, increased trade with neighbouring countries, and focused on economic relations over political ones."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the NPT?",
+      "answer": "Nuclear Non-Proliferation Treaty."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why has India refused to sign the CTBT and NPT?",
+      "answer": "Because their conditions benefit big nuclear powers and put unfair restrictions on developing countries."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is India's stand on using nuclear weapons?",
+      "answer": "India has accepted the role of a responsible nuclear power and assured 'no first use' of nuclear weapons."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Which countries does India cooperate with under BRICS?",
+      "answer": "Brazil, Russia, China, and South Africa."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the function of Indian embassies abroad?",
+      "answer": "To protect the interests of Indian citizens living in other countries."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How did the 1971 war affect the region?",
+      "answer": "It led to the breakup of Pakistan and the creation of independent Bangladesh."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the 'Federal' factor in foreign policy?",
+      "answer": "It means considering the inclinations of constituent States (like Tamil Nadu for Sri Lanka issues) while shaping foreign policy."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the objectives of India's Foreign Policy.",
+      "answer": "The objectives include maintaining friendly relations with neighbours without compromising security, protecting the unity and integrity of the country, protecting the interests of Indian citizens abroad, and establishing economic relations for development. It also aims to promote international peace and respect international law."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Discuss the early phase of India's foreign policy (1947-1990).",
+      "answer": "In this phase, Prime Minister Nehru shaped the policy based on non-alignment and anti-colonialism. India focused on self-reliance and regional cooperation in Asia and Africa. Security was a major concern due to threats from China and Pakistan. India relied on Soviet Russia for defence technology but maintained independence in international affairs."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "How did India's foreign policy change in the second stage (after 1991)?",
+      "answer": "Post-1991, foreign policy became more dynamic and comprehensive. Economic relations took precedence over political ones. India adopted economic liberalization, increasing trade with South East Asia (Look East policy), US, China, and the EU. India became active in global forums like G-20 and BRICS and strengthened its nuclear capability while acting responsibly."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Describe India's Nuclear Policy.",
+      "answer": "India established the Atomic Energy Commission for peaceful purposes like electricity. However, due to security threats, it developed military capability, testing nuclear devices in 1974 and 1998. India is a nuclear weapon state but refuses to sign discriminatory treaties like NPT and CTBT. It follows a 'no first use' policy and supports global disarmament."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "What factors influence the foreign policy of a nation?",
+      "answer": "Foreign policy is influenced by Geographical Location (size, resources), Political System (democratic checks), Economy (trade needs, strength), Political Leadership (vision of leaders like Nehru, Vajpayee), and Administrative Factors (inputs from the Ministry of External Affairs and NSA)."
+    }
+  ]
+}

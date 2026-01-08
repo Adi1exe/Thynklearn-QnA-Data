@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.09",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Changing Life : 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who brought about a sea change in the traditional Indian mindset through the Constitution?",
+      "options": [
+        { "option_id": 1, "text": "Pandit Nehru", "is_correct": false },
+        { "option_id": 2, "text": "Dr Babasaheb Ambedkar", "is_correct": true },
+        { "option_id": 3, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Sardar Patel", "is_correct": false }
+      ],
+      "answer": "Dr Babasaheb Ambedkar"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which railway budget put an end to the third class compartments?",
+      "options": [
+        { "option_id": 1, "text": "1978 Budget by Madhu Dandavate", "is_correct": true },
+        { "option_id": 2, "text": "1980 Budget by Indira Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "1991 Budget by Manmohan Singh", "is_correct": false },
+        { "option_id": 4, "text": "1964 Budget by Lal Bahadur Shastri", "is_correct": false }
+      ],
+      "answer": "1978 Budget by Madhu Dandavate"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When was the Ministry of Social Welfare constituted by the government of India?",
+      "options": [
+        { "option_id": 1, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 2, "text": "14th June 1964", "is_correct": true },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 4, "text": "2nd October 1969", "is_correct": false }
+      ],
+      "answer": "14th June 1964"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "According to the 1971 Census, what percentage of people in India belonged to Scheduled Castes and Tribes?",
+      "options": [
+        { "option_id": 1, "text": "15%", "is_correct": false },
+        { "option_id": 2, "text": "22%", "is_correct": true },
+        { "option_id": 3, "text": "30%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "22%"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Under whose leadership was the first successful open heart surgery performed in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Pramod Sethi", "is_correct": false },
+        { "option_id": 2, "text": "Dr. N. Gopinath", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Mohan Rao", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Subhash Mukhopadhyaya", "is_correct": false }
+      ],
+      "answer": "Dr. N. Gopinath"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where was the first successful open heart surgery performed in 1962?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": false },
+        { "option_id": 3, "text": "Vellore", "is_correct": true },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Vellore"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who designed the 'Jaipur Foot'?",
+      "options": [
+        { "option_id": 1, "text": "Dr. N. Gopinath", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Pramod Sethi", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Johny", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Subhash Mukhopadhyaya", "is_correct": false }
+      ],
+      "answer": "Dr. Pramod Sethi"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who was the skilled craftsman that helped manufacture the Jaipur Foot?",
+      "options": [
+        { "option_id": 1, "text": "Ramchandra Sharma", "is_correct": true },
+        { "option_id": 2, "text": "Eknath Chitnis", "is_correct": false },
+        { "option_id": 3, "text": "Narayan Surve", "is_correct": false },
+        { "option_id": 4, "text": "Kawasjee Dawar", "is_correct": false }
+      ],
+      "answer": "Ramchandra Sharma"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "When was the first kidney transplant successfully performed in India?",
+      "options": [
+        { "option_id": 1, "text": "1962", "is_correct": false },
+        { "option_id": 2, "text": "1968", "is_correct": false },
+        { "option_id": 3, "text": "1971", "is_correct": true },
+        { "option_id": 4, "text": "1978", "is_correct": false }
+      ],
+      "answer": "1971"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who supervised the first successful test-tube baby experiment in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Mohan Rao", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Subhash Mukhopadhyaya", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Pramod Sethi", "is_correct": false },
+        { "option_id": 4, "text": "Dr. N. Gopinath", "is_correct": false }
+      ],
+      "answer": "Dr. Subhash Mukhopadhyaya"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What was the name of India's first test-tube baby?",
+      "options": [
+        { "option_id": 1, "text": "Durga", "is_correct": true },
+        { "option_id": 2, "text": "Lakshmi", "is_correct": false },
+        { "option_id": 3, "text": "Saraswati", "is_correct": false },
+        { "option_id": 4, "text": "Indira", "is_correct": false }
+      ],
+      "answer": "Durga"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When was the 'Pulse Polio' immunisation programme started?",
+      "options": [
+        { "option_id": 1, "text": "1978", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": false },
+        { "option_id": 3, "text": "1995", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1995"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a major factor affecting urbanization mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Reduction in mortality rate", "is_correct": false },
+        { "option_id": 2, "text": "Industrialisation", "is_correct": false },
+        { "option_id": 3, "text": "Availability of jobs in cities", "is_correct": false },
+        { "option_id": 4, "text": "Increase in forest cover", "is_correct": true }
+      ],
+      "answer": "Increase in forest cover"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is a settlement smaller than a village called?",
+      "options": [
+        { "option_id": 1, "text": "Town", "is_correct": false },
+        { "option_id": 2, "text": "City", "is_correct": false },
+        { "option_id": 3, "text": "Hamlet", "is_correct": true },
+        { "option_id": 4, "text": "District", "is_correct": false }
+      ],
+      "answer": "Hamlet"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which scheme was launched in Maharashtra in 1970-71 for health?",
+      "options": [
+        { "option_id": 1, "text": "Mid-day Meal", "is_correct": false },
+        { "option_id": 2, "text": "Nutritious diet scheme", "is_correct": true },
+        { "option_id": 3, "text": "Pulse Polio", "is_correct": false },
+        { "option_id": 4, "text": "Ayushman Bharat", "is_correct": false }
+      ],
+      "answer": "Nutritious diet scheme"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "When was the 'Rural Electrification Corporation' established?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1965", "is_correct": false },
+        { "option_id": 3, "text": "1969", "is_correct": true },
+        { "option_id": 4, "text": "1972", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which state received the UNESCO international prize for literacy in 1972?",
+      "options": [
+        { "option_id": 1, "text": "Kerala", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Tamil Nadu", "is_correct": false },
+        { "option_id": 4, "text": "West Bengal", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What are 'Vidya Niketans'?",
+      "options": [
+        { "option_id": 1, "text": "Colleges for doctors", "is_correct": false },
+        { "option_id": 2, "text": "Residential highschools for village students", "is_correct": true },
+        { "option_id": 3, "text": "Open Universities", "is_correct": false },
+        { "option_id": 4, "text": "Primary schools in cities", "is_correct": false }
+      ],
+      "answer": "Residential highschools for village students"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where are Agriculture Universities located in Maharashtra as per the text?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai and Pune", "is_correct": false },
+        { "option_id": 2, "text": "Rahuri, Akola, Parbhani, Dapoli", "is_correct": true },
+        { "option_id": 3, "text": "Nagpur and Nashik", "is_correct": false },
+        { "option_id": 4, "text": "Aurangabad and Satara", "is_correct": false }
+      ],
+      "answer": "Rahuri, Akola, Parbhani, Dapoli"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What major change occurred in the family system due to globalization?",
+      "options": [
+        { "option_id": 1, "text": "Shift from nuclear to joint family", "is_correct": false },
+        { "option_id": 2, "text": "Shift from joint to nuclear family", "is_correct": true },
+        { "option_id": 3, "text": "No change", "is_correct": false },
+        { "option_id": 4, "text": "Abolition of family system", "is_correct": false }
+      ],
+      "answer": "Shift from joint to nuclear family"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What rights do Indian citizens enjoy regarding profession and movement?",
+      "answer": "Citizens have the right to practice any occupation and to move, live, and settle down anywhere on Indian territory."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name two trains started without class divisions.",
+      "answer": "Sinhagad Express (Pune-Mumbai) and Gitanjali Express (Mumbai-Kolkata)."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the aim of social welfare programmes?",
+      "answer": "To make opportunities for full-time employment, health care, education, and development available to all citizens."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Which alternative medical systems were given recognition?",
+      "answer": "Unani, Homoeopathy, Ayurveda, and Naturopathy."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Who performed the first kidney transplant in India?",
+      "answer": "Dr. Johny and Dr. Mohan Rao."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the 'Jaipur Foot' technology?",
+      "answer": "It is a technology for manufacturing artificial limbs, noses, and ears that allows disabled persons to perform daily activities like walking barefoot and climbing."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Urbanisation?",
+      "answer": "It is the process of the concentration of population in a city or urban area."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is a 'Village'?",
+      "answer": "A permanent settlement of farmers near the land they till, either individually or collectively."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How has the economic life of villages changed?",
+      "answer": "Earlier villages were economically self-sufficient with barter systems; now they are engaged in agriculture and ancillary occupations connected to the wider economy."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What are the three major challenges for rural development?",
+      "answer": "Economic development, developing facilities for social needs, and bringing about a change in attitude."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What was the purpose of 'Vidya Niketan'?",
+      "answer": "To provide the best quality education to intelligent and meritorious village students living in unfavorable conditions."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Why is rural electrification necessary?",
+      "answer": "It is needed for automatic pumps for irrigation, preserving perishable food, running fertilizer projects, and domestic lighting."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What did the 'Village Industries Planning Committee' do?",
+      "answer": "It was formed to help the development of industries in rural areas, providing employment to over 1 lakh people by 1972."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What significant political right changed for citizens in the post-independence period regarding the government?",
+      "answer": "Citizens gained the right to express opinions and register protests against the government through media."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "When were Zilla Parishads established in Maharashtra?",
+      "answer": "In 1962."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the significance of Dr. Babasaheb Ambedkar's work through the Constitution.",
+      "answer": "Dr. Babasaheb Ambedkar brought a sea change in the traditional Indian mindset through the Constitution. It ensures all Indians are equal before the law, prohibiting discrimination based on religion, caste, etc. It grants freedoms of speech, assembly, and association. These provisions shook the foundations of the caste system and made hereditary vocations obsolete."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Describe the progress in the medical field in India post-independence.",
+      "answer": "India has made significant medical progress. Open heart surgery was successfully performed in 1962, reducing the need to go abroad. The 'Jaipur Foot' invention in 1968 transformed the lives of the disabled. Kidney transplants began in 1971. The first 'test-tube baby' was born in 1978, helping childless couples. Immunization programs like 'Pulse Polio' have effectively controlled diseases."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "What are the major differences between rural and urban communities?",
+      "answer": "Rural communities prioritize farming, are small and homogeneous in language and culture, and follow hereditary vocations. Family is the primary institution. Urban communities prioritize non-agricultural production, are large and heterogeneous, accommodate outsiders, and vocational fluidity is high. The individual is prioritized over the family, leading to nuclear families."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Discuss the efforts made for rural development in India.",
+      "answer": "The government launched collective development schemes to improve farming, extend education, and enact land reforms. Gram Panchayats were empowered. In Maharashtra, Zilla Parishads were set up in 1962. Schemes for nutritious diet and rural water supply were started. Rural electrification was prioritized to support agriculture and industry. Education was promoted through Vidya Niketans and Agricultural Universities."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "How has the social structure of India changed regarding caste and family?",
+      "answer": "The Constitution prohibited discrimination based on caste, shaking the caste system's foundations and allowing freedom of occupation. In the family sphere, India, known for joint families, is seeing a shift towards nuclear families due to globalization and urbanization. Inter-dining and free access to public places have also broken down social barriers."
+    }
+  ]
+}

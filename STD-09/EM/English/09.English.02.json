@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.02",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "1.2 A Synopsis - The Swiss Family Robinson"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the novel 'The Swiss Family Robinson'?",
+      "options": [
+        { "option_id": 1, "text": "Daniel Defoe", "is_correct": false },
+        { "option_id": 2, "text": "Johann David Wyss", "is_correct": true },
+        { "option_id": 3, "text": "Jonathan Swift", "is_correct": false },
+        { "option_id": 4, "text": "Charlotte Bronte", "is_correct": false }
+      ],
+      "answer": "Johann David Wyss"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How long has 'The Swiss Family Robinson' been enjoyed by people?",
+      "options": [
+        { "option_id": 1, "text": "For more than fifty years", "is_correct": false },
+        { "option_id": 2, "text": "For more than one hundred years", "is_correct": false },
+        { "option_id": 3, "text": "For more than two hundred years", "is_correct": true },
+        { "option_id": 4, "text": "For more than five hundred years", "is_correct": false }
+      ],
+      "answer": "For more than two hundred years"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What are the names of the Robinson children?",
+      "options": [
+        { "option_id": 1, "text": "Fritz, Ernest, Jack, and Franz", "is_correct": true },
+        { "option_id": 2, "text": "Tom, Dick, Harry, and John", "is_correct": false },
+        { "option_id": 3, "text": "William, Elizabeth, Jenny, and Fritz", "is_correct": false },
+        { "option_id": 4, "text": "Jack, Jill, Mary, and Bob", "is_correct": false }
+      ],
+      "answer": "Fritz, Ernest, Jack, and Franz"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the father construct to reach the island from the ship?",
+      "options": [
+        { "option_id": 1, "text": "A large raft", "is_correct": false },
+        { "option_id": 2, "text": "A vessel out of tubs", "is_correct": true },
+        { "option_id": 3, "text": "A wooden bridge", "is_correct": false },
+        { "option_id": 4, "text": "A canoe", "is_correct": false }
+      ],
+      "answer": "A vessel out of tubs"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did the mother want to move from their first camp?",
+      "options": [
+        { "option_id": 1, "text": "It was too cold", "is_correct": false },
+        { "option_id": 2, "text": "It was exposed, dry, hot, and unsafe from jackals", "is_correct": true },
+        { "option_id": 3, "text": "It was too far from the sea", "is_correct": false },
+        { "option_id": 4, "text": "There was no food nearby", "is_correct": false }
+      ],
+      "answer": "It was exposed, dry, hot, and unsafe from jackals"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the father use to determine the height of the lowest branch for the tree house?",
+      "options": [
+        { "option_id": 1, "text": "A long ladder", "is_correct": false },
+        { "option_id": 2, "text": "A rope", "is_correct": false },
+        { "option_id": 3, "text": "Geometry (triangles)", "is_correct": true },
+        { "option_id": 4, "text": "Guesswork", "is_correct": false }
+      ],
+      "answer": "Geometry (triangles)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the family decide to create a cave house?",
+      "options": [
+        { "option_id": 1, "text": "To hide from pirates", "is_correct": false },
+        { "option_id": 2, "text": "Because the tree house was destroyed", "is_correct": false },
+        { "option_id": 3, "text": "As a safe place for winter and storage", "is_correct": true },
+        { "option_id": 4, "text": "To mine for gold", "is_correct": false }
+      ],
+      "answer": "As a safe place for winter and storage"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How did they remedy the oppressive darkness in the cave?",
+      "options": [
+        { "option_id": 1, "text": "They built a fire in the center", "is_correct": false },
+        { "option_id": 2, "text": "They rigged up a new light using a bamboo pole and an oil lamp", "is_correct": true },
+        { "option_id": 3, "text": "They made windows in the ceiling", "is_correct": false },
+        { "option_id": 4, "text": "They used candles made from waxy fruit", "is_correct": false }
+      ],
+      "answer": "They rigged up a new light using a bamboo pole and an oil lamp"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What destroyed one of the family's huts and cultivated fields?",
+      "options": [
+        { "option_id": 1, "text": "A storm", "is_correct": false },
+        { "option_id": 2, "text": "A herd of elephants", "is_correct": true },
+        { "option_id": 3, "text": "A group of monkeys", "is_correct": false },
+        { "option_id": 4, "text": "Wild boars", "is_correct": false }
+      ],
+      "answer": "A herd of elephants"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What name did they give to the island?",
+      "options": [
+        { "option_id": 1, "text": "New England", "is_correct": false },
+        { "option_id": 2, "text": "Robinson Island", "is_correct": false },
+        { "option_id": 3, "text": "New Switzerland", "is_correct": true },
+        { "option_id": 4, "text": "Hope Island", "is_correct": false }
+      ],
+      "answer": "New Switzerland"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was stranded on the 'smoking rock'?",
+      "options": [
+        { "option_id": 1, "text": "Elizabeth", "is_correct": false },
+        { "option_id": 2, "text": "Jenny Montrose", "is_correct": true },
+        { "option_id": 3, "text": "The Captain", "is_correct": false },
+        { "option_id": 4, "text": "Fritz", "is_correct": false }
+      ],
+      "answer": "Jenny Montrose"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who decided to leave the island and return to Europe?",
+      "options": [
+        { "option_id": 1, "text": "William and Elizabeth", "is_correct": false },
+        { "option_id": 2, "text": "Ernest and Jack", "is_correct": false },
+        { "option_id": 3, "text": "Fritz, Franz, and Jenny", "is_correct": true },
+        { "option_id": 4, "text": "Everyone", "is_correct": false }
+      ],
+      "answer": "Fritz, Franz, and Jenny"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does 'albatross' mean?",
+      "options": [
+        { "option_id": 1, "text": "A small boat", "is_correct": false },
+        { "option_id": 2, "text": "A large, long-winged sea-bird", "is_correct": true },
+        { "option_id": 3, "text": "A type of plant", "is_correct": false },
+        { "option_id": 4, "text": "A volcanic rock", "is_correct": false }
+      ],
+      "answer": "A large, long-winged sea-bird"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'pinnace' mean in the context of the story?",
+      "options": [
+        { "option_id": 1, "text": "A part of a tree", "is_correct": false },
+        { "option_id": 2, "text": "A small boat attached to a ship", "is_correct": true },
+        { "option_id": 3, "text": "A type of tool", "is_correct": false },
+        { "option_id": 4, "text": "A musical instrument", "is_correct": false }
+      ],
+      "answer": "A small boat attached to a ship"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did the father hand over to the captain before the ship departed?",
+      "options": [
+        { "option_id": 1, "text": "A map of the island", "is_correct": false },
+        { "option_id": 2, "text": "Journals keeping a record of their adventures", "is_correct": true },
+        { "option_id": 3, "text": "Gold and jewels", "is_correct": false },
+        { "option_id": 4, "text": "A letter for the King", "is_correct": false }
+      ],
+      "answer": "Journals keeping a record of their adventures"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What values does the novel 'The Swiss Family Robinson' aim to teach?",
+      "answer": "The novel aims to teach values like self-reliance, determination, love for family, co-operation, and prudent use of resources."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "How did the family reach the tropical island after the shipwreck?",
+      "answer": "They constructed a vessel out of tubs, filled them with food, ammunition, and valuables, and rowed toward the island with their dogs swimming beside them."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Describe the first shelter the family set up on the island.",
+      "answer": "They set up a tent and softened the floor with armloads of grass they cut and spread to serve as their beds."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What useful plants did the father and Fritz find in the woods?",
+      "answer": "They found trees with gourds (for utensils), waxy fruit (for candles), and a tree exuding rubbery sap (for boots)."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why did the family build their fourth home on four strong trees?",
+      "answer": "They built it on four strong trees to create a safe home that would not be easily knocked down by elephants, unlike a house on stilts."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How did Fritz find out about the stranger stranded on the 'smoking rock'?",
+      "answer": "Fritz found a rag tied to the leg of an albatross he had knocked down; the rag contained a message about an Englishwoman stranded on the 'smoking rock'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'marooned'?",
+      "answer": "Marooned means to be left trapped and isolated in an inaccessible place, especially an island."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why did the family clean up their home before meeting the ship's crew?",
+      "answer": "They cleaned up their home because they did not want the crew to think they were savages."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Who was the 'Best' mentioned in the poem from Chapter 1.1 referenced in the file?",
+      "answer": "In the context of the poem 'Life', 'our Best' refers to a loved one who passes away (death calls them away)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Give two examples of compound words found in the text.",
+      "answer": "Examples include: armloads, driftwood, cross-currents, footprints, fireplace, spyglass."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Describe the process of how the Robinson family built their tree house.",
+      "answer": "Elizabeth identified a perfect tree with a trunk nearly forty feet in diameter and long branches. Father used geometry to determine the height of the lowest branches. They created a ladder by knotting a rope at intervals with bamboo pieces. They used a 'sledge' made of driftwood to transport materials and built the house on the platforms provided by the branches."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Summarize the events leading to the rescue of Jenny Montrose.",
+      "answer": "Ten years after arriving on the island, Fritz found a message tied to an albatross's leg about a victim on a 'smoking rock'. His father deduced it might be a volcano. Fritz was determined to help and sent a return note via the bird. He eventually found Jenny Montrose, rescued her, and brought her back to the family, where she was adopted as a member."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Explain the conclusion of the story when the British vessel arrived.",
+      "answer": "When a British ship anchored nearby, the family made contact. The captain was actually searching for Jenny Montrose. The passengers and crew were amazed by the family's prosperity. Decisions were made: William and Elizabeth chose to stay on the island with Ernest and Jack. Fritz and Franz decided to leave for Europe, with Fritz planning to marry Jenny. The father gave his journals to the captain for publication."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the four different homes the family built.",
+      "answer": "Each home represented a stage of adaptation and survival. The **Tent** was their immediate, temporary shelter. The **Tree House** was a move towards safety from predators (jackals) and comfort. The **Cave House** showed foresight for winter protection and storage against elements. The **Fourth Home (on four trees)** demonstrated their ability to learn from threats (elephants) and engineer stronger defenses. This progression highlights their growing resourcefulness and permanence on the island."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "How does the novel 'The Swiss Family Robinson' combine adventure with education?",
+      "answer": "The novel is an adventure story about survival on a deserted island, which engages readers. However, the author, Johann David Wyss, wrote it to teach values. It incorporates lessons on self-reliance, cooperation, and prudent resource use. It also integrates practical knowledge of natural sciences (identifying plants like rubber and wax), husbandry (raising livestock), and mathematics (using geometry to measure tree height), making it an educational fiction."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.15",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "India and other Countries"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following countries shares a free international border with India?",
+      "options": [
+        { "option_id": 1, "text": "Pakistan", "is_correct": false },
+        { "option_id": 2, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 3, "text": "Nepal", "is_correct": true },
+        { "option_id": 4, "text": "Myanmar", "is_correct": false }
+      ],
+      "answer": "Nepal"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which two countries have tense relations with India?",
+      "options": [
+        { "option_id": 1, "text": "Pakistan and China", "is_correct": true },
+        { "option_id": 2, "text": "Nepal and Bhutan", "is_correct": false },
+        { "option_id": 3, "text": "Myanmar and Maldives", "is_correct": false },
+        { "option_id": 4, "text": "Afghanistan and America", "is_correct": false }
+      ],
+      "answer": "Pakistan and China"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which factor influences the relations between India and Pakistan?",
+      "options": [
+        { "option_id": 1, "text": "Difference in world view", "is_correct": false },
+        { "option_id": 2, "text": "Kashmir issue", "is_correct": false },
+        { "option_id": 3, "text": "Nuclear rivalry", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When was the Shimla Agreement signed?",
+      "options": [
+        { "option_id": 1, "text": "1965", "is_correct": false },
+        { "option_id": 2, "text": "1971", "is_correct": false },
+        { "option_id": 3, "text": "1972", "is_correct": true },
+        { "option_id": 4, "text": "1999", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which agreement was signed between India and Pakistan in 1966?",
+      "options": [
+        { "option_id": 1, "text": "Shimla Agreement", "is_correct": false },
+        { "option_id": 2, "text": "Tashkent Agreement", "is_correct": true },
+        { "option_id": 3, "text": "Lahore Declaration", "is_correct": false },
+        { "option_id": 4, "text": "Agra Summit", "is_correct": false }
+      ],
+      "answer": "Tashkent Agreement"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the border dispute between India and China related to?",
+      "options": [
+        { "option_id": 1, "text": "Radcliffe Line", "is_correct": false },
+        { "option_id": 2, "text": "Durand Line", "is_correct": false },
+        { "option_id": 3, "text": "Macmahon Line", "is_correct": true },
+        { "option_id": 4, "text": "Palk Strait", "is_correct": false }
+      ],
+      "answer": "Macmahon Line"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which area south of the Macmahon line does China claim as its territory?",
+      "options": [
+        { "option_id": 1, "text": "Sikkim", "is_correct": false },
+        { "option_id": 2, "text": "Arunachal Pradesh", "is_correct": true },
+        { "option_id": 3, "text": "Ladakh", "is_correct": false },
+        { "option_id": 4, "text": "Assam", "is_correct": false }
+      ],
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who took asylum in India, causing conflict with China?",
+      "options": [
+        { "option_id": 1, "text": "Panchen Lama", "is_correct": false },
+        { "option_id": 2, "text": "Dalai Lama", "is_correct": true },
+        { "option_id": 3, "text": "Aung San Suu Kyi", "is_correct": false },
+        { "option_id": 4, "text": "Sheikh Mujibur Rahman", "is_correct": false }
+      ],
+      "answer": "Dalai Lama"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which terrorist organisation is responsible for political instability in Afghanistan?",
+      "options": [
+        { "option_id": 1, "text": "ISIS", "is_correct": false },
+        { "option_id": 2, "text": "Al-Qaeda", "is_correct": false },
+        { "option_id": 3, "text": "Taliban", "is_correct": true },
+        { "option_id": 4, "text": "Hamas", "is_correct": false }
+      ],
+      "answer": "Taliban"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When was Bangladesh formed?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1965", "is_correct": false },
+        { "option_id": 3, "text": "1971", "is_correct": true },
+        { "option_id": 4, "text": "1999", "is_correct": false }
+      ],
+      "answer": "1971"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which year did political instability in Sri Lanka begin due to Tamil-Government differences?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "1995", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When was the Indo-Nepalese Friendship Treaty signed?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": true },
+        { "option_id": 3, "text": "1960", "is_correct": false },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "1950"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which year marked the beginning of Nepal's transition to democracy?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1990", "is_correct": true },
+        { "option_id": 3, "text": "2000", "is_correct": false },
+        { "option_id": 4, "text": "2015", "is_correct": false }
+      ],
+      "answer": "1990"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which country is known as India's door to South East Asian countries?",
+      "options": [
+        { "option_id": 1, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 2, "text": "Myanmar", "is_correct": true },
+        { "option_id": 3, "text": "Thailand", "is_correct": false },
+        { "option_id": 4, "text": "Bhutan", "is_correct": false }
+      ],
+      "answer": "Myanmar"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who was awarded the Nobel Peace Prize for establishing democracy in Myanmar?",
+      "options": [
+        { "option_id": 1, "text": "Aung San Suu Kyi", "is_correct": true },
+        { "option_id": 2, "text": "Sheikh Hasina", "is_correct": false },
+        { "option_id": 3, "text": "Benazir Bhutto", "is_correct": false },
+        { "option_id": 4, "text": "Indira Gandhi", "is_correct": false }
+      ],
+      "answer": "Aung San Suu Kyi"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "When was SAARC established?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "1995", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "When was the India-U.S. Civil-Nuclear Agreement signed?",
+      "options": [
+        { "option_id": 1, "text": "2000", "is_correct": false },
+        { "option_id": 2, "text": "2005", "is_correct": true },
+        { "option_id": 3, "text": "2008", "is_correct": false },
+        { "option_id": 4, "text": "2010", "is_correct": false }
+      ],
+      "answer": "2005"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who gave approval to the India-U.S. nuclear deal in 2008?",
+      "options": [
+        { "option_id": 1, "text": "United Nations", "is_correct": false },
+        { "option_id": 2, "text": "International Atomic Energy Agency (IAEA)", "is_correct": true },
+        { "option_id": 3, "text": "NATO", "is_correct": false },
+        { "option_id": 4, "text": "World Bank", "is_correct": false }
+      ],
+      "answer": "International Atomic Energy Agency (IAEA)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "When was the Indo-Soviet Treaty of friendship and cooperation signed?",
+      "options": [
+        { "option_id": 1, "text": "1965", "is_correct": false },
+        { "option_id": 2, "text": "1971", "is_correct": true },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1991", "is_correct": false }
+      ],
+      "answer": "1971"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which policy is known as 'Act East' policy after 2014?",
+      "options": [
+        { "option_id": 1, "text": "Look West", "is_correct": false },
+        { "option_id": 2, "text": "Look East", "is_correct": true },
+        { "option_id": 3, "text": "Go Global", "is_correct": false },
+        { "option_id": 4, "text": "Make in India", "is_correct": false }
+      ],
+      "answer": "Look East"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "From which country does India import modern technology for agriculture and defence?",
+      "options": [
+        { "option_id": 1, "text": "Iran", "is_correct": false },
+        { "option_id": 2, "text": "Israel", "is_correct": true },
+        { "option_id": 3, "text": "Saudi Arabia", "is_correct": false },
+        { "option_id": 4, "text": "Iraq", "is_correct": false }
+      ],
+      "answer": "Israel"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name India's neighbouring countries.",
+      "answer": "Afghanistan, Pakistan, Sri Lanka, Bangladesh, Myanmar, Nepal, Bhutan, China, Maldives."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What are the three main factors influencing Indo-Pak relations?",
+      "answer": "Differences in world views, the Kashmir question, and nuclear rivalry."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the Tashkent Agreement?",
+      "answer": "To resolve the conflict after the 1965 Indo-Pak war."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Which two issues are responsible for the conflict between India and China?",
+      "answer": "Border issue (Aksai Chin and Macmahon line) and the status of Tibet."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why is there tension in Sino-Indian relations regarding Pakistan?",
+      "answer": "Due to China's supply of weapons and transfer of missile/nuclear technology to Pakistan."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "How is India helping Afghanistan?",
+      "answer": "By bringing peace and security, curbing violence, establishing democracy, and helping in communication, roads, science, and health."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What led to the creation of Bangladesh?",
+      "answer": "The linguistic differences and political conflicts between West and East Pakistan led to a liberation movement supported by India."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why did India send a peacekeeping force to Sri Lanka?",
+      "answer": "To help the Sri Lankan government during the political instability caused by differences with Tamils."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What privileges do Nepalese citizens have in India?",
+      "answer": "They can enter India freely and are permitted to take up government jobs and trade."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "How does India cooperate with Bhutan?",
+      "answer": "India bears responsibility for Bhutan's defence and cooperates in hydel power projects."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the importance of Myanmar for India?",
+      "answer": "It is India's door to South East Asia, connecting South, Middle, and South East Asia through rail and roadways."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "How has India helped Maldives?",
+      "answer": "In developing basic facilities, infrastructure, health, communication, and military cooperation."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is SAARC?",
+      "answer": "South Asian Association for Regional Cooperation, established in 1985 to encourage economic cooperation among South Asian nations."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Name two common interests of South Asian countries discussed in SAARC.",
+      "answer": "Alleviation of poverty and development of agriculture."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How did Indo-American relations transform after 1998?",
+      "answer": "After nuclear tests caused tension, rounds of talks convinced America of India's responsible nuclear use, leading to the Civil Nuclear Agreement."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How did Soviet Russia help India?",
+      "answer": "By providing economic and military help and signing the 1971 Treaty of friendship and cooperation."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Which European nations invest heavily in India's technology sector?",
+      "answer": "Germany and France."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why is cooperation with Africa beneficial for India?",
+      "answer": "Africa is developing rapidly, and countries like Egypt, Nigeria, Angola, and Sudan can fulfill India's energy needs."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Which countries are part of the Indo-Pacific area?",
+      "answer": "Japan, Australia, New Zealand, and South-east Asian nations."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the 'Look East' policy?",
+      "answer": "The policy of increasing trade relations with South-east Asian nations adopted after 1991."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why are relations with West Asian countries important?",
+      "answer": "Because they are primary suppliers of mineral oil and natural gas which India imports."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "From which West Asian countries does India import oil?",
+      "answer": "Iran, Iraq, Bahrain, Kuwait, Saudi Arabia, and UAE."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "Discuss the Indo-Pak conflict regarding Kashmir.",
+      "answer": "Kashmir is the biggest hurdle in Indo-Pak relations. The first war in 1965 and the 1999 Kargil conflict were over Kashmir. Despite the Shimla Agreement, the issue remains unresolved. The nature of conflict has now changed to terrorism, with Pakistan supporting terrorist activities against India."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "Explain the significance of the India-U.S. Civil-Nuclear Agreement.",
+      "answer": "Signed in 2005 and approved in 2008, this agreement was a landmark. It signified America's acceptance of India as a responsible nuclear power. It allowed India to get nuclear technology from other countries, transforming Indo-US relations from tension to cooperation."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "Describe India's relations with Russia (post-Soviet era).",
+      "answer": "After the collapse of the Soviet Union, relations initially stagnated due to Russia's internal problems. However, after 1996, relations improved. India and Russia now jointly build projects for military equipment production and mineral oil production, continuing the legacy of friendly ties."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "What is the role of SAARC in South Asia?",
+      "answer": "SAARC provides a platform for South Asian countries to discuss common questions and interests like poverty and agriculture. It aims to make South Asia a free trade area. Treaties like the South Asian Free Trade Area have been signed to ensure equitable development."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "How does India cooperate with the continent of Africa?",
+      "answer": "India helps in the all-round development of African youth and provides economic help/grants for technology, agriculture, and tourism. The 2015 Summit Conference discussed global issues like climate change and terrorism. India seeks energy resources from Africa while aiding its development."
+    }
+  ]
+}

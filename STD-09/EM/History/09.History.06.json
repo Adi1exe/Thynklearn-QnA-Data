@@ -1,0 +1,515 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.06",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Empowerment of Women and other Weaker Sections"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which movement did Vinoba Bhave start using woman power?",
+      "options": [
+        { "option_id": 1, "text": "Chipko Movement", "is_correct": false },
+        { "option_id": 2, "text": "Bhoodan Movement", "is_correct": true },
+        { "option_id": 3, "text": "Anti-liquor Movement", "is_correct": false },
+        { "option_id": 4, "text": "Dalit Panther Movement", "is_correct": false }
+      ],
+      "answer": "Bhoodan Movement"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who led the 'Laatne Morcha' (Rolling Pin Demonstration) in Mumbai in 1972?",
+      "options": [
+        { "option_id": 1, "text": "Pramila Dandavate", "is_correct": false },
+        { "option_id": 2, "text": "Mrinal Gore", "is_correct": true },
+        { "option_id": 3, "text": "Gaura Devi", "is_correct": false },
+        { "option_id": 4, "text": "Vidya Bal", "is_correct": false }
+      ],
+      "answer": "Mrinal Gore"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which year did the Chipko movement start?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1972", "is_correct": false },
+        { "option_id": 3, "text": "1973", "is_correct": true },
+        { "option_id": 4, "text": "1975", "is_correct": false }
+      ],
+      "answer": "1973"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was the activist that created awareness among women for the Chipko movement?",
+      "options": [
+        { "option_id": 1, "text": "Sudesha Devi", "is_correct": false },
+        { "option_id": 2, "text": "Bachani Devi", "is_correct": false },
+        { "option_id": 3, "text": "Gaura Devi", "is_correct": true },
+        { "option_id": 4, "text": "Medha Patkar", "is_correct": false }
+      ],
+      "answer": "Gaura Devi"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which state did the anti-liquor movement start in 1992?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Gujarat", "is_correct": false },
+        { "option_id": 3, "text": "Andhra Pradesh", "is_correct": true },
+        { "option_id": 4, "text": "Karnataka", "is_correct": false }
+      ],
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was appointed as the Chairman of the Committee on the Status of Women in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Dr Phulrenu Guha", "is_correct": true },
+        { "option_id": 2, "text": "Pramila Dandavate", "is_correct": false },
+        { "option_id": 3, "text": "Mrinal Gore", "is_correct": false },
+        { "option_id": 4, "text": "Indira Gandhi", "is_correct": false }
+      ],
+      "answer": "Dr Phulrenu Guha"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who wrote the street play 'Mulgi Jhaali Ho'?",
+      "options": [
+        { "option_id": 1, "text": "Vidya Bal", "is_correct": false },
+        { "option_id": 2, "text": "Jyoti Mhapsekar", "is_correct": true },
+        { "option_id": 3, "text": "Soudamini Rao", "is_correct": false },
+        { "option_id": 4, "text": "Pramila Dandavate", "is_correct": false }
+      ],
+      "answer": "Jyoti Mhapsekar"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who established the Mahila Dakshata Samiti in Delhi in 1976?",
+      "options": [
+        { "option_id": 1, "text": "Pramila Dandavate", "is_correct": true },
+        { "option_id": 2, "text": "Mrinal Gore", "is_correct": false },
+        { "option_id": 3, "text": "Gaura Devi", "is_correct": false },
+        { "option_id": 4, "text": "Phulrenu Guha", "is_correct": false }
+      ],
+      "answer": "Pramila Dandavate"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year was the Dowry Prohibition (Amendment) Act passed?",
+      "options": [
+        { "option_id": 1, "text": "1961", "is_correct": false },
+        { "option_id": 2, "text": "1984", "is_correct": true },
+        { "option_id": 3, "text": "1993", "is_correct": false },
+        { "option_id": 4, "text": "1952", "is_correct": false }
+      ],
+      "answer": "1984"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which Act gave women the right to get leave from work at the time of child-birth?",
+      "options": [
+        { "option_id": 1, "text": "Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 2, "text": "Maternity Benefit Act", "is_correct": true },
+        { "option_id": 3, "text": "Sati Prevention Act", "is_correct": false },
+        { "option_id": 4, "text": "Human Rights Act", "is_correct": false }
+      ],
+      "answer": "Maternity Benefit Act"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which case led to the passing of the 'Muslim Women's Act (Protection of Rights on Divorce)'?",
+      "options": [
+        { "option_id": 1, "text": "Shah Bano Begum Case", "is_correct": true },
+        { "option_id": 2, "text": "Roop Kanwar Case", "is_correct": false },
+        { "option_id": 3, "text": "Mathura Rape Case", "is_correct": false },
+        { "option_id": 4, "text": "Vishakha Case", "is_correct": false }
+      ],
+      "answer": "Shah Bano Begum Case"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Sati (Prevention) Act was passed in which year?",
+      "options": [
+        { "option_id": 1, "text": "1987", "is_correct": false },
+        { "option_id": 2, "text": "1988", "is_correct": true },
+        { "option_id": 3, "text": "1993", "is_correct": false },
+        { "option_id": 4, "text": "1961", "is_correct": false }
+      ],
+      "answer": "1988"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What percentage of seats are reserved for women in local self-government bodies in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "33%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": true },
+        { "option_id": 3, "text": "25%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "50%"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which Constitutional Amendment provided for reservation of one-third seats for women in local bodies?",
+      "options": [
+        { "option_id": 1, "text": "42nd and 44th", "is_correct": false },
+        { "option_id": 2, "text": "73rd and 74th", "is_correct": true },
+        { "option_id": 3, "text": "86th and 87th", "is_correct": false },
+        { "option_id": 4, "text": "61st and 62nd", "is_correct": false }
+      ],
+      "answer": "73rd and 74th"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who was the first woman Chief Minister of Uttar Pradesh?",
+      "options": [
+        { "option_id": 1, "text": "Mayawati", "is_correct": false },
+        { "option_id": 2, "text": "Sucheta Kripalani", "is_correct": true },
+        { "option_id": 3, "text": "Sheila Dixit", "is_correct": false },
+        { "option_id": 4, "text": "Vasundhara Raje", "is_correct": false }
+      ],
+      "answer": "Sucheta Kripalani"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which article of the Constitution prohibits untouchability?",
+      "options": [
+        { "option_id": 1, "text": "Article 14", "is_correct": false },
+        { "option_id": 2, "text": "Article 17", "is_correct": true },
+        { "option_id": 3, "text": "Article 21", "is_correct": false },
+        { "option_id": 4, "text": "Article 32", "is_correct": false }
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "When was the 'Protection of Human Rights Act' passed?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "1993", "is_correct": true },
+        { "option_id": 3, "text": "1995", "is_correct": false },
+        { "option_id": 4, "text": "1998", "is_correct": false }
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which commission was set up under the Protection of Human Rights Act?",
+      "options": [
+        { "option_id": 1, "text": "National Women's Commission", "is_correct": false },
+        { "option_id": 2, "text": "National Human Rights Commission", "is_correct": true },
+        { "option_id": 3, "text": "Minority Commission", "is_correct": false },
+        { "option_id": 4, "text": "Scheduled Caste Commission", "is_correct": false }
+      ],
+      "answer": "National Human Rights Commission"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Prevention of Atrocities Act was passed in which year?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": false },
+        { "option_id": 2, "text": "1989", "is_correct": true },
+        { "option_id": 3, "text": "1991", "is_correct": false },
+        { "option_id": 4, "text": "1993", "is_correct": false }
+      ],
+      "answer": "1989"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which state became the first to reserve seats for women in local bodies?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Karnataka", "is_correct": false },
+        { "option_id": 3, "text": "Kerala", "is_correct": false },
+        { "option_id": 4, "text": "Madhya Pradesh (among first, but 73rd amd applied nationally)", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was the first woman to become the Speaker of the Lok Sabha?",
+      "options": [
+        { "option_id": 1, "text": "Meira Kumar", "is_correct": true },
+        { "option_id": 2, "text": "Sumitra Mahajan", "is_correct": false },
+        { "option_id": 3, "text": "Najma Heptulla", "is_correct": false },
+        { "option_id": 4, "text": "Pratibha Patil", "is_correct": false }
+      ],
+      "answer": "Meira Kumar"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which social reformer is associated with the 'Bhoodan Movement'?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Vinoba Bhave", "is_correct": true },
+        { "option_id": 3, "text": "Baba Amte", "is_correct": false },
+        { "option_id": 4, "text": "Anna Hazare", "is_correct": false }
+      ],
+      "answer": "Vinoba Bhave"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What was the main reason for the 'Laatne Morcha'?",
+      "options": [
+        { "option_id": 1, "text": "To protest against alcohol", "is_correct": false },
+        { "option_id": 2, "text": "To protest against rising prices of essential commodities", "is_correct": true },
+        { "option_id": 3, "text": "To demand reservation", "is_correct": false },
+        { "option_id": 4, "text": "To demand separate state", "is_correct": false }
+      ],
+      "answer": "To protest against rising prices of essential commodities"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In the Chipko movement, what did women do to protect trees?",
+      "options": [
+        { "option_id": 1, "text": "They watered them", "is_correct": false },
+        { "option_id": 2, "text": "They climbed on them", "is_correct": false },
+        { "option_id": 3, "text": "They hugged the trees", "is_correct": true },
+        { "option_id": 4, "text": "They tied rakhi to trees", "is_correct": false }
+      ],
+      "answer": "They hugged the trees"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which incident triggered the anti-liquor movement in Andhra Pradesh?",
+      "options": [
+        { "option_id": 1, "text": "Death of a political leader", "is_correct": false },
+        { "option_id": 2, "text": "Death of youths in Dubuganta village", "is_correct": true },
+        { "option_id": 3, "text": "A road accident", "is_correct": false },
+        { "option_id": 4, "text": "A riot", "is_correct": false }
+      ],
+      "answer": "Death of youths in Dubuganta village"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a challenge faced by women in India as per the text?",
+      "options": [
+        { "option_id": 1, "text": "Male-centred mentality", "is_correct": false },
+        { "option_id": 2, "text": "Dowry system", "is_correct": false },
+        { "option_id": 3, "text": "Excessive political power", "is_correct": true },
+        { "option_id": 4, "text": "Domestic violence", "is_correct": false }
+      ],
+      "answer": "Excessive political power"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the term 'Alimony' mean?",
+      "options": [
+        { "option_id": 1, "text": "Dowry given by bride", "is_correct": false },
+        { "option_id": 2, "text": "Fixed amount paid to divorced wife for upkeep", "is_correct": true },
+        { "option_id": 3, "text": "Tax paid to government", "is_correct": false },
+        { "option_id": 4, "text": "Loan for education", "is_correct": false }
+      ],
+      "answer": "Fixed amount paid to divorced wife for upkeep"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What was the 'Laatne Morcha'?",
+      "answer": "The 'Laatne Morcha' was a demonstration organized by women in Mumbai in 1972, led by Mrinal Gore, brandishing rolling pins to protest against the scarcity of supplies and rising prices."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Explain the strategy of the Chipko movement.",
+      "answer": "The strategy involved women encircling trees and holding hands to prevent them from being cut down, effectively hugging the trees."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Who initiated the Chipko movement?",
+      "answer": "Chandiprasad Bhat and Sunderlal Bahuguna initiated the movement."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What triggered the anti-arrack movement in Andhra Pradesh?",
+      "answer": "The death of three youths in Dubuganta village due to inebriation triggered the women of the village to force the closure of arrack shops, sparking a wider movement."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What was the 'Sitama Katha'?",
+      "answer": "It was a story narrated as part of a literacy programme, about a woman named Sita who creates awareness and gets alcohol banned in her village."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the Dowry Prohibition Act of 1961?",
+      "answer": "It is an act that made both giving and taking of dowry a cognizable criminal offence."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are Family Courts established for?",
+      "answer": "Family courts were established to resolve conflicts arising out of marriage, domestic problems, alimony, single parenthood, and separation quickly and justly."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is alimony?",
+      "answer": "Alimony is a fixed amount paid to a married woman for her upkeep by the husband who has divorced her."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why was the Sati (Prevention) Act passed?",
+      "answer": "It was passed in 1988 with stringent provisions after the incident where Roop Kanwar, a married woman, was coerced into committing sati."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the Protection of Human Rights Act?",
+      "answer": "Enacted in 1993, its purpose is to prevent injustice to men and women, dealing with collective oppression and secure work places."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Who are the Scheduled Tribes?",
+      "answer": "Scheduled Tribes are Adivasis living in remote parts of the country who face difficulties due to economic and social backwardness."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What are Nomadic and De-notified Tribes?",
+      "answer": "Nomadic tribes move from place to place for livelihood. De-notified tribes are those previously classified as 'criminal tribes' by the British, whose curbs were lifted after independence."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What rights do minorities have under the Indian Constitution?",
+      "answer": "Minorities have the right to protect and conserve their language, culture, and traditions, and to set up separate educational institutions."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the role of the National Human Rights Commission?",
+      "answer": "It was formed to prevent injustice to men and women and to implement the Protection of Human Rights Act."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why was the 'Muslim Women's Act' passed?",
+      "answer": "It was passed by Parliament to protect the rights of Muslim women on divorce, following protests against the Supreme Court verdict in the Shah Bano case."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Who was Vidya Bal?",
+      "answer": "Vidya Bal was an activist who established the 'Nari Samata Manch' and wrote regarding women's issues."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the 'Stree-mukti Sangharsha Samiti'?",
+      "answer": "It was a committee that organized a state-wide conference for women in 1975 and published a manifesto for gender equality."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who founded the 'Samajwadi Mahila Sabha'?",
+      "answer": "It was an organization involved in the women's liberation movement in Maharashtra."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which periodical did Vidya Bal edit?",
+      "answer": "She edited 'Miloon Saryajani'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What did the Committee on the Status of Women recommend?",
+      "answer": "It conducted a survey on women's social position, education, and employment, highlighting issues like wage disparity and male-female ratio."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Who established the Mahila Dakshata Samiti?",
+      "answer": "Pramila Dandavate established it in 1976 in Delhi."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What was the 'International Women's Year'?",
+      "answer": "The United Nations declared 1975 as the International Women's Year."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why is the number of women per 1000 men decreasing?",
+      "answer": "Due to factors like female foeticide and negligence towards women's health."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Describe the women's liberation movement in India during the 1970s and 80s.",
+      "answer": "The movement gained momentum with the International Women's Year in 1975. The Committee on the Status of Women highlighted issues like wage disparity and social position. The 'Stree-mukti Sangharsha Samiti' organized a state-wide conference in 1975. Women from all walks of life participated, and a policy against gender and caste discrimination was adopted. Activists like Pramila Dandavate, Vidya Bal, and organisations like the 'Mahila Dakshata Samiti' and 'Akhil Bharatiya Janavadi Mahila Sanghatana' fought against dowry, female foeticide, and domestic abuse. Literature and street plays also played a role in spreading awareness."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Explain the laws enacted to ensure the empowerment and protection of women in India.",
+      "answer": "Several laws were enacted: 1. The 1952 act recognized women's right to alimony and share in father's property. 2. The Dowry Prohibition Act of 1961 made dowry a criminal offence. 3. The Maternity Benefit Act (1961) gave rights to leave during childbirth. 4. Family Courts (1984) were established for resolving domestic disputes. 5. The Sati (Prevention) Act (1988) banned the practice of sati. 6. The 73rd and 74th Amendments reserved seats for women in local bodies. 7. The Protection of Human Rights Act (1993) addressed injustice against women."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "Discuss the challenges faced by Scheduled Castes and Tribes and the government's measures for them.",
+      "answer": "Scheduled Castes faced social segregation due to untouchability, which was banned by the Constitution (Article 17). They were given reservations in education and jobs. Scheduled Tribes (Adivasis) live in remote areas, lack modern means of livelihood, and suffer from malnutrition and lack of medical attention. They are given special protection and representation in law boards, education, and government service. The Prevention of Atrocities Act (1989) was passed to protect them from violence and oppression."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "Elaborate on the 'Anti-liquor movement' in Andhra Pradesh.",
+      "answer": "The movement started in 1992 in Andhra Pradesh. Alcohol addiction caused untimely deaths of male heads of households, leading to crisis for women. The movement was triggered by the death of three youths in Dubuganta village. Women forced the closure of arrack shops. The movement was supported by a literacy programme telling stories like 'Sitama Katha'. It spread across the state, forcing the government to adopt a strict policy against alcohol sales."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "What are the rights and provisions for Minorities in India?",
+      "answer": "Minorities are groups with distinct religion, language, or race who are few in number. The Constitution grants them educational and cultural rights to preserve their traditions and language. They have the right to set up separate educational institutions. The government implements various schemes for their progress to ensure cultural diversity is maintained."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Chipko Movement.",
+      "answer": "The Chipko Movement, initiated in 1973 in the Himalayan region, was a significant environmental movement led by women. To prevent contractors from cutting down trees, women encircled them, literally 'hugging' the trees. Gaura Devi and others created awareness about the importance of forests for the local economy. This movement highlighted the constructive power of women's organized action."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "How did the 73rd and 74th Constitutional Amendments empower women?",
+      "answer": "These amendments reserved one-third of seats for women in local self-government bodies like Gram Panchayats, Panchayat Samitis, Zilla Parishads, Municipalities, and Corporations. This reservation was later increased to 50% in several states, including Maharashtra. It provided women with political power and an opportunity to participate in the decision-making process of the administration."
+    }
+  ]
+}

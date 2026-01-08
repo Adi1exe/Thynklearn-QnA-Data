@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.12",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Silver"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Walter de la Mare", "is_correct": true },
+        { "option_id": 3, "text": "John Keats", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How does the moon move in the night according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Quickly and loudly", "is_correct": false },
+        { "option_id": 2, "text": "Slowly and silently", "is_correct": true },
+        { "option_id": 3, "text": "Brightly and swiftly", "is_correct": false },
+        { "option_id": 4, "text": "Roughly and noisily", "is_correct": false }
+      ],
+      "answer": "Slowly and silently"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'shoon'?",
+      "options": [
+        { "option_id": 1, "text": "Shine", "is_correct": false },
+        { "option_id": 2, "text": "Shoes", "is_correct": true },
+        { "option_id": 3, "text": "Soon", "is_correct": false },
+        { "option_id": 4, "text": "Moon", "is_correct": false }
+      ],
+      "answer": "Shoes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the moon wear while walking the night?",
+      "options": [
+        { "option_id": 1, "text": "Golden boots", "is_correct": false },
+        { "option_id": 2, "text": "Silver shoon", "is_correct": true },
+        { "option_id": 3, "text": "White sandals", "is_correct": false },
+        { "option_id": 4, "text": "Black slippers", "is_correct": false }
+      ],
+      "answer": "Silver shoon"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What catches the moon's beams beneath the silvery thatch?",
+      "options": [
+        { "option_id": 1, "text": "The doors", "is_correct": false },
+        { "option_id": 2, "text": "The casements", "is_correct": true },
+        { "option_id": 3, "text": "The trees", "is_correct": false },
+        { "option_id": 4, "text": "The river", "is_correct": false }
+      ],
+      "answer": "The casements"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How is the dog described as sleeping?",
+      "options": [
+        { "option_id": 1, "text": "Like a log", "is_correct": true },
+        { "option_id": 2, "text": "Like a rock", "is_correct": false },
+        { "option_id": 3, "text": "Like a baby", "is_correct": false },
+        { "option_id": 4, "text": "Like a bear", "is_correct": false }
+      ],
+      "answer": "Like a log"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where are the doves sleeping?",
+      "options": [
+        { "option_id": 1, "text": "In a nest", "is_correct": false },
+        { "option_id": 2, "text": "In their shadowy cote", "is_correct": true },
+        { "option_id": 3, "text": "On a branch", "is_correct": false },
+        { "option_id": 4, "text": "On the roof", "is_correct": false }
+      ],
+      "answer": "In their shadowy cote"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What animal goes 'scampering by' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A cat", "is_correct": false },
+        { "option_id": 2, "text": "A harvest mouse", "is_correct": true },
+        { "option_id": 3, "text": "A rabbit", "is_correct": false },
+        { "option_id": 4, "text": "A squirrel", "is_correct": false }
+      ],
+      "answer": "A harvest mouse"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What features of the harvest mouse are described as silver?",
+      "options": [
+        { "option_id": 1, "text": "Tail and ears", "is_correct": false },
+        { "option_id": 2, "text": "Claws and eye", "is_correct": true },
+        { "option_id": 3, "text": "Fur and whiskers", "is_correct": false },
+        { "option_id": 4, "text": "Nose and feet", "is_correct": false }
+      ],
+      "answer": "Claws and eye"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How are the fish in the water described?",
+      "options": [
+        { "option_id": 1, "text": "Swimming fast", "is_correct": false },
+        { "option_id": 2, "text": "Jumping high", "is_correct": false },
+        { "option_id": 3, "text": "Moveless", "is_correct": true },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Moveless"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme of the poem 'Silver'?",
+      "options": [
+        { "option_id": 1, "text": "abab", "is_correct": false },
+        { "option_id": 2, "text": "aabb", "is_correct": true },
+        { "option_id": 3, "text": "abcb", "is_correct": false },
+        { "option_id": 4, "text": "abcd", "is_correct": false }
+      ],
+      "answer": "aabb"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the word 'cote' refer to?",
+      "options": [
+        { "option_id": 1, "text": "A type of coat", "is_correct": false },
+        { "option_id": 2, "text": "A small shelter for birds", "is_correct": true },
+        { "option_id": 3, "text": "A bed", "is_correct": false },
+        { "option_id": 4, "text": "A river bank", "is_correct": false }
+      ],
+      "answer": "A small shelter for birds"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What figure of speech is used in 'Walks the night in her silver shoon'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Personification", "is_correct": true },
+        { "option_id": 3, "text": "Hyperbole", "is_correct": false },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What grows by the 'silver stream'?",
+      "options": [
+        { "option_id": 1, "text": "Silver reeds", "is_correct": true },
+        { "option_id": 2, "text": "Silver grass", "is_correct": false },
+        { "option_id": 3, "text": "Golden flowers", "is_correct": false },
+        { "option_id": 4, "text": "Tall trees", "is_correct": false }
+      ],
+      "answer": "Silver reeds"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these objects is NOT mentioned as silver in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Fruit", "is_correct": false },
+        { "option_id": 2, "text": "Trees", "is_correct": false },
+        { "option_id": 3, "text": "Cars", "is_correct": true },
+        { "option_id": 4, "text": "Thatch", "is_correct": false }
+      ],
+      "answer": "Cars"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How does the moon observe the world below?",
+      "answer": "The moon peers this way and that to see the world below."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What transformation does the moonlight bring to the fruit and trees?",
+      "answer": "The moonlight makes the fruit and trees appear as if they are made of silver."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are 'casements' as mentioned in the poem?",
+      "answer": "'Casements' refer to windows that catch the moon's beams."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Identify the simile used to describe the sleeping dog.",
+      "answer": "The dog is described as sleeping 'like a log'."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What part of the doves is visible in the darkness?",
+      "answer": "The 'white breasts' of the doves peep out from the shadowy cote."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What creates the 'silver' effect described throughout the poem?",
+      "answer": "The reflection of the moonlight on various objects creates the silver effect."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How is the stream described in the poem?",
+      "answer": "The stream is described as a 'silver stream' with silver reeds growing by it."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does the word 'moveless' suggest about the fish?",
+      "answer": "The word 'moveless' suggests that the fish are perfectly still and motionless in the water."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "List two animals mentioned in the poem besides the dog.",
+      "answer": "The poem mentions doves, a harvest mouse, and fish."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the mood of the poem 'Silver'?",
+      "answer": "The mood of the poem is peaceful, calm, and magical."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'silvery thatch' refer to?",
+      "answer": "It refers to a roof covering (thatch) that looks silver under the moonlight."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does the poet personify the moon in the first stanza?",
+      "answer": "The poet personifies the moon by giving her human attributes like walking in shoes (shoon) and peering."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are the dog's paws compared to?",
+      "answer": "The dog's paws are described as 'paws of silver'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do you think the harvest mouse is said to have a 'silver eye'?",
+      "answer": "The mouse's eye likely reflects the moonlight, making it appear silver and shiny."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What action does the harvest mouse perform?",
+      "answer": "The harvest mouse goes 'scampering by'."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the scene depicted in the poem 'Silver' in your own words.",
+      "answer": "The poem describes a serene night scene illuminated by the moon. As the moon moves slowly and silently across the sky, its light transforms everything into silver. Trees and their fruit appear silver, and windows shine under silver thatched roofs. A dog sleeps soundly like a log with silver paws, while doves rest in their shelter. Even the small harvest mouse and the motionless fish in the stream catch the silvery glint of the moonlight, creating a unified, magical, and metallic atmosphere."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the use of the word 'silver' in the poem. Why is it repeated so often?",
+      "answer": "The word 'silver' is repeated throughout the poem to emphasize the dominant visual effect of the moonlight. It serves as a unifying motif that connects unrelated objects—trees, fruit, thatch, paws, doves, mouse claws, eyes, reeds, and the stream. This repetition creates a sense of harmony and stillness, suggesting that the moonlight has cast a magical spell over the entire landscape, washing everything in the same precious, metallic hue."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Identify and explain two figures of speech used in the poem.",
+      "answer": "Two prominent figures of speech in the poem are Personification and Simile. \n1. **Personification:** The moon is personified as a woman who 'walks the night in her silver shoon' and 'peers' at the world. This gives the moon a gentle, living presence.\n2. **Simile:** The dog is described as sleeping 'like a log'. This comparison vividly conveys how deep and motionless the dog's sleep is."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "How does the poet create a sense of stillness and silence in the poem?",
+      "answer": "The poet uses specific vocabulary and imagery to create a quiet atmosphere. Words like 'slowly', 'silently', 'sleeps', 'moveless', and phrases like 'couched in his kennel' and 'shadowy cote' contribute to the feeling of rest. The subjects of the poem—the sleeping dog, the resting doves, and the motionless fish—are all in a state of repose. Even the moon moves 'silently', ensuring that the visual beauty of the scene is not disturbed by sound."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Contrast the movement of the harvest mouse with the other animals in the poem.",
+      "answer": "Most animals in the poem are described in a state of deep rest or stillness: the dog sleeps 'like a log', the doves are in their 'shadowy cote', and the fish are 'moveless'. In contrast, the harvest mouse provides a small element of activity as it goes 'scampering by'. However, even this movement is subtle and quiet, fitting into the overall peaceful night scene without disrupting the silence."
+    }
+  ]
+}

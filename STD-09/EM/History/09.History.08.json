@@ -1,0 +1,461 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.08",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Industry and Trade"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In which year was the Industrial Finance Corporation of India established?",
+      "options": [
+        { "option_id": 1, "text": "1948", "is_correct": true },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1954", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1948"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the purpose of the Industrial Finance Corporation of India?",
+      "options": [
+        { "option_id": 1, "text": "To provide technical training", "is_correct": false },
+        { "option_id": 2, "text": "To make available long-term loans for industrial projects", "is_correct": true },
+        { "option_id": 3, "text": "To control pollution", "is_correct": false },
+        { "option_id": 4, "text": "To manage exports", "is_correct": false }
+      ],
+      "answer": "To make available long-term loans for industrial projects"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When was the Industrial Development Corporation established?",
+      "options": [
+        { "option_id": 1, "text": "1948", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1954", "is_correct": true },
+        { "option_id": 4, "text": "1956", "is_correct": false }
+      ],
+      "answer": "1954"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What percentage of total industrial production does the textile industry contribute?",
+      "options": [
+        { "option_id": 1, "text": "10%", "is_correct": false },
+        { "option_id": 2, "text": "14%", "is_correct": true },
+        { "option_id": 3, "text": "20%", "is_correct": false },
+        { "option_id": 4, "text": "25%", "is_correct": false }
+      ],
+      "answer": "14%"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "According to which Act was the Textile Committee established?",
+      "options": [
+        { "option_id": 1, "text": "Textile Committee Act 1948", "is_correct": false },
+        { "option_id": 2, "text": "Textile Committee Act 1954", "is_correct": false },
+        { "option_id": 3, "text": "Textile Committee Act 1963", "is_correct": true },
+        { "option_id": 4, "text": "Textile Committee Act 1970", "is_correct": false }
+      ],
+      "answer": "Textile Committee Act 1963"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the main task of the Textile Committee?",
+      "options": [
+        { "option_id": 1, "text": "Setting quality standards for textiles", "is_correct": true },
+        { "option_id": 2, "text": "Fixing prices of clothes", "is_correct": false },
+        { "option_id": 3, "text": "Distributing raw material", "is_correct": false },
+        { "option_id": 4, "text": "Providing loans to weavers", "is_correct": false }
+      ],
+      "answer": "Setting quality standards for textiles"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where is the Seribiotic Research Laboratory located?",
+      "options": [
+        { "option_id": 1, "text": "Mysore", "is_correct": false },
+        { "option_id": 2, "text": "Bengaluru", "is_correct": true },
+        { "option_id": 3, "text": "Kolkata", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which industry functions under the Ministry of Textiles?",
+      "options": [
+        { "option_id": 1, "text": "Automobile industry", "is_correct": false },
+        { "option_id": 2, "text": "Silk industry", "is_correct": true },
+        { "option_id": 3, "text": "Cement industry", "is_correct": false },
+        { "option_id": 4, "text": "Leather industry", "is_correct": false }
+      ],
+      "answer": "Silk industry"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which country is the top-ranking producer of Jute?",
+      "options": [
+        { "option_id": 1, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 2, "text": "China", "is_correct": false },
+        { "option_id": 3, "text": "India", "is_correct": true },
+        { "option_id": 4, "text": "Brazil", "is_correct": false }
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the 'Mega Cluster' scheme related to?",
+      "options": [
+        { "option_id": 1, "text": "Helping weavers", "is_correct": true },
+        { "option_id": 2, "text": "Automobile manufacturing", "is_correct": false },
+        { "option_id": 3, "text": "Cement production", "is_correct": false },
+        { "option_id": 4, "text": "Leather export", "is_correct": false }
+      ],
+      "answer": "Helping weavers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which industry is known as the 'Sunrise Sector' in India?",
+      "options": [
+        { "option_id": 1, "text": "Textile Industry", "is_correct": false },
+        { "option_id": 2, "text": "Automobile Industry", "is_correct": true },
+        { "option_id": 3, "text": "Jute Industry", "is_correct": false },
+        { "option_id": 4, "text": "Cement Industry", "is_correct": false }
+      ],
+      "answer": "Automobile Industry"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which Indian city is the main centre for bicycle manufacturing?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Ludhiana", "is_correct": true },
+        { "option_id": 3, "text": "Chennai", "is_correct": false },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Ludhiana"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is India's rank in tractor production globally?",
+      "options": [
+        { "option_id": 1, "text": "First", "is_correct": false },
+        { "option_id": 2, "text": "Second", "is_correct": false },
+        { "option_id": 3, "text": "Third", "is_correct": true },
+        { "option_id": 4, "text": "Largest (One-third of world production)", "is_correct": true }
+      ],
+      "answer": "Largest (One-third of world production)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "To which countries does India export tractors?",
+      "options": [
+        { "option_id": 1, "text": "USA and UK", "is_correct": false },
+        { "option_id": 2, "text": "Turkey, Malaysia, and Africa", "is_correct": true },
+        { "option_id": 3, "text": "China and Japan", "is_correct": false },
+        { "option_id": 4, "text": "Russia and Germany", "is_correct": false }
+      ],
+      "answer": "Turkey, Malaysia, and Africa"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the annual production of salt in India?",
+      "options": [
+        { "option_id": 1, "text": "100 lakh tons", "is_correct": false },
+        { "option_id": 2, "text": "200 lakh tons", "is_correct": true },
+        { "option_id": 3, "text": "50 lakh tons", "is_correct": false },
+        { "option_id": 4, "text": "300 lakh tons", "is_correct": false }
+      ],
+      "answer": "200 lakh tons"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the annual production of iodised salt in India?",
+      "options": [
+        { "option_id": 1, "text": "60 lakh tons", "is_correct": true },
+        { "option_id": 2, "text": "10 lakh tons", "is_correct": false },
+        { "option_id": 3, "text": "100 lakh tons", "is_correct": false },
+        { "option_id": 4, "text": "20 lakh tons", "is_correct": false }
+      ],
+      "answer": "60 lakh tons"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which commission was established to give impetus to industrialisation in rural areas?",
+      "options": [
+        { "option_id": 1, "text": "Planning Commission", "is_correct": false },
+        { "option_id": 2, "text": "Khadi and Village Industries Commission", "is_correct": true },
+        { "option_id": 3, "text": "Industrial Development Corporation", "is_correct": false },
+        { "option_id": 4, "text": "Textile Committee", "is_correct": false }
+      ],
+      "answer": "Khadi and Village Industries Commission"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What percentage of Indian society depends on agriculture-related jobs?",
+      "options": [
+        { "option_id": 1, "text": "50%", "is_correct": false },
+        { "option_id": 2, "text": "60%", "is_correct": false },
+        { "option_id": 3, "text": "70%", "is_correct": true },
+        { "option_id": 4, "text": "80%", "is_correct": false }
+      ],
+      "answer": "70%"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was the investment limit for heavy industries according to the 1970 policy?",
+      "options": [
+        { "option_id": 1, "text": "More than 1 crore", "is_correct": false },
+        { "option_id": 2, "text": "More than 5 crore", "is_correct": true },
+        { "option_id": 3, "text": "More than 10 crore", "is_correct": false },
+        { "option_id": 4, "text": "More than 50 crore", "is_correct": false }
+      ],
+      "answer": "More than 5 crore"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which industry primarily depends on forests for raw material?",
+      "options": [
+        { "option_id": 1, "text": "Automobile", "is_correct": false },
+        { "option_id": 2, "text": "Paper and Newsprint", "is_correct": true },
+        { "option_id": 3, "text": "Cement", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ],
+      "answer": "Paper and Newsprint"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of these is included in internal trade?",
+      "options": [
+        { "option_id": 1, "text": "Export of tea", "is_correct": false },
+        { "option_id": 2, "text": "Import of machines", "is_correct": false },
+        { "option_id": 3, "text": "Coal and Cotton transport within India", "is_correct": true },
+        { "option_id": 4, "text": "Export of leather", "is_correct": false }
+      ],
+      "answer": "Coal and Cotton transport within India"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which modern farming technique is mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Slash and burn", "is_correct": false },
+        { "option_id": 2, "text": "Drip irrigation and organic farming", "is_correct": true },
+        { "option_id": 3, "text": "Shift cultivation", "is_correct": false },
+        { "option_id": 4, "text": "Dry farming", "is_correct": false }
+      ],
+      "answer": "Drip irrigation and organic farming"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What helps craftsmen from rural and urban areas get a market in cities?",
+      "options": [
+        { "option_id": 1, "text": "Malls", "is_correct": false },
+        { "option_id": 2, "text": "Dilli Haat", "is_correct": true },
+        { "option_id": 3, "text": "Supermarkets", "is_correct": false },
+        { "option_id": 4, "text": "Online stores", "is_correct": false }
+      ],
+      "answer": "Dilli Haat"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which industry is primarily export-oriented in India?",
+      "options": [
+        { "option_id": 1, "text": "Cement", "is_correct": false },
+        { "option_id": 2, "text": "Leather", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Bicycle", "is_correct": false }
+      ],
+      "answer": "Leather"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was the focus of the Fourth Five Year Plan regarding industries?",
+      "options": [
+        { "option_id": 1, "text": "Only heavy industries", "is_correct": false },
+        { "option_id": 2, "text": "Paper, pharmaceutical, motor-tractor, etc.", "is_correct": true },
+        { "option_id": 3, "text": "IT industry", "is_correct": false },
+        { "option_id": 4, "text": "Space industry", "is_correct": false }
+      ],
+      "answer": "Paper, pharmaceutical, motor-tractor, etc."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why was the Industrial Finance Corporation of India established?",
+      "answer": "To make long-term loans available for industrial projects."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the Industrial Development Corporation?",
+      "answer": "To bring about greater development of the industrial sector."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What types of industries are included in the textile industry?",
+      "answer": "Powerloom and handloom industries."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Where is research on silkworms and mulberry trees conducted?",
+      "answer": "At the Seribiotic Research Laboratory in Bengaluru."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Which states are primary producers of Silk?",
+      "answer": "Karnataka, Andhra Pradesh, West Bengal, and Jammu & Kashmir."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What products do we get from Jute?",
+      "answer": "Cloth, sack cloth, and ropes."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Why is Hand Sculpting labor-intensive?",
+      "answer": "Because it requires more craftsmen and has the capacity to absorb more employment."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why is the automobile industry called the 'sunrise sector'?",
+      "answer": "Because it is a rapidly growing industry in India with significant export potential."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Which countries import Indian bicycles?",
+      "answer": "Nigeria, Mexico, Kenya, Uganda, and Brazil."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What are the objectives of the Khadi and Village Industries Commission?",
+      "answer": "To develop traditional handicrafts and cottage industries and make villages self-reliant."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What are the major crops grown in India?",
+      "answer": "Jowar, wheat, rice, pulses, and oilseeds."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How does the government encourage farming?",
+      "answer": "By providing loans through rural banks and cooperative institutions."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What kind of training is given to farmers?",
+      "answer": "Training regarding soil testing, nursery, pisciculture, poultry, cattle rearing, and dairy farming."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What mineral wealth does India possess?",
+      "answer": "Iron, manganese, coal, and mineral oil."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Name some forest-based industries.",
+      "answer": "Construction, paper, newsprint, silk, matchboxes, medicinal herbs, honey, etc."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What facilities have been provided for the fishing industry?",
+      "answer": "Harbours, fish seed incubation centres, and training centres."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How does tourism generate employment?",
+      "answer": "Through hotel industry, sale of curios, travel facilities, and guides."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What were India's main imports after independence?",
+      "answer": "Machines, iron, mineral oil, fertilisers, and medicines."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does India export to earn foreign exchange?",
+      "answer": "Tea, coffee, spices, cotton textiles, leather, footwear, pearls, and precious stones."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Which ports are important for internal trade?",
+      "answer": "Mumbai, Kolkata, Cochi, and Chennai."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "Describe the role of the Textile Industry in the Indian economy.",
+      "answer": "The textile industry contributes about 14% to India's total industrial production. It comprises powerloom and handloom sectors. The handloom sector is labor-intensive. A Textile Committee was established under the Act of 1963 to set quality standards for textiles meant for both the domestic market and export, ensuring quality and boosting trade."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "Explain the growth and significance of the Automobile Industry in India.",
+      "answer": "Known as the 'sunrise sector', the automobile industry in India has seen massive growth. India is a major producer of vehicles, exporting to 40 countries. The tractor industry is the largest in the world, producing one-third of the global output. Indian tractors are exported to countries like Turkey, Malaysia, and African nations, contributing significantly to the economy."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "What efforts are made by the government to promote agricultural industries?",
+      "answer": "The government provides loans to farmers through rural banks and cooperative institutions. Panchayat Samitis organize study visits and gatherings for farmers. Supplies like seeds, fertilizers, and tools are provided. Training is given on modern techniques like soil testing, nurseries, and diverse farming activities like pisciculture and dairy. Warehouses are funded for storage, and modern techniques like drip irrigation are encouraged."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "Discuss the importance of Forest Resources for Indian industries.",
+      "answer": "Forests provide essential raw materials for various industries such as construction, paper, newsprint, silk, matchboxes, medicinal herbs, honey, lacquer, and paint. The government reserves certain forests for these industries. Conservation efforts are shared by the Central and State governments and local communities to ensure the sustainability of these resources."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "How has the Tourism industry developed in India?",
+      "answer": "India's rich cultural heritage attracts tourists worldwide to places of worship, pilgrimage centers, forts, and caves. The Tourism Development Corporation provides facilities for travel and stay. This has led to the growth of the hotel industry and markets for local curios. It generates employment for guides, drivers, and local shopkeepers, contributing to the economy."
+    }
+  ]
+}

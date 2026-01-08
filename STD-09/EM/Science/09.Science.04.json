@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.04",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Measurement of Matter"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who proposed the 'Law of Conservation of Matter'?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Proust", "is_correct": false },
+        { "option_id": 3, "text": "Antoine Lavoisier", "is_correct": true },
+        { "option_id": 4, "text": "Rutherford", "is_correct": false }
+      ],
+      "answer": "Antoine Lavoisier"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The 'Law of Constant Proportion' states that the proportion by mass of constituent elements in a compound is ________.",
+      "options": [
+        { "option_id": 1, "text": "Variable", "is_correct": false },
+        { "option_id": 2, "text": "Fixed", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Fixed"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The proportion by mass of Hydrogen to Oxygen in water is ________.",
+      "options": [
+        { "option_id": 1, "text": "1:2", "is_correct": false },
+        { "option_id": 2, "text": "1:8", "is_correct": true },
+        { "option_id": 3, "text": "2:1", "is_correct": false },
+        { "option_id": 4, "text": "8:1", "is_correct": false }
+      ],
+      "answer": "1:8"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The size of an atom is determined by its ________.",
+      "options": [
+        { "option_id": 1, "text": "Mass", "is_correct": false },
+        { "option_id": 2, "text": "Radius", "is_correct": true },
+        { "option_id": 3, "text": "Valency", "is_correct": false },
+        { "option_id": 4, "text": "Protons", "is_correct": false }
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure atomic radius?",
+      "options": [
+        { "option_id": 1, "text": "Meter", "is_correct": false },
+        { "option_id": 2, "text": "Centimeter", "is_correct": false },
+        { "option_id": 3, "text": "Nanometer", "is_correct": true },
+        { "option_id": 4, "text": "Millimeter", "is_correct": false }
+      ],
+      "answer": "Nanometer"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The mass of an atom is concentrated in its ________.",
+      "options": [
+        { "option_id": 1, "text": "Electrons", "is_correct": false },
+        { "option_id": 2, "text": "Nucleus", "is_correct": true },
+        { "option_id": 3, "text": "Orbits", "is_correct": false },
+        { "option_id": 4, "text": "Shells", "is_correct": false }
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The unified atomic mass unit is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Gram", "is_correct": false },
+        { "option_id": 2, "text": "Dalton (u)", "is_correct": true },
+        { "option_id": 3, "text": "Mole", "is_correct": false },
+        { "option_id": 4, "text": "Pascal", "is_correct": false }
+      ],
+      "answer": "Dalton (u)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "1 Mole of any substance contains ________ molecules.",
+      "options": [
+        { "option_id": 1, "text": "6.022 × 10²³", "is_correct": true },
+        { "option_id": 2, "text": "6.022 × 10²²", "is_correct": false },
+        { "option_id": 3, "text": "1.66 × 10⁻²⁷", "is_correct": false },
+        { "option_id": 4, "text": "1000", "is_correct": false }
+      ],
+      "answer": "6.022 × 10²³"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The number 6.022 × 10²³ is known as ________ number.",
+      "options": [
+        { "option_id": 1, "text": "Dalton's", "is_correct": false },
+        { "option_id": 2, "text": "Avogadro's", "is_correct": true },
+        { "option_id": 3, "text": "Newton's", "is_correct": false },
+        { "option_id": 4, "text": "Atomic", "is_correct": false }
+      ],
+      "answer": "Avogadro's"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The capacity of an element to combine is called its ________.",
+      "options": [
+        { "option_id": 1, "text": "Atomic Number", "is_correct": false },
+        { "option_id": 2, "text": "Mass Number", "is_correct": false },
+        { "option_id": 3, "text": "Valency", "is_correct": true },
+        { "option_id": 4, "text": "Electronic Configuration", "is_correct": false }
+      ],
+      "answer": "Valency"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Positively charged ions are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Anions", "is_correct": false },
+        { "option_id": 2, "text": "Cations", "is_correct": true },
+        { "option_id": 3, "text": "Neutrons", "is_correct": false },
+        { "option_id": 4, "text": "Atoms", "is_correct": false }
+      ],
+      "answer": "Cations"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Negatively charged ions are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Cations", "is_correct": false },
+        { "option_id": 2, "text": "Anions", "is_correct": true },
+        { "option_id": 3, "text": "Protons", "is_correct": false },
+        { "option_id": 4, "text": "Radicals", "is_correct": false }
+      ],
+      "answer": "Anions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a composite radical?",
+      "options": [
+        { "option_id": 1, "text": "Cl⁻", "is_correct": false },
+        { "option_id": 2, "text": "Na⁺", "is_correct": false },
+        { "option_id": 3, "text": "SO₄²⁻", "is_correct": true },
+        { "option_id": 4, "text": "Fe²⁺", "is_correct": false }
+      ],
+      "answer": "SO₄²⁻"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Variable valency is shown by which element?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Iron (Fe)", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Iron (Fe)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the molecular mass of Water (H₂O)? (Atomic masses: H=1, O=16)",
+      "options": [
+        { "option_id": 1, "text": "17", "is_correct": false },
+        { "option_id": 2, "text": "18", "is_correct": true },
+        { "option_id": 3, "text": "34", "is_correct": false },
+        { "option_id": 4, "text": "20", "is_correct": false }
+      ],
+      "answer": "18"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "1 nanometer = ________ meters.",
+      "options": [
+        { "option_id": 1, "text": "10⁻⁹", "is_correct": true },
+        { "option_id": 2, "text": "10⁻⁶", "is_correct": false },
+        { "option_id": 3, "text": "10⁻¹⁰", "is_correct": false },
+        { "option_id": 4, "text": "10⁻¹²", "is_correct": false }
+      ],
+      "answer": "10⁻⁹"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The symbol for Copper is ________.",
+      "options": [
+        { "option_id": 1, "text": "Co", "is_correct": false },
+        { "option_id": 2, "text": "C", "is_correct": false },
+        { "option_id": 3, "text": "Cu", "is_correct": true },
+        { "option_id": 4, "text": "Cr", "is_correct": false }
+      ],
+      "answer": "Cu"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Valency of Carbon is ________.",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": true }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The chemical formula of Sodium Chloride is ________.",
+      "options": [
+        { "option_id": 1, "text": "NaCl₂", "is_correct": false },
+        { "option_id": 2, "text": "NaCl", "is_correct": true },
+        { "option_id": 3, "text": "Na₂Cl", "is_correct": false },
+        { "option_id": 4, "text": "Na₂SO₄", "is_correct": false }
+      ],
+      "answer": "NaCl"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Iron (II) exhibits a valency of ________.",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of these is a basic radical?",
+      "options": [
+        { "option_id": 1, "text": "Cl⁻", "is_correct": false },
+        { "option_id": 2, "text": "SO₄²⁻", "is_correct": false },
+        { "option_id": 3, "text": "K⁺", "is_correct": true },
+        { "option_id": 4, "text": "NO₃⁻", "is_correct": false }
+      ],
+      "answer": "K⁺"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which scientist gave the planetary model of atom?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Thomson", "is_correct": false },
+        { "option_id": 3, "text": "Rutherford", "is_correct": false },
+        { "option_id": 4, "text": "Bohr", "is_correct": true }
+      ],
+      "answer": "Bohr"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The mass of a Proton is approximately equal to ________ Daltons.",
+      "options": [
+        { "option_id": 1, "text": "1u", "is_correct": true },
+        { "option_id": 2, "text": "12u", "is_correct": false },
+        { "option_id": 3, "text": "16u", "is_correct": false },
+        { "option_id": 4, "text": "0u", "is_correct": false }
+      ],
+      "answer": "1u"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which element was chosen as the standard reference atom for atomic mass?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon-12", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon-12"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Sodium (Na) atom loses ________ electron(s) to become a sodium cation (Na⁺).",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": true },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "0", "is_correct": false }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "State the Law of Conservation of Matter.",
+      "answer": "In a chemical reaction, the total mass of the reactants is equal to the total mass of the products formed due to the chemical reaction. There is no rise or drop in the mass of matter during a chemical reaction."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "State the Law of Constant Proportion.",
+      "answer": "The proportion by mass of the constituent elements in the different samples of a compound is fixed."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Define Atom.",
+      "answer": "An atom is the smallest particle of an element which retains its chemical identity in all physical and chemical changes."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is atomic radius?",
+      "answer": "Atomic radius is the distance from the nucleus of an atom to its outermost shell."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Define Atomic Mass Number.",
+      "answer": "The sum of the number of protons and neutrons present in the nucleus of an atom is called the atomic mass number."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is 'Unified Mass'?",
+      "answer": "Unified Mass is the standard unit of atomic mass, denoted by 'u'. 1 Dalton (1u) is defined as 1/12th of the mass of a Carbon-12 atom."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Define Molecular Mass.",
+      "answer": "The molecular mass of a substance is the sum of the atomic masses of all the atoms in a single molecule of that substance."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Define Mole.",
+      "answer": "A mole is that quantity of a substance whose mass in grams is equal in magnitude to the molecular mass of that substance in Daltons."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is Avogadro's Number?",
+      "answer": "The number of molecules in one mole of any substance is constant and is called Avogadro's number. It is 6.022 × 10²³."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Define Valency.",
+      "answer": "The capacity of an element to combine is called its valency. It is determined by the number of electrons an atom gives, takes, or shares."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What are Radicals?",
+      "answer": "Positively or negatively charged atoms or groups of atoms that take part in chemical reactions are called radicals."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What are Basic Radicals? Give examples.",
+      "answer": "Radicals formed by removal of electrons from atoms of metals are called basic radicals (cations). Example: Na⁺, K⁺."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What are Acidic Radicals? Give examples.",
+      "answer": "Radicals formed by adding electrons to atoms of non-metals are called acidic radicals (anions). Example: Cl⁻, SO₄²⁻."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is Variable Valency?",
+      "answer": "Some elements exhibit more than one valency in different compounds under different conditions. This is called variable valency. Example: Iron shows valency 2 and 3."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Write the molecular formula for Magnesium Chloride.",
+      "answer": "Valency of Mg is 2, Cl is 1. By cross-multiplication, formula is MgCl₂."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Calculate the molecular mass of CO₂. (C=12, O=16)",
+      "answer": "Molecular mass = (1 × 12) + (2 × 16) = 12 + 32 = 44."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How many molecules are there in 66g of CO₂?",
+      "answer": "Moles = Mass / Molecular Mass = 66 / 44 = 1.5 moles. Molecules = 1.5 × 6.022 × 10²³ = 9.033 × 10²³."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name the compound: Na₂SO₄.",
+      "answer": "Sodium Sulphate."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Why is the nucleus positively charged?",
+      "answer": "The nucleus contains protons which are positively charged and neutrons which are neutral. Hence, the overall charge is positive."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is a Composite Radical?",
+      "answer": "A radical which is a group of atoms carrying a charge is called a composite radical. Example: SO₄²⁻, NH₄⁺."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is an atom electrically neutral?",
+      "answer": "An atom has an equal number of positively charged protons and negatively charged electrons, so the net charge is zero."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What determines the chemical properties of an element?",
+      "answer": "The electronic configuration, specifically the valence electrons, determines the chemical properties."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Write the electronic configuration of Sodium (Atomic No. 11).",
+      "answer": "2, 8, 1."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Write the electronic configuration of Chlorine (Atomic No. 17).",
+      "answer": "2, 8, 7."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Explain the formation of Sodium ion (Na⁺).",
+      "answer": "Sodium atom (2,8,1) loses 1 valence electron to attain a stable octet state, forming a positive ion Na⁺ (2,8)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Explain the formation of Chloride ion (Cl⁻).",
+      "answer": "Chlorine atom (2,8,7) gains 1 electron to complete its octet, forming a negative ion Cl⁻ (2,8,8)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the relation between mole and gram?",
+      "answer": "1 mole of a substance = Molecular mass of the substance in grams."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do elements combine?",
+      "answer": "Elements combine to attain a stable electronic configuration (octet or duplet) in their outermost shell."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the scientist who discovered the electron.",
+      "answer": "J.J. Thomson."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the symbol 'u' stand for?",
+      "answer": "Unified Mass."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Write the formula for Calcium Carbonate.",
+      "answer": "Ca is Ca²⁺, Carbonate is CO₃²⁻. Formula is CaCO₃."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the atomic mass of Oxygen?",
+      "answer": "16."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the valency of Copper in Cuprous and Cupric compounds?",
+      "answer": "Cuprous (Cu⁺) valency is 1. Cupric (Cu²⁺) valency is 2."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Define Electronic Configuration.",
+      "answer": "The distribution of electrons in the various shells around the nucleus of an atom is called electronic configuration."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is the atomic mass of Hydrogen 1?",
+      "answer": "Because hydrogen nucleus contains only 1 proton and no neutrons."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which instrument is used to measure mass of atoms accurately?",
+      "answer": "Mass Spectrometer (Though historically relative mass was used)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "State the valency of Carbon.",
+      "answer": "4."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a simple radical?",
+      "answer": "A radical formed from a single atom (e.g., Na⁺, Cl⁻) is a simple radical."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How is the symbol of an element decided?",
+      "answer": "Using the first letter (e.g., C for Carbon) or first two letters (e.g., Ca for Calcium) of its English or Latin name."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Calculate the molecular mass of NaCl. (Na=23, Cl=35.5)",
+      "answer": "23 + 35.5 = 58.5."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is a stable octet?",
+      "answer": "Having 8 electrons in the outermost shell is called a stable octet configuration."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Give two examples of elements with variable valency.",
+      "answer": "Iron (2, 3) and Copper (1, 2)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the formula to calculate Number of Moles?",
+      "answer": "Number of Moles (n) = Mass of substance in grams / Molecular mass of substance."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why was Carbon-12 selected as a reference atom?",
+      "answer": "Because its mass could be measured accurately and relative masses of other elements could be expressed easily compared to it."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Write the chemical formula of Aluminium Phosphate.",
+      "answer": "Al³⁺ and PO₄³⁻. Formula is AlPO₄."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are ions?",
+      "answer": "Charged particles formed by loss or gain of electrons are called ions."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Is the number of molecules in 18g of water and 44g of CO₂ same? Why?",
+      "answer": "Yes, because 18g water is 1 mole and 44g CO₂ is also 1 mole. Both contain Avogadro's number of molecules."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Write the symbols for: Iron, Gold, Silver, Mercury.",
+      "answer": "Fe, Au, Ag, Hg."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the valency of Inert Gases?",
+      "answer": "Zero (0), because their outermost shell is complete."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Define relative atomic mass.",
+      "answer": "The relative atomic mass of an element is the ratio of the mass of one atom of the element to 1/12th of the mass of an atom of Carbon-12."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the verification of the Law of Conservation of Matter with an experiment.",
+      "answer": "Take Calcium Chloride (CaCl₂) solution in a conical flask and Sodium Sulphate (Na₂SO₄) solution in a test tube. Weigh them together. Mix the solutions. A white precipitate of CaSO₄ is formed. Weigh again. The mass remains the same, proving matter is neither created nor destroyed. "
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the Law of Constant Proportion with the example of water and copper oxide.",
+      "answer": "The law states that elements combine in fixed proportion by mass. In water (H₂O), mass of H:O is always 1:8. 9g water has 1g H and 8g O. Similarly, in Copper Oxide (CuO), mass of Cu:O is always 4:1, irrespective of the source or method of preparation. This was verified by Proust."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the structure of an atom.",
+      "answer": "An atom consists of a central positive nucleus containing protons (p) and neutrons (n). The entire mass is in the nucleus. Negatively charged electrons (e⁻) revolve around the nucleus in specific orbits or shells (K, L, M, N). The atom is electrically neutral as number of protons equals number of electrons. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the concept of Mole with an example.",
+      "answer": "A mole is a unit to measure the amount of substance. 1 mole of any substance contains 6.022 × 10²³ particles (atoms/molecules). The mass of 1 mole of a substance in grams is equal to its molecular mass. Example: Molecular mass of O₂ is 32u. So, 32g of Oxygen is 1 mole and contains 6.022 × 10²³ molecules."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain how to deduce the chemical formula of a compound using valency (Criss-Cross Method).",
+      "answer": "1. Write symbols of radicals (Basic on left, Acidic on right). 2. Write valency below each symbol. 3. Cross-multiply valencies. 4. Write the formula. Example: Sodium Sulphate. Symbols: Na, SO₄. Valencies: 1, 2. Cross: Na takes 2, SO₄ takes 1. Formula: Na₂SO₄. "
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Differentiate between Atom and Molecule.",
+      "answer": "Atom: Smallest particle of an element, may/may not exist independently, takes part in reactions. Molecule: Smallest particle of element or compound capable of independent existence, formed by group of atoms. Examples: O (Atom), O₂ (Molecule)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What is variable valency? Why do some elements show it? Give examples.",
+      "answer": "Some elements show different valencies in different compounds. This happens because under different conditions, they can lose electrons from the penultimate shell (shell before the outer shell) in addition to valence shell. Examples: Copper (Cu) shows 1, 2. Iron (Fe) shows 2, 3."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Define valency and explain how it varies across periods and groups in the periodic table (basic trend).",
+      "answer": "Valency is the combining capacity. It is determined by valence electrons. For metals (1,2,3 valence electrons), valency is equal to number of valence electrons. For non-metals (5,6,7), valency is 8 minus valence electrons. Valency generally increases from 1 to 4 and then decreases to 0 across a period."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Calculate the number of moles and number of molecules in 36g of Water (H₂O).",
+      "answer": "1. Molecular Mass of H₂O = (2×1) + 16 = 18. 2. No. of Moles = Given Mass / Molecular Mass = 36 / 18 = 2 moles. 3. No. of Molecules = Moles × Avogadro's No = 2 × 6.022 × 10²³ = 12.044 × 10²³ molecules."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Write the steps to calculate molecular mass and calculate it for Sulphuric Acid (H₂SO₄).",
+      "answer": "Steps: 1. Identify constituent atoms. 2. Multiply atomic mass of each atom by its number. 3. Add them up. Calculation: H=1, S=32, O=16. Mass = (2×1) + (1×32) + (4×16) = 2 + 32 + 64 = 98u."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the formation of an ionic compound like Sodium Chloride (NaCl) with electronic configuration.",
+      "answer": "Na (2,8,1) wants to lose 1 electron. Cl (2,8,7) wants to gain 1. Na loses e⁻ → Na⁺ (2,8). Cl gains e⁻ → Cl⁻ (2,8,8). Electrostatic force of attraction holds Na⁺ and Cl⁻ together forming NaCl. "
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What are Radicals? Classify them with examples.",
+      "answer": "Radicals are charged atoms or group of atoms. Classification: 1. Basic Radicals (Cations): Formed by removing electrons (e.g., Na⁺, Mg²⁺). 2. Acidic Radicals (Anions): Formed by gaining electrons (e.g., Cl⁻, S²⁻). 3. Simple Radicals: Single atom (Ag⁺). 4. Composite Radicals: Group of atoms (NH₄⁺, SO₄²⁻)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Describe the history of atomic mass measurement.",
+      "answer": "Initially, Hydrogen being lightest was chosen as reference (Mass=1). Later, Oxygen (16) was used as it reacts with many elements. Finally, in 1961, Carbon-12 isotope was accepted internationally as the standard. 1 unit (1u) = 1/12th of C-12 mass."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain the concept of Electronic Configuration and its relation to Valency.",
+      "answer": "Electronic configuration is the arrangement of electrons in shells (K, L, M, N). The electrons in outermost shell are valence electrons. They determine valency. If valence e⁻ are 1,2,3,4 → Valency is 1,2,3,4. If 5,6,7 → Valency is 8-5=3, 8-6=2, 8-7=1. If 8 → Valency is 0."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Give the chemical formulae for: a) Calcium Hydroxide, b) Sodium Bicarbonate, c) Silver Nitrate, d) Ammonium Sulphate.",
+      "answer": "a) Ca(OH)₂. b) NaHCO₃. c) AgNO₃. d) (NH₄)₂SO₄."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Deduce the molecular masses: Na₂SO₄, K₂CO₃, CO₂, MgCl₂.",
+      "answer": "1. Na₂SO₄: (2×23) + 32 + (4×16) = 142. 2. K₂CO₃: (2×39) + 12 + (3×16) = 138. 3. CO₂: 12 + (2×16) = 44. 4. MgCl₂: 24 + (2×35.5) = 95."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Explain the relationship between Atomic Size and Atomic Radius.",
+      "answer": "Atomic size is determined by atomic radius. Atomic radius is distance from nucleus to outermost shell. Size depends on number of shells. More shells = Larger size. For same shells, more nuclear charge (protons) pulls electrons closer, reducing size."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Classify the following into Simple and Composite radicals: Ag⁺, Mg²⁺, Cl⁻, SO₄²⁻, Fe²⁺, NH₄⁺, NO₃⁻.",
+      "answer": "Simple: Ag⁺, Mg²⁺, Cl⁻, Fe²⁺. Composite: SO₄²⁻, NH₄⁺, NO₃⁻."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain with example how to find number of moles from mass of substance.",
+      "answer": "Formula: n = m / M. Example: Find moles in 12g Magnesium (At mass 24). n = 12 / 24 = 0.5 moles. This means 12g Magnesium contains half of Avogadro's number of atoms."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "If 0.2 mol of Sodium Chloride is required, how many grams should be taken?",
+      "answer": "Molecular Mass of NaCl = 23 + 35.5 = 58.5 g/mol. Mass = Moles × Molecular Mass. Mass = 0.2 × 58.5 = 11.7 grams."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "How is the size of an atom affected in a group and period?",
+      "answer": "In a Group (Downwards): New shells are added, so atomic size increases. In a Period (Left to Right): Shells remain same but nuclear charge increases, pulling electrons closer, so atomic size decreases."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Two samples of copper oxide were obtained by different methods. Sample A: 8g CuO yielded 6.4g Cu. Sample B: 8g CuO yielded 1.6g O. Verify Law of Constant Proportion.",
+      "answer": "Sample A: Cu=6.4g, O=8-6.4=1.6g. Ratio Cu:O = 6.4:1.6 = 4:1. Sample B: O=1.6g, Cu=8-1.6=6.4g. Ratio Cu:O = 6.4:1.6 = 4:1. Since ratio is constant, Law is verified."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the difference between Cations and Anions with respect to formation and charge.",
+      "answer": "Cations: Positively charged, formed by losing electrons, usually metals (e.g., Na⁺). Anions: Negatively charged, formed by gaining electrons, usually non-metals (e.g., Cl⁻)."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Why are elements with valencies 1, 2, 3 usually metals and 5, 6, 7 usually non-metals?",
+      "answer": "Metals tend to lose electrons (1, 2, 3) to become stable, forming cations. Non-metals tend to gain electrons (need 3, 2, 1) to complete octet, forming anions. Valency corresponds to this losing/gaining capacity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the chapter 'Measurement of Matter' in 5 key points.",
+      "answer": "1. Matter is conserved in reactions (Lavoisier) and has fixed composition (Proust). 2. Atom is smallest particle; size measured in nm; mass in Daltons (u). 3. Mole concept links mass to number of particles (Avogadro's No). 4. Valency is combining capacity determined by valence electrons. 5. Chemical formulae are written using symbols and valencies of radicals."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.10",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Changing Life: 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an official language of India mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Konkani", "is_correct": false },
+        { "option_id": 2, "text": "Sindhi", "is_correct": false },
+        { "option_id": 3, "text": "Bhojpuri", "is_correct": true },
+        { "option_id": 4, "text": "Sanskrit", "is_correct": false }
+      ],
+      "answer": "Bhojpuri"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which language has served to unite the country through the medium of movies?",
+      "options": [
+        { "option_id": 1, "text": "English", "is_correct": false },
+        { "option_id": 2, "text": "Hindi", "is_correct": true },
+        { "option_id": 3, "text": "Marathi", "is_correct": false },
+        { "option_id": 4, "text": "Bengali", "is_correct": false }
+      ],
+      "answer": "Hindi"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many Naga languages/dialects were broadcasted by the Kohima radio station in 1961?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "16", "is_correct": false },
+        { "option_id": 3, "text": "25 (including English and Hindi)", "is_correct": true },
+        { "option_id": 4, "text": "5", "is_correct": false }
+      ],
+      "answer": "25 (including English and Hindi)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which language is becoming the 'language of livelihood' due to globalisation?",
+      "options": [
+        { "option_id": 1, "text": "Hindi", "is_correct": false },
+        { "option_id": 2, "text": "English", "is_correct": true },
+        { "option_id": 3, "text": "French", "is_correct": false },
+        { "option_id": 4, "text": "Mandarin", "is_correct": false }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who achieved global excellence in Snooker and Billiards?",
+      "options": [
+        { "option_id": 1, "text": "Kapil Dev", "is_correct": false },
+        { "option_id": 2, "text": "Geet Sethi", "is_correct": true },
+        { "option_id": 3, "text": "Sunil Gavaskar", "is_correct": false },
+        { "option_id": 4, "text": "Viswanathan Anand", "is_correct": false }
+      ],
+      "answer": "Geet Sethi"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "At what age did Geet Sethi win the national championship for teenagers?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": true },
+        { "option_id": 3, "text": "18", "is_correct": false },
+        { "option_id": 4, "text": "20", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was the captain of the Indian cricket team that won the World Cup in 1983?",
+      "options": [
+        { "option_id": 1, "text": "Sunil Gavaskar", "is_correct": false },
+        { "option_id": 2, "text": "Ravi Shastri", "is_correct": false },
+        { "option_id": 3, "text": "Kapil Dev", "is_correct": true },
+        { "option_id": 4, "text": "Sachin Tendulkar", "is_correct": false }
+      ],
+      "answer": "Kapil Dev"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who broke the record of maximum centuries in test cricket in 1983?",
+      "options": [
+        { "option_id": 1, "text": "Kapil Dev", "is_correct": false },
+        { "option_id": 2, "text": "Sunil Gavaskar", "is_correct": true },
+        { "option_id": 3, "text": "Dilip Vengsarkar", "is_correct": false },
+        { "option_id": 4, "text": "Mohinder Amarnath", "is_correct": false }
+      ],
+      "answer": "Sunil Gavaskar"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which cricket championship did India win in 1985?",
+      "options": [
+        { "option_id": 1, "text": "Benson and Hedges World Championship", "is_correct": true },
+        { "option_id": 2, "text": "ICC Champions Trophy", "is_correct": false },
+        { "option_id": 3, "text": "Asia Cup", "is_correct": false },
+        { "option_id": 4, "text": "T20 World Cup", "is_correct": false }
+      ],
+      "answer": "Benson and Hedges World Championship"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who was the first Indian woman to win a medal at the Olympics?",
+      "options": [
+        { "option_id": 1, "text": "P.T. Usha", "is_correct": false },
+        { "option_id": 2, "text": "Karnam Malleshwari", "is_correct": true },
+        { "option_id": 3, "text": "Saina Nehwal", "is_correct": false },
+        { "option_id": 4, "text": "Mary Kom", "is_correct": false }
+      ],
+      "answer": "Karnam Malleshwari"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which sport did Karnam Malleshwari win a medal at the 2000 Olympics?",
+      "options": [
+        { "option_id": 1, "text": "Badminton", "is_correct": false },
+        { "option_id": 2, "text": "Weightlifting", "is_correct": true },
+        { "option_id": 3, "text": "Boxing", "is_correct": false },
+        { "option_id": 4, "text": "Wrestling", "is_correct": false }
+      ],
+      "answer": "Weightlifting"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which themes have replaced earlier mythological and historical themes in theatre?",
+      "options": [
+        { "option_id": 1, "text": "Religious and Spiritual", "is_correct": false },
+        { "option_id": 2, "text": "Political and Social", "is_correct": true },
+        { "option_id": 3, "text": "Fantasy and Sci-fi", "is_correct": false },
+        { "option_id": 4, "text": "Horror and Suspense", "is_correct": false }
+      ],
+      "answer": "Political and Social"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which channel showed the live visual reporting of the Iraq war in 1991?",
+      "options": [
+        { "option_id": 1, "text": "BBC", "is_correct": false },
+        { "option_id": 2, "text": "CNN", "is_correct": true },
+        { "option_id": 3, "text": "Doordarshan", "is_correct": false },
+        { "option_id": 4, "text": "Star News", "is_correct": false }
+      ],
+      "answer": "CNN"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In which year did the private media house STAR enter India?",
+      "options": [
+        { "option_id": 1, "text": "1991", "is_correct": false },
+        { "option_id": 2, "text": "1995", "is_correct": false },
+        { "option_id": 3, "text": "1998", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1998"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the full form of STAR in the context of television?",
+      "options": [
+        { "option_id": 1, "text": "Satellite Television Asian Region", "is_correct": false },
+        { "option_id": 2, "text": "Satellite Television Asia Region", "is_correct": true },
+        { "option_id": 3, "text": "South Television Asia Region", "is_correct": false },
+        { "option_id": 4, "text": "Space Television And Radio", "is_correct": false }
+      ],
+      "answer": "Satellite Television Asia Region"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Name four official languages of India mentioned in the text.",
+      "answer": "Hindi, Marathi, Tamil, Telugu (or any others from the list: Assamese, Bengali, Gujarati, Kannad, Kashmiri, Malayalam, Odiya, Punjabi, Sanskrit, Urdu, Konkani, Manipuri, Nepali, Sindhi)."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Why is the number of dialects in India declining?",
+      "answer": "Because timely steps are not being taken to nurture them."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Why is English gaining ground in India?",
+      "answer": "Due to the process of globalisation that began after 1990 and because it opens doors to multiple job opportunities."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What contribution did Geet Sethi make to sports?",
+      "answer": "He achieved global excellence in Snooker/Billiards, winning amateur and professional world championships, and made the game popular in India."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "How did the 1983 World Cup victory affect cricket in India?",
+      "answer": "It instantly made cricket popular across the country."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Which sports have seen a rise in India's representation at the Olympics?",
+      "answer": "Hockey, badminton, tennis, swimming, weightlifting, and archery."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "How have Indian movies changed in terms of duration?",
+      "answer": "Movies which used to be 3-4 hours long are now of only one or one and a half hours."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What replaced the concept of 'one screen cinema hall'?",
+      "answer": "Multiplexes."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "How has the economy of movies changed?",
+      "answer": "Now one movie runs in thousands of cinema halls simultaneously in India and abroad, attaining the status of an industry."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What were the objectives of newspapers in the early post-independence period?",
+      "answer": "To give news, print advertisements, shape public opinion, lead constructive work, educate the public, and watch over the government."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "How have newspapers changed their scope of activity?",
+      "answer": "They now raise funds for drought/flood victims, help meritorious students, and sponsor cultural programmes."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which TV serials proved the popularity of the medium?",
+      "answer": "Ramayana and Mahabharat."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What does 'OB van' stand for?",
+      "answer": "Outdoor Broadcasting van."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What effect did the entry of private media houses have on TV news?",
+      "answer": "It brought transparency and variety, replacing the uninteresting and monotonous propagandist news telecasts of the early period."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Describe the linguistic diversity in Nagaland in 1961.",
+      "answer": "In 1961, Nagaland had a wide variety of languages. The Kohima radio station had to broadcast in 25 languages, which included English, Hindi, Naga dialects, and 16 Naga languages such as Angami, Sema, Lotha, and Konyak."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the changes in the field of Sports in post-independence India.",
+      "answer": "Initially, only a few games were known. Geet Sethi popularized billiards by winning global championships. Cricket became immensely popular after the 1983 World Cup win under Kapil Dev and the 1985 Benson and Hedges victory. Sunil Gavaskar set batting records. In Olympics, India's participation grew in various sports, and Karnam Malleshwari became the first Indian woman to win a medal in 2000."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "How has the Indian film industry evolved over time?",
+      "answer": "The industry moved from black and white to coloured movies. 'Musicals' declined, replaced by political and social themes. Movies now reflect contemporary politics, technology, and industry. Shooting moved abroad. Hindi movies reached a global audience. The duration shortened to 1.5-2 hours. Single screens gave way to multiplexes, and simultaneous releases in thousands of halls changed the movie economy."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Discuss the changing role and nature of newspapers in India.",
+      "answer": "Early newspapers focused on daily news, advertisements, and shaping public opinion. They were black and white and often limited to districts. With changing times, colour printing became common. State-level chains provided tough competition to local papers. Newspapers became more active socially, raising funds for disaster relief and supporting education, thus becoming an inseparable part of life."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Trace the development of Television in India.",
+      "answer": "Television started as a black and white medium with limited educational and news programmes. It later became coloured. Serials like Ramayana and Mahabharat showed its popularity. The 1991 Gulf War coverage by CNN changed the landscape. In 1998, private players like STAR entered, bringing modern technology, OB vans, and variety, making news more transparent and interesting."
+    }
+  ]
+}

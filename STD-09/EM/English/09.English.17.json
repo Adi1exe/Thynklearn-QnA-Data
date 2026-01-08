@@ -1,0 +1,365 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.17",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Storyteller"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where does the story take place?",
+      "options": [
+        { "option_id": 1, "text": "In a school classroom", "is_correct": false },
+        { "option_id": 2, "text": "In a railway carriage", "is_correct": true },
+        { "option_id": 3, "text": "In a park", "is_correct": false },
+        { "option_id": 4, "text": "At a railway station", "is_correct": false }
+      ],
+      "answer": "In a railway carriage"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was accompanying the three children in the carriage?",
+      "options": [
+        { "option_id": 1, "text": "Their mother", "is_correct": false },
+        { "option_id": 2, "text": "Their father", "is_correct": false },
+        { "option_id": 3, "text": "Their aunt", "is_correct": true },
+        { "option_id": 4, "text": "Their grandmother", "is_correct": false }
+      ],
+      "answer": "Their aunt"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the stranger sitting in the opposite corner?",
+      "options": [
+        { "option_id": 1, "text": "A doctor", "is_correct": false },
+        { "option_id": 2, "text": "A bachelor", "is_correct": true },
+        { "option_id": 3, "text": "A teacher", "is_correct": false },
+        { "option_id": 4, "text": "A soldier", "is_correct": false }
+      ],
+      "answer": "A bachelor"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What question did Cyril ask about the sheep?",
+      "options": [
+        { "option_id": 1, "text": "Why are they black?", "is_correct": false },
+        { "option_id": 2, "text": "Where are they going?", "is_correct": false },
+        { "option_id": 3, "text": "Why are they being driven out of that field?", "is_correct": true },
+        { "option_id": 4, "text": "Can I pet them?", "is_correct": false }
+      ],
+      "answer": "Why are they being driven out of that field?"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What reason did the aunt give for the sheep being driven out?",
+      "options": [
+        { "option_id": 1, "text": "To be sheared", "is_correct": false },
+        { "option_id": 2, "text": "To be sold", "is_correct": false },
+        { "option_id": 3, "text": "Because there is no grass in the field", "is_correct": false },
+        { "option_id": 4, "text": "So they can turn into the other field which has more grass", "is_correct": true }
+      ],
+      "answer": "So they can turn into the other field which has more grass"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the aunt's story, what saved the good little girl from the mad bull?",
+      "options": [
+        { "option_id": 1, "text": "Her dog", "is_correct": false },
+        { "option_id": 2, "text": "A number of rescuers who admired her moral character", "is_correct": true },
+        { "option_id": 3, "text": "Her ability to run fast", "is_correct": false },
+        { "option_id": 4, "text": "A prince", "is_correct": false }
+      ],
+      "answer": "A number of rescuers who admired her moral character"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was the children's reaction to the aunt's story?",
+      "options": [
+        { "option_id": 1, "text": "They loved it", "is_correct": false },
+        { "option_id": 2, "text": "They thought it was the most stupid story they ever heard", "is_correct": true },
+        { "option_id": 3, "text": "They asked for another one", "is_correct": false },
+        { "option_id": 4, "text": "They fell asleep", "is_correct": false }
+      ],
+      "answer": "They thought it was the most stupid story they ever heard"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How did the bachelor describe Bertha in his story?",
+      "options": [
+        { "option_id": 1, "text": "Very naughty", "is_correct": false },
+        { "option_id": 2, "text": "Horribly good", "is_correct": true },
+        { "option_id": 3, "text": "Very smart", "is_correct": false },
+        { "option_id": 4, "text": "Very beautiful", "is_correct": false }
+      ],
+      "answer": "Horribly good"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following was NOT one of the medals Bertha wore?",
+      "options": [
+        { "option_id": 1, "text": "Medal for obedience", "is_correct": false },
+        { "option_id": 2, "text": "Medal for punctuality", "is_correct": false },
+        { "option_id": 3, "text": "Medal for bravery", "is_correct": true },
+        { "option_id": 4, "text": "Medal for good behaviour", "is_correct": false }
+      ],
+      "answer": "Medal for bravery"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What sound did the medals make as Bertha walked?",
+      "options": [
+        { "option_id": 1, "text": "They chimed", "is_correct": false },
+        { "option_id": 2, "text": "They clinked", "is_correct": true },
+        { "option_id": 3, "text": "They rusted", "is_correct": false },
+        { "option_id": 4, "text": "They were silent", "is_correct": false }
+      ],
+      "answer": "They clinked"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why were there no flowers in the Prince's park?",
+      "options": [
+        { "option_id": 1, "text": "The Prince hated flowers", "is_correct": false },
+        { "option_id": 2, "text": "The pigs had eaten them all", "is_correct": true },
+        { "option_id": 3, "text": "It was winter", "is_correct": false },
+        { "option_id": 4, "text": "The gardener was lazy", "is_correct": false }
+      ],
+      "answer": "The pigs had eaten them all"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What animal came into the park to eat Bertha?",
+      "options": [
+        { "option_id": 1, "text": "A tiger", "is_correct": false },
+        { "option_id": 2, "text": "A bear", "is_correct": false },
+        { "option_id": 3, "text": "A wolf", "is_correct": true },
+        { "option_id": 4, "text": "A lion", "is_correct": false }
+      ],
+      "answer": "A wolf"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did Bertha hide from the wolf?",
+      "options": [
+        { "option_id": 1, "text": "In a cave", "is_correct": false },
+        { "option_id": 2, "text": "Behind a tree", "is_correct": false },
+        { "option_id": 3, "text": "In a myrtle bush", "is_correct": true },
+        { "option_id": 4, "text": "In the palace", "is_correct": false }
+      ],
+      "answer": "In a myrtle bush"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What betrayed Bertha's location to the wolf?",
+      "options": [
+        { "option_id": 1, "text": "Her sneezing", "is_correct": false },
+        { "option_id": 2, "text": "Her crying", "is_correct": false },
+        { "option_id": 3, "text": "The clinking of her medals", "is_correct": true },
+        { "option_id": 4, "text": "Her white pinafore", "is_correct": false }
+      ],
+      "answer": "The clinking of her medals"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How did the children describe the bachelor's story?",
+      "options": [
+        { "option_id": 1, "text": "Improper", "is_correct": false },
+        { "option_id": 2, "text": "The most beautiful story they ever heard", "is_correct": true },
+        { "option_id": 3, "text": "Boring", "is_correct": false },
+        { "option_id": 4, "text": "Scary", "is_correct": false }
+      ],
+      "answer": "The most beautiful story they ever heard"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was the aunt's reaction to the bachelor's story?",
+      "options": [
+        { "option_id": 1, "text": "She was amused", "is_correct": false },
+        { "option_id": 2, "text": "She thought it was improper", "is_correct": true },
+        { "option_id": 3, "text": "She laughed", "is_correct": false },
+        { "option_id": 4, "text": "She fell asleep", "is_correct": false }
+      ],
+      "answer": "She thought it was improper"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What type of story is 'The Storyteller'?",
+      "options": [
+        { "option_id": 1, "text": "A fairy tale", "is_correct": false },
+        { "option_id": 2, "text": "A satire", "is_correct": true },
+        { "option_id": 3, "text": "A myth", "is_correct": false },
+        { "option_id": 4, "text": "A legend", "is_correct": false }
+      ],
+      "answer": "A satire"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why were the children in the railway carriage restless?",
+      "answer": "The children were restless because it was a hot afternoon, the carriage was sultry, and they had little to do."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the nature of the questions Cyril asked his aunt?",
+      "answer": "Cyril asked persistent 'Why' questions about his surroundings, such as why the sheep were being driven out of the field."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did the aunt decide to tell the children a story?",
+      "answer": "The aunt decided to tell a story to keep the children quiet and stop them from misbehaving."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was the moral of the aunt's story?",
+      "answer": "The moral of the aunt's story was that if you are good, people will save you because they admire your moral character."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did the bachelor describe the girl in his story to catch the children's attention?",
+      "answer": "He described her as 'horribly good', which sparked the children's interest because it was a contradiction."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why did the Prince allow Bertha into his park?",
+      "answer": "The Prince allowed Bertha into his park once a week because she was so good."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What animals were in the park instead of sheep?",
+      "answer": "There were no sheep in the park, but there were lots of pigs."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did the Prince decide to keep pigs instead of flowers?",
+      "answer": "The Prince decided to keep pigs, and since the pigs would eat the flowers, he couldn't have both, so he chose pigs."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why did Bertha think she shouldn't have come to the park?",
+      "answer": "When the wolf appeared, Bertha wished she hadn't been so extraordinarily good, as that was the reason she was allowed in the park."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What role did the medals play in Bertha's death?",
+      "answer": "The clinking of the medals against each other gave away Bertha's hiding spot to the wolf."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What was the 'ring of truth' that the children found in the bachelor's story?",
+      "answer": "The detail about the Prince choosing pigs over flowers because he couldn't have both made the story seem real to the children."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did the aunt consider the bachelor's story 'improper'?",
+      "answer": "She felt it undermined the effect of years of careful teaching by showing that being good doesn't always lead to a happy ending."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the bachelor's response to the aunt's criticism?",
+      "answer": "He stated that at least he managed to keep the children quiet for ten minutes, which was more than she could do."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'horribly good' suggest?",
+      "answer": "It suggests an excessive, almost unnatural level of goodness that is annoying or boring rather than virtuous."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did the smaller girl begin to recite 'On the Road to Mandalay'?",
+      "answer": "She was bored and wanted to entertain herself, repeating the first line over and over again."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did the bachelor say about the aunt's success as a storyteller?",
+      "answer": "He said, 'You don't seem to be a success as a storyteller,' implying her story was boring and ineffective."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does the wolf represent in the bachelor's story?",
+      "answer": "The wolf represents a realistic danger or force of nature that does not care about moral medals or goodness."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What happened to the three medals at the end of the story?",
+      "answer": "The three medals were left on the floor of the park after the wolf had eaten Bertha."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why did the children think the bachelor's story had a 'beautiful ending'?",
+      "answer": "They appreciated the unexpected twist where the 'good' character didn't get a typical happy ending, which they found exciting."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What implies that the Prince in the story was eccentric?",
+      "answer": "His decision to have pigs but no flowers in his park because of a dream (or just preference) suggests he was eccentric."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Compare the story told by the aunt with the story told by the bachelor.",
+      "answer": "The aunt's story was a traditional, moralistic tale about a good girl who is saved from a mad bull because everyone admires her goodness. It was dull and predictable, failing to engage the children. In contrast, the bachelor's story was unconventional and satirical. It featured a 'horribly good' girl who is eaten by a wolf precisely because her medals for goodness gave her away. The bachelor's story contained realistic details (like pigs eating flowers) and a dark twist, which the children found 'beautiful' and entertaining."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "What is the satirical element in the story 'The Storyteller'?",
+      "answer": "The story satirizes the conventional method of teaching moral values to children through boring, unrealistic stories where goodness is always rewarded. Saki mocks the aunt's ineffective attempt to control the children with a dull story. The bachelor's story turns the moral lesson on its head: Bertha's extreme goodness (symbolized by her medals) actually leads to her death. This challenges the idea that virtue is its own protection and suggests that children prefer entertainment and realism over heavy-handed moralizing."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Analyze the character of the aunt based on her interaction with the children.",
+      "answer": "The aunt is portrayed as conventional, unimaginative, and incapable of understanding or managing children. She constantly says 'Don't' and fails to answer their questions satisfactorily, as seen with Cyril's query about the sheep. Her story is meant to be educational but is merely boring. She is easily shocked by the bachelor's 'improper' story and fails to see why the children preferred it. She represents the rigid, ineffective adult authority figure that Saki often mocks."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the title 'The Storyteller'.",
+      "answer": "The title refers primarily to the bachelor, who proves to be a superior storyteller compared to the aunt. While the aunt fails to capture the children's imagination with her moralistic tale, the bachelor succeeds by understanding what children actually find interesting—action, novelty, and a lack of preachy morals. The title highlights the art of storytelling itself, suggesting that a good story needs 'the ring of truth' and entertainment value rather than just a moral lesson."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Why did the children appreciate the detail about the pigs and flowers in the bachelor's story?",
+      "answer": "The children appreciated the detail about the pigs eating the flowers because it offered a logical, albeit unusual, explanation for why there were no flowers in the park. In the aunt's world, things happen for moral reasons; in the bachelor's story, things happen for practical reasons (pigs eat flowers). This detail gave the story a 'ring of truth' and coherence that the children felt was lacking in the aunt's simplistic narrative. It showed the bachelor treated them as intelligent listeners."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.10",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Autumn"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the original poet of the poem 'Autumn'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Kalidas", "is_correct": true },
+        { "option_id": 3, "text": "John Keats", "is_correct": false },
+        { "option_id": 4, "text": "Prof. A. W. Ryder", "is_correct": false }
+      ],
+      "answer": "Kalidas"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who translated the poem 'Autumn' into English?",
+      "options": [
+        { "option_id": 1, "text": "Rabindranath Tagore", "is_correct": false },
+        { "option_id": 2, "text": "Sarojini Naidu", "is_correct": false },
+        { "option_id": 3, "text": "Prof. A. W. Ryder", "is_correct": true },
+        { "option_id": 4, "text": "Ruskin Bond", "is_correct": false }
+      ],
+      "answer": "Prof. A. W. Ryder"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How is the season of Autumn personified in the poem?",
+      "options": [
+        { "option_id": 1, "text": "As a warrior", "is_correct": false },
+        { "option_id": 2, "text": "As a maiden fair", "is_correct": true },
+        { "option_id": 3, "text": "As an old woman", "is_correct": false },
+        { "option_id": 4, "text": "As a playful child", "is_correct": false }
+      ],
+      "answer": "As a maiden fair"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the maiden Autumn have in her hair?",
+      "options": [
+        { "option_id": 1, "text": "Roses", "is_correct": false },
+        { "option_id": 2, "text": "Nodding rice-stems", "is_correct": true },
+        { "option_id": 3, "text": "Jasmine flowers", "is_correct": false },
+        { "option_id": 4, "text": "Golden leaves", "is_correct": false }
+      ],
+      "answer": "Nodding rice-stems"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is compared to the maiden's face in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Lilies", "is_correct": true },
+        { "option_id": 2, "text": "Sunflowers", "is_correct": false },
+        { "option_id": 3, "text": "The Moon", "is_correct": false },
+        { "option_id": 4, "text": "Lotus", "is_correct": false }
+      ],
+      "answer": "Lilies"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the maiden Autumn clad in?",
+      "options": [
+        { "option_id": 1, "text": "Silk robes", "is_correct": false },
+        { "option_id": 2, "text": "Flowers of grasses", "is_correct": true },
+        { "option_id": 3, "text": "Fallen leaves", "is_correct": false },
+        { "option_id": 4, "text": "White cotton", "is_correct": false }
+      ],
+      "answer": "Flowers of grasses"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What sound greets the maiden as she moves along?",
+      "options": [
+        { "option_id": 1, "text": "The wind whistling", "is_correct": false },
+        { "option_id": 2, "text": "Birds cooing glad", "is_correct": true },
+        { "option_id": 3, "text": "Rivers flowing", "is_correct": false },
+        { "option_id": 4, "text": "Children laughing", "is_correct": false }
+      ],
+      "answer": "Birds cooing glad"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The cooing of birds is compared to which ornament's sound?",
+      "options": [
+        { "option_id": 1, "text": "A necklace", "is_correct": false },
+        { "option_id": 2, "text": "An anklet", "is_correct": false },
+        { "option_id": 3, "text": "A bracelet's tinkling song", "is_correct": true },
+        { "option_id": 4, "text": "A ring", "is_correct": false }
+      ],
+      "answer": "A bracelet's tinkling song"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What adorns the night in the season of Autumn?",
+      "options": [
+        { "option_id": 1, "text": "A diadem of multitudinous stars", "is_correct": true },
+        { "option_id": 2, "text": "Dark clouds", "is_correct": false },
+        { "option_id": 3, "text": "Bright lightning", "is_correct": false },
+        { "option_id": 4, "text": "Heavy rain", "is_correct": false }
+      ],
+      "answer": "A diadem of multitudinous stars"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the 'silken robe' of the maiden Autumn at night?",
+      "options": [
+        { "option_id": 1, "text": "Darkness", "is_correct": false },
+        { "option_id": 2, "text": "White moonlight", "is_correct": true },
+        { "option_id": 3, "text": "Blue sky", "is_correct": false },
+        { "option_id": 4, "text": "Mist", "is_correct": false }
+      ],
+      "answer": "White moonlight"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the phrase 'set free from cloudy bars' refer to?",
+      "options": [
+        { "option_id": 1, "text": "The moonlight", "is_correct": true },
+        { "option_id": 2, "text": "The birds", "is_correct": false },
+        { "option_id": 3, "text": "The grass", "is_correct": false },
+        { "option_id": 4, "text": "The river", "is_correct": false }
+      ],
+      "answer": "The moonlight"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What represents the maiden's face at night?",
+      "options": [
+        { "option_id": 1, "text": "The stars", "is_correct": false },
+        { "option_id": 2, "text": "The radiant moon", "is_correct": true },
+        { "option_id": 3, "text": "The dark sky", "is_correct": false },
+        { "option_id": 4, "text": "The clouds", "is_correct": false }
+      ],
+      "answer": "The radiant moon"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What kind of smiles are shown on the maiden's face?",
+      "options": [
+        { "option_id": 1, "text": "Sorrowful smiles", "is_correct": false },
+        { "option_id": 2, "text": "Bewitching smiles", "is_correct": true },
+        { "option_id": 3, "text": "Angry smiles", "is_correct": false },
+        { "option_id": 4, "text": "Tired smiles", "is_correct": false }
+      ],
+      "answer": "Bewitching smiles"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The poem suggests that the slender maid will soon become what?",
+      "options": [
+        { "option_id": 1, "text": "An old lady", "is_correct": false },
+        { "option_id": 2, "text": "A woman grown", "is_correct": true },
+        { "option_id": 3, "text": "A child again", "is_correct": false },
+        { "option_id": 4, "text": "A ghost", "is_correct": false }
+      ],
+      "answer": "A woman grown"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the word 'diadem' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "A type of flower", "is_correct": false },
+        { "option_id": 2, "text": "A crown", "is_correct": true },
+        { "option_id": 3, "text": "A dress", "is_correct": false },
+        { "option_id": 4, "text": "A bracelet", "is_correct": false }
+      ],
+      "answer": "A crown"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which poetic device is used in 'Like a bracelet's tinkling song'?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Simile", "is_correct": true },
+        { "option_id": 3, "text": "Alliteration", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Simile"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'multitudinous'?",
+      "options": [
+        { "option_id": 1, "text": "Very few", "is_correct": false },
+        { "option_id": 2, "text": "Bright", "is_correct": false },
+        { "option_id": 3, "text": "Numerous or many", "is_correct": true },
+        { "option_id": 4, "text": "Distant", "is_correct": false }
+      ],
+      "answer": "Numerous or many"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How is the arrival of Autumn described in the first stanza?",
+      "answer": "Autumn is described as a maiden fair arriving with slenderness and grace."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What elements of nature make up the maiden's appearance in the day?",
+      "answer": "She has nodding rice-stems in her hair, lilies in her face, and is clad in flowers of grasses."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How do birds greet the maiden Autumn?",
+      "answer": "Birds greet her with their glad cooing, which sounds like the tinkling song of a bracelet."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the maiden Autumn wear at night?",
+      "answer": "At night, she wears a diadem of multitudinous stars and a silken robe of white moonlight."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'cloudy bars' imply?",
+      "answer": "The phrase 'cloudy bars' implies patches of clouds that previously obstructed or imprisoned the moonlight."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Identify the metaphor used for the moon in the poem.",
+      "answer": "The moon is metaphorically described as the radiant face of the maiden Autumn."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is the moon described as 'radiant'?",
+      "answer": "The moon is described as radiant because it shines brightly and shows bewitching smiles."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What transformation is predicted for the slender maid at the end of the poem?",
+      "answer": "The poem predicts that the slender maid will soon transform into a grown woman."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the 'slenderness' of the maiden represent in nature?",
+      "answer": "The slenderness likely represents the beginning of the season when nature is delicate before full harvest."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who has translated this poem from its original language?",
+      "answer": "The poem was translated by Prof. A. W. Ryder."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are the 'flowers of grasses' used for in the poem?",
+      "answer": "The 'flowers of grasses' are used to describe the clothing or dress of the maiden Autumn."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Explain the comparison 'Like a bracelet's tinkling song'.",
+      "answer": "The sound of birds cooing is compared to the pleasant, jingling sound made by a bracelet."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What feeling does the word 'bewitching' convey regarding the moon?",
+      "answer": "The word 'bewitching' conveys a sense of enchantment, attractiveness, and magical beauty."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which season is being personified in the poem?",
+      "answer": "The season of Autumn is being personified in the poem."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the first stanza?",
+      "answer": "The rhyme scheme of the first stanza is abab (hair/fair, face/grace - noting the alternating rhyme structure)."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain how the poet personifies Autumn as a maiden fair.",
+      "answer": "The poet personifies Autumn by giving her human physical attributes and accessories. She is described as slender and graceful, wearing rice-stems in her hair and lilies on her face. Her clothing is made of grass flowers, and she wears a diadem of stars and a robe of moonlight at night. These human-like descriptions bring the season to life as a beautiful young woman."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the imagery of night as presented in the poem 'Autumn'.",
+      "answer": "The poem presents a vivid and beautiful image of the night during Autumn. The night is adorned with a 'diadem' or crown of countless stars. The moonlight is described as a white 'silken robe' that flows freely, no longer trapped by clouds. The moon itself is personified as the maiden's radiant face, displaying bewitching smiles, creating a serene and magical atmosphere."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Interpret the lines: 'She seems a slender maid, who soon / Will be a woman grown.'",
+      "answer": "These lines suggest the progression of the season. Initially, Autumn is delicate and slender, like a young maiden, representing the early phase of the season. However, as time passes, the season will mature and reach its peak fullness, just as a young maiden grows into a woman. This implies the transition from early harvest to the full abundance of the season."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "How does the poet use nature to describe the maiden's accessories and clothing?",
+      "answer": "The poet cleverly uses natural elements to represent the maiden's attire. Her hair is decorated with 'nodding rice-stems', and her face resembles 'lilies'. She is dressed in 'flowers of grasses', and the cooing of birds acts as the sound of her bracelets. At night, the stars form her crown, and the moonlight becomes her silken robe, seamlessly blending nature with human fashion."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Discuss the use of simile and metaphor in the poem with examples.",
+      "answer": "The poem effectively uses both simile and metaphor. A prominent simile is found in the line 'Birds greet her with their cooing glad / Like a bracelet's tinkling song,' comparing bird sounds to jewelry. Metaphors are used throughout, such as describing Autumn directly as 'a maiden fair,' the stars as a 'diadem,' and the moonlight as a 'silken robe.' These devices enrich the visual imagery of the poem."
+    }
+  ]
+}

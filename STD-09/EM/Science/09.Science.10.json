@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.10",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Information Communication Technology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The term ICT stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Information Control Technology", "is_correct": false },
+        { "option_id": 2, "text": "Internet Communication Technology", "is_correct": false },
+        { "option_id": 3, "text": "Information Communication Technology", "is_correct": true },
+        { "option_id": 4, "text": "International Computer Technology", "is_correct": false }
+      ],
+      "answer": "Information Communication Technology"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an input device?",
+      "options": [
+        { "option_id": 1, "text": "Keyboard", "is_correct": false },
+        { "option_id": 2, "text": "Mouse", "is_correct": false },
+        { "option_id": 3, "text": "Printer", "is_correct": true },
+        { "option_id": 4, "text": "Scanner", "is_correct": false }
+      ],
+      "answer": "Printer"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The 'brain' of the computer is ________.",
+      "options": [
+        { "option_id": 1, "text": "Hard Disk", "is_correct": false },
+        { "option_id": 2, "text": "CPU (Central Processing Unit)", "is_correct": true },
+        { "option_id": 3, "text": "Monitor", "is_correct": false },
+        { "option_id": 4, "text": "Keyboard", "is_correct": false }
+      ],
+      "answer": "CPU (Central Processing Unit)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "RAM stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Read Access Memory", "is_correct": false },
+        { "option_id": 2, "text": "Random Access Memory", "is_correct": true },
+        { "option_id": 3, "text": "Read Arithmetic Memory", "is_correct": false },
+        { "option_id": 4, "text": "Random Available Memory", "is_correct": false }
+      ],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ROM stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Random Only Memory", "is_correct": false },
+        { "option_id": 2, "text": "Read Only Memory", "is_correct": true },
+        { "option_id": 3, "text": "Read On Memory", "is_correct": false },
+        { "option_id": 4, "text": "Real Only Memory", "is_correct": false }
+      ],
+      "answer": "Read Only Memory"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of these is an operating system?",
+      "options": [
+        { "option_id": 1, "text": "Microsoft Word", "is_correct": false },
+        { "option_id": 2, "text": "Excel", "is_correct": false },
+        { "option_id": 3, "text": "Windows", "is_correct": true },
+        { "option_id": 4, "text": "PowerPoint", "is_correct": false }
+      ],
+      "answer": "Windows"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The first generation of computers used ________.",
+      "options": [
+        { "option_id": 1, "text": "Transistors", "is_correct": false },
+        { "option_id": 2, "text": "Vacuum Tubes", "is_correct": true },
+        { "option_id": 3, "text": "Integrated Circuits (IC)", "is_correct": false },
+        { "option_id": 4, "text": "Microprocessors", "is_correct": false }
+      ],
+      "answer": "Vacuum Tubes"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which software is used for making presentations?",
+      "options": [
+        { "option_id": 1, "text": "Microsoft Word", "is_correct": false },
+        { "option_id": 2, "text": "Microsoft Excel", "is_correct": false },
+        { "option_id": 3, "text": "Microsoft PowerPoint", "is_correct": true },
+        { "option_id": 4, "text": "Adobe Reader", "is_correct": false }
+      ],
+      "answer": "Microsoft PowerPoint"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "PDF stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Portable Document Format", "is_correct": true },
+        { "option_id": 2, "text": "Public Document Format", "is_correct": false },
+        { "option_id": 3, "text": "Private Data Format", "is_correct": false },
+        { "option_id": 4, "text": "Printable Document File", "is_correct": false }
+      ],
+      "answer": "Portable Document Format"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which key is used to start a slideshow in PowerPoint?",
+      "options": [
+        { "option_id": 1, "text": "F1", "is_correct": false },
+        { "option_id": 2, "text": "F5", "is_correct": true },
+        { "option_id": 3, "text": "F12", "is_correct": false },
+        { "option_id": 4, "text": "Esc", "is_correct": false }
+      ],
+      "answer": "F5"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The ALU in a computer stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "All Logic Unit", "is_correct": false },
+        { "option_id": 2, "text": "Arithmetic Logic Unit", "is_correct": true },
+        { "option_id": 3, "text": "Arithmetic Linear Unit", "is_correct": false },
+        { "option_id": 4, "text": "Automatic Logic Unit", "is_correct": false }
+      ],
+      "answer": "Arithmetic Logic Unit"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which generation of computers uses Artificial Intelligence (AI)?",
+      "options": [
+        { "option_id": 1, "text": "Third", "is_correct": false },
+        { "option_id": 2, "text": "Fourth", "is_correct": false },
+        { "option_id": 3, "text": "Fifth", "is_correct": true },
+        { "option_id": 4, "text": "Second", "is_correct": false }
+      ],
+      "answer": "Fifth"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is an Output Device?",
+      "options": [
+        { "option_id": 1, "text": "Scanner", "is_correct": false },
+        { "option_id": 2, "text": "Mouse", "is_correct": false },
+        { "option_id": 3, "text": "Speaker", "is_correct": true },
+        { "option_id": 4, "text": "Microphone", "is_correct": false }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The memory that stores data permanently is ________.",
+      "options": [
+        { "option_id": 1, "text": "RAM", "is_correct": false },
+        { "option_id": 2, "text": "Hard Disk", "is_correct": true },
+        { "option_id": 3, "text": "Cache", "is_correct": false },
+        { "option_id": 4, "text": "Register", "is_correct": false }
+      ],
+      "answer": "Hard Disk"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Software refers to ________.",
+      "options": [
+        { "option_id": 1, "text": "Physical parts of computer", "is_correct": false },
+        { "option_id": 2, "text": "Set of commands/programs", "is_correct": true },
+        { "option_id": 3, "text": "The user", "is_correct": false },
+        { "option_id": 4, "text": "The power supply", "is_correct": false }
+      ],
+      "answer": "Set of commands/programs"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which institute developed India's first supercomputer?",
+      "options": [
+        { "option_id": 1, "text": "ISRO", "is_correct": false },
+        { "option_id": 2, "text": "C-DAC", "is_correct": true },
+        { "option_id": 3, "text": "BARC", "is_correct": false },
+        { "option_id": 4, "text": "IIT Bombay", "is_correct": false }
+      ],
+      "answer": "C-DAC"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the full form of C-DAC?",
+      "options": [
+        { "option_id": 1, "text": "Centre for Development of Advanced Computing", "is_correct": true },
+        { "option_id": 2, "text": "Centre for Data and Computing", "is_correct": false },
+        { "option_id": 3, "text": "Computer Development and Application Centre", "is_correct": false },
+        { "option_id": 4, "text": "Central Department of Advanced Computing", "is_correct": false }
+      ],
+      "answer": "Centre for Development of Advanced Computing"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who is considered the leader of the Param supercomputer project?",
+      "options": [
+        { "option_id": 1, "text": "Dr. A.P.J. Abdul Kalam", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Vijay Bhatkar", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Vikram Sarabhai", "is_correct": false }
+      ],
+      "answer": "Dr. Vijay Bhatkar"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which command is used to save a file?",
+      "options": [
+        { "option_id": 1, "text": "Ctrl + C", "is_correct": false },
+        { "option_id": 2, "text": "Ctrl + V", "is_correct": false },
+        { "option_id": 3, "text": "Ctrl + S", "is_correct": true },
+        { "option_id": 4, "text": "Ctrl + P", "is_correct": false }
+      ],
+      "answer": "Ctrl + S"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In Microsoft Excel, the intersection of a row and a column is called a ________.",
+      "options": [
+        { "option_id": 1, "text": "Table", "is_correct": false },
+        { "option_id": 2, "text": "Cell", "is_correct": true },
+        { "option_id": 3, "text": "Sheet", "is_correct": false },
+        { "option_id": 4, "text": "Box", "is_correct": false }
+      ],
+      "answer": "Cell"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "To select all content in a document, we use ________.",
+      "options": [
+        { "option_id": 1, "text": "Ctrl + A", "is_correct": true },
+        { "option_id": 2, "text": "Ctrl + Z", "is_correct": false },
+        { "option_id": 3, "text": "Ctrl + X", "is_correct": false },
+        { "option_id": 4, "text": "Ctrl + B", "is_correct": false }
+      ],
+      "answer": "Ctrl + A"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Computers process data into ________.",
+      "options": [
+        { "option_id": 1, "text": "Numbers", "is_correct": false },
+        { "option_id": 2, "text": "Information", "is_correct": true },
+        { "option_id": 3, "text": "Software", "is_correct": false },
+        { "option_id": 4, "text": "Hardware", "is_correct": false }
+      ],
+      "answer": "Information"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The first generation computers generated a lot of ________.",
+      "options": [
+        { "option_id": 1, "text": "Cold", "is_correct": false },
+        { "option_id": 2, "text": "Heat", "is_correct": true },
+        { "option_id": 3, "text": "Speed", "is_correct": false },
+        { "option_id": 4, "text": "Memory", "is_correct": false }
+      ],
+      "answer": "Heat"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Microsoft Word is mainly used for ________.",
+      "options": [
+        { "option_id": 1, "text": "Calculations", "is_correct": false },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Writing and formatting text", "is_correct": true },
+        { "option_id": 4, "text": "Playing music", "is_correct": false }
+      ],
+      "answer": "Writing and formatting text"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which symbol is used to start a formula in Excel?",
+      "options": [
+        { "option_id": 1, "text": "+", "is_correct": false },
+        { "option_id": 2, "text": "-", "is_correct": false },
+        { "option_id": 3, "text": "=", "is_correct": true },
+        { "option_id": 4, "text": "*", "is_correct": false }
+      ],
+      "answer": "="
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define ICT (Information Communication Technology).",
+      "answer": "ICT includes communication devices, the use of those devices, and the services provided with their help for collecting, processing, and sharing information."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What are the main components of a computer system?",
+      "answer": "The main components are Input Unit, Processing Unit (CPU), Output Unit, and Memory Unit."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the function of the Input Unit?",
+      "answer": "The Input Unit takes information and commands from the user and feeds them into the computer. E.g., Keyboard, Mouse."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the function of the Output Unit?",
+      "answer": "The Output Unit displays or gives the processed result/information to the user. E.g., Monitor, Printer."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Explain the role of the CPU.",
+      "answer": "The CPU (Central Processing Unit) controls all functions of the computer, processes data, and coordinates other units. It is the brain of the computer."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the difference between Hardware and Software?",
+      "answer": "Hardware consists of physical parts of a computer (e.g., mouse, monitor). Software is a set of programs or commands that operate the hardware (e.g., Windows, Word)."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Define Operating System.",
+      "answer": "An operating system is a software that manages computer hardware and software resources and provides services for computer programs. It acts as an interface between the user and computer."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is RAM?",
+      "answer": "RAM (Random Access Memory) is a volatile memory that temporarily stores data and programs currently in use. Data is lost when power is off."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is ROM?",
+      "answer": "ROM (Read Only Memory) is a non-volatile memory that stores permanent instructions required to start the computer. Data cannot be easily altered."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Name two input devices.",
+      "answer": "Keyboard, Mouse."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Name two output devices.",
+      "answer": "Monitor (Screen), Printer."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the use of Microsoft Word?",
+      "answer": "It is used for creating, editing, formatting, and printing text documents like letters, reports, and essays."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is the use of Microsoft Excel?",
+      "answer": "It is used for creating spreadsheets, performing calculations using formulas, analysing data, and drawing graphs."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the use of Microsoft PowerPoint?",
+      "answer": "It is used for creating visual presentations with slides, images, videos, and animations."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is a Browser? Give an example.",
+      "answer": "A browser is an application software used to access and view websites on the internet. Example: Google Chrome, Mozilla Firefox."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the first generation of computers characterized by?",
+      "answer": "They used Vacuum Tubes, were very large, consumed huge electricity, and generated a lot of heat (e.g., ENIAC)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is ENIAC?",
+      "answer": "ENIAC (Electronic Numerical Integrator and Computer) was the first general-purpose electronic computer completed in 1946."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why did first-generation computers shut down frequently?",
+      "answer": "Because they generated excessive heat due to vacuum tubes, which could damage components."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the function of the ALU?",
+      "answer": "The Arithmetic Logic Unit (ALU) performs mathematical calculations (addition, subtraction) and logical comparisons."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the Control Unit?",
+      "answer": "The Control Unit manages and coordinates the flow of data and instructions between all parts of the computer."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How do you insert an image in a Word document?",
+      "answer": "Go to the 'Insert' tab, click on 'Pictures', select the image file, and click 'Insert'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How do you calculate the sum of values in Excel?",
+      "answer": "Select the cell for the result, type formula like `=SUM(A1:A5)` or use the AutoSum button."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What precaution should be taken regarding data entry in computers?",
+      "answer": "Data should be entered correctly; otherwise, the output will be wrong (GIGO - Garbage In Garbage Out)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is a PDF?",
+      "answer": "Portable Document Format (PDF) is a file format that preserves the layout and formatting of a document across different devices."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the importance of C-DAC?",
+      "answer": "C-DAC is a premier Indian R&D organization that developed India's first supercomputer, PARAM."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Mention two opportunities in the computer field.",
+      "answer": "Software Development, Hardware Engineering (or Data Entry, Training)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How is science helpful to computers?",
+      "answer": "Scientific discoveries (like semiconductors) led to the development of faster and smaller computer components."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How are computers helpful to science?",
+      "answer": "Computers help in complex calculations, simulations, data analysis, and predicting weather phenomena."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is 'Garbage In Garbage Out' (GIGO)?",
+      "answer": "It means if incorrect input data is given to a computer, the output produced will also be incorrect."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the function of the 'Insert' tab in Microsoft Word?",
+      "answer": "It allows users to add tables, pictures, shapes, charts, page numbers, and symbols to the document."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is an equation in Excel?",
+      "answer": "An equation (formula) is a mathematical expression starting with '=' used to perform calculations on data in cells."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the use of graphs in Science?",
+      "answer": "Graphs help to visualize experimental data, identify trends, and understand relationships between variables."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name the supercomputer developed by India.",
+      "answer": "PARAM 8000 (or simply Param series)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why do we use PowerPoint presentations?",
+      "answer": "To present information effectively to an audience using visual aids like text, images, and animations."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the difference between Delete and Backspace?",
+      "answer": "Delete removes characters to the right of the cursor; Backspace removes characters to the left."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is 'Save As' used for?",
+      "answer": "To save an existing document with a new name or in a different location/format."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does a scanner do?",
+      "answer": "A scanner converts physical documents or images into digital format (soft copy)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does a printer do?",
+      "answer": "A printer produces a physical copy (hard copy) of digital documents or images on paper."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a 'Slide' in PowerPoint?",
+      "answer": "A slide is a single page of a presentation where content is placed."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is 'Internet'?",
+      "answer": "A global network of connected computers used for sharing information and communication."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is electricity essential for a computer?",
+      "answer": "A computer is an electronic device that requires electrical power to operate its circuits and components."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is Data?",
+      "answer": "Data refers to raw facts, figures, and symbols that are processed by a computer to produce information."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is 'Processing'?",
+      "answer": "Processing is the conversion of raw input data into meaningful output (information) by the CPU."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name one specialized software used in science.",
+      "answer": "MATLAB (or similar simulation software mentioned or implied for scientific work)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How can you prevent eye strain while using a computer?",
+      "answer": "By taking regular breaks, maintaining proper screen distance, and adjusting screen brightness."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is 'Copy and Paste'?",
+      "answer": "A feature to duplicate content from one place (Copy) and insert it into another (Paste)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is 'Cut and Paste'?",
+      "answer": "A feature to move content from one place (Cut) and insert it into another (Paste)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the function of the 'Home' tab?",
+      "answer": "It contains common formatting tools like font style, size, color, alignment, copy, and paste."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is 'Animation' in PowerPoint?",
+      "answer": "Visual effects applied to individual objects (text, images) on a slide to make them move or appear dynamically."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the storage capacity unit of a hard disk?",
+      "answer": "Usually measured in Gigabytes (GB) or Terabytes (TB)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the working of a computer with a block diagram.",
+      "answer": "A computer works on the Input-Process-Output cycle. 1. Input Unit: Accepts data (Keyboard/Mouse). 2. Processing Unit (CPU): Contains Memory Unit (stores data), Control Unit (manages flow), and ALU (calculates). It processes input. 3. Output Unit: Displays result (Monitor/Printer). "
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the different generations of computers.",
+      "answer": "1st Gen (1946-1959): Vacuum tubes, large, hot (ENIAC). 2nd Gen (1959-1965): Transistors, smaller, faster. 3rd Gen (1965-1971): Integrated Circuits (IC), more efficient. 4th Gen (1971-present): Microprocessors, PCs. 5th Gen (Present-Future): Artificial Intelligence."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the components of the Central Processing Unit (CPU).",
+      "answer": "CPU has three main parts: 1. Arithmetic Logic Unit (ALU): Performs math (+, -, etc.) and logic (comparisons) operations. 2. Control Unit (CU): Controls data flow and coordinates all parts. 3. Memory Unit: Stores data and instructions temporarily for processing."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Discuss the importance of ICT in Science and Technology.",
+      "answer": "1. Demonstration: Simulating experiments. 2. Prediction: Weather forecasting using models. 3. Collection: Gathering scientific data from sensors/internet. 4. Analysis: Processing complex data rapidly. 5. Communication: Sharing research globally."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Describe the types of Memory in a computer.",
+      "answer": "1. Internal Memory: Inside CPU. Includes RAM (Volatile, temporary workspace) and ROM (Non-volatile, permanent startup instructions). 2. External Memory: Storage devices like Hard Disks, CDs, Pendrives used for long-term storage."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the role of Operating System with examples.",
+      "answer": "The Operating System (OS) is the most critical software. It manages hardware resources, runs applications, provides a user interface, and handles files. Without OS, a computer is useless. Examples: Windows, Linux, macOS, Android."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How do you create and format a document in Microsoft Word?",
+      "answer": "1. Open Word -> Blank Document. 2. Type text using keyboard. 3. Select text to format. 4. Use 'Home' tab options to change Font, Size, Color, Bold/Italic. 5. Use 'Paragraph' options for alignment. 6. Save using 'File > Save'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "How to create a graph in Microsoft Excel using data?",
+      "answer": "1. Enter data in cells (rows/columns). 2. Select the data range. 3. Go to 'Insert' tab. 4. Click on 'Charts' (Column, Line, Pie, etc.). 5. The graph appears. 6. Customize titles and labels."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the process of creating a PowerPoint presentation.",
+      "answer": "1. Open PowerPoint -> New Presentation. 2. Add title on the first slide. 3. Add new slides (Home > New Slide). 4. Insert text, images (Insert > Pictures). 5. Add design (Design tab) and animations (Animations tab). 6. Press F5 to present."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the opportunities in the computer field?",
+      "answer": "1. Software Field: Creating software (Programming). 2. Hardware Field: Manufacturing and repairing parts. 3. Training: Teaching computer skills. 4. Marketing: Selling computers and accessories. 5. Data Analysis: Managing scientific/business data."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Discuss the contribution of C-DAC to Indian computing.",
+      "answer": "C-DAC (Centre for Development of Advanced Computing), led by Dr. Vijay Bhatkar, developed India's first supercomputer PARAM 8000 in 1991 when supercomputers were denied to India. It established India's capability in high-performance computing."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain the difference between Input and Output devices with examples.",
+      "answer": "Input Devices: Used to send data to computer. User gives command. Ex: Keyboard (typing), Mouse (clicking). Output Devices: Used to receive data from computer. Computer gives result. Ex: Monitor (display), Printer (hard copy)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What precautions should be taken while using a computer?",
+      "answer": "1. Do not eat/drink near it. 2. Shut down properly. 3. Use antivirus to prevent malware. 4. Keep magnets away. 5. Maintain correct posture to avoid health issues. 6. Do not pull wires abruptly."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Describe the main types of Software.",
+      "answer": "1. System Software: Essential for computer operation (e.g., Operating System, Drivers). 2. Application Software: Designed for specific user tasks (e.g., Word for typing, Excel for sheets, Games, Photoshop)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "How does ICT help in predicting weather?",
+      "answer": "Supercomputers process vast amounts of data from satellites and sensors. They run complex mathematical models (simulations) to predict temperature, rainfall, and storms accurately, helping in disaster management."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Write a note on the 'PDF' format.",
+      "answer": "Portable Document Format (PDF) is a file format used to present documents independent of software, hardware, or OS. It ensures the document looks the same on any device. It is widely used for official documents and e-books."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'RAM' and 'ROM' and their differences.",
+      "answer": "RAM: Random Access Memory. Volatile (data lost if power off). Read/Write. Used for running programs. ROM: Read Only Memory. Non-volatile (data stays). Read-only. Used for startup (BIOS) instructions."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How is the binary system related to computers?",
+      "answer": "Computers are electronic devices that understand only two states: ON (1) and OFF (0). The Binary System uses only 0 and 1 digits. All data (text, images, sound) is converted into binary code for the computer to process."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What is the significance of 'Ctrl + S', 'Ctrl + C', and 'Ctrl + V'?",
+      "answer": "These are keyboard shortcuts for efficiency. Ctrl+S saves the work to prevent loss. Ctrl+C copies selected content to clipboard. Ctrl+V pastes the clipboard content to a new location. They speed up work."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain the use of ICT in education.",
+      "answer": "1. E-learning: Online classes. 2. Digital Content: E-books, videos (YouTube). 3. Presentations: Teachers use slides. 4. Research: Internet for information. 5. Administration: Managing student records and results."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why is 'Information' considered a valuable resource today?",
+      "answer": "In the digital age, information drives decisions, innovation, and economy. ICT allows efficient storage, processing, and sharing of this information, leading to progress in science, business, and governance."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Describe the features of Microsoft Excel.",
+      "answer": "1. Grid of cells (Rows/Columns). 2. Formulas for math calculations. 3. Functions (Sum, Average). 4. Charts/Graphs for visualization. 5. Data sorting and filtering. Used for accounts, data analysis, and lists."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What is the function of the 'Processor' in a computer?",
+      "answer": "The Processor (CPU) executes instructions. It fetches instructions from memory, decodes them, and executes them. Speed is measured in GHz. Faster processors can handle more tasks simultaneously."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How to make a flowchart in Word/PowerPoint?",
+      "answer": "1. Go to 'Insert' tab. 2. Click 'Shapes'. 3. Select shapes like rectangles/arrows. 4. Draw them on canvas. 5. Connect them with lines. 6. Add text inside shapes. Used for representing processes."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the chapter 'Information Communication Technology'.",
+      "answer": "1. ICT involves devices for processing/sharing info. 2. Computer components: Input, CPU, Output, Memory. 3. Software: OS and Applications (Office). 4. Generations: Vacuum tube to AI. 5. Applications: Science, Education, Industry. 6. India's achievement: PARAM supercomputer."
+    }
+  ]
+}

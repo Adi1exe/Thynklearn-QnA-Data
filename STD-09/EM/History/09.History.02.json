@@ -1,0 +1,593 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.02",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "India: Events after 1960"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In which year did the regions of Goa, Diu, and Daman become part of the Indian federation?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1960s", "is_correct": true },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "1960s"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The war between India and China in 1962 was fought in the region of which line?",
+      "options": [
+        { "option_id": 1, "text": "Radcliffe Line", "is_correct": false },
+        { "option_id": 2, "text": "MacMahon Line", "is_correct": true },
+        { "option_id": 3, "text": "Durand Line", "is_correct": false },
+        { "option_id": 4, "text": "Control Line", "is_correct": false }
+      ],
+      "answer": "MacMahon Line"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who led India after the independence in 1947?",
+      "options": [
+        { "option_id": 1, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 2, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Pandit Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 4, "text": "Morarji Desai", "is_correct": false }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who is considered the architect of India's foreign policy?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Babasaheb Ambedkar", "is_correct": false },
+        { "option_id": 2, "text": "Pandit Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Sardar Vallabhbhai Patel", "is_correct": false },
+        { "option_id": 4, "text": "Lal Bahadur Shastri", "is_correct": false }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When did Pandit Jawaharlal Nehru pass away?",
+      "options": [
+        { "option_id": 1, "text": "1962", "is_correct": false },
+        { "option_id": 2, "text": "1964", "is_correct": true },
+        { "option_id": 3, "text": "1966", "is_correct": false },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "1964"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who succeeded Pandit Jawaharlal Nehru as the Prime Minister?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Lal Bahadur Shastri", "is_correct": true },
+        { "option_id": 3, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 4, "text": "Gulzarilal Nanda", "is_correct": false }
+      ],
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Lal Bahadur Shastri", "is_correct": true },
+        { "option_id": 3, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Subhash Chandra Bose", "is_correct": false }
+      ],
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did Lal Bahadur Shastri breathe his last in 1966?",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Tashkent", "is_correct": true },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "Lahore", "is_correct": false }
+      ],
+      "answer": "Tashkent"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year did Indira Gandhi become the Prime Minister of India?",
+      "options": [
+        { "option_id": 1, "text": "1964", "is_correct": false },
+        { "option_id": 2, "text": "1966", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1975", "is_correct": false }
+      ],
+      "answer": "1966"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which major decision regarding the economy did Indira Gandhi take?",
+      "options": [
+        { "option_id": 1, "text": "Privatization of banks", "is_correct": false },
+        { "option_id": 2, "text": "Nationalisation of banks", "is_correct": true },
+        { "option_id": 3, "text": "Demonetisation", "is_correct": false },
+        { "option_id": 4, "text": "Introduction of GST", "is_correct": false }
+      ],
+      "answer": "Nationalisation of banks"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who led the 'Mukti Bahini' in East Pakistan?",
+      "options": [
+        { "option_id": 1, "text": "Sheikh Mujibur Rahman", "is_correct": true },
+        { "option_id": 2, "text": "Zulfikar Ali Bhutto", "is_correct": false },
+        { "option_id": 3, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Yahya Khan", "is_correct": false }
+      ],
+      "answer": "Sheikh Mujibur Rahman"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which new country was created as a result of the 1971 war?",
+      "options": [
+        { "option_id": 1, "text": "Pakistan", "is_correct": false },
+        { "option_id": 2, "text": "Bangladesh", "is_correct": true },
+        { "option_id": 3, "text": "Nepal", "is_correct": false },
+        { "option_id": 4, "text": "Bhutan", "is_correct": false }
+      ],
+      "answer": "Bangladesh"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was India's first underground atomic test conducted in 1974?",
+      "options": [
+        { "option_id": 1, "text": "Pokharan", "is_correct": true },
+        { "option_id": 2, "text": "Sriharikota", "is_correct": false },
+        { "option_id": 3, "text": "Trombay", "is_correct": false },
+        { "option_id": 4, "text": "Thumba", "is_correct": false }
+      ],
+      "answer": "Pokharan"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which state joined the Indian Federation in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Goa", "is_correct": false },
+        { "option_id": 2, "text": "Sikkim", "is_correct": true },
+        { "option_id": 3, "text": "Assam", "is_correct": false },
+        { "option_id": 4, "text": "Manipur", "is_correct": false }
+      ],
+      "answer": "Sikkim"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "In which year did the Allahabad High Court verdict against Indira Gandhi come out?",
+      "options": [
+        { "option_id": 1, "text": "1972", "is_correct": false },
+        { "option_id": 2, "text": "1974", "is_correct": true },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "1977", "is_correct": false }
+      ],
+      "answer": "1974"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who led the nationwide movement against the government in 1974?",
+      "options": [
+        { "option_id": 1, "text": "Jayaprakash Narayan", "is_correct": true },
+        { "option_id": 2, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 3, "text": "Charan Singh", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "Jayaprakash Narayan"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "During which period was the 'National Emergency' in force?",
+      "options": [
+        { "option_id": 1, "text": "1974-1976", "is_correct": false },
+        { "option_id": 2, "text": "1975-1977", "is_correct": true },
+        { "option_id": 3, "text": "1976-1978", "is_correct": false },
+        { "option_id": 4, "text": "1977-1979", "is_correct": false }
+      ],
+      "answer": "1975-1977"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which party was formed by the opposition parties after the Emergency?",
+      "options": [
+        { "option_id": 1, "text": "Bharatiya Janata Party", "is_correct": false },
+        { "option_id": 2, "text": "Janata Party", "is_correct": true },
+        { "option_id": 3, "text": "Samajwadi Party", "is_correct": false },
+        { "option_id": 4, "text": "Congress (I)", "is_correct": false }
+      ],
+      "answer": "Janata Party"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who became the Prime Minister after the Janata Party won the 1977 elections?",
+      "options": [
+        { "option_id": 1, "text": "Charan Singh", "is_correct": false },
+        { "option_id": 2, "text": "Morarji Desai", "is_correct": true },
+        { "option_id": 3, "text": "Atal Bihari Vajpayee", "is_correct": false },
+        { "option_id": 4, "text": "Jagjivan Ram", "is_correct": false }
+      ],
+      "answer": "Morarji Desai"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who succeeded Morarji Desai as Prime Minister?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Charan Singh", "is_correct": true },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "V.P. Singh", "is_correct": false }
+      ],
+      "answer": "Charan Singh"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In which state did the demand for an independent 'Khalistan' arise?",
+      "options": [
+        { "option_id": 1, "text": "Punjab", "is_correct": true },
+        { "option_id": 2, "text": "Haryana", "is_correct": false },
+        { "option_id": 3, "text": "Assam", "is_correct": false },
+        { "option_id": 4, "text": "Kashmir", "is_correct": false }
+      ],
+      "answer": "Punjab"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who assassinated Indira Gandhi?",
+      "options": [
+        { "option_id": 1, "text": "LTTE members", "is_correct": false },
+        { "option_id": 2, "text": "Her bodyguards", "is_correct": true },
+        { "option_id": 3, "text": "ULFA activists", "is_correct": false },
+        { "option_id": 4, "text": "Naxalites", "is_correct": false }
+      ],
+      "answer": "Her bodyguards"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who became the Prime Minister immediately after Indira Gandhi's assassination?",
+      "options": [
+        { "option_id": 1, "text": "P.V. Narasimha Rao", "is_correct": false },
+        { "option_id": 2, "text": "Rajiv Gandhi", "is_correct": true },
+        { "option_id": 3, "text": "V.P. Singh", "is_correct": false },
+        { "option_id": 4, "text": "Chandra Shekhar", "is_correct": false }
+      ],
+      "answer": "Rajiv Gandhi"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which organisation assassinated Rajiv Gandhi?",
+      "options": [
+        { "option_id": 1, "text": "ULFA", "is_correct": false },
+        { "option_id": 2, "text": "LTTE", "is_correct": true },
+        { "option_id": 3, "text": "Naxalites", "is_correct": false },
+        { "option_id": 4, "text": "Khalistan Commando Force", "is_correct": false }
+      ],
+      "answer": "LTTE"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who became the Prime Minister in 1989?",
+      "options": [
+        { "option_id": 1, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Vishwanath Pratap Singh", "is_correct": true },
+        { "option_id": 3, "text": "Chandra Shekhar", "is_correct": false },
+        { "option_id": 4, "text": "P.V. Narasimha Rao", "is_correct": false }
+      ],
+      "answer": "Vishwanath Pratap Singh"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What was the most important contribution of V.P. Singh?",
+      "options": [
+        { "option_id": 1, "text": "Economic Liberalisation", "is_correct": false },
+        { "option_id": 2, "text": "Reservation for OBCs", "is_correct": true },
+        { "option_id": 3, "text": "Green Revolution", "is_correct": false },
+        { "option_id": 4, "text": "Atomic Test", "is_correct": false }
+      ],
+      "answer": "Reservation for OBCs"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who succeeded V.P. Singh as Prime Minister?",
+      "options": [
+        { "option_id": 1, "text": "P.V. Narasimha Rao", "is_correct": false },
+        { "option_id": 2, "text": "Chandra Shekhar", "is_correct": true },
+        { "option_id": 3, "text": "I.K. Gujral", "is_correct": false },
+        { "option_id": 4, "text": "H.D. Devegowda", "is_correct": false }
+      ],
+      "answer": "Chandra Shekhar"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In which year did the terrorist attack on the Indian Parliament take place?",
+      "options": [
+        { "option_id": 1, "text": "1999", "is_correct": false },
+        { "option_id": 2, "text": "2001", "is_correct": true },
+        { "option_id": 3, "text": "2008", "is_correct": false },
+        { "option_id": 4, "text": "1993", "is_correct": false }
+      ],
+      "answer": "2001"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who initiated the policy of economic liberalisation in 1991?",
+      "options": [
+        { "option_id": 1, "text": "Manmohan Singh", "is_correct": false },
+        { "option_id": 2, "text": "P.V. Narasimha Rao", "is_correct": true },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "P.V. Narasimha Rao"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who is known as the father of the Green Revolution in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Verghese Kurien", "is_correct": false },
+        { "option_id": 2, "text": "Dr. M. S. Swaminathan", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 4, "text": "Vikram Sarabhai", "is_correct": false }
+      ],
+      "answer": "Dr. M. S. Swaminathan"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is Dr. Verghese Kurien associated with?",
+      "options": [
+        { "option_id": 1, "text": "Green Revolution", "is_correct": false },
+        { "option_id": 2, "text": "White Revolution", "is_correct": true },
+        { "option_id": 3, "text": "Blue Revolution", "is_correct": false },
+        { "option_id": 4, "text": "Space Revolution", "is_correct": false }
+      ],
+      "answer": "White Revolution"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who laid the foundation of the Indian atomic power programme?",
+      "options": [
+        { "option_id": 1, "text": "Dr. APJ Abdul Kalam", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Homi Bhabha", "is_correct": true },
+        { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "C.V. Raman", "is_correct": false }
+      ],
+      "answer": "Dr. Homi Bhabha"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What was the name of India's first satellite?",
+      "options": [
+        { "option_id": 1, "text": "Bhaskara", "is_correct": false },
+        { "option_id": 2, "text": "Aryabhatta", "is_correct": true },
+        { "option_id": 3, "text": "Rohini", "is_correct": false },
+        { "option_id": 4, "text": "Apple", "is_correct": false }
+      ],
+      "answer": "Aryabhatta"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "When was India's first satellite launched?",
+      "options": [
+        { "option_id": 1, "text": "1971", "is_correct": false },
+        { "option_id": 2, "text": "1975", "is_correct": true },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1983", "is_correct": false }
+      ],
+      "answer": "1975"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which act was passed in 1989 for the protection of weaker sections?",
+      "options": [
+        { "option_id": 1, "text": "Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 2, "text": "Prevention of Atrocities Act", "is_correct": true },
+        { "option_id": 3, "text": "Human Rights Act", "is_correct": false },
+        { "option_id": 4, "text": "Right to Information Act", "is_correct": false }
+      ],
+      "answer": "Prevention of Atrocities Act"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the Planning Commission?",
+      "answer": "To achieve economic development and eliminate poverty through industrialisation and five-year plans."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What was the immediate cause of the 1965 India-Pakistan war?",
+      "answer": "Tension over the Kashmir issue."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does the slogan 'Jai Jawan Jai Kisan' signify?",
+      "answer": "It highlights the importance of Indian soldiers and Indian farmers."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why did refugees from East Pakistan come to India in 1971?",
+      "answer": "Due to the oppressive policies of East Pakistan by the Pakistani government."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What was the main reason for the 1975 National Emergency?",
+      "answer": "The law and order situation worsened, and the government declared a state of emergency based on constitutional provisions."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What happened to fundamental rights during the Emergency?",
+      "answer": "Fundamental rights of Indian citizens were suspended."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why did the Morarji Desai government fall?",
+      "answer": "Due to internal differences among the parties that formed the Janata Party coalition."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What was the demand of the movement in Punjab in the 1980s?",
+      "answer": "They demanded an independent state called 'Khalistan'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What major reform did Rajiv Gandhi initiate in the field of technology?",
+      "answer": "He initiated reforms in science and technology, specifically in the telecommunications sector."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What was the issue in Jammu and Kashmir that escalated in the 1990s?",
+      "answer": "Terrorist activities by Kashmiri Pandits began to force them to leave the valley."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What does 'Globalisation' mean in the Indian context?",
+      "answer": "It refers to the opening up of the Indian economy to foreign investment and integration with the world economy."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What was the impact of the Green Revolution?",
+      "answer": "It made India self-sufficient in food grains."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the aim of using atomic energy in India?",
+      "answer": "For peaceful purposes like generation of electricity, pharmaceuticals, and defence."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Which department was set up for women's empowerment in 1985?",
+      "answer": "The Department of Women and Child Development."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What constitutional amendments reserved seats for women in local bodies?",
+      "answer": "The 73rd and 74th Constitutional Amendments."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the 'Kargil War'?",
+      "answer": "A war between India and Pakistan in 1999 in the Kargil region over border disputes."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who led the National Democratic Alliance (NDA) government in 1999?",
+      "answer": "Atal Bihari Vajpayee."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "Describe the political scenario in India immediately after independence.",
+      "answer": "India faced challenges of economic, political, and social development. The Planning Commission was established for industrialisation. Successful elections strengthened democracy. Issues like poverty and social reforms were prioritized. Tensions with China and Pakistan also marked this period."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "What were the consequences of the 1962 India-China war?",
+      "answer": "The war, fought in the MacMahon line region, resulted in a setback for India. It highlighted the need for strengthening defence. It also impacted the leadership of Pandit Nehru, who passed away shortly after."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Explain the circumstances that led to the creation of Bangladesh.",
+      "answer": "Oppressive policies of West Pakistan towards East Pakistan led to a movement led by Sheikh Mujibur Rahman and his 'Mukti Bahini'. Millions of refugees entered India, creating a crisis. India supported the liberation movement, leading to the 1971 war and the subsequent creation of Bangladesh."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Discuss the National Emergency of 1975.",
+      "answer": "Declared by President Fakhruddin Ali Ahmed on the advice of PM Indira Gandhi, it was a response to internal unrest and the Allahabad HC verdict. Fundamental rights were suspended. While administration became disciplined, human rights were violated. It lasted until 1977 and was highly controversial."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "What were the major challenges faced by Rajiv Gandhi as Prime Minister?",
+      "answer": "He faced the challenge of the Tamil minority issue in Sri Lanka and tried to mediate but failed. He faced criticism over defence equipment corruption (Bofors scam). Political corruption became a major electoral issue, leading to his party's defeat."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "Explain the significance of the year 1991 in Indian history.",
+      "answer": "1991 marked a turning point. Internationally, the Cold War ended. Domestically, the P.V. Narasimha Rao government initiated economic reforms (liberalisation), opening up the economy. This boosted growth and the IT sector. It also saw the assassination of Rajiv Gandhi."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "What are the characteristics of the Indian economy as mentioned in the text?",
+      "answer": "The Indian economy focuses on modernisation, economic self-sufficiency, and social justice. It aims to establish a socialist pattern of society through planning and industrialisation."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "How has India progressed in the field of Space Research?",
+      "answer": "Starting with Aryabhatta in 1975, India has built a successful space programme. It has launched numerous satellites for telecommunications, remote sensing, and defence. The Indian Space Research Organisation (ISRO) plays a pivotal role in this success."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "What social changes have occurred in India regarding the weaker sections?",
+      "answer": "Efforts have been made to uplift Scheduled Castes and Tribes through reservations and the Prevention of Atrocities Act. The Mandal Commission ensured representation for OBCs. Public health, especially for women and children, has also been a focus area."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Discuss the role of atomic energy in India's development.",
+      "answer": "India emphasizes the use of atomic energy for peaceful purposes like electricity generation and medicine. The nuclear tests in 1974 and 1998 demonstrated India's capability. India is now a nuclear-weapon state but adheres to a 'no first use' policy."
+    }
+  ]
+}

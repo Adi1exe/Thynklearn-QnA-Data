@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.07",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Energy Flow in an Ecosystem"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following organisms are Producers?",
+      "options": [
+        { "option_id": 1, "text": "Herbivores", "is_correct": false },
+        { "option_id": 2, "text": "Carnivores", "is_correct": false },
+        { "option_id": 3, "text": "Green Plants", "is_correct": true },
+        { "option_id": 4, "text": "Decomposers", "is_correct": false }
+      ],
+      "answer": "Green Plants"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Primary consumers are directly dependent on ________.",
+      "options": [
+        { "option_id": 1, "text": "Carnivores", "is_correct": false },
+        { "option_id": 2, "text": "Autotrophs (Producers)", "is_correct": true },
+        { "option_id": 3, "text": "Apex Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Decomposers", "is_correct": false }
+      ],
+      "answer": "Autotrophs (Producers)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is an Apex Consumer?",
+      "options": [
+        { "option_id": 1, "text": "Grasshopper", "is_correct": false },
+        { "option_id": 2, "text": "Frog", "is_correct": false },
+        { "option_id": 3, "text": "Tiger", "is_correct": true },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Humans and bears are examples of ________.",
+      "options": [
+        { "option_id": 1, "text": "Herbivores", "is_correct": false },
+        { "option_id": 2, "text": "Carnivores", "is_correct": false },
+        { "option_id": 3, "text": "Omnivores", "is_correct": true },
+        { "option_id": 4, "text": "Decomposers", "is_correct": false }
+      ],
+      "answer": "Omnivores"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Bacteria and Fungi that decompose dead bodies are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Producers", "is_correct": false },
+        { "option_id": 2, "text": "Decomposers", "is_correct": true },
+        { "option_id": 3, "text": "Apex Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Omnivores", "is_correct": false }
+      ],
+      "answer": "Decomposers"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "A network of many interconnected food chains is called a ________.",
+      "options": [
+        { "option_id": 1, "text": "Food Pyramid", "is_correct": false },
+        { "option_id": 2, "text": "Food Cycle", "is_correct": false },
+        { "option_id": 3, "text": "Food Web", "is_correct": true },
+        { "option_id": 4, "text": "Biomass", "is_correct": false }
+      ],
+      "answer": "Food Web"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The initial source of energy for all ecosystems is ________.",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "The Sun", "is_correct": true },
+        { "option_id": 4, "text": "Chemicals", "is_correct": false }
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Energy transfer from one trophic level to the next is approximately ________.",
+      "options": [
+        { "option_id": 1, "text": "10%", "is_correct": true },
+        { "option_id": 2, "text": "50%", "is_correct": false },
+        { "option_id": 3, "text": "90%", "is_correct": false },
+        { "option_id": 4, "text": "100%", "is_correct": false }
+      ],
+      "answer": "10%"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The flow of energy in an ecosystem is considered to be ________.",
+      "options": [
+        { "option_id": 1, "text": "Cyclic", "is_correct": false },
+        { "option_id": 2, "text": "One-way (Unidirectional)", "is_correct": true },
+        { "option_id": 3, "text": "Reversible", "is_correct": false },
+        { "option_id": 4, "text": "Multidirectional", "is_correct": false }
+      ],
+      "answer": "One-way (Unidirectional)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The flow of nutrients in an ecosystem is ________.",
+      "options": [
+        { "option_id": 1, "text": "Linear", "is_correct": false },
+        { "option_id": 2, "text": "One-way", "is_correct": false },
+        { "option_id": 3, "text": "Cyclic", "is_correct": true },
+        { "option_id": 4, "text": "Random", "is_correct": false }
+      ],
+      "answer": "Cyclic"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who proposed the concept of the 'Ecological Pyramid'?",
+      "options": [
+        { "option_id": 1, "text": "Charles Darwin", "is_correct": false },
+        { "option_id": 2, "text": "Charles Elton", "is_correct": true },
+        { "option_id": 3, "text": "Robert Whittaker", "is_correct": false },
+        { "option_id": 4, "text": "Carl Linnaeus", "is_correct": false }
+      ],
+      "answer": "Charles Elton"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The base of the energy pyramid consists of ________.",
+      "options": [
+        { "option_id": 1, "text": "Herbivores", "is_correct": false },
+        { "option_id": 2, "text": "Producers", "is_correct": true },
+        { "option_id": 3, "text": "Carnivores", "is_correct": false },
+        { "option_id": 4, "text": "Omnivores", "is_correct": false }
+      ],
+      "answer": "Producers"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a gaseous cycle?",
+      "options": [
+        { "option_id": 1, "text": "Phosphorus cycle", "is_correct": false },
+        { "option_id": 2, "text": "Iron cycle", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen cycle", "is_correct": true },
+        { "option_id": 4, "text": "Calcium cycle", "is_correct": false }
+      ],
+      "answer": "Nitrogen cycle"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is a sedimentary cycle?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen cycle", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen cycle", "is_correct": false },
+        { "option_id": 3, "text": "Carbon cycle", "is_correct": false },
+        { "option_id": 4, "text": "Phosphorus cycle", "is_correct": true }
+      ],
+      "answer": "Phosphorus cycle"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The main abiotic source of carbon is ________.",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": false },
+        { "option_id": 3, "text": "Atmospheric CO₂", "is_correct": true },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Atmospheric CO₂"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Process by which plants convert CO₂ into carbohydrates is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Respiration", "is_correct": false },
+        { "option_id": 2, "text": "Photosynthesis", "is_correct": true },
+        { "option_id": 3, "text": "Decomposition", "is_correct": false },
+        { "option_id": 4, "text": "Combustion", "is_correct": false }
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which process releases CO₂ back into the atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 2, "text": "Respiration", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen Fixation", "is_correct": false },
+        { "option_id": 4, "text": "Condensation", "is_correct": false }
+      ],
+      "answer": "Respiration"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Oxygen constitutes about ________ % of the atmosphere.",
+      "options": [
+        { "option_id": 1, "text": "78%", "is_correct": false },
+        { "option_id": 2, "text": "21%", "is_correct": true },
+        { "option_id": 3, "text": "0.03%", "is_correct": false },
+        { "option_id": 4, "text": "50%", "is_correct": false }
+      ],
+      "answer": "21%"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Nitrogen constitutes about ________ % of the atmosphere.",
+      "options": [
+        { "option_id": 1, "text": "21%", "is_correct": false },
+        { "option_id": 2, "text": "78%", "is_correct": true },
+        { "option_id": 3, "text": "50%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "78%"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Conversion of atmospheric nitrogen into nitrates and nitrites is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Ammonification", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen Fixation", "is_correct": true },
+        { "option_id": 3, "text": "Nitrification", "is_correct": false },
+        { "option_id": 4, "text": "Denitrification", "is_correct": false }
+      ],
+      "answer": "Nitrogen Fixation"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Release of ammonia through decomposition of dead bodies is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Nitrification", "is_correct": false },
+        { "option_id": 2, "text": "Denitrification", "is_correct": false },
+        { "option_id": 3, "text": "Ammonification", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen Fixation", "is_correct": false }
+      ],
+      "answer": "Ammonification"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Conversion of nitrogen compounds into gaseous nitrogen is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen Fixation", "is_correct": false },
+        { "option_id": 2, "text": "Nitrification", "is_correct": false },
+        { "option_id": 3, "text": "Denitrification", "is_correct": true },
+        { "option_id": 4, "text": "Ammonification", "is_correct": false }
+      ],
+      "answer": "Denitrification"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which trophic level has the minimum available energy?",
+      "options": [
+        { "option_id": 1, "text": "Producers", "is_correct": false },
+        { "option_id": 2, "text": "Primary Consumers", "is_correct": false },
+        { "option_id": 3, "text": "Secondary Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Apex Consumers", "is_correct": true }
+      ],
+      "answer": "Apex Consumers"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which type of cycle is speedier?",
+      "options": [
+        { "option_id": 1, "text": "Sedimentary cycle", "is_correct": false },
+        { "option_id": 2, "text": "Gaseous cycle", "is_correct": true },
+        { "option_id": 3, "text": "Rock cycle", "is_correct": false },
+        { "option_id": 4, "text": "Both are same speed", "is_correct": false }
+      ],
+      "answer": "Gaseous cycle"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Fossil fuels like coal and petroleum are reservoirs of ________.",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Ecosystem.",
+      "answer": "An ecosystem is the interaction between biotic (living) and abiotic (non-living) factors in a specific environment."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is a Food Chain?",
+      "answer": "A definite sequence of interactions where one organism eats another for energy is called a food chain. (e.g., Grass → Deer → Tiger)."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is a Food Web?",
+      "answer": "A complex network of many interconnected food chains in an ecosystem is called a food web."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Define Trophic Level.",
+      "answer": "Each level in a food chain where an organism obtains its food is called a trophic level."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What are Primary Consumers?",
+      "answer": "Primary consumers are herbivores that feed directly on producers (plants). Example: Grasshopper, Elephant."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What are Secondary Consumers?",
+      "answer": "Secondary consumers are carnivores that feed on herbivores (primary consumers). Example: Frog, Fox."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are Apex Consumers?",
+      "answer": "Apex or top consumers are carnivores that feed on herbivores and other carnivores. No other animal feeds on them. Example: Lion, Tiger."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are Omnivores?",
+      "answer": "Omnivores are organisms that feed on both plants (producers) and animals (consumers). Example: Humans, Bear."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the Energy Pyramid?",
+      "answer": "A diagrammatic representation of the amount of energy trapped at each trophic level in a food chain is called an Energy Pyramid."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Why does energy decrease as we go up the trophic levels?",
+      "answer": "Energy is used by organisms for life processes and lost as heat. Only about 10% is transferred to the next level, so energy decreases."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why is energy flow in an ecosystem called 'one-way'?",
+      "answer": "Energy from the sun enters the ecosystem through producers and flows to consumers. It is dissipated as heat and never returns to the sun."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is a Bio-geo-chemical cycle?",
+      "answer": "The cyclic flow of nutrients within an ecosystem through biotic and abiotic factors is called a bio-geo-chemical cycle."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name the two types of Bio-geo-chemical cycles.",
+      "answer": "1. Gaseous cycle (N, O, C, Water vapor). 2. Sedimentary cycle (P, Ca, Fe, Soil components)."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Which cycle is a sedimentary cycle?",
+      "answer": "The Phosphorus cycle or Iron cycle is a sedimentary cycle where nutrients accumulate in soil or rocks."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Define Carbon Cycle.",
+      "answer": "The circulation and recycling of carbon from the atmosphere to living organisms and back to the atmosphere is called the Carbon Cycle."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the main process that fixes atmospheric carbon?",
+      "answer": "Photosynthesis by green plants fixes atmospheric CO₂ into carbohydrates."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How do animals return carbon to the atmosphere?",
+      "answer": "Through respiration, animals release CO₂ back into the atmosphere."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What happens to carbon after organisms die?",
+      "answer": "Decomposers like bacteria and fungi break down the dead bodies, releasing CO₂ back into the atmosphere."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Define Oxygen Cycle.",
+      "answer": "The circulation and recycling of oxygen within the biosphere (atmosphere, hydrosphere, lithosphere) is called the Oxygen Cycle."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How is oxygen produced in the biosphere?",
+      "answer": "Oxygen is continuously produced by green plants and algae during photosynthesis."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name processes that use up oxygen.",
+      "answer": "Respiration, Combustion, Decomposition, Corrosion, Rusting."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the Nitrogen Cycle?",
+      "answer": "The circulation and recycling of nitrogen gas into different compounds through biotic and abiotic processes is called the Nitrogen Cycle."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why is nitrogen important for living organisms?",
+      "answer": "Nitrogen is a key component of proteins and nucleic acids, which are essential for life."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is Nitrification?",
+      "answer": "The process of converting ammonia into nitrite and then into nitrate is called Nitrification."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is Denitrification?",
+      "answer": "The conversion of nitrogen compounds into gaseous nitrogen is called Denitrification."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Construct a simple food chain.",
+      "answer": "Paddy (Producer) → Grasshopper (Primary Consumer) → Frog (Secondary Consumer) → Snake (Tertiary Consumer) → Eagle (Apex Consumer)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What happens if there are no decomposers in an ecosystem?",
+      "answer": "Dead bodies and waste would pile up, and nutrients would remain locked, stopping the nutrient cycles and collapsing the ecosystem."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is the number of trophic levels limited in a food chain?",
+      "answer": "Since energy decreases at each level (10% law), very little energy is left after 4-5 levels to support another trophic level."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What role do fossil fuels play in the carbon cycle?",
+      "answer": "Burning fossil fuels (coal, oil) releases stored carbon back into the atmosphere as CO₂, adding to the carbon cycle."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Give an example of biotic-abiotic interaction in the Carbon cycle.",
+      "answer": "Plants (biotic) take in CO₂ (abiotic) from air for photosynthesis and release O₂."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the initial quantity of energy in an energy pyramid?",
+      "answer": "It is the solar energy trapped by producers at the base of the pyramid."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is the nutrient flow cyclic but energy flow unidirectional?",
+      "answer": "Nutrients are recycled back to soil/air by decomposers and reused. Energy is lost as heat and never returns to the sun."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two decomposers.",
+      "answer": "Bacteria and Fungi."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the formula for Photosynthesis?",
+      "answer": "6CO₂ + 12H₂O + Sunlight/Chlorophyll → C₆H₁₂O₆ (Glucose) + 6H₂O + 6O₂."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the formula for Respiration?",
+      "answer": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which cycle includes the Ozone layer?",
+      "answer": "The Oxygen cycle includes the formation and breakdown of Ozone (O₃) in the atmosphere."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Can plants use atmospheric nitrogen directly?",
+      "answer": "No, most plants cannot use atmospheric nitrogen directly; it must be fixed into compounds like nitrates."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "State the trophic level of a Tiger hunting a Deer.",
+      "answer": "Tiger is a Secondary (or Apex) consumer in this specific interaction."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "State the trophic level of a Human eating vegetables.",
+      "answer": "Human is a Primary Consumer."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "State the trophic level of a Human eating chicken.",
+      "answer": "Human is a Secondary Consumer."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is 'Lindeman's 10% Law'?",
+      "answer": "It states that only about 10% of energy is transferred from one trophic level to the next; the rest is lost as heat."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is the Carbon cycle important?",
+      "answer": "It regulates Earth's temperature and is the basis of all organic life (carbohydrates, proteins, fats)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Is the equilibrium of bio-geo-chemical cycles important? Why?",
+      "answer": "Yes, to maintain the sustainability of life and the balance of the ecosystem."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How does deforestation affect the Oxygen cycle?",
+      "answer": "Fewer trees mean less photosynthesis, leading to reduced oxygen production and increased CO₂."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are sedimentary nutrients?",
+      "answer": "Nutrients like Iron, Calcium, Phosphorus found in soil and rocks."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are gaseous nutrients?",
+      "answer": "Nutrients like Nitrogen, Oxygen, Carbon dioxide found in the atmosphere."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which trophic level has the highest number of organisms?",
+      "answer": "Producers (lowest level)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which trophic level has the lowest number of organisms?",
+      "answer": "Apex Consumers (highest level)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Are humans apex consumers?",
+      "answer": "Yes, generally humans are considered apex consumers as no other animal naturally preys on them."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the role of microbes in the Nitrogen cycle?",
+      "answer": "Microbes (bacteria) perform nitrogen fixation, nitrification, ammonification, and denitrification."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the Food Chain and Food Web with examples and diagrams.",
+      "answer": "Food Chain: Linear sequence of energy transfer. Grass → Grasshopper → Frog → Snake. "
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the Energy Pyramid and the 10% law of energy transfer.",
+      "answer": "Energy Pyramid shows energy at each trophic level. Base (Producers) has max energy (e.g., 10,000 kcal). Next level (Herbivores) gets 10% (1,000 kcal). Carnivores get 100 kcal. Apex gets 10 kcal. Energy decreases upwards. Energy is lost as heat. "
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the Carbon Cycle with a diagram.",
+      "answer": "1. Photosynthesis: Plants absorb atmospheric CO₂ to make food. 2. Consumption: Animals eat plants, carbon enters animal bodies. 3. Respiration: Plants/animals release CO₂ back. 4. Decomposition: Dead bodies decay, releasing CO₂. 5. Combustion: Burning fossil fuels releases CO₂. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the Nitrogen Cycle and its four main processes.",
+      "answer": "1. Nitrogen Fixation: N₂ gas converted to nitrate/nitrite by bacteria/lightning. 2. Ammonification: Release of ammonia from decaying matter. 3. Nitrification: Ammonia converted to nitrite then nitrate. 4. Denitrification: Nitrates converted back to N₂ gas. "
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the Oxygen Cycle with a diagram.",
+      "answer": "Oxygen (21% in air) is used in respiration, combustion, and decomposition. It is replenished by photosynthesis. Plants take CO₂ and water to release O₂. Animals take O₂ and release CO₂. This balance is crucial. Also involves Ozone layer. "
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Why is the energy flow in an ecosystem one-way while nutrient flow is cyclic? Explain.",
+      "answer": "Energy originates from Sun, passes to producers → consumers. At each step, heat is lost. It never goes back to Sun. Hence one-way. Nutrients (C, N, P) move from soil/air to plants → animals. Decomposers return them to soil/air. Hence cyclic."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Differentiate between Gaseous and Sedimentary bio-geo-chemical cycles.",
+      "answer": "Gaseous: Reservoir is atmosphere (Air). Includes N, O, C cycles. Faster speed. Sedimentary: Reservoir is Earth's crust (Soil/Rocks). Includes P, Fe, Ca cycles. Slower speed."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the different Trophic Levels in an ecosystem with examples.",
+      "answer": "1. Producers (Autotrophs): Make food (Plants). 2. Primary Consumers (Herbivores): Eat plants (Deer). 3. Secondary Consumers (Carnivores): Eat herbivores (Fox). 4. Apex Consumers (Top Carnivores): Eat carnivores (Tiger). 5. Omnivores: Eat both (Human)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the role of decomposers in an ecosystem. What would happen without them?",
+      "answer": "Decomposers (bacteria/fungi) break down dead organic matter. They release locked nutrients (C, N, P) back into soil/air for reuse. Without them, waste would accumulate, nutrient cycles would stop, and life would cease due to nutrient depletion."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Discuss the inter-relationship between the Food Chain and Food Web.",
+      "answer": "A Food Chain is a single pathway of energy. In reality, an organism eats multiple things (e.g., Bird eats worm and insect). So chains overlap. A Food Web is a system of interlocking food chains. It provides stability; if one prey decreases, predators switch to another."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the two main processes in the Carbon Cycle (Biotic processes).",
+      "answer": "1. Photosynthesis: 6CO₂ + 12H₂O + Sun → C₆H₁₂O₆ + 6H₂O + 6O₂. Plants convert inorganic C to organic C. 2. Respiration: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy. Organisms break down glucose to release CO₂ back."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is 'Bio-magnification'? (Related concept often taught with food chains).",
+      "answer": "Though not explicitly in the snippet, typically linked: It is the increase in concentration of toxic substances (like pesticides) at successive trophic levels. Apex consumers get the highest dose."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Write a note on the importance of the Nitrogen Cycle.",
+      "answer": "Nitrogen is essential for proteins and DNA. Atmosphere has 78% N₂ but it's inert. The cycle fixes it into usable forms (ammonia/nitrates) for plants. Plants make proteins. Animals eat plants. Decomposers recycle it. Essential for life continuity."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "How do human activities affect the Carbon Cycle?",
+      "answer": "1. Deforestation: Reduces CO₂ absorption. 2. Burning Fossil Fuels: Adds excess CO₂. 3. Industrialization: Emissions. Result: Increased Greenhouse Effect and Global Warming."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the pyramid of numbers and pyramid of biomass (Conceptual).",
+      "answer": "Pyramid of Numbers: Shows count of organisms. Usually upright (Grass > Grasshopper > Frog). Can be inverted (Tree < Birds < Parasites). Pyramid of Biomass: Shows mass of living matter. Usually upright (Plants mass > Herbivores mass)."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the relationship between the Carbon and Oxygen cycles?",
+      "answer": "They are complementary. Photosynthesis uses CO₂ and produces O₂. Respiration uses O₂ and produces CO₂. They balance each other to maintain atmospheric composition."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Give scientific reasons: Carnivores occupy the second trophic level in the food chain. (Correct the statement first).",
+      "answer": "Correction: Carnivores occupy the third trophic level. Reason: Producers (1st) → Herbivores (2nd) → Carnivores (3rd). Carnivores eat herbivores, so they must be at the third level or higher."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Ecological Equilibrium'.",
+      "answer": "It is the state of balance in an ecosystem where species populations remain stable and energy/nutrient flows are steady. Bio-geo-chemical cycles maintain this balance. Disturbances (like pollution) upset it."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Describe the biotic and abiotic reservoirs of Carbon.",
+      "answer": "Biotic: Plants, animals, microbes (stored as carbohydrates, fats, proteins). Abiotic: Atmosphere (CO₂), Water (Dissolved CO₂/Carbonates), Lithosphere (Coal, Petroleum, Limestone)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain the difference between flow of matter and flow of energy in an ecosystem.",
+      "answer": "Energy Flow: Unidirectional (Sun → Earth → Space). Energy enters and leaves. Matter Flow: Cyclic. Nutrients are recycled within the Earth system (Soil ↔ Living beings). Matter is conserved."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What is the role of the Sun in an ecosystem?",
+      "answer": "The Sun is the ultimate source of energy. It powers photosynthesis, driving the food chain. It also drives the water cycle and regulates temperature, enabling bio-geo-chemical cycles."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Construct a food web using: Grass, Deer, Rabbit, Grasshopper, Frog, Snake, Hawk, Tiger.",
+      "answer": "Grass → Deer → Tiger. Grass → Rabbit → Hawk. Grass → Grasshopper → Frog → Snake → Hawk. Overlaps: Hawk eats Snake and Rabbit. Tiger eats Deer. "
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the term 'Producer' in the context of an ecosystem.",
+      "answer": "Producers are organisms that produce their own food from inorganic substances. They are the first trophic level. Green plants (photosynthesis) and some bacteria (chemosynthesis) are producers. They sustain all other life."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Discuss the impact of using pesticides on a food chain.",
+      "answer": "Pesticides kill pests but also enter the food chain. They are non-biodegradable. They accumulate in primary consumers and concentrate in higher levels (Bio-magnification), harming apex consumers (like birds producing thin-shelled eggs)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the key points of Chapter 7: Energy Flow in an Ecosystem.",
+      "answer": "1. Ecosystem has biotic/abiotic factors. 2. Food chains/webs move energy. 3. Energy flow is one-way; 10% transfers up. 4. Nutrient flow is cyclic (Bio-geo-chemical cycles). 5. C, O, N cycles are crucial gaseous cycles maintaining balance."
+    }
+  ]
+}

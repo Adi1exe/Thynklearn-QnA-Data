@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.18",
+    "standard": "9",
+    "subject": "Science and Technology",
+    "medium": "English",
+    "chapter_name": "Observing Space: Telescopes"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which scientist made the first telescope in 1608?",
+      "options": [
+        { "option_id": 1, "text": "Galileo Galilei", "is_correct": false },
+        { "option_id": 2, "text": "Hans Lippershey", "is_correct": true },
+        { "option_id": 3, "text": "Isaac Newton", "is_correct": false },
+        { "option_id": 4, "text": "Subramanian Chandrashekhar", "is_correct": false }
+      ],
+      "answer": "Hans Lippershey"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Visible light has wavelengths between __________.",
+      "options": [
+        { "option_id": 1, "text": "200 nm to 400 nm", "is_correct": false },
+        { "option_id": 2, "text": "400 nm to 800 nm", "is_correct": true },
+        { "option_id": 3, "text": "800 nm to 1200 nm", "is_correct": false },
+        { "option_id": 4, "text": "1 nm to 10 nm", "is_correct": false }
+      ],
+      "answer": "400 nm to 800 nm"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which lens in a refracting telescope collects the maximum amount of light?",
+      "options": [
+        { "option_id": 1, "text": "Eyepiece", "is_correct": false },
+        { "option_id": 2, "text": "Objective lens", "is_correct": true },
+        { "option_id": 3, "text": "Concave lens", "is_correct": false },
+        { "option_id": 4, "text": "Small lens", "is_correct": false }
+      ],
+      "answer": "Objective lens"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The error in images formed by lenses involving colours is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Spherical aberration", "is_correct": false },
+        { "option_id": 2, "text": "Chromatic aberration", "is_correct": true },
+        { "option_id": 3, "text": "Refraction error", "is_correct": false },
+        { "option_id": 4, "text": "Reflection error", "is_correct": false }
+      ],
+      "answer": "Chromatic aberration"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Newtonian telescopes use which type of mirror to reflect light rays first?",
+      "options": [
+        { "option_id": 1, "text": "Plane mirror", "is_correct": false },
+        { "option_id": 2, "text": "Convex mirror", "is_correct": false },
+        { "option_id": 3, "text": "Concave mirror", "is_correct": true },
+        { "option_id": 4, "text": "Parabolic mirror", "is_correct": false }
+      ],
+      "answer": "Concave mirror"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In a Cassegrain telescope, the secondary mirror is __________.",
+      "options": [
+        { "option_id": 1, "text": "Concave", "is_correct": false },
+        { "option_id": 2, "text": "Convex", "is_correct": true },
+        { "option_id": 3, "text": "Plane", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where is the Giant Meterwave Radio Telescope (GMRT) located?",
+      "options": [
+        { "option_id": 1, "text": "Bengaluru", "is_correct": false },
+        { "option_id": 2, "text": "Nainital", "is_correct": false },
+        { "option_id": 3, "text": "Narayangaon", "is_correct": true },
+        { "option_id": 4, "text": "Mumbai", "is_correct": false }
+      ],
+      "answer": "Narayangaon"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The Hubble telescope was launched by __________.",
+      "options": [
+        { "option_id": 1, "text": "ISRO", "is_correct": false },
+        { "option_id": 2, "text": "NASA", "is_correct": true },
+        { "option_id": 3, "text": "ESA", "is_correct": false },
+        { "option_id": 4, "text": "CNSA", "is_correct": false }
+      ],
+      "answer": "NASA"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Chandra telescope is used to study __________.",
+      "options": [
+        { "option_id": 1, "text": "Visible light", "is_correct": false },
+        { "option_id": 2, "text": "Radio waves", "is_correct": false },
+        { "option_id": 3, "text": "X-rays", "is_correct": true },
+        { "option_id": 4, "text": "Gamma rays", "is_correct": false }
+      ],
+      "answer": "X-rays"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When was the Indian Space Research Organization (ISRO) established?",
+      "options": [
+        { "option_id": 1, "text": "1959", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": true },
+        { "option_id": 3, "text": "1979", "is_correct": false },
+        { "option_id": 4, "text": "1989", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which Indian satellite series is used for education?",
+      "options": [
+        { "option_id": 1, "text": "INSAT", "is_correct": false },
+        { "option_id": 2, "text": "GSAT", "is_correct": false },
+        { "option_id": 3, "text": "IRS", "is_correct": false },
+        { "option_id": 4, "text": "EDUSAT", "is_correct": true }
+      ],
+      "answer": "EDUSAT"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Astrosat was launched by ISRO in the year __________.",
+      "options": [
+        { "option_id": 1, "text": "2010", "is_correct": false },
+        { "option_id": 2, "text": "2015", "is_correct": true },
+        { "option_id": 3, "text": "2000", "is_correct": false },
+        { "option_id": 4, "text": "2020", "is_correct": false }
+      ],
+      "answer": "2015"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The biggest optical telescope in India is situated at __________.",
+      "options": [
+        { "option_id": 1, "text": "Nainital", "is_correct": true },
+        { "option_id": 2, "text": "Pune", "is_correct": false },
+        { "option_id": 3, "text": "Bengaluru", "is_correct": false },
+        { "option_id": 4, "text": "Kodaikanal", "is_correct": false }
+      ],
+      "answer": "Nainital"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these rays has the shortest wavelength?",
+      "options": [
+        { "option_id": 1, "text": "Radio waves", "is_correct": false },
+        { "option_id": 2, "text": "Visible light", "is_correct": false },
+        { "option_id": 3, "text": "Gamma rays", "is_correct": true },
+        { "option_id": 4, "text": "X-rays", "is_correct": false }
+      ],
+      "answer": "Gamma rays"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Optical telescopes use __________ to see visible radiation.",
+      "options": [
+        { "option_id": 1, "text": "Dishes", "is_correct": false },
+        { "option_id": 2, "text": "Lenses or mirrors", "is_correct": true },
+        { "option_id": 3, "text": "Detectors only", "is_correct": false },
+        { "option_id": 4, "text": "Antennas", "is_correct": false }
+      ],
+      "answer": "Lenses or mirrors"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The GMRT consists of __________ dishes.",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "20", "is_correct": false },
+        { "option_id": 3, "text": "30", "is_correct": true },
+        { "option_id": 4, "text": "40", "is_correct": false }
+      ],
+      "answer": "30"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the diameter of each dish in GMRT?",
+      "options": [
+        { "option_id": 1, "text": "25 m", "is_correct": false },
+        { "option_id": 2, "text": "30 m", "is_correct": false },
+        { "option_id": 3, "text": "45 m", "is_correct": true },
+        { "option_id": 4, "text": "100 m", "is_correct": false }
+      ],
+      "answer": "45 m"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a problem for earth-based telescopes?",
+      "options": [
+        { "option_id": 1, "text": "Atmospheric absorption", "is_correct": false },
+        { "option_id": 2, "text": "City lights", "is_correct": false },
+        { "option_id": 3, "text": "Cloudy weather", "is_correct": false },
+        { "option_id": 4, "text": "Vacuum of space", "is_correct": true }
+      ],
+      "answer": "Vacuum of space"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Chandra telescope is named after __________.",
+      "options": [
+        { "option_id": 1, "text": "Chandragupta Maurya", "is_correct": false },
+        { "option_id": 2, "text": "Subramanian Chandrashekhar", "is_correct": true },
+        { "option_id": 3, "text": "Jagadish Chandra Bose", "is_correct": false },
+        { "option_id": 4, "text": "Harish Chandra", "is_correct": false }
+      ],
+      "answer": "Subramanian Chandrashekhar"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which satellite series is used for disaster management?",
+      "options": [
+        { "option_id": 1, "text": "INSAT", "is_correct": false },
+        { "option_id": 2, "text": "GSAT", "is_correct": false },
+        { "option_id": 3, "text": "IRS", "is_correct": true },
+        { "option_id": 4, "text": "EDUSAT", "is_correct": false }
+      ],
+      "answer": "IRS"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Astrosat has telescopes that can detect __________.",
+      "options": [
+        { "option_id": 1, "text": "Only X-rays", "is_correct": false },
+        { "option_id": 2, "text": "Only UV rays", "is_correct": false },
+        { "option_id": 3, "text": "UV and X-rays", "is_correct": true },
+        { "option_id": 4, "text": "Radio waves", "is_correct": false }
+      ],
+      "answer": "UV and X-rays"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was the first scientist to use a telescope for space observation?",
+      "options": [
+        { "option_id": 1, "text": "Hans Lippershey", "is_correct": false },
+        { "option_id": 2, "text": "Galileo Galilei", "is_correct": true },
+        { "option_id": 3, "text": "Kepler", "is_correct": false },
+        { "option_id": 4, "text": "Newton", "is_correct": false }
+      ],
+      "answer": "Galileo Galilei"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What happens to light rays when they enter a lens?",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Refraction", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Absorption", "is_correct": false }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why are optical telescopes located on mountains?",
+      "options": [
+        { "option_id": 1, "text": "To be closer to stars", "is_correct": false },
+        { "option_id": 2, "text": "To avoid atmospheric turbulence and city lights", "is_correct": true },
+        { "option_id": 3, "text": "To get more sunlight", "is_correct": false },
+        { "option_id": 4, "text": "To use less electricity", "is_correct": false }
+      ],
+      "answer": "To avoid atmospheric turbulence and city lights"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the height of the Hubble telescope's orbit from the earth?",
+      "options": [
+        { "option_id": 1, "text": "100 km", "is_correct": false },
+        { "option_id": 2, "text": "589 km", "is_correct": true },
+        { "option_id": 3, "text": "36000 km", "is_correct": false },
+        { "option_id": 4, "text": "800 km", "is_correct": false }
+      ],
+      "answer": "589 km"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who discovered that seeing through two lenses makes objects appear closer?",
+      "answer": "Hans Lippershey, a spectacle maker, discovered this in 1608."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "When did Galileo make his telescope?",
+      "answer": "Galileo made his telescope in 1609."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is visible radiation?",
+      "answer": "Light with wavelengths between 400 nm and 800 nm that our eyes can see is called visible radiation."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the wavelength range of radio waves?",
+      "answer": "Radio waves have wavelengths longer than about 20 cm."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Define 1 nanometer (nm).",
+      "answer": "1 nm is equal to 10^-9 meters."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Define 1 picometer (pm).",
+      "answer": "1 pm is equal to 10^-12 meters."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are optical telescopes?",
+      "answer": "Telescopes made from regular lenses or mirrors to see visible radiation coming from space are called optical telescopes[cite: 947]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is a refracting telescope?",
+      "answer": "A telescope that uses lenses where light rays change direction (refract) to form an image is called a refracting telescope [cite: 960-961]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the function of the objective lens?",
+      "answer": "The objective lens collects the maximum amount of light coming from a heavenly object."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the function of the eyepiece?",
+      "answer": "The eyepiece uses the light collected by the objective to produce a large, magnified image of the source[cite: 959]."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is chromatic aberration?",
+      "answer": "Chromatic aberration is an error in images formed by lenses where colours are distorted or separated[cite: 968]."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is a reflecting telescope?",
+      "answer": "A telescope that uses concave mirrors to reflect light rays to form an image is called a reflecting telescope [cite: 969-970]."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name the two main types of reflecting telescopes.",
+      "answer": "Newtonian and Cassegrain telescopes."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What type of mirror is used in a Newtonian telescope to deflect rays to the eyepiece?",
+      "answer": "A small plane mirror is used."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What type of mirror is used in a Cassegrain telescope to reflect rays back to the eyepiece?",
+      "answer": "A small convex mirror is used[cite: 983]."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Where is the largest optical telescope in Asia located?",
+      "answer": "It is located at the Aryabhatt Research Institute of Experimental Sciences, Nainital."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the diameter of the mirror in the telescope at Nainital?",
+      "answer": "The diameter is 3.6 meters."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why can we not see radio waves with our eyes?",
+      "answer": "Because our eyes are not sensitive to radiation other than the visible spectrum (400-800 nm)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the shape of the dish in a radio telescope?",
+      "answer": "The dish has a particular parabolic shape."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Where is the radio receiver placed in a radio telescope?",
+      "answer": "The radio receiver is placed at the focal point of the dish."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What does GMRT stand for?",
+      "answer": "GMRT stands for Giant Meterwave Radio Telescope."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How many dishes does GMRT have?",
+      "answer": "GMRT has a collection of 30 dishes."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the effective diameter of the GMRT?",
+      "answer": "The arrangement acts as a single dish having a diameter of 25 km."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What heavenly bodies are studied using GMRT?",
+      "answer": "Solar system, solar winds, pulsars, supernova, and interstellar hydrogen clouds[cite: 1014]."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why does the intensity of light reaching the earth's surface decrease?",
+      "answer": "Because some of the light is absorbed by the earth's atmosphere during its journey."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What causes the position of a star's image to shake?",
+      "answer": "Changes in atmospheric pressure and temperature cause turbulence, which changes the path of light rays, shaking the image position [cite: 1032-1033]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why can't we use optical telescopes during the day?",
+      "answer": "We cannot use them during the day because of the bright sunlight."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the advantage of space telescopes?",
+      "answer": "They provide bright and clear images and avoid atmospheric problems like absorption and turbulence."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "When was the Hubble telescope launched?",
+      "answer": "The Hubble telescope was launched in 1990."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What type of telescope is Chandra?",
+      "answer": "Chandra is an X-ray telescope."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who is the Chandra telescope named after?",
+      "answer": "It is named after the Indian scientist Subramanian Chandrashekhar."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the aim of ISRO?",
+      "answer": "The aim is developing technology for making and launching artificial satellites."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What services do INSAT and GSAT satellites support?",
+      "answer": "They support telecommunication networks, television broadcasting, and meteorological services."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the function of the IRS satellite series?",
+      "answer": "It is used for monitoring and managing natural resources and disaster management."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is unique about Astrosat?",
+      "answer": "It is a unique system having different kinds of telescopes (UV and X-ray) on a single satellite."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why are mirrors easier to use in telescopes than lenses?",
+      "answer": "Large mirrors are easier to make, lighter, and do not have chromatic aberration compared to large lenses."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How are big mirrors for telescopes made?",
+      "answer": "Big mirrors can be made by combining several smaller pieces."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did Galileo discover with his telescope?",
+      "answer": "He discovered the moons of Jupiter, black spots on the sun, and saw many more stars."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the wavelength range of Ultraviolet rays?",
+      "answer": "300 pm to 400 nm."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the wavelength range of X-rays?",
+      "answer": "3 pm to 300 pm."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the wavelength range of Infrared waves?",
+      "answer": "800 nm to 0.3 mm."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does a radio telescope do with the information gathered?",
+      "answer": "The information is passed to a computer which analyzes it and constructs an image of the source."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are city lights a problem for optical telescopes?",
+      "answer": "City lights reduce the visibility of heavenly bodies, making observation difficult."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the diameter of the Hubble telescope's mirror?",
+      "answer": "94 inches."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Where is the ISRO headquarters?",
+      "answer": "Bengaluru."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is EDUSAT?",
+      "answer": "EDUSAT is a satellite series used exclusively for education."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What wavelengths can our eyes see?",
+      "answer": "400 nm to 800 nm."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why do we need X-ray and Radio telescopes?",
+      "answer": "To receive and study radiations other than visible light emitted by heavenly bodies."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happens to the weight of a lens as its size increases?",
+      "answer": "Its weight increases significantly, and it tends to get distorted."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What type of mirrors are used in the Chandra telescope?",
+      "answer": "Special mirrors which can reflect X-rays."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a Refracting Telescope.",
+      "answer": " A refracting telescope consists of two convex lenses: the objective lens and the eyepiece. The objective lens is large to collect maximum light from a heavenly source. Light rays entering the objective lens get refracted and form an image. The eyepiece, which is smaller, uses this light to produce a large, magnified image of the source. The objective and eyepiece are placed at opposite ends of the telescope tube [cite: 957-961]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the difficulties encountered in using large refracting telescopes.",
+      "answer": "1. Making very large lenses is difficult and they become very heavy and distorted. 2. The length of the telescope increases significantly with the size of the lenses, making it difficult to manage. 3. Images formed by lenses suffer from chromatic aberration, where colours are distorted [cite: 964-968]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the construction of a Newtonian Reflecting Telescope.",
+      "answer": " The Newtonian telescope uses a concave mirror as the objective. Light rays from space are reflected by this concave mirror. Before these rays converge at the focus, a small plane mirror deflects them. As a result, they get focused at a point perpendicular to the telescope's axis and pass through the eyepiece, forming a magnified image [cite: 978-981]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the construction of a Cassegrain Reflecting Telescope.",
+      "answer": " The Cassegrain telescope uses a concave mirror to collect light. The reflected light is directed towards a small convex mirror placed in front of the concave mirror. The convex mirror reflects the rays back towards the centre of the concave mirror, where they pass through a hole to reach the eyepiece situated at the back, forming a magnified image [cite: 983-985]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a Radio Telescope.",
+      "answer": " A radio telescope consists of one or more dishes with a parabolic shape. These dishes reflect incoming radio waves from space and converge them at a focal point. A radio receiver placed at the focus gathers this information. The data is then passed to a computer, which analyzes it and constructs an image of the source [cite: 1005-1007]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe the Giant Meterwave Radio Telescope (GMRT).",
+      "answer": " Located at Narayangaon near Pune, GMRT is a large radio telescope used to study radio waves of about a meter wavelength. It consists of 30 dishes, each 45m in diameter, spread over 25 km. This arrangement allows it to function effectively as a single giant dish of 25 km diameter. It is used to study the solar system, pulsars, supernovae, etc. [cite: 1008-1014]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What are the problems associated with earth-based optical telescopes?",
+      "answer": "1. Absorption: The atmosphere absorbs some light, reducing intensity. 2. Turbulence: Changes in pressure and temperature cause light rays to shift, shaking the image. 3. Day/Night cycle: Cannot be used during the day due to sunlight. 4. Light Pollution: City lights and cloudy weather hinder observations [cite: 1030-1035]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Write a note on the Hubble Telescope.",
+      "answer": " Launched by NASA in 1990, the Hubble telescope is an optical telescope orbiting the earth at a height of 589 km. It has a mirror with a diameter of 94 inches. Because it is in space, it avoids atmospheric interference, providing bright and clear images. It has made many important discoveries [cite: 1040-1042]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Write a note on the Chandra Telescope.",
+      "answer": " Launched by NASA in 1999, Chandra is an X-ray telescope designed to study X-rays from heavenly objects. It uses special mirrors that reflect X-rays. It is named after the Indian scientist Subramanian Chandrashekhar and has provided useful information about stars and galaxies [cite: 1043-1046]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the contributions of ISRO to space science and society.",
+      "answer": "Established in 1969, ISRO develops technology for satellites. Its INSAT and GSAT series support telecommunication, TV broadcasting, and meteorological services, enabling phone and internet access nationwide. The EDUSAT satellite is dedicated to education. The IRS series monitors natural resources and aids in disaster management [cite: 1048-1055]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Write a note on Astrosat.",
+      "answer": " Launched by ISRO in 2015, Astrosat is a unique artificial satellite equipped with both ultraviolet and X-ray telescopes and detectors. Most of its parts are made in India. It allows scientists to study various aspects of the Universe using data from different spectrums simultaneously [cite: 1059-1062]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why are different types of telescopes (Optical, X-ray, Radio) needed?",
+      "answer": "Heavenly bodies emit various types of radiation, not just visible light. Our eyes and optical telescopes can only detect visible radiation (400-800 nm). To study the complete universe, we need telescopes sensitive to other wavelengths like radio waves, X-rays, and gamma rays to capture the full range of information emitted by stars and galaxies [cite: 947-949]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Differentiate between Refracting and Reflecting telescopes.",
+      "answer": "1. Components: Refracting telescopes use lenses; Reflecting telescopes use mirrors. 2. Size: It is difficult to make large refracting telescopes due to heavy lenses; large reflecting telescopes are easier to construct with mirrors. 3. Aberration: Refracting telescopes suffer from chromatic aberration; Reflecting telescopes do not. 4. Image Quality: Reflecting telescopes can collect more light and form brighter images."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Why is it advantageous to place telescopes in space?",
+      "answer": "Placing telescopes in space eliminates problems caused by the earth's atmosphere, such as absorption of light and atmospheric turbulence which shakes images. Space telescopes can observe 24/7 without interference from sunlight (if positioned correctly), clouds, or city lights, providing clearer and brighter images [cite: 1037-1038]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the history of the telescope.",
+      "answer": "In 1608, Hans Lippershey discovered that two lenses could bring objects closer and made the first telescope. In 1609, Galileo Galilei made a telescope and used it for space observation, discovering Jupiter's moons and sunspots. Over 400 years, technology progressed from small optical telescopes to giant radio telescopes and space observatories [cite: 934-937]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the electromagnetic spectrum mentioned in the chapter.",
+      "answer": "The spectrum includes: Radio waves (>20 cm), Microwaves (0.3 mm - 20 cm), Infrared waves (800 nm - 0.3 mm), Visible light (400 nm - 800 nm), Ultraviolet rays (300 pm - 400 nm), X-rays (3 pm - 300 pm), and Gamma rays (<3 pm). Each has a different wavelength and requires specific instruments for detection[cite: 945]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Why are optical telescopes situated in uninhabited places on mountains?",
+      "answer": "They are situated on mountains to be above much of the atmospheric turbulence and to reduce absorption. Uninhabited places are chosen to avoid 'light pollution' from city lights, which makes it difficult to see faint stars. This ensures clearer and better-quality observations[cite: 1036]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Why is the GMRT called a 'Giant' telescope?",
+      "answer": "It is called 'Giant' because it comprises 30 dishes spread over an area of 25 km. This specific arrangement allows the entire facility to function as a single effective dish with a diameter of 25 km, providing high-resolution data equivalent to a massive single telescope [cite: 1011-1012]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain the importance of space science and technology in daily life.",
+      "answer": "Space science is not just for research; it provides comforts and facilities. Satellites like INSAT and GSAT enable telecommunication, television, and internet services. Weather satellites help in meteorology. GPS and navigation are crucial for travel. Education satellites like EDUSAT assist in distance learning [cite: 928, 1052-1054]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the role of mirrors in reflecting telescopes?",
+      "answer": "Concave mirrors act as the objective element. They collect light from the source and reflect it to a focus. Because mirrors reflect light rather than refracting it, they avoid chromatic aberration. They can be made very large to collect more light, allowing observation of faint and distant objects [cite: 970-974]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Describe the Cassegrain telescope's light path.",
+      "answer": "Light enters the tube and hits the primary concave mirror at the back. It reflects forward towards a focal point. Before reaching the focus, it hits a small secondary convex mirror. This convex mirror reflects the light back through a central hole in the primary mirror to the eyepiece located behind it [cite: 983-984]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Why can an X-ray telescope not be based on the earth?",
+      "answer": "X-rays emitted by heavenly bodies are absorbed by the earth's atmosphere and do not reach the surface. Therefore, to detect and study X-rays, the telescope must be placed in space, above the atmosphere [implied from 1026, 1043]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What specific studies are conducted using GMRT?",
+      "answer": "GMRT uses radio waves to study the solar system, solar winds, pulsars (rapidly rotating neutron stars), supernovae (exploding stars), and interstellar hydrogen clouds. It attracts scientists globally for this research[cite: 1014]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How does the atmosphere affect visible light reaching the earth?",
+      "answer": "The atmosphere absorbs some of the visible light, reducing its intensity. Additionally, changes in atmospheric pressure and temperature create turbulence, which refracts light rays randomly, causing the image of stars to shake or twinkle and blurring the view [cite: 1031-1033]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Compare the Newtonian and Cassegrain telescope designs.",
+      "answer": "Both are reflecting telescopes using a primary concave mirror. Newtonian: Uses a flat secondary mirror angled at 45 degrees to deflect light out the side of the tube to the eyepiece. Cassegrain: Uses a convex secondary mirror to reflect light back through a hole in the primary mirror to the eyepiece at the rear [cite: 978-984]."
+    }
+  ]
+}

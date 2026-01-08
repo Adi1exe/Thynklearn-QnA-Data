@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.07",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "International Date Line"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which meridian is used to draw the International Date Line (IDL)?",
+      "options": [
+        { "option_id": 1, "text": "0° Meridian", "is_correct": false },
+        { "option_id": 2, "text": "90° E Meridian", "is_correct": false },
+        { "option_id": 3, "text": "180° Meridian", "is_correct": true },
+        { "option_id": 4, "text": "60° W Meridian", "is_correct": false }
+      ],
+      "answer": "180° Meridian"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was the International Date Line decided?",
+      "options": [
+        { "option_id": 1, "text": "1884", "is_correct": true },
+        { "option_id": 2, "text": "1905", "is_correct": false },
+        { "option_id": 3, "text": "1947", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1884"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Under whose leadership was the International Date Line decided?",
+      "options": [
+        { "option_id": 1, "text": "Professor Anderson", "is_correct": false },
+        { "option_id": 2, "text": "Professor Davidson", "is_correct": true },
+        { "option_id": 3, "text": "Professor Smith", "is_correct": false },
+        { "option_id": 4, "text": "Professor Johnson", "is_correct": false }
+      ],
+      "answer": "Professor Davidson"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Through which ocean does the IDL primarily pass?",
+      "options": [
+        { "option_id": 1, "text": "Atlantic Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 3, "text": "Pacific Ocean", "is_correct": true },
+        { "option_id": 4, "text": "Arctic Ocean", "is_correct": false }
+      ],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What change should a person make when travelling from West to East (e.g., Japan to America) crossing the IDL?",
+      "options": [
+        { "option_id": 1, "text": "Add a day", "is_correct": false },
+        { "option_id": 2, "text": "Subtract a day (consider the same/previous day)", "is_correct": true },
+        { "option_id": 3, "text": "Change the time by 12 hours", "is_correct": false },
+        { "option_id": 4, "text": "No change needed", "is_correct": false }
+      ],
+      "answer": "Subtract a day (consider the same/previous day)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What change should a person make when travelling from East to West (e.g., America to Japan) crossing the IDL?",
+      "options": [
+        { "option_id": 1, "text": "Add a day", "is_correct": true },
+        { "option_id": 2, "text": "Subtract a day", "is_correct": false },
+        { "option_id": 3, "text": "Change only the time", "is_correct": false },
+        { "option_id": 4, "text": "Wait for 24 hours", "is_correct": false }
+      ],
+      "answer": "Add a day"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "According to the IDL, where does a new day start on Earth?",
+      "options": [
+        { "option_id": 1, "text": "East of the IDL (West)", "is_correct": false },
+        { "option_id": 2, "text": "West of the IDL (East)", "is_correct": true },
+        { "option_id": 3, "text": "At the Prime Meridian", "is_correct": false },
+        { "option_id": 4, "text": "At the Equator", "is_correct": false }
+      ],
+      "answer": "West of the IDL (East)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why is the IDL not a straight line?",
+      "options": [
+        { "option_id": 1, "text": "To look artistic", "is_correct": false },
+        { "option_id": 2, "text": "To avoid landmasses and islands", "is_correct": true },
+        { "option_id": 3, "text": "Due to ocean currents", "is_correct": false },
+        { "option_id": 4, "text": "Due to the earth's tilt", "is_correct": false }
+      ],
+      "answer": "To avoid landmasses and islands"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many hours of time difference is there between the Prime Meridian and the 180° meridian?",
+      "options": [
+        { "option_id": 1, "text": "6 hours", "is_correct": false },
+        { "option_id": 2, "text": "12 hours", "is_correct": true },
+        { "option_id": 3, "text": "24 hours", "is_correct": false },
+        { "option_id": 4, "text": "10 hours", "is_correct": false }
+      ],
+      "answer": "12 hours"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "If it is 12 noon on Monday at the Prime Meridian, what time is it at 180° meridian?",
+      "options": [
+        { "option_id": 1, "text": "6 pm Monday", "is_correct": false },
+        { "option_id": 2, "text": "12 midnight Monday/Tuesday", "is_correct": true },
+        { "option_id": 3, "text": "6 am Tuesday", "is_correct": false },
+        { "option_id": 4, "text": "12 noon Tuesday", "is_correct": false }
+      ],
+      "answer": "12 midnight Monday/Tuesday"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following activities requires the IDL for coordination?",
+      "options": [
+        { "option_id": 1, "text": "Local bus schedules", "is_correct": false },
+        { "option_id": 2, "text": "International airline schedules", "is_correct": true },
+        { "option_id": 3, "text": "School timings", "is_correct": false },
+        { "option_id": 4, "text": "Domestic train services", "is_correct": false }
+      ],
+      "answer": "International airline schedules"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When was the last change made to the IDL?",
+      "options": [
+        { "option_id": 1, "text": "2000", "is_correct": false },
+        { "option_id": 2, "text": "2011", "is_correct": true },
+        { "option_id": 3, "text": "2015", "is_correct": false },
+        { "option_id": 4, "text": "1995", "is_correct": false }
+      ],
+      "answer": "2011"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "If it is Thursday 6 pm at 90° E, what day will it be at the 180° meridian for someone travelling East?",
+      "options": [
+        { "option_id": 1, "text": "Thursday Midnight", "is_correct": true },
+        { "option_id": 2, "text": "Friday Noon", "is_correct": false },
+        { "option_id": 3, "text": "Wednesday Midnight", "is_correct": false },
+        { "option_id": 4, "text": "Thursday Noon", "is_correct": false }
+      ],
+      "answer": "Thursday Midnight"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which hemisphere lies to the left of the IDL in a standard map view (towards Asia)?",
+      "options": [
+        { "option_id": 1, "text": "Western Hemisphere", "is_correct": false },
+        { "option_id": 2, "text": "Eastern Hemisphere", "is_correct": true },
+        { "option_id": 3, "text": "Northern Hemisphere", "is_correct": false },
+        { "option_id": 4, "text": "Southern Hemisphere", "is_correct": false }
+      ],
+      "answer": "Eastern Hemisphere"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which hemisphere lies to the right of the IDL in a standard map view (towards America)?",
+      "options": [
+        { "option_id": 1, "text": "Western Hemisphere", "is_correct": true },
+        { "option_id": 2, "text": "Eastern Hemisphere", "is_correct": false },
+        { "option_id": 3, "text": "Northern Hemisphere", "is_correct": false },
+        { "option_id": 4, "text": "Southern Hemisphere", "is_correct": false }
+      ],
+      "answer": "Western Hemisphere"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the International Date Line (IDL)?",
+      "answer": "The International Date Line is an imaginary line on the surface of the earth, generally following the 180° meridian, where the date changes by one day when it is crossed."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Why does the day start in the Pacific Ocean?",
+      "answer": "Because the International Date Line passes through the Pacific Ocean, and by convention, the new day starts to the west of this line."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What happens to the date if you travel from Japan to America crossing the IDL?",
+      "answer": "You consider the same day (or subtract a day from the calculation) because you are moving from the start of the day to the end of the previous day."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What happens to the date if you travel from America to Japan crossing the IDL?",
+      "answer": "You add a day to the date because you are moving from the end of a day to the start of the next day."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Why was the 180° meridian chosen for the IDL?",
+      "answer": "Because it is exactly opposite to the Prime Meridian and passes mostly through the Pacific Ocean, avoiding major landmasses to prevent confusion in dates."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why is the IDL important for transportation services?",
+      "answer": "It helps in coordinating the schedules of international airlines and transportation services to ensure accurate timing across different time zones."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What precaution is taken while crossing the 180° meridian?",
+      "answer": "The day and date must be adjusted (added or subtracted) depending on the direction of travel to maintain the correct calendar date."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why does the IDL turn East or West at places?",
+      "answer": "It turns to avoid passing through islands or landmasses so that the people living there do not have different dates on the same island."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "In the example of Flight UA 876, why did it arrive 'before' it left?",
+      "answer": "Because it travelled East from Tokyo (West of IDL) to San Francisco (East of IDL), crossing the IDL, which involves subtracting a day (or going back to the previous date)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "If it is Monday 15th August at 150° E Meridian, what is the day at 150° W Meridian?",
+      "answer": "Sunday, 14th August (because 150° W is to the east of the IDL relative to the prime meridian direction, or simply behind in time)."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Explain the concept of the International Date Line with respect to Earth's rotation.",
+      "answer": "The Earth rotates from West to East. Places in the East see the sun earlier. As we move East from the Prime Meridian, time is added. As we move West, time is subtracted. At 180°, there is a difference of 12 hours from both sides, creating a 24-hour difference total. To resolve this, the IDL was established at 180°. Crossing it from West to East (Asia to America) takes you back a day, and crossing it from East to West (America to Asia) takes you forward a day."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Why is the International Date Line not a straight line?",
+      "answer": "The IDL is not a straight line like the 180° meridian because it would otherwise pass through some landmasses and islands. If it passed through land, people on the eastern side of the line would be on a different day than people on the western side of the same island, creating massive confusion for administration and daily life. Therefore, the line deviates east or west to keep island groups within the same day zone."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Describe the journey of Meenal and Sunil mentioned in the text and the confusion it illustrates.",
+      "answer": "Meenal travelled West and Sunil travelled East from the Prime Meridian. Sunil saw time moving ahead, while Meenal saw time moving back. When they met at 180°, there was a 24-hour difference in their calculations. Sunil thought it was Friday, while Meenal thought it was Wednesday (assuming they started Thursday). The confusion illustrates the need for the IDL to standardize the date change so they can agree on 'Thursday' (or the correct day) upon crossing."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the International Date Line in the modern era.",
+      "answer": "In today's modern era of rapid global developments, the IDL is crucial. It brings coordination between international airlines, transportation services, and economic and trade activities. It allows for accurate tracking of days and times for global communication and logistics. Without it, scheduling flights or trading stocks across the world would be chaotic due to date discrepancies."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Using the example of the American plane UA-876, explain the phenomenon of date change.",
+      "answer": "The plane UA-876 left Tokyo (West of IDL) on 1st January 2017. It travelled East across the Pacific Ocean to San Francisco (East of IDL). Since it crossed the IDL from West to East, the date goes back by one day. Therefore, even though the flight took several hours, it arrived in San Francisco on 31st December 2016. This illustrates the rule that travelling East across the IDL results in 'gaining' a day (or repeating the previous date)."
+    }
+  ]
+}

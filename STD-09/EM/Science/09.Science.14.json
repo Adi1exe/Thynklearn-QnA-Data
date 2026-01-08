@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.14",
+    "standard": "9",
+    "subject": "Science and Technology",
+    "medium": "English",
+    "chapter_name": "Substances in Common Use"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the chemical name of Baking Soda?",
+      "options": [
+        { "option_id": 1, "text": "Sodium carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Sodium bicarbonate", "is_correct": true },
+        { "option_id": 3, "text": "Calcium oxychloride", "is_correct": false },
+        { "option_id": 4, "text": "Sodium chloride", "is_correct": false }
+      ],
+      "answer": "Sodium bicarbonate"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which gas is released when bleaching powder undergoes slow decomposition?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 3, "text": "Chlorine", "is_correct": true },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The melting point of Teflon is __________.",
+      "options": [
+        { "option_id": 1, "text": "100°C", "is_correct": false },
+        { "option_id": 2, "text": "327°C", "is_correct": true },
+        { "option_id": 3, "text": "500°C", "is_correct": false },
+        { "option_id": 4, "text": "1200°C", "is_correct": false }
+      ],
+      "answer": "327°C"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which radioactive isotope is used in the treatment of hyperthyroidism?",
+      "options": [
+        { "option_id": 1, "text": "Cobalt-60", "is_correct": false },
+        { "option_id": 2, "text": "Iodine-123", "is_correct": true },
+        { "option_id": 3, "text": "Strontium-90", "is_correct": false },
+        { "option_id": 4, "text": "Uranium-235", "is_correct": false }
+      ],
+      "answer": "Iodine-123"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the pH value of a neutral salt?",
+      "options": [
+        { "option_id": 1, "text": "Less than 7", "is_correct": false },
+        { "option_id": 2, "text": "More than 7", "is_correct": false },
+        { "option_id": 3, "text": "7", "is_correct": true },
+        { "option_id": 4, "text": "14", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which scientist discovered the artificial dye?",
+      "options": [
+        { "option_id": 1, "text": "William Henry Perkin", "is_correct": true },
+        { "option_id": 2, "text": "Rutherford", "is_correct": false },
+        { "option_id": 3, "text": "Roy J. Plunkett", "is_correct": false },
+        { "option_id": 4, "text": "Madame Curie", "is_correct": false }
+      ],
+      "answer": "William Henry Perkin"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the chemical formula of Bleaching Powder?",
+      "options": [
+        { "option_id": 1, "text": "CaCl2", "is_correct": false },
+        { "option_id": 2, "text": "CaOCl2", "is_correct": true },
+        { "option_id": 3, "text": "CaCO3", "is_correct": false },
+        { "option_id": 4, "text": "Ca(OH)2", "is_correct": false }
+      ],
+      "answer": "CaOCl2"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Alpha particles have a charge of __________.",
+      "options": [
+        { "option_id": 1, "text": "-1", "is_correct": false },
+        { "option_id": 2, "text": "+2", "is_correct": true },
+        { "option_id": 3, "text": "0", "is_correct": false },
+        { "option_id": 4, "text": "+1", "is_correct": false }
+      ],
+      "answer": "+2"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which substance is used to fix the colour after dying a cloth?",
+      "options": [
+        { "option_id": 1, "text": "Teflon", "is_correct": false },
+        { "option_id": 2, "text": "Mordant", "is_correct": true },
+        { "option_id": 3, "text": "Bleach", "is_correct": false },
+        { "option_id": 4, "text": "Flux", "is_correct": false }
+      ],
+      "answer": "Mordant"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Ceramics can withstand high temperatures of __________.",
+      "options": [
+        { "option_id": 1, "text": "100-200°C", "is_correct": false },
+        { "option_id": 2, "text": "1000-1150°C", "is_correct": true },
+        { "option_id": 3, "text": "500-600°C", "is_correct": false },
+        { "option_id": 4, "text": "3000°C", "is_correct": false }
+      ],
+      "answer": "1000-1150°C"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which salt absorbs moisture from the air (hygroscopic)?",
+      "options": [
+        { "option_id": 1, "text": "Washing soda", "is_correct": true },
+        { "option_id": 2, "text": "Baking soda", "is_correct": false },
+        { "option_id": 3, "text": "Table salt", "is_correct": false },
+        { "option_id": 4, "text": "Limestone", "is_correct": false }
+      ],
+      "answer": "Washing soda"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which rays have the highest penetrating power?",
+      "options": [
+        { "option_id": 1, "text": "Alpha rays", "is_correct": false },
+        { "option_id": 2, "text": "Beta rays", "is_correct": false },
+        { "option_id": 3, "text": "Gamma rays", "is_correct": true },
+        { "option_id": 4, "text": "X-rays", "is_correct": false }
+      ],
+      "answer": "Gamma rays"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the chemical name of Teflon?",
+      "options": [
+        { "option_id": 1, "text": "Polyvinyl chloride", "is_correct": false },
+        { "option_id": 2, "text": "Polytetrafluoroethene", "is_correct": true },
+        { "option_id": 3, "text": "Polyethylene", "is_correct": false },
+        { "option_id": 4, "text": "Polystyrene", "is_correct": false }
+      ],
+      "answer": "Polytetrafluoroethene"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which compound is used to check the hardness of water?",
+      "options": [
+        { "option_id": 1, "text": "Sodium carbonate", "is_correct": true },
+        { "option_id": 2, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 3, "text": "Calcium carbonate", "is_correct": false },
+        { "option_id": 4, "text": "Sodium bicarbonate", "is_correct": false }
+      ],
+      "answer": "Sodium carbonate"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who discovered radioactivity?",
+      "options": [
+        { "option_id": 1, "text": "Ernest Rutherford", "is_correct": false },
+        { "option_id": 2, "text": "Henry Becquerel", "is_correct": true },
+        { "option_id": 3, "text": "Marie Curie", "is_correct": false },
+        { "option_id": 4, "text": "J.J. Thomson", "is_correct": false }
+      ],
+      "answer": "Henry Becquerel"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the main constituent of bone china?",
+      "options": [
+        { "option_id": 1, "text": "Silica", "is_correct": false },
+        { "option_id": 2, "text": "Animal bone ash", "is_correct": true },
+        { "option_id": 3, "text": "Alumina", "is_correct": false },
+        { "option_id": 4, "text": "Zirconia", "is_correct": false }
+      ],
+      "answer": "Animal bone ash"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following is an artificial food colour?",
+      "options": [
+        { "option_id": 1, "text": "Beetroot red", "is_correct": false },
+        { "option_id": 2, "text": "Turmeric yellow", "is_correct": false },
+        { "option_id": 3, "text": "Tetrazene", "is_correct": true },
+        { "option_id": 4, "text": "Saffron", "is_correct": false }
+      ],
+      "answer": "Tetrazene"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which chemical clogs sweat pores in antiperspirant deodorants?",
+      "options": [
+        { "option_id": 1, "text": "Alcohol", "is_correct": false },
+        { "option_id": 2, "text": "Aluminium chlorohydrate", "is_correct": true },
+        { "option_id": 3, "text": "Parabens", "is_correct": false },
+        { "option_id": 4, "text": "Silica", "is_correct": false }
+      ],
+      "answer": "Aluminium chlorohydrate"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Gamma rays travel at the speed of __________.",
+      "options": [
+        { "option_id": 1, "text": "Sound", "is_correct": false },
+        { "option_id": 2, "text": "Light", "is_correct": true },
+        { "option_id": 3, "text": "Alpha particles", "is_correct": false },
+        { "option_id": 4, "text": "Beta particles", "is_correct": false }
+      ],
+      "answer": "Light"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which salt is used in the Bordeaux mixture as a fungicide?",
+      "options": [
+        { "option_id": 1, "text": "Blue vitriol", "is_correct": true },
+        { "option_id": 2, "text": "Green vitriol", "is_correct": false },
+        { "option_id": 3, "text": "Alum", "is_correct": false },
+        { "option_id": 4, "text": "Borax", "is_correct": false }
+      ],
+      "answer": "Blue vitriol"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which method is used to protect iron objects from rusting by applying a polymer layer?",
+      "options": [
+        { "option_id": 1, "text": "Anodizing", "is_correct": false },
+        { "option_id": 2, "text": "Galvanizing", "is_correct": false },
+        { "option_id": 3, "text": "Powder coating", "is_correct": true },
+        { "option_id": 4, "text": "Tinning", "is_correct": false }
+      ],
+      "answer": "Powder coating"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the molecular formula of Washing Soda?",
+      "options": [
+        { "option_id": 1, "text": "Na2CO3.10H2O", "is_correct": true },
+        { "option_id": 2, "text": "Na2CO3.H2O", "is_correct": false },
+        { "option_id": 3, "text": "NaHCO3", "is_correct": false },
+        { "option_id": 4, "text": "NaOH", "is_correct": false }
+      ],
+      "answer": "Na2CO3.10H2O"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which radioactive isotope is used for food preservation?",
+      "options": [
+        { "option_id": 1, "text": "Cobalt-60", "is_correct": true },
+        { "option_id": 2, "text": "Uranium-235", "is_correct": false },
+        { "option_id": 3, "text": "Carbon-14", "is_correct": false },
+        { "option_id": 4, "text": "Radium-226", "is_correct": false }
+      ],
+      "answer": "Cobalt-60"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the 25% aqueous solution of salt called?",
+      "options": [
+        { "option_id": 1, "text": "Dilute solution", "is_correct": false },
+        { "option_id": 2, "text": "Saturated brine", "is_correct": true },
+        { "option_id": 3, "text": "Aqua regia", "is_correct": false },
+        { "option_id": 4, "text": "Tincture", "is_correct": false }
+      ],
+      "answer": "Saturated brine"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Porcelain is made from which white clay?",
+      "options": [
+        { "option_id": 1, "text": "Terracotta", "is_correct": false },
+        { "option_id": 2, "text": "Kaolin", "is_correct": true },
+        { "option_id": 3, "text": "Bentonite", "is_correct": false },
+        { "option_id": 4, "text": "Fuller's earth", "is_correct": false }
+      ],
+      "answer": "Kaolin"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define 'simple salts'.",
+      "answer": "Simple salts are ionic compounds that contain only one kind of cation and anion and do not contain H+ or OH- ions[cite: 2040]."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the chemical name of common salt?",
+      "answer": "The chemical name of common salt is Sodium Chloride[cite: 2070]."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What are the constituents of common salt?",
+      "answer": "Sodium (Na) and Chlorine (Cl) are the constituents of common salt[cite: 2045]."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is 'Rock Salt'?",
+      "answer": "Salt obtained from certain types of rock, such as the mineral halite or Himalayan rock salt, is called rock salt [cite: 2087-2088]."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the 'fused state' of salt?",
+      "answer": "When salt is heated to a high temperature (about 800°C), it melts; this state is called the fused state[cite: 2085]."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Why is baking soda basic in nature?",
+      "answer": "Baking soda is basic because it turns red litmus blue[cite: 2100]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Mention one medicinal use of baking soda.",
+      "answer": "It is used to reduce acidity in the stomach[cite: 2101]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What gives bleaching powder its property?",
+      "answer": "Bleaching powder gets its property due to the release of chlorine gas[cite: 2116]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How is bleaching powder obtained?",
+      "answer": "Bleaching powder is obtained by the reaction of chlorine gas with slaked lime[cite: 2118]."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Why does tap water smell of chlorine?",
+      "answer": "Tap water smells of chlorine because chlorine gas is used to destroy microbes in the water[cite: 2111]."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What causes the hardness of water?",
+      "answer": "The hardness of water is due to the presence of chlorides and sulphates of calcium and magnesium[cite: 2140]."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is washing soda used for?",
+      "answer": "Washing soda is mainly used for washing clothes and softening hard water[cite: 2154, 2141]."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of Alum?",
+      "answer": "K2SO4.Al2(SO4)3.24H2O[cite: 2162]."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the use of Alum in water treatment?",
+      "answer": "Alum is used for coagulation, helping solid impurities settle to the bottom[cite: 2169]."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is Blue Vitriol used for?",
+      "answer": "Blue vitriol is used in blood tests for diagnosing anaemia and as a fungicide [cite: 2171-2172]."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How is soap formed?",
+      "answer": "Soap is formed by boiling oil or animal fat with an aqueous solution of sodium or potassium hydroxide[cite: 2177]."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why does soap not lather in hard water?",
+      "answer": "Soap forms insoluble precipitate salts with calcium and magnesium in hard water, preventing lather formation [cite: 2178-2179]."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Define 'Radioactivity'.",
+      "answer": "Radioactivity is the property of elements with high atomic numbers to spontaneously emit invisible, highly penetrating, high-energy radiation [cite: 2183-2184]."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Name the three types of radioactive radiation.",
+      "answer": "Alpha, Beta, and Gamma rays[cite: 2188]."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who discovered the three types of radiation?",
+      "answer": "Rutherford discovered alpha and beta radiation, and Willard discovered gamma radiation [cite: 2197-2198]."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What are natural radioactive elements?",
+      "answer": "Elements with atomic numbers from 82 to 92 that radiate spontaneously in nature are called natural radioactive elements [cite: 2228-2229]."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is Radiography?",
+      "answer": "Radiography is a technique using gamma rays to detect internal cracks and voids in metals[cite: 2234]."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are 'artificial food colours'?",
+      "answer": "Artificial food colours like Tetrazene and Sunset Yellow are synthetic additives used to color food[cite: 2287]."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What disease can excessive consumption of food colours cause in children?",
+      "answer": "ADHD (Attention Deficit Hyperactivity Disorder)[cite: 2284]."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a 'dye'?",
+      "answer": "A dye is a coloured substance that imparts colour to an article upon application[cite: 2291]."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a 'mordant'?",
+      "answer": "A mordant is a substance used to fix the colour of a dye on a cloth[cite: 2293]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What harmful metal is often found in red colours used for Rang Panchami?",
+      "answer": "Mercury[cite: 2316]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a deodorant used for?",
+      "answer": "A deodorant is used to prevent body odour caused by bacterial decomposition of sweat[cite: 2328]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What harmful chemicals are found in deodorants?",
+      "answer": "Parabens, alcohol, and aluminium compounds [cite: 2331-2332]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is Teflon?",
+      "answer": "Teflon is a polymer of tetrafluoroethylene used for coating utensils to prevent sticking[cite: 2343]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who discovered Teflon?",
+      "answer": "Roy J. Plunkett discovered Teflon in 1938[cite: 2344]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Mention one property of Teflon.",
+      "answer": "Teflon is not affected by atmosphere or chemical substances, and nothing sticks to it [cite: 2349-2350]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is Powder Coating?",
+      "answer": "Powder coating is a method of applying a hard polymer layer on iron objects to prevent rusting[cite: 2357]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is Anodizing?",
+      "answer": "Anodizing is a process of forming a protective hydrated aluminium oxide layer on aluminium using electrolysis [cite: 2364-2365]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Ceramic?",
+      "answer": "Ceramic is a heat-resistant substance formed by kneading, shaping, and firing an inorganic substance[cite: 2370]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is 'Glazing' in ceramics?",
+      "answer": "Glazing is covering a fired ceramic object with ground glass powder to make it shiny and non-porous [cite: 2374-2375]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is Porcelain?",
+      "answer": "Porcelain is a hard, translucent, white ceramic made from kaolin, feldspar, and silica [cite: 2378-2380]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is Bone China?",
+      "answer": "Bone china is a ceramic made by adding animal bone ash to the porcelain mixture[cite: 2383]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are Advanced Ceramics made of?",
+      "answer": "Advanced ceramics are made using oxides like Alumina, Zirconia, Silica, and Silicon Carbide[cite: 2384]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is 'Sintering'?",
+      "answer": "Sintering is the process of firing advanced ceramics at 1600-1800°C in an oxygen-free atmosphere [cite: 2385-2386]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why are ceramics used in electrical instruments?",
+      "answer": "Ceramics are used because they are electrical insulators[cite: 2388]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the use of Teflon in electronics?",
+      "answer": "Teflon-cladded wires are used in high-tech instruments because Teflon is a poor conductor of electricity[cite: 2354]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name a radioactive isotope used for tumor detection.",
+      "answer": "Boron-10, Iodine-131, or Cobalt-60[cite: 2253]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the Chernobyl disaster?",
+      "answer": "It was an explosion in the graphite reactor of the Chernobyl atomic power plant in 1986, releasing radiation[cite: 2264]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is red colour dangerous in Rang Panchami?",
+      "answer": "It contains a high proportion of mercury which poses risks like blindness and skin cancer [cite: 2316-2317]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are the constituents of baking powder?",
+      "answer": "Baking powder consists of baking soda and a mild edible acid [implied from 2104 context, standard knowledge, though text asks question]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the use of Strontium-90 in agriculture?",
+      "answer": "Strontium-90 is used as a tracer in research on various crops[cite: 2248]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is Polycythemia?",
+      "answer": "Polycythemia is a disease where the red blood cell count increases[cite: 2249]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What isotope is used to treat bone cancer?",
+      "answer": "Strontium-89, Strontium-90, Samarium-153, or Radium-223[cite: 2250]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are 'Becquerel rays'?",
+      "answer": "Becquerel rays are the invisible, penetrating rays emitted by uranium compounds, discovered by Henry Becquerel[cite: 2195]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the electrolysis of Sodium Chloride to produce Chlorine.",
+      "answer": "When an electric current is passed through a saturated solution of sodium chloride (brine), it is electrolysed. Hydrogen gas is released at the cathode, while chlorine gas is released at the anode. This method is used for chlorine production, and NaOH is formed in the cell. Reaction: 2NaCl + 2H2O → 2NaOH + Cl2↑ + H2↑ [cite: 2082-2084]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the preparation and uses of Baking Soda.",
+      "answer": "Baking soda (NaHCO3) reacts with moist litmus to turn red litmus blue, indicating it is basic. Uses: 1. Making bread, cake, dhokla. 2. Reducing stomach acidity. 3. Making CO2 in fire extinguishers. 4. Cleaning ovens [cite: 2100-2103]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "What is Bleaching Powder? List its properties.",
+      "answer": "Bleaching powder is Calcium oxychloride (CaOCl2). Properties: 1. Yellowish-white solid. 2. Strong odour of chlorine. 3. Used for disinfecting drinking water and swimming pools. 4. Used for bleaching cloth. 5. Reacts with dilute acids to release chlorine completely [cite: 2124-2131]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the water softening property of Washing Soda with a reaction.",
+      "answer": "Washing soda (Na2CO3) softens hard water by reacting with the chlorides and sulphates of calcium and magnesium present in it. It forms insoluble carbonate salts of magnesium and calcium, which precipitate out. Reaction: MgCl2(aq) + Na2CO3(s) → MgCO3(s) + 2NaCl(s) [cite: 2139-2143]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Compare the properties of Alpha, Beta, and Gamma rays.",
+      "answer": " 1. Nature: Alpha are He++ particles, Beta are electrons, Gamma are EM radiation. 2. Charge: Alpha +2, Beta -1, Gamma Neutral. 3. Penetrating Power: Alpha < 0.02mm Al sheet, Beta 2mm Al sheet, Gamma 15cm Lead screen. 4. Velocity: Gamma travels at light speed, others are slower[cite: 2223]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What are the industrial uses of Radioactive Isotopes?",
+      "answer": "1. Radiography: Detecting cracks in metals using Cobalt-60/Iridium-192. 2. Measurement: Measuring thickness/density of sheets using radiation variance. 3. Luminescence: Making objects visible in dark (clock hands) using Radium/Promethium. 4. Ceramics: Luminous colours [cite: 2234-2243]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe the uses of Radioactive Isotopes in Agriculture.",
+      "answer": "1. Genetic modification: Modifying genes for faster growth/productivity. 2. Food preservation: Cobalt-60 gamma rays preserve food. 3. Anti-sprouting: Irradiating onions/potatoes prevents sprouting. 4. Tracer research: Strontium-90 used to study crops [cite: 2245-2248]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What are the hazards of Radioactive Substances?",
+      "answer": "1. Affects central nervous system. 2. Causes hereditary defects via DNA damage. 3. Penetrates skin causing cancer/leukemia. 4. Pollutants enter body through air/water/food chain (bioaccumulation). 5. Radioactive paints can cause cancer [cite: 2255-2261]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the process of Powder Coating.",
+      "answer": " Polymer resin, pigment, and ingredients are melted, mixed, cooled, and ground into powder. This powder is sprayed on polished metal using Electrostatic Spray Deposition (ESD). The charged particles stick to the metal. The object is heated, causing a chemical reaction that forms a hard, durable, cross-linked polymeric layer [cite: 2357-2363]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the process of Anodizing.",
+      "answer": " An aluminium article is dipped as an anode in a dilute acid cell. Electrolysis releases oxygen at the anode, which reacts with the aluminium to form a hydrated aluminium oxide layer. This layer protects the metal from rusting and can be colored for attractiveness [cite: 2364-2368]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the manufacturing of Ceramic.",
+      "answer": " Clay is kneaded with water, shaped, and fired in a kiln at 1000-1150°C to form porous ceramic. To make it non-porous and shiny, it is coated with 'glaze' (ground glass powder) and fired again. Advanced ceramics use oxides and require higher temperatures (sintering) [cite: 2373-2375, 2385]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What are the harmful effects of Deodorants?",
+      "answer": "1. Aluminium-Zirconium compounds can cause headache, asthma, and heart disease. 2. Aluminium chlorohydrates can cause skin disorders and skin cancer. 3. They contain harmful chemicals like parabens and alcohol [cite: 2339-2341]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What are the properties and uses of Teflon?",
+      "answer": "Properties: Chemical/heat resistant (mp 327°C), non-stick, easy to clean. Uses: 1. Coating for non-stick kitchenware. 2. Cladding for wires in electronics (insulator). 3. Coating for vehicle parts to protect from weather [cite: 2349-2355]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Differentiate between Bathing Soap and Washing Soap.",
+      "answer": "Bathing Soap: Uses high-grade fats and oils as raw material. Washing Soap: Uses low-grade fats and oils[cite: 2181]. (Note: Further differences usually include alkali content, but text only provides this one explicit table entry)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the harmful effects of artificial food colours.",
+      "answer": "1. They may contain small quantities of lead and mercury, which are harmful if consumed regularly. 2. Excessive consumption can cause diseases like ADHD (Attention Deficit Hyperactivity Disorder) in children [cite: 2282-2284]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Write a note on the Chernobyl disaster.",
+      "answer": "On 26th April 1986, the Chernobyl atomic power plant's graphite reactor exploded. Radioactive isotopes spread through water and land, entering human bodies. This caused genetic disorders, thyroid disorders in children/adults, and increased throat diseases in the region [cite: 2264-2267]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What is the role of fused salt electrolysis?",
+      "answer": "When salt is heated to ~800°C (fused state) and electrolysed, chlorine gas is released at the anode and liquid sodium metal is released at the cathode. This method is used to obtain pure sodium metal [cite: 2085-2086]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Describe the different types of Deodorants.",
+      "answer": "1. Ordinary deo: Has less aluminium, decreases odour. 2. Antiperspirant deo: Has ~15% aluminium chlorohydrate, clogs pores to stop sweat. 3. Clinical deo: Has 20-25% aluminium, used for heavy sweaters at night [cite: 2333-2337]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What are Crystalline Salts? Give examples.",
+      "answer": "Crystalline salts contain water of crystallization. Examples include: 1. Alum (Potash alum). 2. Borax. 3. Epsom salt (Magnesium sulphate). 4. Barium chloride. 5. Sodium sulphate (Glauber's salt) [cite: 2160-2166]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Discuss the discovery of Radioactivity.",
+      "answer": "Henry Becquerel discovered radioactivity while studying pitchblende (uranium). He left uranium compounds on photographic plates in a dark drawer and found they were clouded by invisible penetrating rays, later called Becquerel rays. Marie Curie later found similar properties in Thorium [cite: 2190-2195]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What are the adverse effects of hair dyes and artificial colours?",
+      "answer": "Hair dyes can cause hair fall, texture damage, skin burning, and eye damage. Lipsticks with carmine can cause stomach disorders. Artificial colours (like in Rang Panchami) with mercury can cause blindness, skin cancer, asthma, and itching [cite: 2308-2317]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Explain the medical uses of Radioactive Isotopes.",
+      "answer": "1. Polycythemia: Treated with Phosphorus-32. 2. Bone Cancer: Treated with Strontium-89/90, Samarium-153, Radium-223. 3. Hyperthyroidism: Treated with Iodine-123. 4. Tumor Detection: Boron-10, Iodine-131, Cobalt-60 used for brain tumors; Arsenic-74 for small tumors [cite: 2249-2253]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How is Porcelain made?",
+      "answer": "Porcelain is made by mixing Kaolin (white clay) with glass, granite, and feldspar. The mixture is kneaded with water, shaped, and fired in a kiln at 1200-1450°C. It is then glazed and fired again to obtain beautiful articles [cite: 2378-2382]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What are Advanced Ceramics and how are they different?",
+      "answer": "Advanced ceramics use oxides like Alumina, Zirconia, and Silica instead of clay. They require very high firing temperatures (1600-1800°C) in an oxygen-free atmosphere (sintering). They are used as superconductors and in space shuttles [cite: 2384-2391]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "What are the general properties of Common Salt?",
+      "answer": "1. Colourless, crystalline ionic compound without water of crystallization. 2. Neutral salt with a salty taste. 3. Used to produce salts like Na2CO3, NaHCO3. 4. Forms saturated brine (25% solution) [cite: 2078-2081, 2091]."
+    }
+  ]
+}

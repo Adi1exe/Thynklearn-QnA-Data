@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.03",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "1.3 Have you ever seen...?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main figure of speech used throughout the poem 'Have you ever seen...'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Pun", "is_correct": true },
+        { "option_id": 3, "text": "Hyperbole", "is_correct": false },
+        { "option_id": 4, "text": "Oxymoron", "is_correct": false }
+      ],
+      "answer": "Pun"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The poet asks if the foot of a mountain has any __________.",
+      "options": [
+        { "option_id": 1, "text": "Shoes", "is_correct": false },
+        { "option_id": 2, "text": "Socks", "is_correct": false },
+        { "option_id": 3, "text": "Toes", "is_correct": true },
+        { "option_id": 4, "text": "Fingers", "is_correct": false }
+      ],
+      "answer": "Toes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the poet looking for on a 'river bed'?",
+      "options": [
+        { "option_id": 1, "text": "A pillow", "is_correct": false },
+        { "option_id": 2, "text": "A sheet", "is_correct": true },
+        { "option_id": 3, "text": "A blanket", "is_correct": false },
+        { "option_id": 4, "text": "A fish", "is_correct": false }
+      ],
+      "answer": "A sheet"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "According to the poem, what part of a building cannot fly?",
+      "options": [
+        { "option_id": 1, "text": "The roof", "is_correct": false },
+        { "option_id": 2, "text": "The window", "is_correct": false },
+        { "option_id": 3, "text": "The wing", "is_correct": true },
+        { "option_id": 4, "text": "The floor", "is_correct": false }
+      ],
+      "answer": "The wing"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Words that have the same spelling but differ in meaning are called __________.",
+      "options": [
+        { "option_id": 1, "text": "Homophones", "is_correct": false },
+        { "option_id": 2, "text": "Homographs", "is_correct": true },
+        { "option_id": 3, "text": "Synonyms", "is_correct": false },
+        { "option_id": 4, "text": "Antonyms", "is_correct": false }
+      ],
+      "answer": "Homographs"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What feature of a 'parasol' (umbrella) does the poet ask if you can tickle?",
+      "options": [
+        { "option_id": 1, "text": "The handle", "is_correct": false },
+        { "option_id": 2, "text": "The ribs", "is_correct": true },
+        { "option_id": 3, "text": "The top", "is_correct": false },
+        { "option_id": 4, "text": "The cloth", "is_correct": false }
+      ],
+      "answer": "The ribs"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the poet ask about the 'garden hose'?",
+      "options": [
+        { "option_id": 1, "text": "If it is green", "is_correct": false },
+        { "option_id": 2, "text": "If it waters the plants", "is_correct": false },
+        { "option_id": 3, "text": "If there is a pair", "is_correct": true },
+        { "option_id": 4, "text": "If it is long", "is_correct": false }
+      ],
+      "answer": "If there is a pair"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In the line 'Does the needle ever wink its eye?', what figure of speech is used besides Pun?",
+      "options": [
+        { "option_id": 1, "text": "Personification", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Metaphor", "is_correct": false },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The poet asks if the teeth of a rake are ever going to __________.",
+      "options": [
+        { "option_id": 1, "text": "Chew", "is_correct": false },
+        { "option_id": 2, "text": "Smile", "is_correct": false },
+        { "option_id": 3, "text": "Bite", "is_correct": true },
+        { "option_id": 4, "text": "Break", "is_correct": false }
+      ],
+      "answer": "Bite"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the 'sound' associated with the 'birch' (tree) in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Its song", "is_correct": false },
+        { "option_id": 2, "text": "Its whisper", "is_correct": false },
+        { "option_id": 3, "text": "Its bark", "is_correct": true },
+        { "option_id": 4, "text": "Its cry", "is_correct": false }
+      ],
+      "answer": "Its bark"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In the sentence 'Every calendar's days are numbered', the pun is on the word __________.",
+      "options": [
+        { "option_id": 1, "text": "Calendar", "is_correct": false },
+        { "option_id": 2, "text": "Days", "is_correct": false },
+        { "option_id": 3, "text": "Numbered", "is_correct": true },
+        { "option_id": 4, "text": "Every", "is_correct": false }
+      ],
+      "answer": "Numbered"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does 'Interrogation' mean in the context of poetry?",
+      "options": [
+        { "option_id": 1, "text": "Police questioning", "is_correct": false },
+        { "option_id": 2, "text": "A Rhetorical Question asked to emphasize a point", "is_correct": true },
+        { "option_id": 3, "text": "A statement of fact", "is_correct": false },
+        { "option_id": 4, "text": "A rhyme scheme", "is_correct": false }
+      ],
+      "answer": "A Rhetorical Question asked to emphasize a point"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The poet asks if you can __________ the trunk of a tree.",
+      "options": [
+        { "option_id": 1, "text": "Climb", "is_correct": false },
+        { "option_id": 2, "text": "Cut", "is_correct": false },
+        { "option_id": 3, "text": "Open", "is_correct": true },
+        { "option_id": 4, "text": "Close", "is_correct": false }
+      ],
+      "answer": "Open"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Hammer's head", "is_correct": false },
+        { "option_id": 2, "text": "Needle's eye", "is_correct": false },
+        { "option_id": 3, "text": "Table's leg", "is_correct": true },
+        { "option_id": 4, "text": "Clock's hands", "is_correct": false }
+      ],
+      "answer": "Table's leg"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Complete the pun: 'A bicycle cannot stand on its own because it is __________.'",
+      "options": [
+        { "option_id": 1, "text": "Two-tired (too tired)", "is_correct": true },
+        { "option_id": 2, "text": "Broken", "is_correct": false },
+        { "option_id": 3, "text": "Leaning", "is_correct": false },
+        { "option_id": 4, "text": "Old fashioned", "is_correct": false }
+      ],
+      "answer": "Two-tired (too tired)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Explain the pun in the phrase 'river bed'.",
+      "answer": "A 'bed' typically refers to a piece of furniture for sleeping which has sheets, but it also refers to the bottom of a river. The poet plays on this double meaning by asking if a river bed has a sheet."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is the double meaning of the word 'wing' in the poem?",
+      "answer": "One meaning of 'wing' is a part of a building (an extension), and the other meaning is the part of a bird that enables flight. The poet asks why the building's wing doesn't fly."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'garden hose' and why does he ask if there is a 'pair'?",
+      "answer": "A 'garden hose' is a flexible tube for watering plants. However, 'hose' also refers to stockings or tights which come in a pair. The poet uses this pun to ask if the garden hose comes in a pair."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Identify two examples of Personification in the poem.",
+      "answer": "1. 'Does the needle ever wink its eye?' (Giving a human action 'wink' to a needle).\n2. 'Are the teeth of a rake ever going to bite?' (Giving the action of biting to a rake)."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the pun associated with the 'hammer's head'?",
+      "answer": "A 'head' is a body part that usually has hair. A hammer also has a 'head' (the striking part). The poet asks if the hammer's head has a single hair."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Explain the two meanings of 'plot' in the line 'Can the garden plot be deep and dark?'.",
+      "answer": "One meaning of 'plot' is a small piece of land (garden plot). The other meaning is a secret, wicked plan or scheme, which is often described as 'deep and dark'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What are the two meanings of 'trunk' used in the poem?",
+      "answer": "One meaning is the woody stem of a tree. The other meaning is a large box or chest for storing clothes/items, which can be 'opened'."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the pun in 'He was struggling to figure out how lightning works when it struck him'?",
+      "answer": "The word 'struck' has a double meaning here: 1. To be physically hit by lightning. 2. To suddenly realize or understand an idea (it struck him)."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Give an example of Alliteration from the poem.",
+      "answer": "An example of Alliteration is 'birch's bark' (repetition of the 'b' sound)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What question does the poet ask about the 'hands of a clock'?",
+      "answer": "The poet asks if the hands of a clock have any 'left or right', referring to human hands which are distinguished as left and right."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "What is a Homograph? Explain with two examples given in the 'Warming up' section.",
+      "answer": "A homograph is a word that has the same spelling as another word but differs in meaning when used in different contexts. Examples from the text:\n1. 'Fair': (a) A temple fair (gathering/carnival). (b) Her performance was fair (average/good).\n2. 'Rose': (a) A rose is the king of flowers (a flower). (b) The sun rose with a golden glow (past tense of rise)."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Analyze the humor in the poem 'Have you ever seen...?'. How does the poet create it?",
+      "answer": "The humor in the poem is created through the clever use of puns and homographs. The poet takes the names of parts of inanimate objects (like the 'head' of a hammer, 'eye' of a needle, 'foot' of a mountain) and treats them as if they are parts of a living body or a different object with the same name. By asking absurd questions based on these literal interpretations—like asking if a hammer has hair or if a mountain has toes—the poet creates funny and imaginative mental images."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Explain the following lines: 'Can the garden plot be deep and dark? And what is the sound of the birch's bark?'.",
+      "answer": "In the first line, the poet plays on the word 'plot'. A 'garden plot' is simply a patch of land. However, a 'plot' can also mean a wicked scheme or conspiracy, which is often described as 'deep and dark'. The poet humorously asks if a piece of land can be a wicked scheme.\nIn the second line, the play is on the word 'bark'. 'Bark' is the outer skin of a tree (birch tree). 'Bark' is also the sound a dog makes. The poet humorously asks what sound the tree's skin makes, treating it like the animal sound."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Identify and explain three puns used in the 'Warming up' exercise (Q5).",
+      "answer": "1. 'She had a photographic memory but never developed it': The pun is on 'developed'. It refers to utilizing a skill, but in photography, it refers to processing film to see pictures.\n2. 'I'd tell you a chemistry joke but I know I wouldn't get a reaction': The pun is on 'reaction'. In chemistry, it's a chemical process; socially, it's a response to a joke.\n3. 'What do you call Watson when Sherlock isn't around? Homeless': The pun is on 'Homeless'. It sounds like 'Holmes-less' (without Sherlock Holmes), while also meaning having no home."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "What is 'Interrogation' as a figure of speech? Give examples from the poem.",
+      "answer": "Interrogation, or Rhetorical Question, is a figure of speech where a question is asked not to get an answer, but to emphasize a point or fact. The entire poem 'Have you ever seen...?' is built on this device. Examples include:\n1. 'Have you ever seen a sheet on a river bed?'\n2. 'Has the foot of a mountain any toes?'\n3. 'Does the needle ever wink its eye?'\nThese questions highlight the double meanings of the words rather than seeking literal answers."
+    }
+  ]
+}

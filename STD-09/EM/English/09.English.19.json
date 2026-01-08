@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.19",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "My Financial Career"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the story 'My Financial Career'?",
+      "options": [
+        { "option_id": 1, "text": "Mark Twain", "is_correct": false },
+        { "option_id": 2, "text": "Stephen Leacock", "is_correct": true },
+        { "option_id": 3, "text": "O. Henry", "is_correct": false },
+        { "option_id": 4, "text": "Ruskin Bond", "is_correct": false }
+      ],
+      "answer": "Stephen Leacock"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How does the narrator feel when he enters a bank?",
+      "options": [
+        { "option_id": 1, "text": "Confident", "is_correct": false },
+        { "option_id": 2, "text": "Angry", "is_correct": false },
+        { "option_id": 3, "text": "Rattled", "is_correct": true },
+        { "option_id": 4, "text": "Happy", "is_correct": false }
+      ],
+      "answer": "Rattled"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was the amount of the narrator's salary increase?",
+      "options": [
+        { "option_id": 1, "text": "Fifty dollars a month", "is_correct": true },
+        { "option_id": 2, "text": "Fifty-six dollars a month", "is_correct": false },
+        { "option_id": 3, "text": "Six dollars a month", "is_correct": false },
+        { "option_id": 4, "text": "One hundred dollars a month", "is_correct": false }
+      ],
+      "answer": "Fifty dollars a month"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How much money did the narrator intend to deposit initially?",
+      "options": [
+        { "option_id": 1, "text": "Six dollars", "is_correct": false },
+        { "option_id": 2, "text": "Fifty dollars", "is_correct": false },
+        { "option_id": 3, "text": "Fifty-six dollars", "is_correct": true },
+        { "option_id": 4, "text": "Six hundred dollars", "is_correct": false }
+      ],
+      "answer": "Fifty-six dollars"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who did the narrator ask to see when he first entered the bank?",
+      "options": [
+        { "option_id": 1, "text": "The accountant", "is_correct": false },
+        { "option_id": 2, "text": "The manager", "is_correct": true },
+        { "option_id": 3, "text": "The cashier", "is_correct": false },
+        { "option_id": 4, "text": "The security guard", "is_correct": false }
+      ],
+      "answer": "The manager"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What word did the narrator add to his request to see the manager?",
+      "options": [
+        { "option_id": 1, "text": "Please", "is_correct": false },
+        { "option_id": 2, "text": "Quickly", "is_correct": false },
+        { "option_id": 3, "text": "Alone", "is_correct": true },
+        { "option_id": 4, "text": "Immediately", "is_correct": false }
+      ],
+      "answer": "Alone"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who did the manager initially think the narrator was?",
+      "options": [
+        { "option_id": 1, "text": "A millionaire", "is_correct": false },
+        { "option_id": 2, "text": "A detective from Pinkerton's", "is_correct": true },
+        { "option_id": 3, "text": "Baron Rothschild", "is_correct": false },
+        { "option_id": 4, "text": "A rival banker", "is_correct": false }
+      ],
+      "answer": "A detective from Pinkerton's"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "After realizing the narrator was not a detective, who did the manager think he was?",
+      "options": [
+        { "option_id": 1, "text": "A son of Baron Rothschild or a young Gould", "is_correct": true },
+        { "option_id": 2, "text": "A famous actor", "is_correct": false },
+        { "option_id": 3, "text": "A government official", "is_correct": false },
+        { "option_id": 4, "text": "A bank robber", "is_correct": false }
+      ],
+      "answer": "A son of Baron Rothschild or a young Gould"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where did the narrator step into by mistake after leaving the manager's office?",
+      "options": [
+        { "option_id": 1, "text": "The street", "is_correct": false },
+        { "option_id": 2, "text": "The accountant's room", "is_correct": false },
+        { "option_id": 3, "text": "The safe", "is_correct": true },
+        { "option_id": 4, "text": "The bathroom", "is_correct": false }
+      ],
+      "answer": "The safe"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How did the narrator describe the accountant?",
+      "options": [
+        { "option_id": 1, "text": "A short, angry man", "is_correct": false },
+        { "option_id": 2, "text": "A tall, cool devil", "is_correct": true },
+        { "option_id": 3, "text": "A friendly, old man", "is_correct": false },
+        { "option_id": 4, "text": "A nervous, young boy", "is_correct": false }
+      ],
+      "answer": "A tall, cool devil"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What mistake did the narrator make when writing the check?",
+      "options": [
+        { "option_id": 1, "text": "He signed the wrong name", "is_correct": false },
+        { "option_id": 2, "text": "He wrote fifty-six instead of six", "is_correct": true },
+        { "option_id": 3, "text": "He forgot to date it", "is_correct": false },
+        { "option_id": 4, "text": "He tore the check", "is_correct": false }
+      ],
+      "answer": "He wrote fifty-six instead of six"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How much money did the narrator want to withdraw for present use?",
+      "options": [
+        { "option_id": 1, "text": "Fifty dollars", "is_correct": false },
+        { "option_id": 2, "text": "Six dollars", "is_correct": true },
+        { "option_id": 3, "text": "Fifty-six dollars", "is_correct": false },
+        { "option_id": 4, "text": "Five dollars", "is_correct": false }
+      ],
+      "answer": "Six dollars"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What impression did the people in the bank have of the narrator?",
+      "options": [
+        { "option_id": 1, "text": "That he was a thief", "is_correct": false },
+        { "option_id": 2, "text": "That he was an invalid millionaire", "is_correct": true },
+        { "option_id": 3, "text": "That he was a famous writer", "is_correct": false },
+        { "option_id": 4, "text": "That he was the manager's friend", "is_correct": false }
+      ],
+      "answer": "That he was an invalid millionaire"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How did the narrator attempt to look when he realized his mistake?",
+      "options": [
+        { "option_id": 1, "text": "Like a man with a fearfully quick temper", "is_correct": true },
+        { "option_id": 2, "text": "Like a confused child", "is_correct": false },
+        { "option_id": 3, "text": "Like a calm professional", "is_correct": false },
+        { "option_id": 4, "text": "Like a happy customer", "is_correct": false }
+      ],
+      "answer": "Like a man with a fearfully quick temper"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where does the narrator keep his money now?",
+      "options": [
+        { "option_id": 1, "text": "In a different bank", "is_correct": false },
+        { "option_id": 2, "text": "In cash in his trousers pocket and a sock", "is_correct": true },
+        { "option_id": 3, "text": "Under his mattress", "is_correct": false },
+        { "option_id": 4, "text": "In a safe at home", "is_correct": false }
+      ],
+      "answer": "In cash in his trousers pocket and a sock"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What happens to the narrator the moment he crosses the threshold of a bank?",
+      "answer": "He becomes a hesitating jay and feels like an irresponsible idiot."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did the narrator feel he needed to open a bank account?",
+      "answer": "His salary had been raised to fifty dollars a month, and he felt the bank was the only place for it."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Describe the accountant at the bank.",
+      "answer": "The accountant was described as a tall, cool devil."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did the manager take the narrator to a private room?",
+      "answer": "The manager took him to a private room because the narrator asked to see him 'alone', making the manager think he had an awful secret to reveal."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What did the narrator imply when he said he was not from Pinkerton's?",
+      "answer": "He seemed to imply that he came from a rival detective agency."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did the manager's attitude change when he learned the narrator wanted to deposit fifty-six dollars?",
+      "answer": "The manager looked relieved but unkindly loud, and coldly directed him to the accountant."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How did the narrator hand the money to the accountant?",
+      "answer": "He poked the ball of money at him with a quick, convulsive movement, as if doing a conjuring trick."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did the narrator do when the clerk asked if he was drawing it all out again?",
+      "answer": "Reckless with misery, the narrator plunged in and said 'Yes, the whole thing'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What 'idiot hope' struck the narrator after writing the wrong check?",
+      "answer": "He hoped they might think someone had insulted him while writing the check and that he had changed his mind."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How did the narrator answer when asked how he would have the money?",
+      "answer": "He answered without thinking, 'In fifties' for the fifty-dollar bill and 'In sixes' for the six dollars."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What happened as the narrator left the bank?",
+      "answer": "He heard a roar of laughter go up to the ceiling of the bank as the big doors swung behind him."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the word 'sepulchral' mean in the context of the story?",
+      "answer": "It means gloomy or sorrowful, referring to the tone of the narrator's voice."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did the narrator say 'alone' to the manager?",
+      "answer": "He didn't know why he said it, but without it, the request to see the manager didn't seem self-evident."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did the narrator feel was impossible to explain after writing the check?",
+      "answer": "He felt it was impossible to explain that he had written fifty-six instead of six by mistake."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Where does the narrator keep his savings now?",
+      "answer": "He keeps his savings in silver dollars in a sock."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Analyze the character of the narrator in 'My Financial Career'.",
+      "answer": "The narrator is a timid, diffident, and highly nervous individual when it comes to financial matters. He describes himself as a 'hesitating jay' and an 'irresponsible idiot' the moment he enters a bank. His nervousness leads him to behave irrationally, such as asking to see the manager alone for a small deposit and walking into a safe. He is easily intimidated by the bank staff and surroundings. However, he also possesses a sense of humor about his own awkwardness, as he is the one retelling this embarrassing incident."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the series of misunderstandings between the narrator and the bank manager.",
+      "answer": "The misunderstanding begins when the narrator asks to see the manager 'alone' with a solemn and mysterious air. This leads the manager to believe the narrator is a detective from Pinkerton's with an awful secret. When the narrator denies this, his mysterious manner makes the manager suspect he is from a rival agency. Finally, when the narrator reveals he just wants to open an account, the manager assumes he must be a wealthy heir (son of Rothschild or Gould) making a large deposit, only to be disappointed by the small sum of fifty-six dollars."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How does Stephen Leacock use humor in the story?",
+      "answer": "Leacock uses exaggeration and situational irony to create humor. The narrator's extreme physical reactions to the bank (shambling, voice becoming sepulchral) are funny. The contrast between the manager's expectation of a detective or millionaire and the reality of a nervous clerk with $56 is a key source of comedy. The climax of the humor occurs when the narrator mistakenly withdraws all his money immediately after depositing it, pretending to be insulted to cover his error, and then asks for 'sixes' while leaving."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the significance of the ending of the story.",
+      "answer": "The ending reinforces the narrator's total defeat by the banking system. After the roar of laughter that follows his exit, he decides never to bank again. His decision to keep cash in his pocket and savings in a sock highlights his retreat to a primitive and 'safe' method of money management. It concludes the theme of the story: that for some common people, the formal and imposing nature of financial institutions is too overwhelming to navigate."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Why did the narrator withdraw all his money immediately after depositing it?",
+      "answer": "The narrator intended to withdraw only six dollars for present use. However, in his confused and nervous state, he wrote a check for fifty-six dollars—the entire amount he had just deposited. When the clerk pointed this out in surprise, the narrator realized his mistake but felt 'too far gone' to explain it. To save face and hide his foolishness, he pretended that he wanted to withdraw everything because he had been insulted, acting recklessly with misery."
+    }
+  ]
+}

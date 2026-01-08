@@ -1,0 +1,149 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.05",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "1.5 The Necklace"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why was Mathilde married to a 'minor official'?",
+      "options": [
+        { "option_id": 1, "text": "She chose him herself", "is_correct": false },
+        { "option_id": 2, "text": "She had no dowry or means of being known by a rich man", "is_correct": true },
+        { "option_id": 3, "text": "He was a wealthy aristocrat", "is_correct": false },
+        { "option_id": 4, "text": "She wanted a simple life", "is_correct": false }
+      ],
+      "answer": "She had no dowry or means of being known by a rich man [cite: 5]"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the occupation of Mathilde's husband?",
+      "options": [
+        { "option_id": 1, "text": "Minister of Education", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Minor official at the Ministry of Education", "is_correct": true },
+        { "option_id": 4, "text": "Fictional writer", "is_correct": false }
+      ],
+      "answer": "Minor official at the Ministry of Education [cite: 5]"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How did Mathilde feel about her schoolmate's home?",
+      "options": [
+        { "option_id": 1, "text": "She felt inspired to work harder", "is_correct": false },
+        { "option_id": 2, "text": "She was indifferent", "is_correct": false },
+        { "option_id": 3, "text": "She wept with misery and regret after visiting", "is_correct": true },
+        { "option_id": 4, "text": "She was happy for her friend", "is_correct": false }
+      ],
+      "answer": "She wept with misery and regret after visiting [cite: 5]"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the envelope brought by Mathilde's husband contain?",
+      "options": [
+        { "option_id": 1, "text": "A check for money", "is_correct": false },
+        { "option_id": 2, "text": "An invitation to a party at the Ministry", "is_correct": true },
+        { "option_id": 3, "text": "A letter from her schoolmate", "is_correct": false },
+        { "option_id": 4, "text": "A new necklace", "is_correct": false }
+      ],
+      "answer": "An invitation to a party at the Ministry [cite: 5]"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do the French terms 'M.' and 'Mme' stand for?",
+      "options": [
+        { "option_id": 1, "text": "Manager and Maid", "is_correct": false },
+        { "option_id": 2, "text": "Master and Mistress", "is_correct": false },
+        { "option_id": 3, "text": "Monsieur and Madame", "is_correct": true },
+        { "option_id": 4, "text": "Minister and Member", "is_correct": false }
+      ],
+      "answer": "Monsieur and Madame [cite: 5]"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the simple present tense, which suffix is used with third-person singular subjects like 'he' or 'she'?",
+      "options": [
+        { "option_id": 1, "text": "-ed", "is_correct": false },
+        { "option_id": 2, "text": "-ing", "is_correct": false },
+        { "option_id": 3, "text": "-s", "is_correct": true },
+        { "option_id": 4, "text": "-en", "is_correct": false }
+      ],
+      "answer": "-s [cite: 5]"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which verb form is known as the 'present participle'?",
+      "options": [
+        { "option_id": 1, "text": "The -ed form", "is_correct": false },
+        { "option_id": 2, "text": "The -ing form", "is_correct": true },
+        { "option_id": 3, "text": "The -s form", "is_correct": false },
+        { "option_id": 4, "text": "The base form", "is_correct": false }
+      ],
+      "answer": "The -ing form [cite: 5]"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the past participle indicate when used with forms of 'have'?",
+      "options": [
+        { "option_id": 1, "text": "Ongoing action", "is_correct": false },
+        { "option_id": 2, "text": "Future action", "is_correct": false },
+        { "option_id": 3, "text": "Completed action", "is_correct": true },
+        { "option_id": 4, "text": "Habitual action", "is_correct": false }
+      ],
+      "answer": "Completed action [cite: 5]"
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "Describe the concept of a 'Dream Possession' as suggested in the warming-up section.",
+      "answer": "A dream possession is something a person would like to own more than anything else[cite: 5]. [cite_start]It involves describing what it is, why it is desired, its appearance, its use, and what one would do to obtain it[cite: 5]."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "What is an imaginary 'persona'?",
+      "answer": "An imaginary persona is a character created by oneself that can be quite different from their real self[cite: 5]. [cite_start]It could be a fictional character from a novel or story[cite: 5]."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Give examples of verbs where the last letter is doubled in the past tense form.",
+      "answer": "An example provided is 'sob' which becomes 'sobbed'[cite: 5]. [cite_start]Other examples involve doubling the final consonant before adding '-ed'[cite: 5]."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "According to the grammar section, how is the past tense form generally created?",
+      "answer": "The past tense form generally has '-ed' at the end[cite: 5]. [cite_start]However, many common verbs have irregular forms, such as 'came', 'went', and 'spoke'[cite: 5]."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What is the reflection question posed regarding luxuries and birth?",
+      "answer": "The text asks whether anyone is entitled to all the luxuries of life based on reasons of birth or other innate qualities[cite: 5]."
+    },
+    {
+      "question_id": 14,
+      "question_type": "LONG",
+      "question": "Explain the different uses of the '-ing' verb form (present participle) as described in the text.",
+      "answer": "The '-ing' form, known as the present participle, is primarily used with forms of 'be' (is, am, are, was, were) to show continuous action, such as in 'I am eating'[cite: 5]. [cite_start]Additionally, it can be used in specific grammatical constructions to describe a state or simultaneous action, such as 'He sat copying a manuscript'[cite: 5]."
+    },
+    {
+      "question_id": 15,
+      "question_type": "LONG",
+      "question": "How does the past participle function in English grammar according to the provided material?",
+      "answer": "The past participle is used with forms of 'have' to indicate a completed action, for example, 'I have eaten' or 'They have come'[cite: 5]. [cite_start]Beyond showing completion, it is used in passive constructions and in certain descriptive constructions that indicate a state resulting from an action, such as 'They looked at each other, stunned!'[cite: 5]."
+    }
+  ]
+}

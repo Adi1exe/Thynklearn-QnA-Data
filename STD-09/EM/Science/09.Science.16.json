@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.16",
+    "standard": "9",
+    "subject": "Science and Technology",
+    "medium": "English",
+    "chapter_name": "Heredity and Variation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Transfer of characteristics from parents to offspring is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Variation", "is_correct": false },
+        { "option_id": 2, "text": "Heredity", "is_correct": true },
+        { "option_id": 3, "text": "Mutation", "is_correct": false },
+        { "option_id": 4, "text": "Evolution", "is_correct": false }
+      ],
+      "answer": "Heredity"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who discovered the DNA acid in 1869?",
+      "options": [
+        { "option_id": 1, "text": "Watson and Crick", "is_correct": false },
+        { "option_id": 2, "text": "Frederick Miescher", "is_correct": true },
+        { "option_id": 3, "text": "Gregor Mendel", "is_correct": false },
+        { "option_id": 4, "text": "Robert Hooke", "is_correct": false }
+      ],
+      "answer": "Frederick Miescher"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which nitrogenous base is NOT present in DNA?",
+      "options": [
+        { "option_id": 1, "text": "Adenine", "is_correct": false },
+        { "option_id": 2, "text": "Guanine", "is_correct": false },
+        { "option_id": 3, "text": "Uracil", "is_correct": true },
+        { "option_id": 4, "text": "Thymine", "is_correct": false }
+      ],
+      "answer": "Uracil"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How many chromosomes does a normal human being have?",
+      "options": [
+        { "option_id": 1, "text": "44", "is_correct": false },
+        { "option_id": 2, "text": "46", "is_correct": true },
+        { "option_id": 3, "text": "23", "is_correct": false },
+        { "option_id": 4, "text": "48", "is_correct": false }
+      ],
+      "answer": "46"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which chromosome looks like the English letter 'V' during cell division?",
+      "options": [
+        { "option_id": 1, "text": "Acrocentric", "is_correct": false },
+        { "option_id": 2, "text": "Telocentric", "is_correct": false },
+        { "option_id": 3, "text": "Metacentric", "is_correct": true },
+        { "option_id": 4, "text": "Sub-metacentric", "is_correct": false }
+      ],
+      "answer": "Metacentric"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The segment of DNA which contains information for the synthesis of a particular protein is called a __________.",
+      "options": [
+        { "option_id": 1, "text": "Chromosome", "is_correct": false },
+        { "option_id": 2, "text": "Gene", "is_correct": true },
+        { "option_id": 3, "text": "Nucleotide", "is_correct": false },
+        { "option_id": 4, "text": "RNA", "is_correct": false }
+      ],
+      "answer": "Gene"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Down syndrome is also known as __________.",
+      "options": [
+        { "option_id": 1, "text": "Trisomy of 21st Chromosome", "is_correct": true },
+        { "option_id": 2, "text": "Monosomy of X Chromosome", "is_correct": false },
+        { "option_id": 3, "text": "Trisomy of X Chromosome", "is_correct": false },
+        { "option_id": 4, "text": "Sickle cell anaemia", "is_correct": false }
+      ],
+      "answer": "Trisomy of 21st Chromosome"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which plant did Mendel use for his experiments?",
+      "options": [
+        { "option_id": 1, "text": "Rose", "is_correct": false },
+        { "option_id": 2, "text": "Pea (Pisum sativum)", "is_correct": true },
+        { "option_id": 3, "text": "Potato", "is_correct": false },
+        { "option_id": 4, "text": "Mango", "is_correct": false }
+      ],
+      "answer": "Pea (Pisum sativum)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the phenotypic ratio of the F2 generation in a monohybrid cross?",
+      "options": [
+        { "option_id": 1, "text": "1:2:1", "is_correct": false },
+        { "option_id": 2, "text": "3:1", "is_correct": true },
+        { "option_id": 3, "text": "9:3:3:1", "is_correct": false },
+        { "option_id": 4, "text": "1:1", "is_correct": false }
+      ],
+      "answer": "3:1"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Turner syndrome arises due to __________.",
+      "options": [
+        { "option_id": 1, "text": "Extra Y chromosome", "is_correct": false },
+        { "option_id": 2, "text": "Extra X chromosome", "is_correct": false },
+        { "option_id": 3, "text": "Absence of one X chromosome", "is_correct": true },
+        { "option_id": 4, "text": "Extra 21st chromosome", "is_correct": false }
+      ],
+      "answer": "Absence of one X chromosome"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is a dominant characteristic in human beings?",
+      "options": [
+        { "option_id": 1, "text": "Attached earlobe", "is_correct": false },
+        { "option_id": 2, "text": "Non-rolling tongue", "is_correct": false },
+        { "option_id": 3, "text": "Free earlobe", "is_correct": true },
+        { "option_id": 4, "text": "Straight hair", "is_correct": false }
+      ],
+      "answer": "Free earlobe"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "RNA does NOT contain __________.",
+      "options": [
+        { "option_id": 1, "text": "Ribose sugar", "is_correct": false },
+        { "option_id": 2, "text": "Phosphate", "is_correct": false },
+        { "option_id": 3, "text": "Deoxyribose sugar", "is_correct": true },
+        { "option_id": 4, "text": "Uracil", "is_correct": false }
+      ],
+      "answer": "Deoxyribose sugar"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which RNA carries information for protein synthesis from genes to ribosomes?",
+      "options": [
+        { "option_id": 1, "text": "rRNA", "is_correct": false },
+        { "option_id": 2, "text": "tRNA", "is_correct": false },
+        { "option_id": 3, "text": "mRNA", "is_correct": true },
+        { "option_id": 4, "text": "dRNA", "is_correct": false }
+      ],
+      "answer": "mRNA"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Sickle-cell anaemia occurs when Glutamic acid is replaced by __________.",
+      "options": [
+        { "option_id": 1, "text": "Valine", "is_correct": true },
+        { "option_id": 2, "text": "Leucine", "is_correct": false },
+        { "option_id": 3, "text": "Proline", "is_correct": false },
+        { "option_id": 4, "text": "Lysine", "is_correct": false }
+      ],
+      "answer": "Valine"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Klinefelter syndrome is represented as __________.",
+      "options": [
+        { "option_id": 1, "text": "44+X", "is_correct": false },
+        { "option_id": 2, "text": "44+XX", "is_correct": false },
+        { "option_id": 3, "text": "44+XXY", "is_correct": true },
+        { "option_id": 4, "text": "46+1", "is_correct": false }
+      ],
+      "answer": "44+XXY"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Mitochondrial disorders are inherited from __________.",
+      "options": [
+        { "option_id": 1, "text": "Father only", "is_correct": false },
+        { "option_id": 2, "text": "Mother only", "is_correct": true },
+        { "option_id": 3, "text": "Both parents", "is_correct": false },
+        { "option_id": 4, "text": "Neither", "is_correct": false }
+      ],
+      "answer": "Mother only"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of these is a recessive trait in pea plants?",
+      "options": [
+        { "option_id": 1, "text": "Round seed", "is_correct": false },
+        { "option_id": 2, "text": "Yellow seed", "is_correct": false },
+        { "option_id": 3, "text": "Purple flower", "is_correct": false },
+        { "option_id": 4, "text": "Wrinkled seed", "is_correct": true }
+      ],
+      "answer": "Wrinkled seed"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The primary constriction on a chromosome is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Gene", "is_correct": false },
+        { "option_id": 2, "text": "Centromere", "is_correct": true },
+        { "option_id": 3, "text": "Arm", "is_correct": false },
+        { "option_id": 4, "text": "Nucleotide", "is_correct": false }
+      ],
+      "answer": "Centromere"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which genetic disorder causes the skin to become pale and eyes pink?",
+      "options": [
+        { "option_id": 1, "text": "Sickle-cell anaemia", "is_correct": false },
+        { "option_id": 2, "text": "Albinism", "is_correct": true },
+        { "option_id": 3, "text": "Down syndrome", "is_correct": false },
+        { "option_id": 4, "text": "Turner syndrome", "is_correct": false }
+      ],
+      "answer": "Albinism"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Adenine always pairs with __________ in DNA.",
+      "options": [
+        { "option_id": 1, "text": "Guanine", "is_correct": false },
+        { "option_id": 2, "text": "Cytosine", "is_correct": false },
+        { "option_id": 3, "text": "Thymine", "is_correct": true },
+        { "option_id": 4, "text": "Uracil", "is_correct": false }
+      ],
+      "answer": "Thymine"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How many autosomes are present in a human cell?",
+      "options": [
+        { "option_id": 1, "text": "22 pairs", "is_correct": true },
+        { "option_id": 2, "text": "23 pairs", "is_correct": false },
+        { "option_id": 3, "text": "1 pair", "is_correct": false },
+        { "option_id": 4, "text": "46 pairs", "is_correct": false }
+      ],
+      "answer": "22 pairs"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is a Polygenic disorder?",
+      "options": [
+        { "option_id": 1, "text": "Down syndrome", "is_correct": false },
+        { "option_id": 2, "text": "Diabetes", "is_correct": true },
+        { "option_id": 3, "text": "Albinism", "is_correct": false },
+        { "option_id": 4, "text": "Turner syndrome", "is_correct": false }
+      ],
+      "answer": "Diabetes"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Tobacco smoke contains __________ which causes uncontrolled cell division.",
+      "options": [
+        { "option_id": 1, "text": "Melanin", "is_correct": false },
+        { "option_id": 2, "text": "Nicotine", "is_correct": true },
+        { "option_id": 3, "text": "Haemoglobin", "is_correct": false },
+        { "option_id": 4, "text": "Insulin", "is_correct": false }
+      ],
+      "answer": "Nicotine"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the shape of a chromosome with a terminal centromere?",
+      "options": [
+        { "option_id": 1, "text": "V-shaped", "is_correct": false },
+        { "option_id": 2, "text": "L-shaped", "is_correct": false },
+        { "option_id": 3, "text": "j-shaped", "is_correct": false },
+        { "option_id": 4, "text": "i-shaped", "is_correct": true }
+      ],
+      "answer": "i-shaped"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In a dihybrid cross, the phenotypic ratio is __________.",
+      "options": [
+        { "option_id": 1, "text": "3:1", "is_correct": false },
+        { "option_id": 2, "text": "9:3:3:1", "is_correct": true },
+        { "option_id": 3, "text": "1:2:1", "is_correct": false },
+        { "option_id": 4, "text": "1:1:1:1", "is_correct": false }
+      ],
+      "answer": "9:3:3:1"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Heredity.",
+      "answer": "Transfer of characteristics from parents to offspring is called heredity[cite: 5244]."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Genetics?",
+      "answer": "The branch of biology which studies the transfer of characteristics of organisms from one generation to the next, and genes in particular, is called genetics[cite: 5228]."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is a Chromosome?",
+      "answer": "The structure in the nucleus of cells that carries the hereditary characteristics is called the chromosome[cite: 5259]."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What are chromosomes made of?",
+      "answer": "Chromosomes are made up mainly of nucleic acids and proteins[cite: 5260]."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is a Centromere?",
+      "answer": "The constricted region on each chromosome is called the Primary constriction or Centromere[cite: 5265]."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Name the four types of chromosomes based on centromere position.",
+      "answer": "Metacentric, Sub-metacentric, Acrocentric, and Telocentric [cite: 5278-5284]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are Homologous Chromosomes?",
+      "answer": "If a pair of chromosomes consists of similar chromosomes by shape and organization, they are called homologous chromosomes[cite: 5310]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are Sex Chromosomes?",
+      "answer": "Chromosomes that determine sex, different from autosomes, are called sex chromosomes or allosomes[cite: 5312]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What does DNA stand for?",
+      "answer": "DNA stands for Deoxyribonucleic acid[cite: 5313]."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Who produced the double helix model of DNA?",
+      "answer": "Watson and Crick produced the model of the DNA molecule in 1953[cite: 5324]."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What are the three components of a Nucleotide?",
+      "answer": "A nucleotide consists of a nitrogenous base, a phosphoric acid, and a molecule of sugar[cite: 5331]."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Name the Purines present in DNA.",
+      "answer": "Adenine and Guanine are the purines in DNA[cite: 5330]."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name the Pyrimidines present in DNA.",
+      "answer": "Cytosine and Thymine are the pyrimidines in DNA[cite: 5330]."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is a Gene?",
+      "answer": "Segments of the DNA molecule that contain information for protein synthesis and hereditary characteristics are called genes [cite: 5338-5344]."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is DNA fingerprinting?",
+      "answer": "It is the process of identifying the sequence of genes in the DNA (genome) of a person, unique to every individual [cite: 5355-5356]."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What does RNA stand for?",
+      "answer": "RNA stands for Ribonucleic acid[cite: 5376]."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name the four nitrogenous bases in RNA.",
+      "answer": "Adenine, Guanine, Cytosine, and Uracil[cite: 5378]."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the function of mRNA?",
+      "answer": "mRNA carries information for protein synthesis from genes in the nucleus to ribosomes in the cytoplasm[cite: 5383]."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the function of tRNA?",
+      "answer": "tRNA carries amino acids to the ribosomes according to the message of the mRNA[cite: 5384]."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who is known as the father of modern genetics?",
+      "answer": "Gregor Johann Mendel [cite: 5425-5428]."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Define Dominant character.",
+      "answer": "A character that expresses itself in the F1 generation is called a dominant character[cite: 5449]."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Define Recessive character.",
+      "answer": "A character that does not appear in the F1 generation is called a recessive character[cite: 5450]."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is Phenotype?",
+      "answer": "Phenotype means the external appearance or visible characteristics of organisms[cite: 5505]."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is Genotype?",
+      "answer": "Genotype means the pairs of genes (factors) responsible for the visible characteristics[cite: 5505]."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a Monohybrid cross?",
+      "answer": "A cross between two pea plants with only one pair of contrasting characters is called a monohybrid cross [cite: 5443-5444]."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the Genotypic ratio of F2 generation in a monohybrid cross?",
+      "answer": "The genotypic ratio is 1 (TT) : 2 (Tt) : 1 (tt)[cite: 5514]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a Dihybrid cross?",
+      "answer": "A cross where two pairs of contrasting characteristics are considered (e.g., colour and shape of seeds) is called a dihybrid cross [cite: 5521-5522]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are Genetic Disorders?",
+      "answer": "Diseases or disorders occurring due to abnormalities in chromosomes and mutations in genes are called genetic disorders[cite: 5595]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How are chromosomes in men and women represented?",
+      "answer": "Women: 44+XX; Men: 44+XY[cite: 5601]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the cause of Down syndrome?",
+      "answer": "Down syndrome is caused by the presence of an extra chromosome with the 21st pair (Trisomy 21) [cite: 5641-5642]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the chromosomal condition in Turner syndrome?",
+      "answer": "The condition is 44+X (Monosomy of X chromosome) [cite: 5647-5648]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the chromosomal condition in Klinefelter syndrome?",
+      "answer": "The condition is 44+XXY [cite: 5653-5654]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Define Monogenic disorders.",
+      "answer": "Disorders occurring due to mutation in any single gene into a defective one are called monogenic disorders[cite: 5660]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name two Monogenic disorders.",
+      "answer": "Albinism, Sickle-cell anaemia, Haemophilia (any two)[cite: 5664]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Albinism?",
+      "answer": "A genetic disorder where the body cannot produce melanin, resulting in pale skin, white hair, and pink eyes [cite: 5666-5667]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What causes Sickle-cell anaemia?",
+      "answer": "It is caused by a change in the 6th amino acid of haemoglobin from Glutamic acid to Valine, changing RBC shape [cite: 5671-5674]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a carrier of Sickle-cell anaemia denoted as?",
+      "answer": "A carrier is denoted as AS[cite: 5681]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a sufferer of Sickle-cell anaemia denoted as?",
+      "answer": "A sufferer is denoted as SS[cite: 5681]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Give an example of a Mitochondrial disorder.",
+      "answer": "Leber hereditary optic neuropathy[cite: 5706]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are mitochondrial disorders inherited only from the mother?",
+      "answer": "Because during fertilization, mitochondria are contributed by the egg cell (ovum) alone [cite: 5705-5706]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are Polygenic disorders?",
+      "answer": "Disorders that arise due to mutations in more than one gene, often influenced by environmental factors [cite: 5708-5709]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name two Polygenic disorders.",
+      "answer": "Diabetes, Cleft lip, Asthma (any two)[cite: 5710]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What harmful chemical in tobacco causes uncontrolled cell division?",
+      "answer": "Nicotine and other chemicals like pyridine and benzopyrene cause uncontrolled cell division[cite: 5719, 5721]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What effect does tobacco smoke have on lungs?",
+      "answer": "It causes normal lung tissue to transform into thickened black tissue, potentially leading to cancer [cite: 5722-5723]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How many genes are estimated to be in the human genome?",
+      "answer": "About 20,000 to 30,000 genes[cite: 5371]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which enzyme inefficiency leads to stunting in plants?",
+      "answer": "Inefficiency of enzymes producing growth hormones leads to stunting[cite: 5257]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the Human Genome Project?",
+      "answer": "A project undertaken in 1990 to identify the complete DNA sequence of the human genome [cite: 5369-5370]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are 'Autosomes'?",
+      "answer": "Autosomes are all the chromosomes in a cell other than the sex chromosomes[cite: 5312]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the ratio of offspring if one parent is normal (AA) and one is a sickle-cell carrier (AS)?",
+      "answer": "50% normal and 50% carrier[cite: 5694]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name the test used for diagnosis of Sickle-cell anaemia.",
+      "answer": "Solubility Test or Electrophoresis [cite: 5695-5696]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the Watson and Crick model of DNA structure.",
+      "answer": " In 1953, Watson and Crick produced a model of the DNA molecule. It consists of two parallel threads of nucleotides coiled around each other in a 'double helix' structure, resembling a twisted ladder. Each rail is made of alternating sugar and phosphoric acid molecules. The rungs are pairs of nitrogenous bases joined by hydrogen bonds: Adenine pairs with Thymine, and Cytosine pairs with Guanine [cite: 5324-5336]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the different types of chromosomes based on the position of the centromere.",
+      "answer": " 1. Metacentric: Centromere is exactly at the mid-point; looks like 'V'; equal arms. 2. Sub-metacentric: Centromere is near the mid-point; looks like 'L'; one arm slightly shorter. 3. Acrocentric: Centromere is near one end; looks like 'j'; one arm much smaller. 4. Telocentric: Centromere is at the end; looks like 'i'; consists of only one arm [cite: 5278-5285]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the three types of RNA and their functions.",
+      "answer": "1. Ribosomal RNA (rRNA): A component of ribosomes that performs protein synthesis. 2. Messenger RNA (mRNA): Carries information for protein synthesis from genes in the nucleus to ribosomes in the cytoplasm. 3. Transfer RNA (tRNA): Carries amino acids to the ribosomes according to the message on the mRNA [cite: 5381-5384]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain Mendel's Monohybrid Cross with an example.",
+      "answer": "Mendel crossed a tall pea plant (TT) with a dwarf pea plant (tt). In the F1 generation, all plants were tall (Tt), showing that tallness is dominant. Selfing F1 plants (Tt x Tt) produced the F2 generation with both tall and dwarf plants. The phenotypic ratio was 3 Tall : 1 Dwarf, and the genotypic ratio was 1 TT : 2 Tt : 1 tt [cite: 5443-5514]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain Mendel's Dihybrid Cross with an example.",
+      "answer": "Mendel crossed plants with Round-Yellow seeds (RRYY) and Wrinkled-Green seeds (rryy). The F1 generation had all Round-Yellow seeds (RrYy). Selfing F1 produced F2 with four phenotypes: Round-Yellow, Round-Green, Wrinkled-Yellow, and Wrinkled-Green. The phenotypic ratio was 9:3:3:1 [cite: 5518-5572]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe Down Syndrome.",
+      "answer": " Down syndrome is a chromosomal disorder caused by Trisomy of the 21st chromosome (47 chromosomes total). Symptoms include mental retardation, short height, short wide neck, flat nose, short fingers, and a single horizontal crease on the palm. Life expectancy is 16-20 years [cite: 5639-5644]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe Turner Syndrome.",
+      "answer": "Turner syndrome is a sex chromosomal disorder in women caused by the absence of one X chromosome (44+X). Women with this syndrome are sterile due to improper growth of reproductive organs. It arises from the inheritance of only one X chromosome or inactivation of part of the X chromosome [cite: 5646-5649]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe Klinefelter Syndrome.",
+      "answer": "Klinefelter syndrome is a disorder in men caused by an extra X chromosome (44+XXY). It results in 47 chromosomes. Men with this syndrome are sexually sterile because their reproductive organs are not well developed [cite: 5653-5654]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the cause and symptoms of Albinism.",
+      "answer": "Albinism is a monogenic disorder where the body fails to produce the brown pigment melanin. This results in pale skin, white hair, and usually pink eyes because there is no melanin in the retina and sclera [cite: 5666-5667]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the cause and symptoms of Sickle-cell anaemia.",
+      "answer": " It is a genetic disorder where the 6th amino acid in haemoglobin, Glutamic acid, is replaced by Valine. This changes the RBC shape from biconcave to sickle-shaped, reducing oxygen capacity and causing clumping. Symptoms include joint pain, swelling, general aches, low haemoglobin, and exhaustion [cite: 5671-5682]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What are Polygenic disorders? Give examples and explain why they occur.",
+      "answer": "Polygenic disorders arise from mutations in multiple genes. Their severity is often influenced by environmental factors like lifestyle. Examples include diabetes, heart disorders, asthma, cleft lip, and spina bifida. They do not strictly follow Mendel's laws [cite: 5708-5712]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What are the harmful effects of tobacco consumption?",
+      "answer": "Tobacco consumption (smoking/chewing) can cause cancer of the mouth, lungs, and tongue. Nicotine affects the nervous system and causes arteriosclerosis. Smoke particles thicken lung tissue. It also causes digestive issues, cough, instability, and shortening of life span [cite: 5715-5724]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Compare Monohybrid and Dihybrid crosses.",
+      "answer": "1. Monohybrid cross involves one pair of contrasting characters; Dihybrid involves two. 2. F1 genotype in Monohybrid is Tt; in Dihybrid is RrYy. 3. F2 Phenotypic ratio in Monohybrid is 3:1; in Dihybrid is 9:3:3:1. 4. Monohybrid tests segregation; Dihybrid tests independent assortment[cite: 5443, 5514, 5521, 5592]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Describe the structure of a Chromosome.",
+      "answer": " A chromosome is made of nucleic acids and proteins. It has a primary constriction called the centromere, which divides it into two arms (p arm and q arm). It carries genes containing hereditary information. Chromosomes appear dumbbell-shaped during cell division [cite: 5259-5273]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the inheritance of Sickle-cell anaemia through parents.",
+      "answer": "Sickle-cell anaemia is hereditary. If both parents are normal (AA), offspring are normal. If one is a carrier (AS) and one normal, 50% are carriers. If both are carriers (AS), 25% are normal, 50% carriers, and 25% sufferers (SS). If both are sufferers, all offspring are sufferers[cite: 5694]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the Human Genome Project and its importance?",
+      "answer": "Started in 1990, this project aimed to map the complete DNA sequence of the human genome. It confirmed humans have 20,000-30,000 genes. Its importance lies in identifying disease-causing genes, which aids in the diagnosis and treatment of genetic diseases [cite: 5369-5374]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are Mitochondrial disorders?",
+      "answer": "These are disorders caused by defective mitochondrial DNA. Since mitochondria are inherited only from the egg cell (ovum), these disorders are passed down only from the mother. An example is Leber hereditary optic neuropathy [cite: 5705-5706]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the mechanism of heredity via enzymes.",
+      "answer": "Traits like plant height depend on growth hormones. The amount of hormone depends on the efficiency of specific enzymes. Efficient enzymes produce ample hormone (tallness). Inefficient enzymes produce less hormone (dwarfness). Genes control the synthesis of these enzymes [cite: 5253-5257]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Differentiate between DNA and RNA.",
+      "answer": "1. Sugar: DNA has Deoxyribose; RNA has Ribose. 2. Bases: DNA has Thymine; RNA has Uracil. 3. Structure: DNA is double-stranded (double helix); RNA is single-stranded. 4. Function: DNA stores genetic info; RNA helps in protein synthesis [cite: 5328-5336, 5377-5384]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What is the National Health Mission regarding Sickle-cell anaemia?",
+      "answer": "The National Health Mission (Rural 2005, Urban 2013) aims to strengthen health facilities. For sickle-cell anaemia, it provides 'Solubility Tests' at district hospitals and 'Electrophoresis' confirmatory tests at rural hospitals to diagnose and manage the disease [cite: 5656-5696]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the symbols used in the Sickle-cell anaemia inheritance chart.",
+      "answer": "AA stands for Normal individual. AS stands for Carrier (heterozygous, having one defective gene but no severe symptoms). SS stands for Sufferer (homozygous recessive, having symptoms of the disease). Mating combinations of these determine offspring probabilities[cite: 5693]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Describe the 7 contrasting characteristics of pea plants studied by Mendel.",
+      "answer": "1. Seed Shape: Round (D) vs Wrinkled (R). 2. Seed Colour: Yellow (D) vs Green (R). 3. Flower Colour: Purple (D) vs White (R). 4. Pod Shape: Inflated (D) vs Constricted (R). 5. Pod Colour: Green (D) vs Yellow (R). 6. Flower Position: Axillary (D) vs Terminal (R). 7. Plant Height: Tall (D) vs Dwarf (R) [cite: 5397-5423]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How are dominant and recessive characteristics defined in human beings? Give examples.",
+      "answer": "Dominant traits appear frequently; recessive traits appear less frequently or only when homozygous. Examples: Rolling tongue (Dominant) vs Non-rolling (Recessive); Free earlobe (Dominant) vs Attached (Recessive); Black curly hair (Dominant) vs Brown straight hair (Recessive) [cite: 5430-5441]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'genes' and their function.",
+      "answer": "Genes are segments of DNA that contain the code for synthesizing proteins. They are arranged in a line on chromosomes. Genes control the structure and function of cells and the body. They transmit hereditary characteristics from parents to offspring, making them the functional units of heredity [cite: 5338-5344]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Why should marriages between sickle-cell carriers be avoided?",
+      "answer": "If two carriers (AS) marry, there is a 25% chance for every child to be a sufferer (SS) and a 50% chance to be a carrier. Sufferers face severe health issues and shortened lifespan. Avoiding such marriages prevents the birth of children suffering from this hereditary disease [cite: 5678-5681, 5694]."
+    }
+  ]
+}

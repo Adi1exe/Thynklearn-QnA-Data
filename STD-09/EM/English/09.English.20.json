@@ -1,0 +1,269 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.20",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Tansen"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is referred to as the 'Gem of the Court' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Akbar", "is_correct": false },
+        { "option_id": 2, "text": "The Ostad", "is_correct": false },
+        { "option_id": 3, "text": "Tansen", "is_correct": true },
+        { "option_id": 4, "text": "Birbal", "is_correct": false }
+      ],
+      "answer": "Tansen"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which Raga did Tansen sing that filled Akbar's soul with magic?",
+      "options": [
+        { "option_id": 1, "text": "Malhar Raga", "is_correct": false },
+        { "option_id": 2, "text": "Deepak Raga", "is_correct": true },
+        { "option_id": 3, "text": "Malkous Raga", "is_correct": false },
+        { "option_id": 4, "text": "Megh Raga", "is_correct": false }
+      ],
+      "answer": "Deepak Raga"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where does Tansen's teacher dwell?",
+      "options": [
+        { "option_id": 1, "text": "In the royal palace", "is_correct": false },
+        { "option_id": 2, "text": "In a cave in the Himalayas", "is_correct": true },
+        { "option_id": 3, "text": "In a village temple", "is_correct": false },
+        { "option_id": 4, "text": "In the forest of Vrindavan", "is_correct": false }
+      ],
+      "answer": "In a cave in the Himalayas"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why did Tansen say his teacher would not come to the court?",
+      "options": [
+        { "option_id": 1, "text": "He is too old", "is_correct": false },
+        { "option_id": 2, "text": "He scorns earthly kings", "is_correct": true },
+        { "option_id": 3, "text": "He is ill", "is_correct": false },
+        { "option_id": 4, "text": "He does not know the way", "is_correct": false }
+      ],
+      "answer": "He scorns earthly kings"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In what guise did Akbar go to meet the Ostad?",
+      "options": [
+        { "option_id": 1, "text": "As an Emperor", "is_correct": false },
+        { "option_id": 2, "text": "As a soldier", "is_correct": false },
+        { "option_id": 3, "text": "As a poor slave", "is_correct": true },
+        { "option_id": 4, "text": "As a merchant", "is_correct": false }
+      ],
+      "answer": "As a poor slave"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What Raga did the Ostad sing at the shrine?",
+      "options": [
+        { "option_id": 1, "text": "Deepak Raga", "is_correct": false },
+        { "option_id": 2, "text": "Malkous Raga", "is_correct": true },
+        { "option_id": 3, "text": "Bhairavi", "is_correct": false },
+        { "option_id": 4, "text": "Hindol", "is_correct": false }
+      ],
+      "answer": "Malkous Raga"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What effect did the Ostad's song have on Akbar?",
+      "options": [
+        { "option_id": 1, "text": "He fell asleep", "is_correct": false },
+        { "option_id": 2, "text": "He felt magical effects and was enraptured", "is_correct": true },
+        { "option_id": 3, "text": "He became angry", "is_correct": false },
+        { "option_id": 4, "text": "He was bored", "is_correct": false }
+      ],
+      "answer": "He felt magical effects and was enraptured"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who does Tansen say his teacher sings for?",
+      "options": [
+        { "option_id": 1, "text": "The Emperor", "is_correct": false },
+        { "option_id": 2, "text": "The public", "is_correct": false },
+        { "option_id": 3, "text": "God", "is_correct": true },
+        { "option_id": 4, "text": "Himself", "is_correct": false }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who does Tansen admit he sings for?",
+      "options": [
+        { "option_id": 1, "text": "God", "is_correct": false },
+        { "option_id": 2, "text": "His earthly King (Akbar)", "is_correct": true },
+        { "option_id": 3, "text": "Money", "is_correct": false },
+        { "option_id": 4, "text": "Fame", "is_correct": false }
+      ],
+      "answer": "His earthly King (Akbar)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happened when the Ostad's song ended?",
+      "options": [
+        { "option_id": 1, "text": "He asked for a reward", "is_correct": false },
+        { "option_id": 2, "text": "He vanished", "is_correct": true },
+        { "option_id": 3, "text": "He started another song", "is_correct": false },
+        { "option_id": 4, "text": "He bowed to Akbar", "is_correct": false }
+      ],
+      "answer": "He vanished"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the word 'ignoble' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Royal", "is_correct": false },
+        { "option_id": 2, "text": "Noble", "is_correct": false },
+        { "option_id": 3, "text": "Not honorable; of low birth or status", "is_correct": true },
+        { "option_id": 4, "text": "Famous", "is_correct": false }
+      ],
+      "answer": "Not honorable; of low birth or status"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How did Akbar travel to the Himalayas?",
+      "options": [
+        { "option_id": 1, "text": "On an elephant", "is_correct": false },
+        { "option_id": 2, "text": "Walking", "is_correct": false },
+        { "option_id": 3, "text": "Riding", "is_correct": true },
+        { "option_id": 4, "text": "In a chariot", "is_correct": false }
+      ],
+      "answer": "Riding"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What reaction did Akbar have to Tansen's Deepak Raga?",
+      "answer": "Akbar's soul was enchanted, and he felt as if his soul was carried away by the magic of the music."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What did Akbar call Tansen's teacher after hearing about him?",
+      "answer": "Akbar called him 'Mighty' and 'Divine'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Akbar have to go to the teacher instead of summoning him?",
+      "answer": "Because the teacher scorched earthly kings and would not come to the court even if summoned."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Describe the condition in which Akbar went to meet the Ostad.",
+      "answer": "Akbar went dressed in the dusty, shredded rags of a poor slave."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did the Ostad react when the visitors arrived?",
+      "answer": "The Ostad did not see them as an Emperor and a court singer, but simply sang to the blue sky."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happened to the environment when the Ostad sang Malkous Raga?",
+      "answer": "The birds and beasts were enchanted and gathered to listen to the song."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What question did Akbar ask Tansen after they returned to the palace?",
+      "answer": "Akbar asked Tansen, 'What is the secret of this magic? Why can you not sing as he sings?'"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why does Tansen say his song is not as good as his Master's?",
+      "answer": "Tansen says his song is lesser because he sings for an earthly king, while his Master sings for God."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem 'Tansen'?",
+      "answer": "The poet is Hazrat Inayat Khan."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'scorch my soul' mean in the poem?",
+      "answer": "It implies a powerful, overwhelming emotional effect of the music on Akbar's inner self."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where was the Ostad sitting when they found him?",
+      "answer": "He was sitting on a piece of prayer carpet at the door of his cave."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How did Akbar feel while listening to the Ostad?",
+      "answer": "Akbar felt transported, dreaming of peace and heavenly delight."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Archaic words' as mentioned in the warming up section?",
+      "answer": "Archaic words are those that are no longer used in a language but add a historical flavor to writing."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did Akbar offer to do to hear the teacher?",
+      "answer": "Akbar offered to walk until his feet bled to hear the teacher sing."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did Tansen say 'Ah no, to thee I sing'?",
+      "answer": "He was explaining that his inspiration comes from the Emperor (thee), which makes his music different from his Master's."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Compare the singing of Tansen and his Ostad as depicted in the poem.",
+      "answer": "Tansen is described as the 'Gem of the Court' who can enchant the Emperor with his Deepak Raga. However, his singing is bound by his duty to an earthly king. The Ostad, on the other hand, dwells in the Himalayas and sings the Malkous Raga with a divine power that enchants nature itself. His music has a 'celestial sound' that transports listeners to a heavenly state. Tansen acknowledges that his music is like 'chaff' compared to his Master's 'corn' because his Master sings freely for God, while Tansen sings for a human master."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the significance of Akbar dressing as a slave in the poem.",
+      "answer": "Akbar dressing as a 'poor slave' signifies his humility and immense respect for true art. Despite being a mighty Emperor who commands vast territories, he recognizes that the Ostad's divine gift places him above earthly royalty. By shedding his royal robes for rags, Akbar acknowledges that spiritual and artistic greatness cannot be commanded or bought; it must be approached with reverence and humility. It shows that true music transcends social status."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Describe the scene when the Ostad sang the Malkous Raga.",
+      "answer": "When the Ostad began to sing the Malkous Raga, it was a moment of pure magic. He sat on his prayer carpet in the Himalayas, singing to the blue sky. The music was so enchanting that even the birds and beasts gathered to listen. Akbar felt as though he was dreaming, transported to a state of 'heavenly delight' and peace. The music was described as a 'celestial sound' that made the listener forget the world, highlighting the divine power of the Ostad's voice."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "What lesson does Tansen teach Akbar at the end of the poem?",
+      "answer": "At the end of the poem, Tansen teaches Akbar a profound lesson about the source of true artistic greatness. When Akbar asks why Tansen cannot sing like his Master, Tansen explains that the motivation behind the music matters. Tansen sings to please an earthly king (Akbar), which limits his art. In contrast, his Master sings for God, the King of Kings, with no desire for earthly reward. This purity of purpose imbues the Master's music with a divine quality that Tansen cannot replicate."
+    }
+  ]
+}

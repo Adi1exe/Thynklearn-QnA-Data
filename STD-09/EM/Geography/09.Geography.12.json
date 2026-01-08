@@ -1,0 +1,287 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.12",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Tourism"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Visiting various places away from our homes for joy, entertainment, trading, or staying is called?",
+      "options": [
+        { "option_id": 1, "text": "Migration", "is_correct": false },
+        { "option_id": 2, "text": "Commuting", "is_correct": false },
+        { "option_id": 3, "text": "Tourism", "is_correct": true },
+        { "option_id": 4, "text": "Transport", "is_correct": false }
+      ],
+      "answer": "Tourism"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor to consider while planning a trip?",
+      "options": [
+        { "option_id": 1, "text": "Duration of the trip", "is_correct": false },
+        { "option_id": 2, "text": "Available budget", "is_correct": false },
+        { "option_id": 3, "text": "Means of transport", "is_correct": false },
+        { "option_id": 4, "text": "Political parties", "is_correct": true }
+      ],
+      "answer": "Political parties"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Tourism within the limits of one's own country is called?",
+      "options": [
+        { "option_id": 1, "text": "International Tourism", "is_correct": false },
+        { "option_id": 2, "text": "Domestic Tourism", "is_correct": true },
+        { "option_id": 3, "text": "Foreign Tourism", "is_correct": false },
+        { "option_id": 4, "text": "Global Tourism", "is_correct": false }
+      ],
+      "answer": "Domestic Tourism"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Crossing country's boundaries to visit another country is known as?",
+      "options": [
+        { "option_id": 1, "text": "Domestic Tourism", "is_correct": false },
+        { "option_id": 2, "text": "Local Tourism", "is_correct": false },
+        { "option_id": 3, "text": "International Tourism", "is_correct": true },
+        { "option_id": 4, "text": "Regional Tourism", "is_correct": false }
+      ],
+      "answer": "International Tourism"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which document is necessary for International Tourism?",
+      "options": [
+        { "option_id": 1, "text": "Library card", "is_correct": false },
+        { "option_id": 2, "text": "Passport and Visa", "is_correct": true },
+        { "option_id": 3, "text": "Ration card", "is_correct": false },
+        { "option_id": 4, "text": "School ID", "is_correct": false }
+      ],
+      "answer": "Passport and Visa"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the full form of GPS?",
+      "options": [
+        { "option_id": 1, "text": "Global Placement System", "is_correct": false },
+        { "option_id": 2, "text": "Global Positioning System", "is_correct": true },
+        { "option_id": 3, "text": "General Positioning System", "is_correct": false },
+        { "option_id": 4, "text": "Geographic Point System", "is_correct": false }
+      ],
+      "answer": "Global Positioning System"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which application is used in mobile phones for navigation and location?",
+      "options": [
+        { "option_id": 1, "text": "Facebook", "is_correct": false },
+        { "option_id": 2, "text": "Google Map", "is_correct": true },
+        { "option_id": 3, "text": "WhatsApp", "is_correct": false },
+        { "option_id": 4, "text": "YouTube", "is_correct": false }
+      ],
+      "answer": "Google Map"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Tourism helps in the development of which sector?",
+      "options": [
+        { "option_id": 1, "text": "Manufacturing", "is_correct": false },
+        { "option_id": 2, "text": "Service Sector", "is_correct": true },
+        { "option_id": 3, "text": "Mining", "is_correct": false },
+        { "option_id": 4, "text": "Agriculture only", "is_correct": false }
+      ],
+      "answer": "Service Sector"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an ecological effect of tourism?",
+      "options": [
+        { "option_id": 1, "text": "Conservation of sanctuaries", "is_correct": false },
+        { "option_id": 2, "text": "Protection of natural beauty", "is_correct": false },
+        { "option_id": 3, "text": "Economic development", "is_correct": true },
+        { "option_id": 4, "text": "Environment friendly tourism concept", "is_correct": false }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which Indian state has places like Ajanta, Verul, and Mahabaleshwar?",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Karnataka", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 4, "text": "Madhya Pradesh", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the famous hill station in Maharashtra mentioned in the map?",
+      "options": [
+        { "option_id": 1, "text": "Ooty", "is_correct": false },
+        { "option_id": 2, "text": "Shimla", "is_correct": false },
+        { "option_id": 3, "text": "Mahabaleshwar", "is_correct": true },
+        { "option_id": 4, "text": "Manali", "is_correct": false }
+      ],
+      "answer": "Mahabaleshwar"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a religious tourist place in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Shirdi", "is_correct": true },
+        { "option_id": 2, "text": "Lonar", "is_correct": false },
+        { "option_id": 3, "text": "Melghat", "is_correct": false },
+        { "option_id": 4, "text": "Tadoba", "is_correct": false }
+      ],
+      "answer": "Shirdi"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Melghat in Maharashtra is famous for what?",
+      "options": [
+        { "option_id": 1, "text": "Fort", "is_correct": false },
+        { "option_id": 2, "text": "Tiger Habitat/Sanctuary", "is_correct": true },
+        { "option_id": 3, "text": "Beach", "is_correct": false },
+        { "option_id": 4, "text": "Cave", "is_correct": false }
+      ],
+      "answer": "Tiger Habitat/Sanctuary"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these places is known for its caves?",
+      "options": [
+        { "option_id": 1, "text": "Ajanta and Verul", "is_correct": true },
+        { "option_id": 2, "text": "Ganpatipule", "is_correct": false },
+        { "option_id": 3, "text": "Matheran", "is_correct": false },
+        { "option_id": 4, "text": "Pandharpur", "is_correct": false }
+      ],
+      "answer": "Ajanta and Verul"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which factor creates employment opportunities in the tourism sector?",
+      "options": [
+        { "option_id": 1, "text": "Restaurants and shops", "is_correct": false },
+        { "option_id": 2, "text": "Transportation", "is_correct": false },
+        { "option_id": 3, "text": "Lodging and boarding", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Define Tourism.",
+      "answer": "Tourism is visiting various places away from our homes for getting joy, entertainment, trading, staying, etc."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What is Domestic Tourism?",
+      "answer": "Domestic tourism is tourism that takes place within the limits of one's own country."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is International Tourism?",
+      "answer": "International tourism involves crossing the country's boundaries to visit another country."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "List the documents required for international travel.",
+      "answer": "Passport, Visa, Travel insurance, and other specific documents."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the use of GPS in tourism?",
+      "answer": "GPS (Global Positioning System) in mobile phones or cars helps tourists locate their position and navigate to their destination using maps."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How does tourism promote economic development?",
+      "answer": "It stimulates the development of restaurants, shops, transportation, and entertainment, contributing to the economy and generating employment."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "How does tourism help in environmental conservation?",
+      "answer": "The concept of eco-friendly tourism encourages the development of sanctuaries and parks to protect natural habitats and wildlife for tourists to see."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "How does tourism foster health?",
+      "answer": "Some tourists visit places for medical facilities (Medical Tourism) or to get peace of mind and physical strength through activities like Yoga and Ayurveda."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is 'Social Development' through tourism?",
+      "answer": "Tourism can uplift rural areas by improving standard of living through visits to specific rural projects or tribal life (Rural Tourism)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Name two hot water springs in Maharashtra shown on the map.",
+      "answer": "Vajreshwari and Unapdev."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Name two forts in Maharashtra shown on the map.",
+      "answer": "Raigad, Janjira, Sindhudurg (Any two)."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why is the currency exchange rate important in international tourism?",
+      "answer": "Because we need to exchange our country's currency for the currency of the country we are visiting, and the value of currency differs."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Differentiate between Domestic and International Tourism.",
+      "answer": "Domestic Tourism occurs within the country's borders, does not require a passport/visa, and uses the country's own currency. It is easier to plan. International Tourism involves crossing national borders, requires official documents like a passport and visa, and involves currency exchange. It is more complex to plan."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "Explain the importance of tourism development in India.",
+      "answer": "India is diverse in culture and nature, making it rich in tourist potential. Tourism promotes national unity, generates employment, and boosts the economy. It encourages the preservation of historical sites and culture. It creates opportunities for businesses like hotels and transport. Moreover, it puts India on the global map for its heritage."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Describe the use of modern technology in tourism.",
+      "answer": "Modern technology like GPS and the internet has revolutionized tourism. The GPS on smartphones allows tourists to find their location and navigate maps easily. Apps like Google Maps provide routes and distance. The internet allows online booking of tickets (train, flight, bus) and accommodations, making planning convenient and efficient."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "What are the various types of tourism mentioned?",
+      "answer": "Types include: 1. Economic/Business Tourism (trading, meetings). 2. Health/Medical Tourism (for treatments, Yoga). 3. Eco-Tourism (visiting sanctuaries). 4. Cultural/Heritage Tourism (visiting historical sites). 5. Religious Tourism (pilgrimages like Shirdi). 6. Rural Tourism (visiting villages)."
+    }
+  ]
+}

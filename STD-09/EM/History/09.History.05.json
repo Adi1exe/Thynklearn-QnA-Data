@@ -1,0 +1,659 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.05",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Education"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the literacy percentage in India according to the first Census in 1951?",
+      "options": [
+        { "option_id": 1, "text": "34%", "is_correct": false },
+        { "option_id": 2, "text": "17%", "is_correct": true },
+        { "option_id": 3, "text": "52%", "is_correct": false },
+        { "option_id": 4, "text": "64%", "is_correct": false }
+      ],
+      "answer": "17%"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year did the literacy rate reach 64%?",
+      "options": [
+        { "option_id": 1, "text": "1991", "is_correct": false },
+        { "option_id": 2, "text": "2001", "is_correct": true },
+        { "option_id": 3, "text": "1981", "is_correct": false },
+        { "option_id": 4, "text": "1971", "is_correct": false }
+      ],
+      "answer": "2001"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the age group for primary education?",
+      "options": [
+        { "option_id": 1, "text": "3 to 10 years", "is_correct": false },
+        { "option_id": 2, "text": "6 to 14 years", "is_correct": true },
+        { "option_id": 3, "text": "5 to 15 years", "is_correct": false },
+        { "option_id": 4, "text": "10 to 18 years", "is_correct": false }
+      ],
+      "answer": "6 to 14 years"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which year was 'Operation Blackboard' started?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": false },
+        { "option_id": 2, "text": "1988", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "1994", "is_correct": false }
+      ],
+      "answer": "1988"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who started 'Anganwadis' for Adivasi children in Bordi and Kosbad?",
+      "options": [
+        { "option_id": 1, "text": "Anutai Wagh", "is_correct": false },
+        { "option_id": 2, "text": "Tarabai Modak", "is_correct": true },
+        { "option_id": 3, "text": "Savitribai Phule", "is_correct": false },
+        { "option_id": 4, "text": "Pandita Ramabai", "is_correct": false }
+      ],
+      "answer": "Tarabai Modak"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who established an institution at Kosbad for the progress of Adivasis in Thane district?",
+      "options": [
+        { "option_id": 1, "text": "Tarabai Modak", "is_correct": false },
+        { "option_id": 2, "text": "Anutai Wagh", "is_correct": true },
+        { "option_id": 3, "text": "R. H. Dave", "is_correct": false },
+        { "option_id": 4, "text": "J. P. Naik", "is_correct": false }
+      ],
+      "answer": "Anutai Wagh"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the full form of DPEP?",
+      "options": [
+        { "option_id": 1, "text": "District Primary Education Programme", "is_correct": true },
+        { "option_id": 2, "text": "Department of Primary Education Programme", "is_correct": false },
+        { "option_id": 3, "text": "District Public Education Plan", "is_correct": false },
+        { "option_id": 4, "text": "Divisional Primary Education Policy", "is_correct": false }
+      ],
+      "answer": "District Primary Education Programme"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When was the District Primary Education Programme (DPEP) started?",
+      "options": [
+        { "option_id": 1, "text": "1988", "is_correct": false },
+        { "option_id": 2, "text": "1994", "is_correct": true },
+        { "option_id": 3, "text": "1998", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1994"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year did the 'Mid-day Meal' scheme start?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "1995", "is_correct": true },
+        { "option_id": 3, "text": "1998", "is_correct": false },
+        { "option_id": 4, "text": "2001", "is_correct": false }
+      ],
+      "answer": "1995"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who was the Chairman of the University Education Commission appointed in 1948?",
+      "options": [
+        { "option_id": 1, "text": "Dr. D. S. Kothari", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Sarvapalli Radhakrishnan", "is_correct": true },
+        { "option_id": 3, "text": "Maulana Azad", "is_correct": false },
+        { "option_id": 4, "text": "Dr. J. P. Naik", "is_correct": false }
+      ],
+      "answer": "Dr. Sarvapalli Radhakrishnan"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was India's first Education Minister?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Sarvapalli Radhakrishnan", "is_correct": false },
+        { "option_id": 2, "text": "Maulana Abul Kalam Azad", "is_correct": true },
+        { "option_id": 3, "text": "Dr. D. S. Kothari", "is_correct": false },
+        { "option_id": 4, "text": "J. P. Naik", "is_correct": false }
+      ],
+      "answer": "Maulana Abul Kalam Azad"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which commission was appointed in 1952-53 for secondary education?",
+      "options": [
+        { "option_id": 1, "text": "Hunter Commission", "is_correct": false },
+        { "option_id": 2, "text": "Mudaliar Commission", "is_correct": true },
+        { "option_id": 3, "text": "Kothari Commission", "is_correct": false },
+        { "option_id": 4, "text": "Sadler Commission", "is_correct": false }
+      ],
+      "answer": "Mudaliar Commission"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What pattern of education did the Mudaliar Commission propose?",
+      "options": [
+        { "option_id": 1, "text": "10+2+3", "is_correct": false },
+        { "option_id": 2, "text": "11+4 or 11+1+3", "is_correct": true },
+        { "option_id": 3, "text": "8+4+3", "is_correct": false },
+        { "option_id": 4, "text": "5+3+3+4", "is_correct": false }
+      ],
+      "answer": "11+4 or 11+1+3"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who chaired the commission appointed in 1964?",
+      "options": [
+        { "option_id": 1, "text": "Dr. D. S. Kothari", "is_correct": true },
+        { "option_id": 2, "text": "J. P. Naik", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Radhakrishnan", "is_correct": false },
+        { "option_id": 4, "text": "Maulana Azad", "is_correct": false }
+      ],
+      "answer": "Dr. D. S. Kothari"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which commission recommended the 10+2+3 pattern of education?",
+      "options": [
+        { "option_id": 1, "text": "Mudaliar Commission", "is_correct": false },
+        { "option_id": 2, "text": "Kothari Commission", "is_correct": true },
+        { "option_id": 3, "text": "Radhakrishnan Commission", "is_correct": false },
+        { "option_id": 4, "text": "Hunter Commission", "is_correct": false }
+      ],
+      "answer": "Kothari Commission"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In which year was the 10+2+3 pattern implemented?",
+      "options": [
+        { "option_id": 1, "text": "1968", "is_correct": false },
+        { "option_id": 2, "text": "1972", "is_correct": true },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "1986", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "When was the Maharashtra State Board of Secondary and Higher Secondary Education established?",
+      "options": [
+        { "option_id": 1, "text": "1st January 1966", "is_correct": true },
+        { "option_id": 2, "text": "1st May 1960", "is_correct": false },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1947", "is_correct": false }
+      ],
+      "answer": "1st January 1966"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which periodical is published by the Maharashtra State Board?",
+      "options": [
+        { "option_id": 1, "text": "Jeevan Shikshan", "is_correct": false },
+        { "option_id": 2, "text": "Shikshan Sankraman", "is_correct": true },
+        { "option_id": 3, "text": "Kishor", "is_correct": false },
+        { "option_id": 4, "text": "Balbharati", "is_correct": false }
+      ],
+      "answer": "Shikshan Sankraman"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "When was the National Council of Educational Research and Training (NCERT) established?",
+      "options": [
+        { "option_id": 1, "text": "1st September 1961", "is_correct": true },
+        { "option_id": 2, "text": "27th January 1967", "is_correct": false },
+        { "option_id": 3, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 4, "text": "26th January 1950", "is_correct": false }
+      ],
+      "answer": "1st September 1961"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Where is the NCERT located?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": true },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "When was the Maharashtra State Council of Educational Research and Training (MSCERT) established?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1984", "is_correct": true },
+        { "option_id": 3, "text": "1988", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1984"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which periodical is published by MSCERT?",
+      "options": [
+        { "option_id": 1, "text": "Shikshan Sankraman", "is_correct": false },
+        { "option_id": 2, "text": "Jeevan Shikshan", "is_correct": true },
+        { "option_id": 3, "text": "Kishor", "is_correct": false },
+        { "option_id": 4, "text": "Balbharati", "is_correct": false }
+      ],
+      "answer": "Jeevan Shikshan"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When was Balbharati established?",
+      "options": [
+        { "option_id": 1, "text": "27th January 1967", "is_correct": true },
+        { "option_id": 2, "text": "1st May 1960", "is_correct": false },
+        { "option_id": 3, "text": "1st September 1961", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1947", "is_correct": false }
+      ],
+      "answer": "27th January 1967"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which magazine for children is published by Balbharati?",
+      "options": [
+        { "option_id": 1, "text": "Jeevan Shikshan", "is_correct": false },
+        { "option_id": 2, "text": "Kishor", "is_correct": true },
+        { "option_id": 3, "text": "Champak", "is_correct": false },
+        { "option_id": 4, "text": "Chandamama", "is_correct": false }
+      ],
+      "answer": "Kishor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who chaired the committee formed in 1990 to determine minimum levels of learning?",
+      "options": [
+        { "option_id": 1, "text": "Dr. R. H. Dave", "is_correct": true },
+        { "option_id": 2, "text": "Dr. Kothari", "is_correct": false },
+        { "option_id": 3, "text": "J. P. Naik", "is_correct": false },
+        { "option_id": 4, "text": "P. Parthasarathy", "is_correct": false }
+      ],
+      "answer": "Dr. R. H. Dave"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which satellite was used in the SITE experiment for education?",
+      "options": [
+        { "option_id": 1, "text": "Aryabhatta", "is_correct": false },
+        { "option_id": 2, "text": "Edusat", "is_correct": false },
+        { "option_id": 3, "text": "INSAT", "is_correct": false },
+        { "option_id": 4, "text": "A US satellite (ATS-6)", "is_correct": true }
+      ],
+      "answer": "A US satellite (ATS-6)"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who played an important role in the satellite education experiment?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 2, "text": "Eknath Chitnis", "is_correct": true },
+        { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "APJ Abdul Kalam", "is_correct": false }
+      ],
+      "answer": "Eknath Chitnis"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "When was the Indira Gandhi National Open University (IGNOU) established?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who chaired the committee appointed in 1974 for the Open University?",
+      "options": [
+        { "option_id": 1, "text": "P. Parthasarathy", "is_correct": true },
+        { "option_id": 2, "text": "G. Parthasarathy", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Kothari", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Dave", "is_correct": false }
+      ],
+      "answer": "P. Parthasarathy"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which Open University was established in Nashik in 1989?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi National Open University", "is_correct": false },
+        { "option_id": 2, "text": "Yashwantrao Chavan Maharashtra Mukta Vidyapeeth", "is_correct": true },
+        { "option_id": 3, "text": "Nalanda Open University", "is_correct": false },
+        { "option_id": 4, "text": "Ambedkar Open University", "is_correct": false }
+      ],
+      "answer": "Yashwantrao Chavan Maharashtra Mukta Vidyapeeth"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "When was the Council of Scientific and Industrial Research (CSIR) established?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": true },
+        { "option_id": 3, "text": "1955", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1950"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which institute used DNA fingerprinting for the first time in India?",
+      "options": [
+        { "option_id": 1, "text": "AIIMS", "is_correct": false },
+        { "option_id": 2, "text": "CSIR", "is_correct": true },
+        { "option_id": 3, "text": "ICMR", "is_correct": false },
+        { "option_id": 4, "text": "BARC", "is_correct": false }
+      ],
+      "answer": "CSIR"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which institute developed the first indigenous computer named ISIJU?",
+      "options": [
+        { "option_id": 1, "text": "IIT Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "TCS", "is_correct": false },
+        { "option_id": 3, "text": "Indian Statistical Institute and Jadavpur University", "is_correct": true },
+        { "option_id": 4, "text": "C-DAC", "is_correct": false }
+      ],
+      "answer": "Indian Statistical Institute and Jadavpur University"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who led the development of the Param-8000 supercomputer?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Vijay Bhatkar", "is_correct": true },
+        { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "Sam Pitroda", "is_correct": false }
+      ],
+      "answer": "Dr. Vijay Bhatkar"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Where was the first Indian Institute of Technology (IIT) set up?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai (Powai)", "is_correct": false },
+        { "option_id": 2, "text": "Chennai", "is_correct": false },
+        { "option_id": 3, "text": "Kharagpur", "is_correct": true },
+        { "option_id": 4, "text": "Kanpur", "is_correct": false }
+      ],
+      "answer": "Kharagpur"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "When was the first IIT at Kharagpur established?",
+      "options": [
+        { "option_id": 1, "text": "1951", "is_correct": true },
+        { "option_id": 2, "text": "1955", "is_correct": false },
+        { "option_id": 3, "text": "1960", "is_correct": false },
+        { "option_id": 4, "text": "1965", "is_correct": false }
+      ],
+      "answer": "1951"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which foreign university helped set up IIM Ahmedabad?",
+      "options": [
+        { "option_id": 1, "text": "Oxford University", "is_correct": false },
+        { "option_id": 2, "text": "Harvard Business School", "is_correct": true },
+        { "option_id": 3, "text": "Cambridge University", "is_correct": false },
+        { "option_id": 4, "text": "Stanford University", "is_correct": false }
+      ],
+      "answer": "Harvard Business School"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Where was the National Institute of Design established in 1961?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Ahmedabad", "is_correct": true },
+        { "option_id": 3, "text": "Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Bangalore", "is_correct": false }
+      ],
+      "answer": "Ahmedabad"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "When was the Indian Council for Medical Research (ICMR) established?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1949", "is_correct": true },
+        { "option_id": 3, "text": "1955", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1949"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which institution was established to give further impetus to advanced medical education?",
+      "options": [
+        { "option_id": 1, "text": "ICMR", "is_correct": false },
+        { "option_id": 2, "text": "AIIMS", "is_correct": true },
+        { "option_id": 3, "text": "CSIR", "is_correct": false },
+        { "option_id": 4, "text": "UGC", "is_correct": false }
+      ],
+      "answer": "AIIMS"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What was the main objective of 'Operation Blackboard'?",
+      "answer": "The main objective was to spread primary education, improve educational standards, and fulfill minimum educational needs like classrooms, toilets, and blackboards."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the function of the University Grants Commission (UGC)?",
+      "answer": "The UGC plans university education, coordinates syllabi, and disburses financial grants to universities."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Who was Anutai Wagh?",
+      "answer": "Anutai Wagh established an institution at Kosbad for the progress of Adivasis in Thane district, known as the Kosbad Project."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What did the Mudaliar Commission recommend?",
+      "answer": "It recommended a pattern of 11+4 or 11+1+3 years of education and proposed the concept of Higher Secondary Education."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is Balbharati?",
+      "answer": "Balbharati is the Maharashtra State Bureau of Textbook Production and Curriculum Research, established in Pune in 1967."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the 'National Policy on Education 1986'?",
+      "answer": "It was a policy to bring fundamental changes in education to meet changing societal needs and ensure equal educational opportunities through a common core curriculum."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What was the objective of the District Primary Education Programme (DPEP)?",
+      "answer": "The objective was the universalisation of primary education, including 100% attendance and reducing drop-out rates."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the 'Mid-day Meal' scheme?",
+      "answer": "A scheme started in 1995 to provide proper nourishment for students in schools."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Who was Eknath Chitnis?",
+      "answer": "Eknath Chitnis was a scientist with ISRO who played an important role in using satellites for education."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is IGNOU?",
+      "answer": "Indira Gandhi National Open University (IGNOU) is an open university established to take education into every average household."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List two achievements of the CSIR.",
+      "answer": "Making indelible ink for elections and developing medicines for malaria and tuberculosis."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is C-DAC?",
+      "answer": "Centre for Development for Advanced Computing, established in Pune to develop indigenous supercomputers."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is BARC?",
+      "answer": "Bhabha Atomic Research Centre, which conducts research in nuclear physics and other sciences."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the 'Brain Drain' crisis mentioned in the text?",
+      "answer": "It refers to the large number of IIT graduates leaving India for foreign countries between 1970 and 1980."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is IIM?",
+      "answer": "Indian Institute of Management, established to mould skilled managers."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does the National Institute of Design (NID) do?",
+      "answer": "The NID imparts training in industrial design, graphic design, product design, and visual communication."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the role of the Medical Council of India?",
+      "answer": "To determine criteria for the quality of medical education, supervision, and inspection."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What research does the Tata Memorial Centre conduct?",
+      "answer": "It conducts research on cancer treatment and education."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What significant achievement is attributed to the Indian Agricultural Research Institute?",
+      "answer": "Fundamental research on methods of taking multiple crops in a year, benefiting farmers."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the main objective of the NCERT?",
+      "answer": "To help the Central Government in school education policies and implement educational schemes."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Describe the initiatives taken under the 'Operation Blackboard' scheme.",
+      "answer": "In 1988, the central government initiated Operation Blackboard to improve primary education standards. Funds were provided to fulfill minimum needs such as at least two proper classrooms, toilets, one female teacher among two, a blackboard, maps, laboratory apparatus, a library, and sports equipment. In 1994, the scheme expanded to include additional classrooms and teachers for schools with over 100 students, prioritizing girls' schools and rural areas."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Explain the role and functions of the NCERT.",
+      "answer": "The National Council of Educational Research and Training (NCERT) was established in 1961 to assist the Central Government in school education policies. Its responsibilities include educational research and development, training, extension programmes, and restructuring school curricula and textbooks. It plays a central role in designing curricula with the CBSE and provides guidance to state governments. It also develops teacher handbooks and conducts national-level talent search examinations."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Discuss the establishment and impact of the Indira Gandhi National Open University (IGNOU).",
+      "answer": "IGNOU was established in 1985 to bring education to every household, following a 1970 UNESCO seminar on Open Universities. Based on the P. Parthasarathy committee's recommendations, it was named after Prime Minister Indira Gandhi. IGNOU offers education with flexible eligibility criteria, making it accessible to those who missed formal college. It launched audio-visual distance education in 1990 and operates over 1000 curricula through training centers in India and abroad."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "What are the contributions of the Council of Scientific and Industrial Research (CSIR) to India?",
+      "answer": "Established in 1950, CSIR promotes scientific research in physics, chemistry, pharmaceuticals, and food processing. Its achievements include making indelible election ink, medicines for malaria and tuberculosis, water purification technology, and reducing bamboo production time. CSIR pioneered DNA fingerprinting in India, conducted genetic studies on Andaman Adivasis, and developed earthquake warning systems. It also played a role in neem pesticides and turmeric patents."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Elaborate on the development of engineering education in India post-independence, focusing on IITs.",
+      "answer": "To meet the country's need for advanced engineering education, the first Indian Institute of Technology (IIT) was set up at Kharagpur in 1951. Engineering colleges in Powai, Chennai, Kanpur, and New Delhi were converted into IITs with help from Russia, America, Germany, and UNESCO. These institutes were granted deemed university status to offer BTech and MTech courses. Despite facing a 'Brain Drain' in the 70s and 80s, IITs expanded with new campuses in Guwahati (1994) and Roorkee (2001)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "Write a note on the Indian Institute of Management (IIM).",
+      "answer": "As high-quality engineers graduated from IITs, the need for skilled managers arose. The Central and Gujarat governments started the first IIM in Ahmedabad with help from Harvard Business School. Other IIMs were later set up in Kolkata, Bengaluru, Lucknow, Kozhikode, Indore, and Shillong to provide top-tier management education."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Kothari Commission.",
+      "answer": "Appointed in 1964 under Dr. D. S. Kothari, the commission recommended the 10+2+3 pattern for secondary, higher secondary, and university education, implemented in 1972. It suggested a uniform national system, inclusion of mother tongue, Hindi, and English, and emphasized continuing and adult education. It also recommended increased budget provisions for neglected sections like Scheduled Castes and Tribes."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Describe the progress in medical research in India post-independence.",
+      "answer": "The Indian Council for Medical Research (ICMR) was established in 1949 to guide and support research. Twenty-six centers were started for research on various diseases, helping control tuberculosis and leprosy. The All India Institute of Medical Sciences (AIIMS) was set up for advanced education and research, providing treatment at nominal rates. Research in cancer, Ayurveda, and other fields also progressed significantly."
+    }
+  ]
+}

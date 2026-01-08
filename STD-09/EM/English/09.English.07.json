@@ -1,0 +1,119 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.07",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "2.2 A True Story of Sea Turtles"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What were the volunteers surveying when they discovered the turtle egg shells?",
+      "options": [
+        { "option_id": 1, "text": "Sea turtles", "is_correct": false },
+        { "option_id": 2, "text": "White bellied sea-eagles", "is_correct": true },
+        { "option_id": 3, "text": "Endangered dolphins", "is_correct": false },
+        { "option_id": 4, "text": "Coral reefs", "is_correct": false }
+      ],
+      "answer": "White bellied sea-eagles"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How deep is a sea turtle's nest typically?",
+      "options": [
+        { "option_id": 1, "text": "Two metres", "is_correct": false },
+        { "option_id": 2, "text": "One metre", "is_correct": false },
+        { "option_id": 3, "text": "About half a metre", "is_correct": true },
+        { "option_id": 4, "text": "Ten centimetres", "is_correct": false }
+      ],
+      "answer": "About half a metre"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The trail left by a female turtle on the sand is compared to __________.",
+      "options": [
+        { "option_id": 1, "text": "A snake's path", "is_correct": false },
+        { "option_id": 2, "text": "A track of wheels", "is_correct": true },
+        { "option_id": 3, "text": "Footprints of a giant", "is_correct": false },
+        { "option_id": 4, "text": "Drag marks of a boat", "is_correct": false }
+      ],
+      "answer": "A track of wheels"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What happens to the turtles and eggs in the photographs mentioned in the warming-up section?",
+      "options": [
+        { "option_id": 1, "text": "They are thriving", "is_correct": false },
+        { "option_id": 2, "text": "They are being hunted", "is_correct": false },
+        { "option_id": 3, "text": "They are likely to die out due to human activity", "is_correct": true },
+        { "option_id": 4, "text": "They are being relocated to zoos", "is_correct": false }
+      ],
+      "answer": "They are likely to die out due to human activity"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the context of the story, who keeps 'combing the beach' in the early morning?",
+      "options": [
+        { "option_id": 1, "text": "Scientists", "is_correct": false },
+        { "option_id": 2, "text": "Tourists", "is_correct": false },
+        { "option_id": 3, "text": "A few people in every village (egg hunters)", "is_correct": true },
+        { "option_id": 4, "text": "The volunteers", "is_correct": false }
+      ],
+      "answer": "A few people in every village (egg hunters)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is an endangered species?",
+      "options": [
+        { "option_id": 1, "text": "Pigeon", "is_correct": false },
+        { "option_id": 2, "text": "Sea turtle", "is_correct": true },
+        { "option_id": 3, "text": "Street dog", "is_correct": false },
+        { "option_id": 4, "text": "House cat", "is_correct": false }
+      ],
+      "answer": "Sea turtle"
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "What did the volunteers find that led to their enquiries with the villagers?",
+      "answer": "The volunteers found shallow pits with white egg shells nearby while they were roaming the coasts surveying sea-eagles[cite: 30]."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "Why do the egg hunters follow the trail of the female turtle?",
+      "answer": "The egg hunters follow the trail left by the female turtle on the sand because it leads them directly to the nest where the eggs are laid[cite: 35]."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "What is the concept of 'Conservation of Nature through Livelihood'?",
+      "answer": "It is an idea where nature is protected while also providing a means of living for the local people, such as through 'homestay' facilities for tourists in the villages[cite: 35]."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "What information should be included in a poster for protecting turtle eggs?",
+      "answer": "A poster should include pictures of sea turtles and their habitat, information about nests and eggs, details about a 'protected nest', an appeal for public awareness, and data on conservation achievements[cite: 35]."
+    },
+    {
+      "question_id": 11,
+      "question_type": "LONG",
+      "question": "Explain the process of how sea turtle eggs are located and the challenges they face from human activity.",
+      "answer": "According to the passage, a few people in villages comb the beaches year-round in the early morning[cite: 35]. [cite_start]When a female turtle comes on shore to nest, she leaves a distinctive trail on the sand that looks like wheel tracks[cite: 35]. [cite_start]Hunters follow this trail to the nest, which is typically half a metre deep, to find the eggs[cite: 35]. [cite_start]A major challenge is that these species are endangered because human activity in their habitat is causing them to die out[cite: 30]."
+    },
+    {
+      "question_id": 12,
+      "question_type": "LONG",
+      "question": "Discuss the various conservation efforts and awareness projects mentioned for sea turtles.",
+      "answer": "Conservation efforts include creating posters with habitat information and protected nest details to spread public awareness[cite: 35]. [cite_start]Another strategy is 'Conservation of Nature through Livelihood,' which involves village homestays to involve locals in tourism and protection[cite: 35]. [cite_start]Bullet point presentations are also suggested to discuss the prudent utilization of natural resources and the scope for tourism to ensure a sustainable future for the turtles[cite: 35]."
+    }
+  ]
+}

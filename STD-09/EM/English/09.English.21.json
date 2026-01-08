@@ -1,0 +1,305 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.21",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Language Study"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a short form of a word or phrase called?",
+      "options": [
+        { "option_id": 1, "text": "Acronym", "is_correct": false },
+        { "option_id": 2, "text": "Abbreviation", "is_correct": true },
+        { "option_id": 3, "text": "Compound", "is_correct": false },
+        { "option_id": 4, "text": "Affix", "is_correct": false }
+      ],
+      "answer": "Abbreviation"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an abbreviation?",
+      "options": [
+        { "option_id": 1, "text": "Teapot", "is_correct": false },
+        { "option_id": 2, "text": "Tick-tock", "is_correct": false },
+        { "option_id": 3, "text": "km", "is_correct": true },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "km"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does 'etc.' stand for?",
+      "options": [
+        { "option_id": 1, "text": "Et cetera", "is_correct": true },
+        { "option_id": 2, "text": "End of text", "is_correct": false },
+        { "option_id": 3, "text": "Extra content", "is_correct": false },
+        { "option_id": 4, "text": "Estimated time", "is_correct": false }
+      ],
+      "answer": "Et cetera"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which preposition is often used before the 'doer' of the action in passive voice?",
+      "options": [
+        { "option_id": 1, "text": "To", "is_correct": false },
+        { "option_id": 2, "text": "With", "is_correct": false },
+        { "option_id": 3, "text": "From", "is_correct": false },
+        { "option_id": 4, "text": "By", "is_correct": true }
+      ],
+      "answer": "By"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is a speech sound made without closing any part of the mouth or throat called?",
+      "options": [
+        { "option_id": 1, "text": "Consonant", "is_correct": false },
+        { "option_id": 2, "text": "Vowel", "is_correct": true },
+        { "option_id": 3, "text": "Syllable", "is_correct": false },
+        { "option_id": 4, "text": "Accent", "is_correct": false }
+      ],
+      "answer": "Vowel"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which letter sometimes acts as a vowel in English?",
+      "options": [
+        { "option_id": 1, "text": "w", "is_correct": false },
+        { "option_id": 2, "text": "y", "is_correct": true },
+        { "option_id": 3, "text": "z", "is_correct": false },
+        { "option_id": 4, "text": "h", "is_correct": false }
+      ],
+      "answer": "y"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the process of adding a prefix or suffix to a word called?",
+      "options": [
+        { "option_id": 1, "text": "Compounding", "is_correct": false },
+        { "option_id": 2, "text": "Clipping", "is_correct": false },
+        { "option_id": 3, "text": "Affixation", "is_correct": true },
+        { "option_id": 4, "text": "Conversion", "is_correct": false }
+      ],
+      "answer": "Affixation"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Changing the class of a word without adding a prefix or suffix is called what?",
+      "options": [
+        { "option_id": 1, "text": "Conversion", "is_correct": true },
+        { "option_id": 2, "text": "Affixation", "is_correct": false },
+        { "option_id": 3, "text": "Reduplication", "is_correct": false },
+        { "option_id": 4, "text": "Abbreviation", "is_correct": false }
+      ],
+      "answer": "Conversion"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of compounding?",
+      "options": [
+        { "option_id": 1, "text": "Teapot", "is_correct": true },
+        { "option_id": 2, "text": "Unhappy", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "TV", "is_correct": false }
+      ],
+      "answer": "Teapot"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What process forms words like 'tick-tock'?",
+      "options": [
+        { "option_id": 1, "text": "Clipping", "is_correct": false },
+        { "option_id": 2, "text": "Forming reduplicatives", "is_correct": true },
+        { "option_id": 3, "text": "Acronyms", "is_correct": false },
+        { "option_id": 4, "text": "Affixation", "is_correct": false }
+      ],
+      "answer": "Forming reduplicatives"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The word 'phone' from 'telephone' is an example of which word formation process?",
+      "options": [
+        { "option_id": 1, "text": "Compounding", "is_correct": false },
+        { "option_id": 2, "text": "Clipping", "is_correct": true },
+        { "option_id": 3, "text": "Conversion", "is_correct": false },
+        { "option_id": 4, "text": "Acronym", "is_correct": false }
+      ],
+      "answer": "Clipping"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is 'ISRO' an example of?",
+      "options": [
+        { "option_id": 1, "text": "Acronym", "is_correct": true },
+        { "option_id": 2, "text": "Reduplicative", "is_correct": false },
+        { "option_id": 3, "text": "Compound word", "is_correct": false },
+        { "option_id": 4, "text": "Suffix", "is_correct": false }
+      ],
+      "answer": "Acronym"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How is a 'word' defined in writing?",
+      "options": [
+        { "option_id": 1, "text": "By capital letters", "is_correct": false },
+        { "option_id": 2, "text": "By leaving spaces on both sides", "is_correct": true },
+        { "option_id": 3, "text": "By hyphens", "is_correct": false },
+        { "option_id": 4, "text": "By commas", "is_correct": false }
+      ],
+      "answer": "By leaving spaces on both sides"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these are vowel letters?",
+      "options": [
+        { "option_id": 1, "text": "b, c, d, f, g", "is_correct": false },
+        { "option_id": 2, "text": "a, e, i, o, u", "is_correct": true },
+        { "option_id": 3, "text": "p, q, r, s, t", "is_correct": false },
+        { "option_id": 4, "text": "x, y, z", "is_correct": false }
+      ],
+      "answer": "a, e, i, o, u"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does S.S.C. stand for?",
+      "options": [
+        { "option_id": 1, "text": "School Sports Club", "is_correct": false },
+        { "option_id": 2, "text": "Senior School Certificate", "is_correct": false },
+        { "option_id": 3, "text": "Secondary School Certificate", "is_correct": true },
+        { "option_id": 4, "text": "State School Council", "is_correct": false }
+      ],
+      "answer": "Secondary School Certificate"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define 'abbreviation' with examples.",
+      "answer": "An abbreviation is a short form of a word or phrase. Examples include 'Mr' for Mister and 'km' for kilometre."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'et cetera'?",
+      "answer": "'Et cetera' means 'and other similar things' or 'and the rest'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Explain the use of 'by' in passive voice.",
+      "answer": "In passive voice, 'by' is used before the agent or doer of the action if they are mentioned, e.g., 'The nuts were cracked by a squirrel'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a vowel?",
+      "answer": "A vowel is a speech sound made without closing any part of the mouth or throat."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "List the standard vowel letters in English.",
+      "answer": "The standard vowel letters are a, e, i, o, and u."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Does a vowel letter always stand for the same sound? Give an example.",
+      "answer": "No, one letter may stand for different sounds. For example, 'a' sounds different in 'all', 'ate', 'ant', and 'arm'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define 'word'.",
+      "answer": "A word is a group of sounds or letters that has meaning and is a unit of language."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is 'affixation'?",
+      "answer": "Affixation is the process of forming a new word by adding a prefix or suffix to another word."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Explain 'conversion' in word formation.",
+      "answer": "Conversion is changing the class of a word (e.g., from verb to noun) without adding a prefix or suffix. Example: 'run' as a verb and 'run' as a noun."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is 'compounding'? Give an example.",
+      "answer": "Compounding is joining two or more words to produce a word with a new meaning. Example: tea + pot = teapot."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are reduplicatives?",
+      "answer": "Reduplicatives are words formed by joining two similar-sounding elements, like 'tick-tock'."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is 'clipping' in word formation?",
+      "answer": "Clipping is shortening a word to create a new form, such as 'photo' from 'photography'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are acronyms?",
+      "answer": "Acronyms are new words formed from the initial letters of other words, such as 'TV' for television or 'ISRO'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Language Study' pages in the textbook?",
+      "answer": "The pages aim to acquaint students with terms useful for talking about language and how it works, rather than for rote learning definitions."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How is a word represented in writing?",
+      "answer": "In writing, a word is represented by leaving spaces on both sides of the group of letters."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the different processes of word formation mentioned in the text with examples.",
+      "answer": "The text describes several processes of word formation:\n1. **Affixation:** Adding a prefix or suffix to a word.\n2. **Conversion:** Changing a word's class without changing its form (e.g., 'run' as a verb and noun).\n3. **Compounding:** Joining two words to make a new one (e.g., 'teapot').\n4. **Reduplicatives:** Joining similar sounds (e.g., 'tick-tock').\n5. **Clipping:** Shortening words (e.g., 'phone' from 'telephone').\n6. **Acronyms:** Using initial letters to form a word (e.g., 'ISRO')."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Discuss the concept of vowels in the English language as explained in the chapter.",
+      "answer": "A vowel is defined as a speech sound produced without closing any part of the mouth or throat, such as the sounds 'अॅ' or 'आ'. In written English, the standard vowel letters are a, e, i, o, and u. Additionally, the letter 'y' can sometimes function as a vowel. The text notes that a single vowel letter does not always represent a single sound; for instance, the letter 'a' produces different sounds in words like 'all', 'ate', 'ant', and 'arm'."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How does the text explain the structure and written representation of a 'word'?",
+      "answer": "The text defines a word as a group of sounds or letters that possesses meaning. It is considered a fundamental unit of language. In terms of written representation, a word is distinguished by leaving blank spaces on both its left and right sides. This visual separation helps identifying individual units of meaning within a sentence. Words can be simple or formed through complex processes like compounding or affixation."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Describe the usage of the passive voice as illustrated in the Language Study chapter.",
+      "answer": "The chapter explains that in passive voice constructions, the focus shifts from the doer to the action or the object. The word 'by' is typically used before the doer of the action if the doer is mentioned. For example, 'The nuts were cracked' is a passive sentence. If we want to mention who did it, we say, 'The nuts were cracked by a squirrel'. We can add further detail, such as 'by a squirrel with its teeth', showing how the preposition 'by' links the action to the agent."
+    }
+  ]
+}

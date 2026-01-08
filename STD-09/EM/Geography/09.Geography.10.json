@@ -1,0 +1,305 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.10",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Urbanisation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "According to the 1961 Census of India, what is the minimum percentage of male working population required to be engaged in non-agricultural occupations for a settlement to be defined as urban?",
+      "options": [
+        { "option_id": 1, "text": "50%", "is_correct": false },
+        { "option_id": 2, "text": "60%", "is_correct": false },
+        { "option_id": 3, "text": "75%", "is_correct": true },
+        { "option_id": 4, "text": "90%", "is_correct": false }
+      ],
+      "answer": "75%"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the minimum population required for a settlement to be considered urban as per the 1961 Census?",
+      "options": [
+        { "option_id": 1, "text": "1000", "is_correct": false },
+        { "option_id": 2, "text": "3000", "is_correct": false },
+        { "option_id": 3, "text": "5000", "is_correct": true },
+        { "option_id": 4, "text": "10000", "is_correct": false }
+      ],
+      "answer": "5000"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should be the minimum population density for a settlement to be classified as urban?",
+      "options": [
+        { "option_id": 1, "text": "100 persons per sq. km", "is_correct": false },
+        { "option_id": 2, "text": "200 persons per sq. km", "is_correct": false },
+        { "option_id": 3, "text": "400 persons per sq. km", "is_correct": true },
+        { "option_id": 4, "text": "500 persons per sq. km", "is_correct": false }
+      ],
+      "answer": "400 persons per sq. km"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which city grew rapidly in the 19th century because of the textile mill industry?",
+      "options": [
+        { "option_id": 1, "text": "Nagpur", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which centrally located city in India saw urbanisation due to the development of trade?",
+      "options": [
+        { "option_id": 1, "text": "Bhusawal", "is_correct": false },
+        { "option_id": 2, "text": "Nagpur", "is_correct": true },
+        { "option_id": 3, "text": "Savarde", "is_correct": false },
+        { "option_id": 4, "text": "Solapur", "is_correct": false }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the percentage of urban population in India in 2011?",
+      "options": [
+        { "option_id": 1, "text": "17.79%", "is_correct": false },
+        { "option_id": 2, "text": "25.72%", "is_correct": false },
+        { "option_id": 3, "text": "37.07%", "is_correct": true },
+        { "option_id": 4, "text": "45.20%", "is_correct": false }
+      ],
+      "answer": "37.07%"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which village started urbanising due to its proximity to the Konkan railway?",
+      "options": [
+        { "option_id": 1, "text": "Bhusawal", "is_correct": false },
+        { "option_id": 2, "text": "Savarde", "is_correct": true },
+        { "option_id": 3, "text": "Ratnagiri", "is_correct": false },
+        { "option_id": 4, "text": "Kudal", "is_correct": false }
+      ],
+      "answer": "Savarde"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The growth of Bhusawal is attributed to which factor?",
+      "options": [
+        { "option_id": 1, "text": "Industrialisation", "is_correct": false },
+        { "option_id": 2, "text": "Trade", "is_correct": false },
+        { "option_id": 3, "text": "Transport (Rail routes)", "is_correct": true },
+        { "option_id": 4, "text": "Agriculture", "is_correct": false }
+      ],
+      "answer": "Transport (Rail routes)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the main aim of the 'Smart City' programme?",
+      "options": [
+        { "option_id": 1, "text": "To increase agricultural production", "is_correct": false },
+        { "option_id": 2, "text": "To develop cities using ICT and planned development", "is_correct": true },
+        { "option_id": 3, "text": "To reduce population in cities", "is_correct": false },
+        { "option_id": 4, "text": "To provide free housing", "is_correct": false }
+      ],
+      "answer": "To develop cities using ICT and planned development"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What leads to the formation of slums in cities?",
+      "options": [
+        { "option_id": 1, "text": "Availability of affordable housing", "is_correct": false },
+        { "option_id": 2, "text": "High income of migrants", "is_correct": false },
+        { "option_id": 3, "text": "Increase in population without proportionate housing facilities", "is_correct": true },
+        { "option_id": 4, "text": "Strict government regulations", "is_correct": false }
+      ],
+      "answer": "Increase in population without proportionate housing facilities"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is an advantage of urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "Traffic jams", "is_correct": false },
+        { "option_id": 2, "text": "Social harmony and modernisation", "is_correct": true },
+        { "option_id": 3, "text": "Pollution", "is_correct": false },
+        { "option_id": 4, "text": "Increased crime rate", "is_correct": false }
+      ],
+      "answer": "Social harmony and modernisation"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why does the crime rate increase in cities?",
+      "options": [
+        { "option_id": 1, "text": "Lack of employment for migrated people", "is_correct": true },
+        { "option_id": 2, "text": "Excessive police force", "is_correct": false },
+        { "option_id": 3, "text": "High literacy rate", "is_correct": false },
+        { "option_id": 4, "text": "Availability of cheap amenities", "is_correct": false }
+      ],
+      "answer": "Lack of employment for migrated people"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How does mechanisation of agriculture affect urbanisation?",
+      "options": [
+        { "option_id": 1, "text": "It decreases urbanisation", "is_correct": false },
+        { "option_id": 2, "text": "It causes unemployment in villages, leading to migration to cities", "is_correct": true },
+        { "option_id": 3, "text": "It increases rural employment", "is_correct": false },
+        { "option_id": 4, "text": "It has no effect", "is_correct": false }
+      ],
+      "answer": "It causes unemployment in villages, leading to migration to cities"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What were the fishing villages in Mumbai originally called?",
+      "options": [
+        { "option_id": 1, "text": "Koliwadas", "is_correct": true },
+        { "option_id": 2, "text": "Wadas", "is_correct": false },
+        { "option_id": 3, "text": "Bastis", "is_correct": false },
+        { "option_id": 4, "text": "Tandas", "is_correct": false }
+      ],
+      "answer": "Koliwadas"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which local body usually replaces a Gram Panchayat when a village transforms into a town?",
+      "options": [
+        { "option_id": 1, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council or Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Vidhan Sabha", "is_correct": false },
+        { "option_id": 4, "text": "Panchayat Samiti", "is_correct": false }
+      ],
+      "answer": "Municipal Council or Corporation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Define Urbanisation.",
+      "answer": "Urbanisation is the process where a rural settlement transforms into an urban settlement due to the growth of population and change in occupations from agriculture to non-agricultural sectors."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "List the three criteria for defining an urban area according to the 1961 Census.",
+      "answer": "1. More than 75% male working population in non-agricultural occupations. 2. Population more than 5000. 3. Population density more than 400 persons per sq. km."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "How did industrialisation contribute to the growth of Mumbai?",
+      "answer": "The start of textile mills on a large scale in the 19th century attracted people from surrounding areas, leading to the rapid growth of Mumbai and the incorporation of fishing villages (koliwadas) into the metropolitan area."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Explain how trade leads to urbanisation with an example.",
+      "answer": "Favourable conditions for transport and storage promote trade and related services like banks and godowns. This attracts people and businesses. For example, Nagpur urbanised due to its central location in India facilitating trade."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is the impact of mechanisation in agriculture on migration?",
+      "answer": "Mechanisation reduces the need for manual labour in agriculture, leaving the working class unemployed in rural areas. This forces them to migrate to cities in search of work."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How does the development of transport systems affect small rural settlements?",
+      "answer": "Development of roads and railways connects rural areas, boosting trade and movement. This leads to the rapid urbanisation of small settlements, as seen in Savarde (Konkan railway) and Bhusawal."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Mention the types of migration affecting urbanisation.",
+      "answer": "Migration can be short-term, long-term, or permanent. It occurs from rural to rural, rural to urban, or urban to urban areas."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is meant by 'Social Harmony' in the context of urbanisation?",
+      "answer": "It refers to the exchange of cultural and social customs among people from different parts who come to live together in cities, creating a harmonious society."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "How does urbanisation lead to modernisation?",
+      "answer": "Cities attract people with diverse skills and knowledge. This facilitates the easy exchange of wisdom and updated technology, allowing these areas to be the first to benefit from new projects and ideas."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "List the amenities that typically develop in urban areas.",
+      "answer": "Transportation, communication, educational facilities, medical facilities, and fire brigades."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why do traffic jams occur in cities?",
+      "answer": "As cities expand, people live in suburbs and commute to the centre. Insufficient public transport leads to an increase in private vehicles, causing traffic jams."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What are the main causes of pollution in cities?",
+      "answer": "Paucity of facilities, breaking of laws, and unchecked urban growth lead to air, noise, and water pollution."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Why does the price of land increase enormously in cities?",
+      "answer": "High demand for land due to population pressure and rapid development leads to a significant increase in land prices."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the 'Smart City' scheme?",
+      "answer": "It is a government programme aiming to use Information and Communication Technology (ICT) to collect data and manage urban assets for the planned development of cities."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Explain the causes of urbanisation in detail.",
+      "answer": "Urbanisation is caused by: 1. **Industrialisation:** Industries attract workers (e.g., Mumbai). 2. **Trade:** Favourable transport/storage locations develop into trade hubs (e.g., Nagpur). 3. **Mechanisation:** Machines replace farm labour, forcing migration to cities. 4. **Transport:** New roads/railways urbanise nearby villages (e.g., Savarde). 5. **Migration:** People move for better standards of living and jobs."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Discuss the advantages of urbanisation.",
+      "answer": "Urbanisation brings: 1. **Social Harmony:** Cultural exchange among diverse populations. 2. **Modernisation:** Quick adoption of new technology, ideas, and knowledge due to a skilled workforce. 3. **Amenities and Facilities:** Development of better transport, communication, higher education institutes (like in Pune), and advanced medical facilities."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the problems associated with urbanisation.",
+      "answer": "Major problems include: 1. **Slums:** Shortage of housing leads to illegal, unhygienic temporary settlements. 2. **Traffic Jams:** Commuting from suburbs with inadequate public transport increases private vehicles. 3. **Pollution:** Air, water, and noise pollution degrade the quality of life. 4. **Crime:** Unemployment among migrants can lead to illegal activities and law and order issues. 5. **High Land Prices:** Creates economic tension."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "How does the 'Smart City' programme aim to improve urban life?",
+      "answer": "The 'Smart City' programme uses ICT to gather information on various city aspects. It aims to handle urban assets easily, strengthen transportation and communication systems, and improve response to emergencies. By enabling planned development, it seeks to update cities and improve the quality of life for residents."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Analyze the trend of urbanisation in India from 1961 to 2011.",
+      "answer": "Urban population in India has consistently increased. In 1961, it was 17.79%. By 1981, it reached 23.34%, showing a growth of about 5.5%. However, from 1981 to 2011, it jumped to 37.07%, a growth of nearly 13.73%. This indicates a rapid acceleration in urbanisation in recent decades due to industrial and economic development."
+    }
+  ]
+}

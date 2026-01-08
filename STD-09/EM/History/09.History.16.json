@@ -1,0 +1,323 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.16",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "International Problems"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are problems that affect the whole world called?",
+      "options": [
+        { "option_id": 1, "text": "National problems", "is_correct": false },
+        { "option_id": 2, "text": "Regional problems", "is_correct": false },
+        { "option_id": 3, "text": "International problems", "is_correct": true },
+        { "option_id": 4, "text": "Local problems", "is_correct": false }
+      ],
+      "answer": "International problems"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The concept of human rights has emerged from which concept?",
+      "options": [
+        { "option_id": 1, "text": "Legal rights", "is_correct": false },
+        { "option_id": 2, "text": "Natural rights", "is_correct": true },
+        { "option_id": 3, "text": "Political rights", "is_correct": false },
+        { "option_id": 4, "text": "Economic rights", "is_correct": false }
+      ],
+      "answer": "Natural rights"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which revolutions proclaimed Liberty, Equality, Fraternity, and Justice as Human Rights?",
+      "options": [
+        { "option_id": 1, "text": "Russian and Chinese", "is_correct": false },
+        { "option_id": 2, "text": "American and French", "is_correct": true },
+        { "option_id": 3, "text": "Indian and Pakistani", "is_correct": false },
+        { "option_id": 4, "text": "German and Italian", "is_correct": false }
+      ],
+      "answer": "American and French"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When did the United Nations proclaim the Universal Declaration of Human Rights?",
+      "options": [
+        { "option_id": 1, "text": "10th December 1948", "is_correct": true },
+        { "option_id": 2, "text": "24th October 1945", "is_correct": false },
+        { "option_id": 3, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 4, "text": "26th January 1950", "is_correct": false }
+      ],
+      "answer": "10th December 1948"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the UN General Assembly, how many members voted in favour of the Declaration of Human Rights?",
+      "options": [
+        { "option_id": 1, "text": "All members", "is_correct": false },
+        { "option_id": 2, "text": "48 members", "is_correct": true },
+        { "option_id": 3, "text": "50 members", "is_correct": false },
+        { "option_id": 4, "text": "100 members", "is_correct": false }
+      ],
+      "answer": "48 members"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which day is celebrated as Human Rights Day?",
+      "options": [
+        { "option_id": 1, "text": "14th November", "is_correct": false },
+        { "option_id": 2, "text": "10th December", "is_correct": true },
+        { "option_id": 3, "text": "2nd October", "is_correct": false },
+        { "option_id": 4, "text": "5th June", "is_correct": false }
+      ],
+      "answer": "10th December"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "When was the International Covenant on Civil and Political Rights signed?",
+      "options": [
+        { "option_id": 1, "text": "1948", "is_correct": false },
+        { "option_id": 2, "text": "1966", "is_correct": true },
+        { "option_id": 3, "text": "1972", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1966"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a cause of human rights violation mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Racial discrimination", "is_correct": false },
+        { "option_id": 2, "text": "Terrorism", "is_correct": false },
+        { "option_id": 3, "text": "Shortage of food", "is_correct": false },
+        { "option_id": 4, "text": "Overpopulation", "is_correct": true }
+      ],
+      "answer": "Overpopulation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In which year did India establish the National Human Rights Commission?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "1993", "is_correct": true },
+        { "option_id": 3, "text": "1995", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When was the first UN conference on environment held in Stockholm?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1972", "is_correct": true },
+        { "option_id": 3, "text": "1980", "is_correct": false },
+        { "option_id": 4, "text": "1992", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which protocol required nations to reduce the emission of greenhouse gases?",
+      "options": [
+        { "option_id": 1, "text": "Montreal Protocol", "is_correct": false },
+        { "option_id": 2, "text": "Kyoto Protocol", "is_correct": true },
+        { "option_id": 3, "text": "Paris Agreement", "is_correct": false },
+        { "option_id": 4, "text": "Rio Declaration", "is_correct": false }
+      ],
+      "answer": "Kyoto Protocol"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When was the Conference on Environment and Development held at Rio de Janeiro?",
+      "options": [
+        { "option_id": 1, "text": "1972", "is_correct": false },
+        { "option_id": 2, "text": "1992", "is_correct": true },
+        { "option_id": 3, "text": "2002", "is_correct": false },
+        { "option_id": 4, "text": "2012", "is_correct": false }
+      ],
+      "answer": "1992"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the main aim of terrorism?",
+      "options": [
+        { "option_id": 1, "text": "To win elections", "is_correct": false },
+        { "option_id": 2, "text": "To create terror to achieve political goals", "is_correct": true },
+        { "option_id": 3, "text": "To earn money", "is_correct": false },
+        { "option_id": 4, "text": "To protect environment", "is_correct": false }
+      ],
+      "answer": "To create terror to achieve political goals"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is considered a visible effect of environmental degradation?",
+      "options": [
+        { "option_id": 1, "text": "Extinction of species of plants and animals", "is_correct": true },
+        { "option_id": 2, "text": "Increase in tourism", "is_correct": false },
+        { "option_id": 3, "text": "Growth of industries", "is_correct": false },
+        { "option_id": 4, "text": "Technological advancement", "is_correct": false }
+      ],
+      "answer": "Extinction of species of plants and animals"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What are people who have to leave their country against their wish called?",
+      "options": [
+        { "option_id": 1, "text": "Tourists", "is_correct": false },
+        { "option_id": 2, "text": "Refugees", "is_correct": true },
+        { "option_id": 3, "text": "Immigrants", "is_correct": false },
+        { "option_id": 4, "text": "Citizens", "is_correct": false }
+      ],
+      "answer": "Refugees"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a reason for people becoming refugees?",
+      "options": [
+        { "option_id": 1, "text": "War", "is_correct": false },
+        { "option_id": 2, "text": "Persecution", "is_correct": false },
+        { "option_id": 3, "text": "Natural disaster", "is_correct": false },
+        { "option_id": 4, "text": "Desire for a vacation", "is_correct": true }
+      ],
+      "answer": "Desire for a vacation"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What are 'Natural Rights'?",
+      "answer": "Rights that we are endowed with because we are born as human beings."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Why are human rights necessary?",
+      "answer": "They are necessary for living as a human being and as a constituent of society."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What was the result of the American and French Revolutions regarding rights?",
+      "answer": "They proclaimed Liberty, Equality, Fraternity, and Justice as Human Rights."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What did the UN General Assembly proclaim on 10th December 1948?",
+      "answer": "The Universal Declaration of Human Rights (UDHR)."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Name the two covenants signed in 1966 regarding human rights.",
+      "answer": "International Covenant on Civil and Political Rights, and International Covenant on Economic, Social and Cultural Rights."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "List two causes of environmental degradation.",
+      "answer": "Industrialisation on a large scale and burning of energy resources."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What are the visible effects of environmental degradation?",
+      "answer": "Extinction of species, decrease in soil fertility, water shortage, rainfall fluctuation, global warming, rivers drying up, and pollution."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What was discussed at the Stockholm conference in 1972?",
+      "answer": "It discussed that pollution affects all nations and they must cooperate to stop it; developing nations felt developed nations were more responsible."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What concept was emphasized at the Rio conference in 1992?",
+      "answer": "The concept of sustainable development."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why did the Cold War involve human rights issues?",
+      "answer": "There was rivalry between democratic and communist systems, and the UN intervened against racial discrimination in Africa."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is terrorism?",
+      "answer": "It is organizing violence or creating fear in the minds of ordinary people to achieve political goals."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "How does terrorism affect internal security?",
+      "answer": "It challenges the existence of the State and destroys internal peace and security."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Before the 1990s, what was the nature of refugee problems?",
+      "answer": "They were generally restricted to particular border areas."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What problems do refugees face?",
+      "answer": "They face physical and emotional stress, insecurity, lack of shelter, shortage of food and medicines."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the United Nations High Commissioner for Refugees?",
+      "answer": "An agency established by the UN in 1951 to help refugees."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Explain the concept of Human Rights and its evolution.",
+      "answer": "Human rights evolved from the concept of natural rights. The American and French Revolutions established Liberty, Equality, and Fraternity as essential. The idea that a democratic government is needed to realize these rights grew. The UN UDHR in 1948 gave it global recognition. Later, issues like racial discrimination, border disputes, and terrorism further highlighted the need to protect human rights."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Discuss the efforts made at the international level for environment protection.",
+      "answer": "Efforts began with the Stockholm Conference (1972) where global cooperation was emphasized. UNEP was established. The Rio Conference (1992) focused on sustainable development and biodiversity. The Kyoto Protocol (1997) set targets for reducing greenhouse gases. Further conferences in Johannesburg (2002) and Paris (2015) continued these efforts."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Why is terrorism considered a global problem?",
+      "answer": "Terrorism is organized violence that targets innocent people to achieve political aims. It has deep and long-term impacts on a country's development. It is not restricted to one nation but has spread worldwide (e.g., 9/11 attacks in the USA). Fighting terrorism requires the collaborative efforts of all nations."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Describe the problem of refugees and the role of the international community.",
+      "answer": "Refugees are forced to leave their homeland due to war, persecution, or disasters. They suffer immense hardships. The influx of refugees puts economic and social strain on host nations, potentially leading to shortages and law and order issues. The UN established the High Commissioner for Refugees to provide aid and protection, emphasizing that human rights are for everyone."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "What is India's role in human rights protection?",
+      "answer": "India has guaranteed fundamental rights in its Constitution. It protects rights of women, minorities, and weaker sections. The Human Rights Protection Act (1993) established the National and State Human Rights Commissions to prevent injustice and take cognizance of complaints regarding rights violations."
+    }
+  ]
+}

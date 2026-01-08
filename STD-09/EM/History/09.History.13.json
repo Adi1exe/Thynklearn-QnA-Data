@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.13",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "India's Defence System"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary national interest of a country?",
+      "options": [
+        { "option_id": 1, "text": "Trade expansion", "is_correct": false },
+        { "option_id": 2, "text": "Defence from aggression and internal unrest", "is_correct": true },
+        { "option_id": 3, "text": "Cultural exchange", "is_correct": false },
+        { "option_id": 4, "text": "Tourism development", "is_correct": false }
+      ],
+      "answer": "Defence from aggression and internal unrest"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is the Supreme Commander of the defence forces in India?",
+      "options": [
+        { "option_id": 1, "text": "Prime Minister", "is_correct": false },
+        { "option_id": 2, "text": "Defence Minister", "is_correct": false },
+        { "option_id": 3, "text": "President", "is_correct": true },
+        { "option_id": 4, "text": "Chief of Defence Staff", "is_correct": false }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which force is responsible for protecting the geographical boundaries of India?",
+      "options": [
+        { "option_id": 1, "text": "The Navy", "is_correct": false },
+        { "option_id": 2, "text": "The Air Force", "is_correct": false },
+        { "option_id": 3, "text": "The Army", "is_correct": true },
+        { "option_id": 4, "text": "The Coast Guard", "is_correct": false }
+      ],
+      "answer": "The Army"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the head of the Indian Army known as?",
+      "options": [
+        { "option_id": 1, "text": "Admiral", "is_correct": false },
+        { "option_id": 2, "text": "General", "is_correct": true },
+        { "option_id": 3, "text": "Air Chief Marshal", "is_correct": false },
+        { "option_id": 4, "text": "Commander", "is_correct": false }
+      ],
+      "answer": "General"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the head of the Indian Navy known as?",
+      "options": [
+        { "option_id": 1, "text": "General", "is_correct": false },
+        { "option_id": 2, "text": "Admiral", "is_correct": true },
+        { "option_id": 3, "text": "Marshal", "is_correct": false },
+        { "option_id": 4, "text": "Commodore", "is_correct": false }
+      ],
+      "answer": "Admiral"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the head of the Indian Air Force known as?",
+      "options": [
+        { "option_id": 1, "text": "Air Chief Marshal", "is_correct": true },
+        { "option_id": 2, "text": "General", "is_correct": false },
+        { "option_id": 3, "text": "Admiral", "is_correct": false },
+        { "option_id": 4, "text": "Brigadier", "is_correct": false }
+      ],
+      "answer": "Air Chief Marshal"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which post was created in 2019 to maintain coordination between the three defence forces?",
+      "options": [
+        { "option_id": 1, "text": "National Security Advisor", "is_correct": false },
+        { "option_id": 2, "text": "Chief of Defence Staff", "is_correct": true },
+        { "option_id": 3, "text": "Field Marshal", "is_correct": false },
+        { "option_id": 4, "text": "Supreme Commander", "is_correct": false }
+      ],
+      "answer": "Chief of Defence Staff"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which forces help the defence forces in India?",
+      "options": [
+        { "option_id": 1, "text": "Police Forces", "is_correct": false },
+        { "option_id": 2, "text": "Paramilitary Forces", "is_correct": true },
+        { "option_id": 3, "text": "Private Security", "is_correct": false },
+        { "option_id": 4, "text": "Civil Defence", "is_correct": false }
+      ],
+      "answer": "Paramilitary Forces"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which paramilitary force is responsible for protecting the country's international borders during peace time?",
+      "options": [
+        { "option_id": 1, "text": "Central Reserve Police Force", "is_correct": false },
+        { "option_id": 2, "text": "Border Security Force", "is_correct": true },
+        { "option_id": 3, "text": "Rapid Action Force", "is_correct": false },
+        { "option_id": 4, "text": "Home Guards", "is_correct": false }
+      ],
+      "answer": "Border Security Force"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the main task of the Coast Guard?",
+      "options": [
+        { "option_id": 1, "text": "Protecting railway stations", "is_correct": false },
+        { "option_id": 2, "text": "Protecting oceanic borders", "is_correct": true },
+        { "option_id": 3, "text": "Handling riots", "is_correct": false },
+        { "option_id": 4, "text": "Patrolling land borders", "is_correct": false }
+      ],
+      "answer": "Protecting oceanic borders"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which force helps the administration in various states to maintain law and order?",
+      "options": [
+        { "option_id": 1, "text": "BSF", "is_correct": false },
+        { "option_id": 2, "text": "Central Reserve Police Force (CRPF)", "is_correct": true },
+        { "option_id": 3, "text": "Coast Guard", "is_correct": false },
+        { "option_id": 4, "text": "NCC", "is_correct": false }
+      ],
+      "answer": "Central Reserve Police Force (CRPF)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which force moves in quickly during incidents like bomb blasts or riots?",
+      "options": [
+        { "option_id": 1, "text": "Rapid Action Force", "is_correct": true },
+        { "option_id": 2, "text": "Home Guards", "is_correct": false },
+        { "option_id": 3, "text": "NCC", "is_correct": false },
+        { "option_id": 4, "text": "Coast Guard", "is_correct": false }
+      ],
+      "answer": "Rapid Action Force"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the purpose of the National Cadet Corps (NCC)?",
+      "options": [
+        { "option_id": 1, "text": "To recruit soldiers", "is_correct": false },
+        { "option_id": 2, "text": "To instill love of discipline and military training among students", "is_correct": true },
+        { "option_id": 3, "text": "To protect borders", "is_correct": false },
+        { "option_id": 4, "text": "To manage traffic", "is_correct": false }
+      ],
+      "answer": "To instill love of discipline and military training among students"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who can join the Home Guards?",
+      "options": [
+        { "option_id": 1, "text": "Only retired soldiers", "is_correct": false },
+        { "option_id": 2, "text": "Any citizen between 20-35 years", "is_correct": true },
+        { "option_id": 3, "text": "Only students", "is_correct": false },
+        { "option_id": 4, "text": "Only police officers", "is_correct": false }
+      ],
+      "answer": "Any citizen between 20-35 years"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which countries have threatened India's national security since independence?",
+      "options": [
+        { "option_id": 1, "text": "Nepal and Bhutan", "is_correct": false },
+        { "option_id": 2, "text": "Pakistan and China", "is_correct": true },
+        { "option_id": 3, "text": "Sri Lanka and Bangladesh", "is_correct": false },
+        { "option_id": 4, "text": "USA and Russia", "is_correct": false }
+      ],
+      "answer": "Pakistan and China"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In which year did India go to war with China?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1962", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1999", "is_correct": false }
+      ],
+      "answer": "1962"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which movement is a threat to India's internal security?",
+      "options": [
+        { "option_id": 1, "text": "Chipko movement", "is_correct": false },
+        { "option_id": 2, "text": "Naxalite movement", "is_correct": true },
+        { "option_id": 3, "text": "Green movement", "is_correct": false },
+        { "option_id": 4, "text": "Cooperative movement", "is_correct": false }
+      ],
+      "answer": "Naxalite movement"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is considered the biggest challenge to human security?",
+      "options": [
+        { "option_id": 1, "text": "Poverty", "is_correct": false },
+        { "option_id": 2, "text": "Terrorism", "is_correct": true },
+        { "option_id": 3, "text": "Illiteracy", "is_correct": false },
+        { "option_id": 4, "text": "Unemployment", "is_correct": false }
+      ],
+      "answer": "Terrorism"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a dispute between India and Pakistan mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Kashmir issue", "is_correct": false },
+        { "option_id": 2, "text": "River water sharing", "is_correct": false },
+        { "option_id": 3, "text": "Infiltrations", "is_correct": false },
+        { "option_id": 4, "text": "Oil exploration", "is_correct": true }
+      ],
+      "answer": "Oil exploration"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Where is the National Defence Academy (NDA) located?",
+      "options": [
+        { "option_id": 1, "text": "Dehradun", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": true },
+        { "option_id": 3, "text": "Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is National Security?",
+      "answer": "It is the state's first duty to keep the security systems well-prepared and ready to defend against external aggression and internal unrest."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why is the President of India the supreme commander of defence forces?",
+      "answer": "Because in a democracy, civil leadership is considered superior to military leadership, and the President represents the civil power."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the function of the Army?",
+      "answer": "The Army is responsible for protecting the geographical boundaries of the country."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is the function of the Navy?",
+      "answer": "The Navy is responsible for protecting the coastline of the country."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the function of the Air Force?",
+      "answer": "The Air Force is in charge of protecting India's air space."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Name two training institutes for defence forces in India.",
+      "answer": "National Defence Academy (NDA) at Pune and National Defence College (NDC) at Delhi."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why are they called 'Paramilitary Forces'?",
+      "answer": "Because they are neither completely military forces nor completely civil forces."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What locations do paramilitary forces secure?",
+      "answer": "Important locations like railway stations, oil depots, and water reserves."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What are the tasks of the Home Guards?",
+      "answer": "Maintaining public security, supplying essential services during riots/strikes, regulating traffic, and helping during natural disasters."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is Human Security?",
+      "answer": "Human security is a human-centric concept where people are protected from dangers and given opportunities for education, health, and development."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does Human Security include besides physical protection?",
+      "answer": "It includes creating a conducive environment for living a respectable life by overcoming illiteracy, poverty, superstition, and backwardness."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "How does terrorism affect human security?",
+      "answer": "Terrorism creates fear and insecurity in the minds of common people by targeting the innocent."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are the challenges to India's internal security?",
+      "answer": "Religion, regionalism, rebellious movements based on ideology, race-ethnicity, economic inequality, and Naxalism."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why is there tension in Sino-Indian relations?",
+      "answer": "Due to China's attempt to establish hegemony over India's neighbours and disputes over the border."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How does the Coast Guard prevent smuggling?",
+      "answer": "By patrolling the sea routes within Indian maritime borders."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the structure and hierarchy of India's Defence System.",
+      "answer": "India's defence system consists of the Army, Navy, and Air Force. The President is the Supreme Commander. The Army protects geographical boundaries and is led by a General. The Navy protects the coastline and is led by an Admiral. The Air Force protects air space and is led by an Air Chief Marshal. A Chief of Defence Staff coordinates between the three. The Ministry of Defence controls all three forces."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "Describe the role of Paramilitary Forces in India's security.",
+      "answer": "Paramilitary forces assist the defence forces. They secure important locations (railways, oil depots) and manage disasters. Specific forces have specific roles: BSF protects international borders during peace; Coast Guard protects maritime borders; CRPF maintains law and order in states; and RAF deals with riots and bomb blasts quickly."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "What are the challenges to Human Security in the modern world?",
+      "answer": "The biggest challenge is terrorism, which creates fear. Other challenges include environmental changes and pollution threatening human life. Diseases like AIDS, swine flu, ebola, and corona are also major threats. Human security requires protecting people from these dangers and ensuring their right to a respectable life."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Discuss the measures taken to safeguard National Security.",
+      "answer": "To safeguard national security, a nation must assess threats to its boundaries. It has to increase military might, use modern technology to predict threats, and build weapon systems. Defence forces must be modernized and updated. Nations also try to resolve conflicts peacefully or get support from other nations to manage threats."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "How has the concept of security changed from National Security to Human Security?",
+      "answer": "In the post-Cold War period, the concept broadened. National security focused on defending borders and the state. Human security shifted the focus to the people, believing that security is ultimately for them. It emphasizes protecting human beings from all dangers (physical, economic, health) and affording them opportunities for development, rather than just protecting the territory."
+    }
+  ]
+}

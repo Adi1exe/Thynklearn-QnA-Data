@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.08",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "व्यायामाचे महत्त्व (कविता)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'व्यायामाचे महत्त्व' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रसंत तुकडोजी महाराज", "is_correct": true },
+        { "option_id": 3, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "संत नामदेव", "is_correct": false }
+      ],
+      "answer": "राष्ट्रसंत तुकडोजी महाराज"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "राष्ट्रसंत तुकडोजी महाराज यांचे पूर्ण नाव काय?",
+      "options": [
+        { "option_id": 1, "text": "माणिक बंडोजी ठाकूर", "is_correct": true },
+        { "option_id": 2, "text": "माणिक सीताराम ठाकूर", "is_correct": false },
+        { "option_id": 3, "text": "बंडोजी माणिक ठाकूर", "is_correct": false },
+        { "option_id": 4, "text": "तुकडोजी बंडोजी ठाकूर", "is_correct": false }
+      ],
+      "answer": "माणिक बंडोजी ठाकूर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कोणाला सर्वतोपरी 'वैरी' मानले आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम", "is_correct": false },
+        { "option_id": 2, "text": "आळस", "is_correct": true },
+        { "option_id": 3, "text": "काम", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "आळस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "व्यायामाविण सात्त्विक भोजन कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "पौष्टिक", "is_correct": false },
+        { "option_id": 2, "text": "विकारी", "is_correct": true },
+        { "option_id": 3, "text": "पाचक", "is_correct": false },
+        { "option_id": 4, "text": "स्वादिष्ट", "is_correct": false }
+      ],
+      "answer": "विकारी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "व्यायामाने कशाचे पचन सहज होते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "अन्नाचे", "is_correct": true },
+        { "option_id": 3, "text": "फळांचे", "is_correct": false },
+        { "option_id": 4, "text": "औषधाचे", "is_correct": false }
+      ],
+      "answer": "अन्नाचे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "व्यायामाने शरीरातील काय दूर जाते?",
+      "options": [
+        { "option_id": 1, "text": "उत्साह", "is_correct": false },
+        { "option_id": 2, "text": "जडत्व", "is_correct": true },
+        { "option_id": 3, "text": "शक्ती", "is_correct": false },
+        { "option_id": 4, "text": "रक्त", "is_correct": false }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "व्यायामाने स्नायू कसे होतात?",
+      "options": [
+        { "option_id": 1, "text": "अशक्त", "is_correct": false },
+        { "option_id": 2, "text": "सशक्त", "is_correct": true },
+        { "option_id": 3, "text": "लहान", "is_correct": false },
+        { "option_id": 4, "text": "जड", "is_correct": false }
+      ],
+      "answer": "सशक्त"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "व्यायामहीन व्यक्तीला कोणते विकार जर्जर करतात?",
+      "options": [
+        { "option_id": 1, "text": "पित्त, कफ, वायु", "is_correct": true },
+        { "option_id": 2, "text": "ताप, सर्दी", "is_correct": false },
+        { "option_id": 3, "text": "डोकेदुखी", "is_correct": false },
+        { "option_id": 4, "text": "पोटदुखी", "is_correct": false }
+      ],
+      "answer": "पित्त, कफ, वायु"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "व्यायामाने कोणती शक्ती वाढते?",
+      "options": [
+        { "option_id": 1, "text": "प्रतिकार शक्ती", "is_correct": true },
+        { "option_id": 2, "text": "विचार शक्ती", "is_correct": false },
+        { "option_id": 3, "text": "स्मरण शक्ती", "is_correct": false },
+        { "option_id": 4, "text": "वाचन शक्ती", "is_correct": false }
+      ],
+      "answer": "प्रतिकार शक्ती"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांना 'राष्ट्रसंत' ही उपाधी कोणी दिली?",
+      "options": [
+        { "option_id": 1, "text": "पंडित नेहरू", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. राजेंद्रप्रसाद", "is_correct": true },
+        { "option_id": 3, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 4, "text": "डॉ. आंबेडकर", "is_correct": false }
+      ],
+      "answer": "डॉ. राजेंद्रप्रसाद"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचा कोणता ग्रंथ सर्वत्र आदराने वाचला जातो?",
+      "options": [
+        { "option_id": 1, "text": "दासबोध", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 3, "text": "ग्रामगीता", "is_correct": true },
+        { "option_id": 4, "text": "गाथा", "is_correct": false }
+      ],
+      "answer": "ग्रामगीता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "व्यायामाने अंगात काय राहते?",
+      "options": [
+        { "option_id": 1, "text": "सुस्ती", "is_correct": false },
+        { "option_id": 2, "text": "तरतरी", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "रोग", "is_correct": false }
+      ],
+      "answer": "तरतरी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "व्यायामाने मानव कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "अल्पायुषी", "is_correct": false },
+        { "option_id": 2, "text": "दीर्घायु", "is_correct": true },
+        { "option_id": 3, "text": "रोगी", "is_correct": false },
+        { "option_id": 4, "text": "आळशी", "is_correct": false }
+      ],
+      "answer": "दीर्घायु"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कार्य करण्याची 'स्फूर्ती' कशामुळे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "जेवणामुळे", "is_correct": false },
+        { "option_id": 2, "text": "झोपेमुळे", "is_correct": false },
+        { "option_id": 3, "text": "व्यायामुळे", "is_correct": true },
+        { "option_id": 4, "text": "वाचनामुळे", "is_correct": false }
+      ],
+      "answer": "व्यायामुळे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "व्यायामाने कोणती प्रवृत्ती वाढते?",
+      "options": [
+        { "option_id": 1, "text": "परावलंबनाची", "is_correct": false },
+        { "option_id": 2, "text": "स्वावलंबनाची", "is_correct": true },
+        { "option_id": 3, "text": "आळसाची", "is_correct": false },
+        { "option_id": 4, "text": "रागाची", "is_correct": false }
+      ],
+      "answer": "स्वावलंबनाची"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "व्यायामाबद्दल कवीने कोणते सूत्र ध्यानी ठेवण्यास सांगितले आहे?",
+      "answer": "व्यायाम हा आरोग्यदायी मित्र आहे, हे सूत्र कवीने ध्यानी ठेवण्यास सांगितले आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "सात्त्विक भोजन केव्हा विकारी ठरते?",
+      "answer": "जेव्हा व्यायामाचा अभाव असतो (व्यायाम केला जात नाही), तेव्हा सात्त्विक भोजनही विकारी ठरते."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "'अग्निदीपन' म्हणजे काय?",
+      "answer": "'अग्निदीपन' म्हणजे पचनशक्ती सुधारणे किंवा भूक लागणे."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे शरीरातील रक्तव्यवस्था कशी होते?",
+      "answer": "व्यायामामुळे शरीरातील रक्तव्यवस्था उत्तम होते."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी गावागावातून कोणती मंडळे स्थापन केली?",
+      "answer": "तुकडोजी महाराजांनी गावागावातून 'गुरुदेव सेवा मंडळे' स्थापन केली."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "आरोग्य देणारी - (शब्दसमूहाबद्दल एक शब्द लिहा)",
+      "answer": "आरोग्यदायी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "विरोध करण्याची क्षमता असलेली शक्ती - (शब्दसमूहाबद्दल एक शब्द लिहा)",
+      "answer": "प्रतिकारशक्ती"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "स्वतःची कामे स्वतः करणारा - (शब्दसमूहाबद्दल एक शब्द लिहा)",
+      "answer": "स्वावलंबी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "व्यायाम सर्वांकरता उपयुक्त असतो. (चूक की बरोबर सांगा)",
+      "answer": "बरोबर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "व्यायामाने जडत्व वाढते. (चूक की बरोबर सांगा)",
+      "answer": "चूक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "व्यायामाने स्नायू अशक्त होतात. (चूक की बरोबर सांगा)",
+      "answer": "चूक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "व्यायामाने प्रतिकारशक्ती वाढते. (चूक की बरोबर सांगा)",
+      "answer": "बरोबर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "कवीने 'व्यायाम' आणि 'आळस' यांना काय मानले आहे?",
+      "answer": "कवीने 'व्यायाम' याला मित्र आणि 'आळस' याला वैरी (शत्रू) मानले आहे."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे बुद्धीवर काय परिणाम होतो?",
+      "answer": "व्यायामामुळे बुद्धीचे सजीवपण वाढते (बुद्धी तल्लख होते)."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "समासात कमीत कमी किती शब्द (पदे) असावे लागतात?",
+      "answer": "समासात कमीत कमी दोन शब्द (पदे) असावे लागतात."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "'व्यायामाचे महत्त्व' या कवितेच्या आधारे व्यायामाचे फायदे सविस्तर लिहा.",
+      "answer": "व्यायामामुळे आरोग्य उत्तम राहते. पचनशक्ती सुधारून अन्न सहज पचते. शरीराचा आळस आणि जडपणा जाऊन अंगात तरतरी येते. रक्तपुरवठा सुरळीत होतो आणि बुद्धी तल्लख होते. स्नायू बळकट होऊन आयुष्य वाढते (दीर्घायुष्य लाभते). शरीराची रोगप्रतिकारशक्ती वाढते आणि काम करण्याचा उत्साह वाढतो. माणूस स्वावलंबी बनतो."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "'व्यायामाविण सात्त्विक भोजन । तेहि मारी विकारी होऊन ।' या ओळीचा अर्थ स्पष्ट करा.",
+      "answer": "या ओळीद्वारे कवी सांगतात की, आपण कितीही सकस, पौष्टिक आणि सात्त्विक आहार घेतला, तरी जर आपण व्यायाम केला नाही, तर त्या अन्नाचा शरीराला उपयोग होत नाही. उलट, व्यायामाअभावी ते अन्न पचत नाही आणि त्यामुळे शरीरात अनेक विकार किंवा आजार निर्माण होतात. चांगले अन्नही विषसमान ठरू शकते, म्हणून अन्नासोबत व्यायाम अत्यावश्यक आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "व्यायाम न केल्यास शरीरावर काय दुष्परिणाम होतात, ते स्पष्ट करा.",
+      "answer": "व्यायाम न केल्यास शरीर आळशी बनते आणि शरीरात जडत्व येते. सात्त्विक अन्नही पचत नाही, ज्यामुळे पोटाचे विकार होतात. शरीरात पित्त, कफ आणि वात (वायु) यांचे संतुलन बिघडून शरीर आजारांनी जर्जर होते. स्नायू अशक्त होतात आणि माणूस अल्पायुषी होऊ शकतो. रोगप्रतिकारशक्ती कमी होते आणि उत्साहाचा अभाव जाणवतो."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "'आरोग्यम् धनसंपदा' या उक्तीतील विचार स्पष्ट करा.",
+      "answer": "'आरोग्यम् धनसंपदा' म्हणजे आरोग्य हीच खरी संपत्ती आहे. माणसाकडे कितीही पैसा, सोने-नाणे असले, पण शरीर निरोगी नसेल, तर त्या संपत्तीचा उपभोग घेता येत नाही. सुदृढ शरीर असेल तर माणूस कष्टाने धन कमावू शकतो आणि जीवनाचा आनंद घेऊ शकतो. म्हणून पैशापेक्षाही आरोग्याची काळजी घेणे आणि ते टिकवणे हेच सर्वात मोठे धन आहे, असे या उक्तीतून स्पष्ट होते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "'व्यायामे अंगी वाढे स्फूर्ति। कार्य करण्याची ।।' या पंक्तीचा तुम्हाला समजलेला अर्थ लिहा.",
+      "answer": "व्यायाम केल्यामुळे शरीरातील आळस निघून जातो आणि रक्तपुरवठा वेगाने होतो. यामुळे शरीरात एक प्रकारचा उत्साह आणि ताजेपणा (तरतरी) येतो. मन आणि शरीर दोन्ही प्रफुल्लित राहतात. त्यामुळे कोणतेही काम करण्याची इच्छाशक्ती आणि ऊर्जा (स्फूर्ती) वाढते. माणूस थकत नाही आणि उत्साहाने आपली कामे पूर्ण करू शकतो."
+    }
+  ]
+}
