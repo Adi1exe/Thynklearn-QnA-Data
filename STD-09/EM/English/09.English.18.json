@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.18",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Intellectual Rubbish"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What erroneous belief did Aristotle hold about women's teeth?",
+      "options": [
+        { "option_id": 1, "text": "They have more teeth than men", "is_correct": false },
+        { "option_id": 2, "text": "They have fewer teeth than men", "is_correct": true },
+        { "option_id": 3, "text": "They have sharper teeth than men", "is_correct": false },
+        { "option_id": 4, "text": "They have no teeth", "is_correct": false }
+      ],
+      "answer": "They have fewer teeth than men"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How could Aristotle have avoided his mistake regarding women's teeth?",
+      "options": [
+        { "option_id": 1, "text": "By asking Plato", "is_correct": false },
+        { "option_id": 2, "text": "By consulting a book", "is_correct": false },
+        { "option_id": 3, "text": "By asking his wife to keep her mouth open while he counted", "is_correct": true },
+        { "option_id": 4, "text": "By looking in a mirror", "is_correct": false }
+      ],
+      "answer": "By asking his wife to keep her mouth open while he counted"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the author suggest doing if you hold an opinion contrary to your own?",
+      "options": [
+        { "option_id": 1, "text": "Get angry", "is_correct": false },
+        { "option_id": 2, "text": "Ignore it", "is_correct": false },
+        { "option_id": 3, "text": "Observe yourself", "is_correct": true },
+        { "option_id": 4, "text": "Fight the person", "is_correct": false }
+      ],
+      "answer": "Observe yourself"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "According to the author, what does anger indicate about your belief?",
+      "options": [
+        { "option_id": 1, "text": "That you are right", "is_correct": false },
+        { "option_id": 2, "text": "That you have subconscious doubt", "is_correct": true },
+        { "option_id": 3, "text": "That you are passionate", "is_correct": false },
+        { "option_id": 4, "text": "That the other person is stupid", "is_correct": false }
+      ],
+      "answer": "That you have subconscious doubt"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What belief does the author mention regarding hedgehogs?",
+      "options": [
+        { "option_id": 1, "text": "They eat apples", "is_correct": true },
+        { "option_id": 2, "text": "They can fly", "is_correct": false },
+        { "option_id": 3, "text": "They are poisonous", "is_correct": false },
+        { "option_id": 4, "text": "They eat beetles only", "is_correct": false }
+      ],
+      "answer": "They eat apples"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why did the author think hedgehogs eat black beetles?",
+      "options": [
+        { "option_id": 1, "text": "He read it in a book", "is_correct": false },
+        { "option_id": 2, "text": "He saw them do it", "is_correct": false },
+        { "option_id": 3, "text": "He was told that they eat black beetles", "is_correct": true },
+        { "option_id": 4, "text": "He guessed it", "is_correct": false }
+      ],
+      "answer": "He was told that they eat black beetles"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is a good way to rid yourself of certain kinds of dogmatism?",
+      "options": [
+        { "option_id": 1, "text": "Staying at home", "is_correct": false },
+        { "option_id": 2, "text": "Travel", "is_correct": true },
+        { "option_id": 3, "text": "Reading only local newspapers", "is_correct": false },
+        { "option_id": 4, "text": "Listening to your friends", "is_correct": false }
+      ],
+      "answer": "Travel"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the author's alternative to actual travel for diminishing the intensity of insular prejudice?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Seeking out people with whom you disagree", "is_correct": true },
+        { "option_id": 3, "text": "Watching TV", "is_correct": false },
+        { "option_id": 4, "text": "Ignoring the world", "is_correct": false }
+      ],
+      "answer": "Seeking out people with whom you disagree"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the name of the author of 'Intellectual Rubbish'?",
+      "options": [
+        { "option_id": 1, "text": "William Shakespeare", "is_correct": false },
+        { "option_id": 2, "text": "Bertrand Russell", "is_correct": true },
+        { "option_id": 3, "text": "Charles Dickens", "is_correct": false },
+        { "option_id": 4, "text": "Mark Twain", "is_correct": false }
+      ],
+      "answer": "Bertrand Russell"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What imaginary person does the author suggest arguing with?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Gandhi", "is_correct": true },
+        { "option_id": 2, "text": "Albert Einstein", "is_correct": false },
+        { "option_id": 3, "text": "Napoleon", "is_correct": false },
+        { "option_id": 4, "text": "Julius Caesar", "is_correct": false }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "According to the text, why is it harder to deal with self-esteem related opinions?",
+      "options": [
+        { "option_id": 1, "text": "Because we love ourselves too much", "is_correct": false },
+        { "option_id": 2, "text": "Because there is no way to prove them wrong", "is_correct": false },
+        { "option_id": 3, "text": "Because both men and women are convinced of the superior excellence of their own sex", "is_correct": true },
+        { "option_id": 4, "text": "Because they are always true", "is_correct": false }
+      ],
+      "answer": "Because both men and women are convinced of the superior excellence of their own sex"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the only way to deal with the general human conceit that man is the supreme work of the universe?",
+      "options": [
+        { "option_id": 1, "text": "To remind ourselves that we are small compared to the cosmos", "is_correct": true },
+        { "option_id": 2, "text": "To conquer other planets", "is_correct": false },
+        { "option_id": 3, "text": "To stop thinking", "is_correct": false },
+        { "option_id": 4, "text": "To believe we are gods", "is_correct": false }
+      ],
+      "answer": "To remind ourselves that we are small compared to the cosmos"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What common source of error works mostly subconsciously?",
+      "options": [
+        { "option_id": 1, "text": "Love", "is_correct": false },
+        { "option_id": 2, "text": "Fear", "is_correct": true },
+        { "option_id": 3, "text": "Hunger", "is_correct": false },
+        { "option_id": 4, "text": "Greed", "is_correct": false }
+      ],
+      "answer": "Fear"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did the writer find difficult to believe about the unicorn?",
+      "options": [
+        { "option_id": 1, "text": "That it could fly", "is_correct": false },
+        { "option_id": 2, "text": "That it was blue", "is_correct": false },
+        { "option_id": 3, "text": "That it is the most quarrelsome and fierce of animals", "is_correct": true },
+        { "option_id": 4, "text": "That it exists", "is_correct": false }
+      ],
+      "answer": "That it is the most quarrelsome and fierce of animals"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happens when we are cruel?",
+      "options": [
+        { "option_id": 1, "text": "We feel happy", "is_correct": false },
+        { "option_id": 2, "text": "We invent proofs that the victim deserves it", "is_correct": true },
+        { "option_id": 3, "text": "We become stronger", "is_correct": false },
+        { "option_id": 4, "text": "We forget about it", "is_correct": false }
+      ],
+      "answer": "We invent proofs that the victim deserves it"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What simple method does Bertrand Russell suggest to avoid errors of observation?",
+      "answer": "He suggests making the observation yourself, such as counting, to determine the facts."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did the author mistakenly believe hedgehogs eat black beetles?",
+      "answer": "He believed it because he had been told that they eat black beetles, but the hedgehogs refused to eat them when offered."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does getting angry about a contrary opinion usually imply?",
+      "answer": "It implies that you are subconsciously aware of having no good reason for your belief."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How can travel help reduce dogmatism?",
+      "answer": "Travel helps by exposing you to different customs and beliefs, making you realize that your own ways are not the only ones."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What should you do if you cannot travel to avoid insular prejudice?",
+      "answer": "You should seek out people with whom you disagree and read newspapers belonging to a party that is not yours."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the benefit of imagining an argument with a person having a different bias?",
+      "answer": "It helps you escape from your own bias and see things from a different perspective."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is it difficult to deal with opinions that flatter your self-esteem?",
+      "answer": "Because both men and women, and different nations, are firmly convinced of their own superior excellence."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does the author describe the belief that man is the supreme work of the universe?",
+      "answer": "He describes it as a general human conceit that is difficult to cure."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are the two ways to conquer fear?",
+      "answer": "One is by persuasion that the danger is not real (intellectual), and the other is by cultivating courage (stoic)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How does fear lead to cruelty?",
+      "answer": "Fear makes people invent proofs that the victim deserves suffering, often suppressing humane feelings."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What example does the author give about ancient and medieval authors regarding the unicorn?",
+      "answer": "They knew everything about the unicorn except that it never existed."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is 'dogmatism' as defined in the text?",
+      "answer": "Dogmatism is insisting on the truth of one's opinion without evidence."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should one read a newspaper from an opposing political party?",
+      "answer": "To see how the same events are perceived and reported differently, which helps in understanding different viewpoints."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the author say about 'Man' as a species?",
+      "answer": "He says that Man is a brief episode in the life of a small planet in a little corner of the universe."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the 'polite' way to convince someone not to believe in black magic?",
+      "answer": "Using reasoning and asking questions to make them realize the lack of evidence."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain how the author uses the example of Aristotle to illustrate the importance of observation.",
+      "answer": "The author points out that Aristotle, despite being a great philosopher, believed that women have fewer teeth than men. This was a simple error that could have been corrected by a simple observation—asking his wife to keep her mouth open while he counted. Russell uses this example to show that even intelligent people can fall into the trap of 'intellectual rubbish' if they rely on dogmatic beliefs instead of making their own observations to verify facts."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Discuss the author's views on how to deal with conflicting opinions that cause anger.",
+      "answer": "Russell argues that if an opinion contrary to your own makes you angry, it is a sign that you are subconsciously aware of having no good reason for your belief. If your belief was based on solid evidence, like a mathematical truth, you would not get angry but rather feel pity for the other person's ignorance. Therefore, anger is an indicator of doubt. The remedy is to observe oneself and realize that passions run highest where evidence is weakest."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How does Russell suggest we can rid ourselves of 'insular prejudice'?",
+      "answer": "Russell suggests that travel is a good way to diminish insular prejudice by exposing us to different customs and beliefs. However, for those who cannot travel, he advises seeking out people with whom you disagree. This can be done by reading newspapers from opposing parties or having imaginary arguments with people who have different biases, such as Mahatma Gandhi or Lenin. This practice helps to break down the walls of our own limited perspectives."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Analyze the role of fear in generating 'intellectual rubbish' according to the text.",
+      "answer": "According to Russell, fear is the most difficult source of error to remove because it works subconsciously. Fear of the unknown, fear of death, or fear of others can lead us to create comforting myths or cruel justifications. For example, fear can lead to the belief in magic or the invention of reasons why certain people deserve suffering. To avoid this, we must conquer fear either through intellectual persuasion that the danger is not real or through the moral cultivation of courage."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Summarize the author's arguments against the 'conceit' of humanity.",
+      "answer": "The author argues against the general human conceit that man is the supreme work of the universe. He points out that we inhabit a small planet in a tiny corner of the cosmos and our existence is likely a brief episode. To counter this arrogance, he suggests reminding ourselves of our insignificance in the vastness of the universe. He implies that other parts of the cosmos may contain life forms as superior to us as we are to jellyfish, and that recognizing this can help cure us of our self-importance."
+    }
+  ]
+}

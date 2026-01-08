@@ -1,0 +1,641 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.03",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "India's Internal Challenges"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which political party was a major force in Punjab politics during the 1970s?",
+      "options": [
+        { "option_id": 1, "text": "Congress", "is_correct": false },
+        { "option_id": 2, "text": "Akali Dal", "is_correct": true },
+        { "option_id": 3, "text": "Janata Dal", "is_correct": false },
+        { "option_id": 4, "text": "Communist Party of India", "is_correct": false }
+      ],
+      "answer": "Akali Dal"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was the 'Anandpur Sahib Resolution' passed?",
+      "options": [
+        { "option_id": 1, "text": "1970", "is_correct": false },
+        { "option_id": 2, "text": "1973", "is_correct": true },
+        { "option_id": 3, "text": "1977", "is_correct": false },
+        { "option_id": 4, "text": "1980", "is_correct": false }
+      ],
+      "answer": "1973"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which city did the Akali Dal demand to be made part of Punjab?",
+      "options": [
+        { "option_id": 1, "text": "Lahore", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": false },
+        { "option_id": 3, "text": "Chandigarh", "is_correct": true },
+        { "option_id": 4, "text": "Shimla", "is_correct": false }
+      ],
+      "answer": "Chandigarh"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What status was demanded for the city of Amritsar by the Akali Dal?",
+      "options": [
+        { "option_id": 1, "text": "Capital City", "is_correct": false },
+        { "option_id": 2, "text": "Holy City", "is_correct": true },
+        { "option_id": 3, "text": "Union Territory", "is_correct": false },
+        { "option_id": 4, "text": "Independent City", "is_correct": false }
+      ],
+      "answer": "Holy City"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who was the leader of the Akali Dal in 1980?",
+      "options": [
+        { "option_id": 1, "text": "Sant Jarnailsingh Bhindranwale", "is_correct": false },
+        { "option_id": 2, "text": "Sant Harcharan Singh Longowal", "is_correct": true },
+        { "option_id": 3, "text": "Lala Jagatnarayan", "is_correct": false },
+        { "option_id": 4, "text": "Prakash Singh Badal", "is_correct": false }
+      ],
+      "answer": "Sant Harcharan Singh Longowal"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was the staunch supporter of 'Khalistan' who gathered followers in the Golden Temple?",
+      "options": [
+        { "option_id": 1, "text": "Sant Longowal", "is_correct": false },
+        { "option_id": 2, "text": "Sant Jarnailsingh Bhindranwale", "is_correct": true },
+        { "option_id": 3, "text": "Laldenga", "is_correct": false },
+        { "option_id": 4, "text": "Angami Zapu Fizo", "is_correct": false }
+      ],
+      "answer": "Sant Jarnailsingh Bhindranwale"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Whose murder led to the arrest of Bhindranwale in 1981?",
+      "options": [
+        { "option_id": 1, "text": "Sant Longowal", "is_correct": false },
+        { "option_id": 2, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Newspaper editor Lala Jagatnarayan", "is_correct": true },
+        { "option_id": 4, "text": "General Vaidya", "is_correct": false }
+      ],
+      "answer": "Newspaper editor Lala Jagatnarayan"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In which year was President's Rule imposed in Punjab due to the deteriorating law and order situation?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1982", "is_correct": false },
+        { "option_id": 3, "text": "1983", "is_correct": true },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "1983"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which temple was captured by terrorists in Punjab, turning it into a fort?",
+      "options": [
+        { "option_id": 1, "text": "Akshardham Temple", "is_correct": false },
+        { "option_id": 2, "text": "Golden Temple (Akaltakht)", "is_correct": true },
+        { "option_id": 3, "text": "Somnath Temple", "is_correct": false },
+        { "option_id": 4, "text": "Vaishno Devi", "is_correct": false }
+      ],
+      "answer": "Golden Temple (Akaltakht)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the name of the military operation to evict terrorists from the Golden Temple?",
+      "options": [
+        { "option_id": 1, "text": "Operation Vijay", "is_correct": false },
+        { "option_id": 2, "text": "Operation Blue Star", "is_correct": true },
+        { "option_id": 3, "text": "Operation Black Thunder", "is_correct": false },
+        { "option_id": 4, "text": "Operation Polo", "is_correct": false }
+      ],
+      "answer": "Operation Blue Star"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was given the task of leading 'Operation Blue Star'?",
+      "options": [
+        { "option_id": 1, "text": "Major General Kuldeep Singh Brar", "is_correct": true },
+        { "option_id": 2, "text": "General Manekshaw", "is_correct": false },
+        { "option_id": 3, "text": "General Cariappa", "is_correct": false },
+        { "option_id": 4, "text": "Major General Shahbeg Singh", "is_correct": false }
+      ],
+      "answer": "Major General Kuldeep Singh Brar"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "On which date did 'Operation Blue Star' start?",
+      "options": [
+        { "option_id": 1, "text": "1st June 1984", "is_correct": false },
+        { "option_id": 2, "text": "3rd June 1984", "is_correct": true },
+        { "option_id": 3, "text": "6th June 1984", "is_correct": false },
+        { "option_id": 4, "text": "31st October 1984", "is_correct": false }
+      ],
+      "answer": "3rd June 1984"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When did 'Operation Blue Star' officially end?",
+      "options": [
+        { "option_id": 1, "text": "4th June 1984", "is_correct": false },
+        { "option_id": 2, "text": "6th June 1984", "is_correct": true },
+        { "option_id": 3, "text": "10th June 1984", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1984", "is_correct": false }
+      ],
+      "answer": "6th June 1984"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In which year was 'Operation Black Thunder' conducted?",
+      "options": [
+        { "option_id": 1, "text": "1984", "is_correct": false },
+        { "option_id": 2, "text": "1985", "is_correct": false },
+        { "option_id": 3, "text": "1986", "is_correct": true },
+        { "option_id": 4, "text": "1988", "is_correct": false }
+      ],
+      "answer": "1986"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How many states does North-East India consist of?",
+      "options": [
+        { "option_id": 1, "text": "Six", "is_correct": false },
+        { "option_id": 2, "text": "Seven", "is_correct": false },
+        { "option_id": 3, "text": "Eight", "is_correct": true },
+        { "option_id": 4, "text": "Nine", "is_correct": false }
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who was the first Prime Minister to take a lead in integrating North-East tribes?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Pandit Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 4, "text": "Rajiv Gandhi", "is_correct": false }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the full form of NEFA?",
+      "options": [
+        { "option_id": 1, "text": "North-East Frontier Agency", "is_correct": true },
+        { "option_id": 2, "text": "North-East Forest Area", "is_correct": false },
+        { "option_id": 3, "text": "New Eastern Frontier Area", "is_correct": false },
+        { "option_id": 4, "text": "National East Frontier Association", "is_correct": false }
+      ],
+      "answer": "North-East Frontier Agency"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In which year was the NEFA area formed?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1954", "is_correct": true },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1954"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In which schedule of the Constitution were special provisions made for North-East tribes?",
+      "options": [
+        { "option_id": 1, "text": "Fifth Schedule", "is_correct": false },
+        { "option_id": 2, "text": "Sixth Schedule", "is_correct": true },
+        { "option_id": 3, "text": "Seventh Schedule", "is_correct": false },
+        { "option_id": 4, "text": "Eighth Schedule", "is_correct": false }
+      ],
+      "answer": "Sixth Schedule"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "When was the North-Eastern Council Act passed?",
+      "options": [
+        { "option_id": 1, "text": "1965", "is_correct": false },
+        { "option_id": 2, "text": "1971", "is_correct": true },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "1980", "is_correct": false }
+      ],
+      "answer": "1971"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organisation was established by Laldenga in 1961?",
+      "options": [
+        { "option_id": 1, "text": "Naga National Council", "is_correct": false },
+        { "option_id": 2, "text": "Mizo National Front", "is_correct": true },
+        { "option_id": 3, "text": "All Assam Students Union", "is_correct": false },
+        { "option_id": 4, "text": "United Liberation Front of Assam", "is_correct": false }
+      ],
+      "answer": "Mizo National Front"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What demand did the Mizo National Front make?",
+      "options": [
+        { "option_id": 1, "text": "Greater Nagaland", "is_correct": false },
+        { "option_id": 2, "text": "Greater Mizoram", "is_correct": true },
+        { "option_id": 3, "text": "Bodoland", "is_correct": false },
+        { "option_id": 4, "text": "Gorkhaland", "is_correct": false }
+      ],
+      "answer": "Greater Mizoram"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When was the Mizoram area given the status of a Union Territory?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1972", "is_correct": true },
+        { "option_id": 3, "text": "1985", "is_correct": false },
+        { "option_id": 4, "text": "1987", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister signed the accord with Laldenga in 1985?",
+      "options": [
+        { "option_id": 1, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 3, "text": "Rajiv Gandhi", "is_correct": true },
+        { "option_id": 4, "text": "V.P. Singh", "is_correct": false }
+      ],
+      "answer": "Rajiv Gandhi"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "When did Mizoram become a full-fledged state?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": false },
+        { "option_id": 2, "text": "1987", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "1972", "is_correct": false }
+      ],
+      "answer": "1987"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who was the first Chief Minister of the state of Mizoram?",
+      "options": [
+        { "option_id": 1, "text": "Angami Zapu Fizo", "is_correct": false },
+        { "option_id": 2, "text": "Laldenga", "is_correct": true },
+        { "option_id": 3, "text": "Prafullakumar Mohanto", "is_correct": false },
+        { "option_id": 4, "text": "Muivah", "is_correct": false }
+      ],
+      "answer": "Laldenga"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "When was the Naga National Council (NNC) established?",
+      "options": [
+        { "option_id": 1, "text": "1946", "is_correct": true },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1955", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1946"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who led the Naga National Council?",
+      "options": [
+        { "option_id": 1, "text": "Laldenga", "is_correct": false },
+        { "option_id": 2, "text": "Angami Zapu Fizo", "is_correct": true },
+        { "option_id": 3, "text": "T. Muivah", "is_correct": false },
+        { "option_id": 4, "text": "Isak Chishi Swu", "is_correct": false }
+      ],
+      "answer": "Angami Zapu Fizo"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "When was the State of Nagaland formed?",
+      "options": [
+        { "option_id": 1, "text": "1st December 1960", "is_correct": false },
+        { "option_id": 2, "text": "1st December 1963", "is_correct": true },
+        { "option_id": 3, "text": "1st December 1965", "is_correct": false },
+        { "option_id": 4, "text": "1st December 1972", "is_correct": false }
+      ],
+      "answer": "1st December 1963"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which issue caused intense agitation in Assam in 1983?",
+      "options": [
+        { "option_id": 1, "text": "Demand for separate state", "is_correct": false },
+        { "option_id": 2, "text": "Dominance of Bengali migrants", "is_correct": true },
+        { "option_id": 3, "text": "Language issue", "is_correct": false },
+        { "option_id": 4, "text": "Water dispute", "is_correct": false }
+      ],
+      "answer": "Dominance of Bengali migrants"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which organisation staged the agitation in Assam along with All Assam Students Union?",
+      "options": [
+        { "option_id": 1, "text": "Assam Ganasangram Parishad", "is_correct": true },
+        { "option_id": 2, "text": "ULFA", "is_correct": false },
+        { "option_id": 3, "text": "MNF", "is_correct": false },
+        { "option_id": 4, "text": "NNC", "is_correct": false }
+      ],
+      "answer": "Assam Ganasangram Parishad"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "When was the Assam Accord signed?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1983", "is_correct": false },
+        { "option_id": 3, "text": "1985", "is_correct": true },
+        { "option_id": 4, "text": "1987", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who became the Chief Minister of Assam in 1986?",
+      "options": [
+        { "option_id": 1, "text": "Tarun Gogoi", "is_correct": false },
+        { "option_id": 2, "text": "Prafullakumar Mohanto", "is_correct": true },
+        { "option_id": 3, "text": "Hiteswar Saikia", "is_correct": false },
+        { "option_id": 4, "text": "Sarbananda Sonowal", "is_correct": false }
+      ],
+      "answer": "Prafullakumar Mohanto"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the other name for Arunachal Pradesh?",
+      "options": [
+        { "option_id": 1, "text": "Land of Rivers", "is_correct": false },
+        { "option_id": 2, "text": "Region of the rising sun", "is_correct": true },
+        { "option_id": 3, "text": "Land of Clouds", "is_correct": false },
+        { "option_id": 4, "text": "Abode of Snow", "is_correct": false }
+      ],
+      "answer": "Region of the rising sun"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "When was Arunachal Pradesh granted the status of a constituent State?",
+      "options": [
+        { "option_id": 1, "text": "1972", "is_correct": false },
+        { "option_id": 2, "text": "20th February 1987", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "20th February 1987"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In which district did the Naxalite movement begin?",
+      "options": [
+        { "option_id": 1, "text": "Gadchiroli", "is_correct": false },
+        { "option_id": 2, "text": "Darjeeling", "is_correct": true },
+        { "option_id": 3, "text": "Bastar", "is_correct": false },
+        { "option_id": 4, "text": "Koraput", "is_correct": false }
+      ],
+      "answer": "Darjeeling"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following states is NOT typically associated with the Naxalite movement?",
+      "options": [
+        { "option_id": 1, "text": "Chhattisgarh", "is_correct": false },
+        { "option_id": 2, "text": "Telangana", "is_correct": false },
+        { "option_id": 3, "text": "Gujarat", "is_correct": true },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the full form of PLGA established by Naxalites?",
+      "options": [
+        { "option_id": 1, "text": "People's Liberation Ground Army", "is_correct": false },
+        { "option_id": 2, "text": "People's Liberation Guerilla Army", "is_correct": true },
+        { "option_id": 3, "text": "Public Liberty Guerilla Army", "is_correct": false },
+        { "option_id": 4, "text": "People's Land Guard Army", "is_correct": false }
+      ],
+      "answer": "People's Liberation Guerilla Army"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the base of Communalism?",
+      "options": [
+        { "option_id": 1, "text": "Secularism", "is_correct": false },
+        { "option_id": 2, "text": "Fanaticism", "is_correct": true },
+        { "option_id": 3, "text": "Regionalism", "is_correct": false },
+        { "option_id": 4, "text": "Nationalism", "is_correct": false }
+      ],
+      "answer": "Fanaticism"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Regionalism thrives on which of the following?",
+      "options": [
+        { "option_id": 1, "text": "National Unity", "is_correct": false },
+        { "option_id": 2, "text": "Regional imbalance in development", "is_correct": true },
+        { "option_id": 3, "text": "Cultural Exchange", "is_correct": false },
+        { "option_id": 4, "text": "Economic equality", "is_correct": false }
+      ],
+      "answer": "Regional imbalance in development"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What demands were included in the Anandpur Sahib Resolution?",
+      "answer": "Chandigarh to Punjab, Punjabi speaking areas in other states to Punjab, recruitment of Sikhs in army, and more autonomy."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Who was Sant Jarnailsingh Bhindranwale?",
+      "answer": "A staunch supporter of Khalistan who led armed followers in the Golden Temple."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What happened to Indira Gandhi on 31st October 1984?",
+      "answer": "She was assassinated by her Sikh bodyguards."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What was 'Operation Black Thunder'?",
+      "answer": "A military operation conducted in 1986 against terrorists in the Golden Temple."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How many states are there in North-East India?",
+      "answer": "Eight."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the primary responsibility of the North-Eastern Council?",
+      "answer": "To advise the Central Government on common interests in economic and social spheres, transport, and electricity."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Who formed the Mizo National Front (MNF)?",
+      "answer": "Laldenga."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What was the demand of the MNF?",
+      "answer": "Greater Mizoram, an independent nation for Mizos."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Who was the leader of the Naga National Council?",
+      "answer": "Angami Zapu Fizo."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "When was the Assam Accord signed?",
+      "answer": "1985."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who became the Chief Minister of Assam after the 1986 elections?",
+      "answer": "Prafullakumar Mohanto."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was Arunachal Pradesh known as before 1972?",
+      "answer": "North-East Frontier Agency (NEFA)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What happened at Naxalbari in 1967?",
+      "answer": "A movement of landless farmers against powerful landlords began, planting red flags on land."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the initial objective of Naxalism?",
+      "answer": "To remove injustice against landless farmers and tribals by landlords."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is Naxalism a threat to internal security?",
+      "answer": "Because they use terrorism, reject democracy, and run a parallel system."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define Communalism.",
+      "answer": "Narrow religious pride leading to fanaticism and hatred towards other religions."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How does communalism affect national unity?",
+      "answer": "It creates mutual suspicion, breaks trust, leads to riots, and destroys social peace."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is Regionalism?",
+      "answer": "Excessive pride in one's own region."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why do some states feel neglected in India?",
+      "answer": "Due to regional imbalance in economic development and lack of progress in education and health."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "Describe the events that led to 'Operation Blue Star'.",
+      "answer": "The demand for Khalistan led to violence in Punjab. Akali Dal President Sant Longowal led protests from the Golden Temple. Bhindranwale and his armed followers captured the Golden Temple and fortified it. Terrorist activities increased, law and order failed, and President's rule was imposed in 1983. To flush out the terrorists, the army was sent in on 3rd June 1984."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Explain the formation of the state of Mizoram.",
+      "answer": "Mizo leaders demanded autonomy within Assam. After the 1959 famine, Laldenga formed the MNF asking for Greater Mizoram. An armed rebellion occurred in 1966. In 1972, it became a Union Territory. In 1985, Rajiv Gandhi signed an accord with Laldenga, and Mizoram became a full state in 1987."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Discuss the process of Nagaland becoming a state.",
+      "answer": "The Naga National Council led by Angami Zapu Fizo demanded an independent federation. In 1954, they declared the Naga Federal Government. After skirmishes, discussions between the Central Government and the Naga leadership led to Nagaland being made a Union Territory and then a full state on 1st December 1963."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "What measures can be taken to combat Communalism?",
+      "answer": "People of different religions should mix and celebrate festivals together. We should accept good practices from each other. Economic and social problems should not be viewed through a religious lens. We must search for the true causes of harm rather than succumbing to rumors and fanaticism."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "How does regional imbalance lead to Regionalism?",
+      "answer": "Regionalism thrives on the difference in development. Developed states believe their progress is due to their own history and culture and may refuse to share resources. Backward states feel cheated and neglected. To assert themselves, they glorify local traditions and identity, leading to a divide between regions."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Explain the nature of the Naxalite movement today.",
+      "answer": "Though it started as a peasant movement, Naxalism has turned violent. It prevents government schemes from reaching the poor, attacks police and infrastructure, and uses terrorism. The movement has spread to several states (Red Corridor) and runs a parallel system through the PLGA."
+    }
+  ]
+}

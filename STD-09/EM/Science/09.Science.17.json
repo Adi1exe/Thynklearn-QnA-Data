@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.17",
+    "standard": "9",
+    "subject": "Science and Technology",
+    "medium": "English",
+    "chapter_name": "Introduction to Biotechnology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A group of cells having the same origin, same structure, and same function is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Organ", "is_correct": false },
+        { "option_id": 2, "text": "Tissue", "is_correct": true },
+        { "option_id": 3, "text": "Organelle", "is_correct": false },
+        { "option_id": 4, "text": "System", "is_correct": false }
+      ],
+      "answer": "Tissue"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a simple tissue in animals?",
+      "options": [
+        { "option_id": 1, "text": "Blood", "is_correct": false },
+        { "option_id": 2, "text": "Xylem", "is_correct": false },
+        { "option_id": 3, "text": "Epithelial tissue", "is_correct": true },
+        { "option_id": 4, "text": "Phloem", "is_correct": false }
+      ],
+      "answer": "Epithelial tissue"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The tissue responsible for increasing the height of plants is __________.",
+      "options": [
+        { "option_id": 1, "text": "Lateral meristem", "is_correct": false },
+        { "option_id": 2, "text": "Apical meristem", "is_correct": true },
+        { "option_id": 3, "text": "Intercalary meristem", "is_correct": false },
+        { "option_id": 4, "text": "Permanent tissue", "is_correct": false }
+      ],
+      "answer": "Apical meristem"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Blood is a type of __________ tissue.",
+      "options": [
+        { "option_id": 1, "text": "Epithelial", "is_correct": false },
+        { "option_id": 2, "text": "Muscular", "is_correct": false },
+        { "option_id": 3, "text": "Nervous", "is_correct": false },
+        { "option_id": 4, "text": "Connective", "is_correct": true }
+      ],
+      "answer": "Connective"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which tissue joins muscles to bones?",
+      "options": [
+        { "option_id": 1, "text": "Ligament", "is_correct": false },
+        { "option_id": 2, "text": "Tendon", "is_correct": true },
+        { "option_id": 3, "text": "Cartilage", "is_correct": false },
+        { "option_id": 4, "text": "Areolar tissue", "is_correct": false }
+      ],
+      "answer": "Tendon"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Muscles of the heart are called __________.",
+      "options": [
+        { "option_id": 1, "text": "Striated muscles", "is_correct": false },
+        { "option_id": 2, "text": "Non-striated muscles", "is_correct": false },
+        { "option_id": 3, "text": "Cardiac muscles", "is_correct": true },
+        { "option_id": 4, "text": "Voluntary muscles", "is_correct": false }
+      ],
+      "answer": "Cardiac muscles"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The longest cell in the human body is the __________.",
+      "options": [
+        { "option_id": 1, "text": "Muscle fiber", "is_correct": false },
+        { "option_id": 2, "text": "Nerve cell", "is_correct": true },
+        { "option_id": 3, "text": "Osteocyte", "is_correct": false },
+        { "option_id": 4, "text": "Erythrocyte", "is_correct": false }
+      ],
+      "answer": "Nerve cell"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a complex permanent tissue in plants?",
+      "options": [
+        { "option_id": 1, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 2, "text": "Collenchyma", "is_correct": false },
+        { "option_id": 3, "text": "Xylem", "is_correct": true },
+        { "option_id": 4, "text": "Sclerenchyma", "is_correct": false }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "A waxy layer of __________ covers the epidermis of stems and leaves.",
+      "options": [
+        { "option_id": 1, "text": "Lignin", "is_correct": false },
+        { "option_id": 2, "text": "Suberin", "is_correct": false },
+        { "option_id": 3, "text": "Cuticle", "is_correct": true },
+        { "option_id": 4, "text": "Pectin", "is_correct": false }
+      ],
+      "answer": "Cuticle"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who proved that each cell has the ability to produce a new plant (Totipotency)?",
+      "options": [
+        { "option_id": 1, "text": "Gregor Mendel", "is_correct": false },
+        { "option_id": 2, "text": "Frederick Campion Steward", "is_correct": true },
+        { "option_id": 3, "text": "Watson and Crick", "is_correct": false },
+        { "option_id": 4, "text": "Robert Hooke", "is_correct": false }
+      ],
+      "answer": "Frederick Campion Steward"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Golden Rice is a genetically modified crop rich in __________.",
+      "options": [
+        { "option_id": 1, "text": "Vitamin C", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin A", "is_correct": true },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Protein", "is_correct": false }
+      ],
+      "answer": "Vitamin A"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which variety of cotton is resistant to bollworm?",
+      "options": [
+        { "option_id": 1, "text": "Golden cotton", "is_correct": false },
+        { "option_id": 2, "text": "BT cotton", "is_correct": true },
+        { "option_id": 3, "text": "Hybrid cotton", "is_correct": false },
+        { "option_id": 4, "text": "Organic cotton", "is_correct": false }
+      ],
+      "answer": "BT cotton"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Chickens raised for eggs are called __________.",
+      "options": [
+        { "option_id": 1, "text": "Broilers", "is_correct": false },
+        { "option_id": 2, "text": "Layers", "is_correct": true },
+        { "option_id": 3, "text": "Fryers", "is_correct": false },
+        { "option_id": 4, "text": "Roosters", "is_correct": false }
+      ],
+      "answer": "Layers"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which silk moth is most commonly used for sericulture?",
+      "options": [
+        { "option_id": 1, "text": "Bombyx mori", "is_correct": true },
+        { "option_id": 2, "text": "Antheraea mylitta", "is_correct": false },
+        { "option_id": 3, "text": "Philosamia ricini", "is_correct": false },
+        { "option_id": 4, "text": "Apis melifera", "is_correct": false }
+      ],
+      "answer": "Bombyx mori"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The main part of a nerve cell containing the nucleus is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Axon", "is_correct": false },
+        { "option_id": 2, "text": "Dendrite", "is_correct": false },
+        { "option_id": 3, "text": "Cell body", "is_correct": true },
+        { "option_id": 4, "text": "Synapse", "is_correct": false }
+      ],
+      "answer": "Cell body"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which tissue helps aquatic plants to float?",
+      "options": [
+        { "option_id": 1, "text": "Chlorenchyma", "is_correct": false },
+        { "option_id": 2, "text": "Aerenchyma", "is_correct": true },
+        { "option_id": 3, "text": "Sclerenchyma", "is_correct": false },
+        { "option_id": 4, "text": "Collenchyma", "is_correct": false }
+      ],
+      "answer": "Aerenchyma"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which simple permanent tissue consists of dead cells?",
+      "options": [
+        { "option_id": 1, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 2, "text": "Collenchyma", "is_correct": false },
+        { "option_id": 3, "text": "Sclerenchyma", "is_correct": true },
+        { "option_id": 4, "text": "Chlorenchyma", "is_correct": false }
+      ],
+      "answer": "Sclerenchyma"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which epithelial tissue is found in the inner surface of the respiratory tract?",
+      "options": [
+        { "option_id": 1, "text": "Squamous epithelium", "is_correct": false },
+        { "option_id": 2, "text": "Cuboidal epithelium", "is_correct": false },
+        { "option_id": 3, "text": "Ciliated epithelium", "is_correct": true },
+        { "option_id": 4, "text": "Stratified epithelium", "is_correct": false }
+      ],
+      "answer": "Ciliated epithelium"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Adipose tissue stores __________.",
+      "options": [
+        { "option_id": 1, "text": "Proteins", "is_correct": false },
+        { "option_id": 2, "text": "Fats", "is_correct": true },
+        { "option_id": 3, "text": "Vitamins", "is_correct": false },
+        { "option_id": 4, "text": "Minerals", "is_correct": false }
+      ],
+      "answer": "Fats"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The breakdown of glucose in the body happens at the __________ level.",
+      "options": [
+        { "option_id": 1, "text": "Tissue", "is_correct": false },
+        { "option_id": 2, "text": "Organ", "is_correct": false },
+        { "option_id": 3, "text": "Cellular", "is_correct": true },
+        { "option_id": 4, "text": "System", "is_correct": false }
+      ],
+      "answer": "Cellular"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which variety of tomato is a GM crop?",
+      "options": [
+        { "option_id": 1, "text": "Vaishali", "is_correct": true },
+        { "option_id": 2, "text": "Basmati", "is_correct": false },
+        { "option_id": 3, "text": "Amflora", "is_correct": false },
+        { "option_id": 4, "text": "Vistive Gold", "is_correct": false }
+      ],
+      "answer": "Vaishali"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which tissue conducts food in plants?",
+      "options": [
+        { "option_id": 1, "text": "Xylem", "is_correct": false },
+        { "option_id": 2, "text": "Phloem", "is_correct": true },
+        { "option_id": 3, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 4, "text": "Epidermis", "is_correct": false }
+      ],
+      "answer": "Phloem"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Cartilage is found in the __________.",
+      "options": [
+        { "option_id": 1, "text": "Nose and Ear", "is_correct": true },
+        { "option_id": 2, "text": "Kidney", "is_correct": false },
+        { "option_id": 3, "text": "Heart", "is_correct": false },
+        { "option_id": 4, "text": "Blood", "is_correct": false }
+      ],
+      "answer": "Nose and Ear"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Meristematic tissue responsible for increasing girth is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Apical meristem", "is_correct": false },
+        { "option_id": 2, "text": "Lateral meristem", "is_correct": true },
+        { "option_id": 3, "text": "Intercalary meristem", "is_correct": false },
+        { "option_id": 4, "text": "Permanent meristem", "is_correct": false }
+      ],
+      "answer": "Lateral meristem"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which animal breed is reared for meat?",
+      "options": [
+        { "option_id": 1, "text": "Leghorn", "is_correct": false },
+        { "option_id": 2, "text": "Plymouth Rock", "is_correct": true },
+        { "option_id": 3, "text": "Minorca", "is_correct": false },
+        { "option_id": 4, "text": "Ancona", "is_correct": false }
+      ],
+      "answer": "Plymouth Rock"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define 'Tissue'.",
+      "answer": "A group of cells having the same origin, same structure, and same function is called a tissue[cite: 564]."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What are Simple Tissues?",
+      "answer": "Simple tissues are made up of only one type of cells, for example, epithelial tissue in animals or meristematic tissue in plants [cite: 571-572]."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What are Complex Tissues?",
+      "answer": "Complex tissues are made up of more than one type of cells, for example, blood in animals or xylem and phloem in plants [cite: 574-575]."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why do plants have more dead cells compared to animals?",
+      "answer": "Plants are sedentary and need tissues primarily for support, which can be provided by dead cells that require less maintenance, whereas animals move and need more energy-consuming living cells [cite: 577-581]."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the function of Epithelial tissue?",
+      "answer": "Epithelial tissue forms protective coverings for the body and organs, and regulates the transport of substances [cite: 611-613]."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Name the four main types of animal tissues.",
+      "answer": "Epithelial tissue, Connective tissue, Muscular tissue, and Nervous tissue [cite: 593-599]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the function of Squamous epithelium?",
+      "answer": "It forms a semipermeable membrane for the selective transport of substances[cite: 620]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Where is Stratified epithelium found?",
+      "answer": "It is found in the outer layer of the skin[cite: 620]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the function of Glandular epithelium?",
+      "answer": "It secretes substances like sweat, oil (sebum), and mucus[cite: 620]."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Where is Columnar epithelium found?",
+      "answer": "It is found in the inner surface (mucosa) of the intestine and alimentary canal[cite: 620]."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is the function of Ciliated Epithelium?",
+      "answer": "It pushes mucus and air forward to keep the air passage free in the respiratory tract[cite: 620]."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Where is Cuboidal epithelium located?",
+      "answer": "It is located in the tubules of the kidney (nephron) and salivary glands[cite: 620]."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Define 'Connective Tissue'.",
+      "answer": "Tissues which join different parts of the body are called connective tissues; they have loosely arranged cells with a ground substance [cite: 626-627]."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the function of Blood as a tissue?",
+      "answer": "Blood transports oxygen, nutrients, hormones, and waste materials throughout the body[cite: 630]."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the difference between Tendons and Ligaments?",
+      "answer": "Tendons join muscles to bones and are less elastic, while ligaments join two bones to each other and are highly flexible[cite: 630]."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the main function of Adipose tissue?",
+      "answer": "Adipose tissue stores fats, provides insulation, and supplies energy[cite: 630]."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "State the difference between Striated and Non-striated muscles.",
+      "answer": "Striated muscles have dark and light bands and are voluntary; Non-striated muscles lack bands and are involuntary[cite: 644]."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Where are Cardiac muscles found?",
+      "answer": "Cardiac muscles are found only in the heart[cite: 644]."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What are Dendrites?",
+      "answer": "Dendrites are numerous, small, branched fibers arising from the cell body of a nerve cell[cite: 658]."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the function of Nervous tissue?",
+      "answer": "Nervous tissue enables the body to respond to stimuli like touch, sound, and odor by conducting excitation [cite: 655-656]."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is Meristematic tissue?",
+      "answer": "It is a plant tissue made of dividing cells, present in specific parts, responsible for plant growth [cite: 686-690]."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the function of Apical meristem?",
+      "answer": "It increases the length of the root and stem[cite: 692]."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the function of Intercalary meristem?",
+      "answer": "It helps in the growth of branches and the formation of leaves and flowers[cite: 692]."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is 'Differentiation' in plant tissues?",
+      "answer": "Differentiation is the process where meristematic cells lose their ability to divide and acquire a specific permanent structure and function [cite: 695-697]."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is Epidermis in plants?",
+      "answer": "The epidermis is the single continuous outer layer of cells covering the entire plant surface [cite: 707-708]."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the function of Parenchyma?",
+      "answer": "Parenchyma provides support, stores food, and fills vacant spaces in the plant[cite: 713]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the function of Collenchyma?",
+      "answer": "Collenchyma provides support and flexibility to various plant parts[cite: 713]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the function of Sclerenchyma?",
+      "answer": "Sclerenchyma gives strength and rigidity to plant parts[cite: 713]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the specific function of Xylem?",
+      "answer": "Xylem conducts water and minerals in an upward direction from roots to other parts[cite: 715]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the specific function of Phloem?",
+      "answer": "Phloem conducts sugar and amino acids from leaves to various parts in both upward and downward directions[cite: 715]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define 'Biotechnology'.",
+      "answer": "The techniques of bringing about improvements in living organisms by artificial genetic changes and hybridization for human welfare are called Biotechnology[cite: 721]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define 'Tissue Culture'.",
+      "answer": "Tissue culture is the ex vivo growth of cells or tissues in an aseptic and nutrient-rich medium[cite: 732]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a 'Totipotent' cell?",
+      "answer": "A cell that has the ability to generate a new organism if provided with a proper environment[cite: 717]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are Genetically Modified (GM) crops?",
+      "answer": "Crops produced by introducing changes in the DNA of natural crops to introduce useful characters are called GM crops[cite: 750]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Mention two benefits of GM crops.",
+      "answer": "GM crops can withstand environmental stress and are resistant to insect pests, reducing the need for chemicals [cite: 753-754]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a Bioreactor used for?",
+      "answer": "Bioreactors are used for producing plantlets on a very large scale in a nutritive medium protected from pathogens [cite: 788-789]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is Agritourism?",
+      "answer": "Agritourism is an emerging business where plantlets, fruits, and vegetables are grown on a large scale to create a self-sufficient tourism center for visitors [cite: 808-811]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name two indigenous cow breeds used for milk.",
+      "answer": "Sahiwal and Gir[cite: 829]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two exotic cow breeds used for milk.",
+      "answer": "Jersey and Holstein[cite: 829]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are 'Layers' in poultry farming?",
+      "answer": "Chickens raised specifically for eggs are called layers[cite: 846]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are 'Broilers' in poultry farming?",
+      "answer": "Chickens raised specifically for meat are called broilers[cite: 849]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is Sericulture?",
+      "answer": "Sericulture is the rearing of silkworms (moths) for the production of silk [cite: 851-852]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the food source for silkworm larvae?",
+      "answer": "Silkworm larvae feed on mulberry leaves[cite: 855]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How is silk thread formed?",
+      "answer": "Silk thread is formed from the secretion of the salivary glands of silkworm larvae[cite: 857]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are cocoons boiled in water in sericulture?",
+      "answer": "Boiling kills the pupa inside and loosens the silk fibers for unwinding [cite: 859-860]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the difference between Xylem and Phloem structure?",
+      "answer": "Xylem consists mostly of thick-walled dead cells; Phloem consists mostly of cytoplasm-containing living cells[cite: 715]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are Chlorenchyma and Aerenchyma subtypes of?",
+      "answer": "They are subtypes of Parenchyma tissue[cite: 713]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the main function of Lateral meristem?",
+      "answer": "Lateral meristem increases the girth (diameter) of the root and stem[cite: 692]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the function of Areolar tissue?",
+      "answer": "It supports internal organs and fills the space between skin and muscles[cite: 630]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the unique feature of the epidermis in desert plants?",
+      "answer": "It has a thick waxy coating of cuticle to prevent water loss [implied from 709]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the structure and function of the Nerve Cell (Neuron).",
+      "answer": " The nerve cell is the unit of nervous tissue. The main part is the cell body containing the nucleus and cytoplasm. Numerous small, branched fibers called dendrites arise from the cell body. One extremely long fiber called the axon extends from the cell body, sometimes up to a meter long. Nerve cells conduct excitation from one part of the body to another [cite: 656-659]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the difference between Meristematic and Permanent tissues in plants.",
+      "answer": "Meristematic tissues contain dividing cells, have thin walls, thick cytoplasm, and are responsible for growth. They are found in growing regions like tips. Permanent tissues contain non-dividing cells formed from meristematic cells (differentiation). They have specific structures and functions (support, conduction) and can be simple or complex [cite: 687-697]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the types of Simple Permanent Tissues in plants.",
+      "answer": "1. Parenchyma: Living cells with thin walls and intercellular spaces; supports and stores food. 2. Collenchyma: Elongated living cells with thickened corners (cellulose/pectin); provides flexibility and support. 3. Sclerenchyma: Dead, fibrous cells with thick lignified walls; gives strength and rigidity[cite: 713]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the structure and function of Xylem and Phloem.",
+      "answer": "Xylem: Complex tissue made of dead cells (tracheids, vessels, fibers). It conducts water and minerals upward. Phloem: Complex tissue made of living cells (sieve tubes, companion cells). It conducts food (sugar, amino acids) from leaves to other parts in both directions[cite: 715]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Discuss the different types of Muscular Tissue.",
+      "answer": "1. Striated (Skeletal): Voluntary, multinucleate, has dark/light bands, attached to bones for movement. 2. Non-striated (Smooth): Involuntary, uninucleate, spindle-shaped, no bands, found in organs like the alimentary canal. 3. Cardiac: Involuntary, cylindrical, branched, uninucleate, found in the heart for rhythmic contraction[cite: 644]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "What is Tissue Culture? Explain the process.",
+      "answer": "Tissue culture is the ex vivo growth of cells/tissues in an aseptic, nutrient-rich medium. Steps: 1. Selection of source plant (bulb/corm). 2. Primary treatment. 3. Reproduction/Multiplication in a jar. 4. Shooting and rooting. 5. Primary hardening. 6. Secondary hardening. This produces complete organisms from a single cell/tissue."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "What are the benefits of Biotechnology in agriculture?",
+      "answer": "1. Production of GM crops with new characteristics. 2. Ability to withstand environmental stress (drought, temp). 3. Pest and pathogen resistance (e.g., BT cotton), reducing pesticide use. 4. Improved nutritive value (e.g., Golden Rice). 5. Decrease in crop loss [cite: 720-723, 750-755]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the life cycle of a Silkworm in Sericulture.",
+      "answer": " 1. Egg: Female moth lays thousands of eggs. 2. Larva: Eggs hatch into larvae that feed on mulberry leaves for 3-4 days. 3. Pupa/Cocoon: Larva spins silk thread (salivary secretion) around itself to form a cocoon. 4. Adult: Pupa develops into a moth inside the cocoon (if not boiled). In sericulture, cocoons are boiled before the adult emerges to get silk [cite: 853-860]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe the types of Epithelial Tissue and their functions.",
+      "answer": "1. Squamous: Selective transport. 2. Stratified: Protection of organs. 3. Glandular: Secretion of sweat/oil/mucus. 4. Columnar: Secretion of digestive juice, absorption. 5. Ciliated: Pushes mucus/air in respiratory tract. 6. Cuboidal: Reabsorption in kidney tubules[cite: 620]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What are the advantages of Tissue Culture in floriculture and nurseries?",
+      "answer": "1. Large scale production of excellent quality flowers/fruits. 2. Shorter duration for full growth. 3. Propagation of plants that don't germinate easily (e.g., orchids). 4. Disease-free and virus-free plants. 5. Production in large numbers using bioreactors [cite: 784-797]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the role of Animal Husbandry in India.",
+      "answer": "Animal husbandry is practiced for milk production and farming help. Cows/buffaloes provide milk; bulls help in farming. Local breeds (Sahiwal, Gir) and exotic breeds (Jersey) are raised. Proper care involves balanced diet, clean sheds, and vaccination to ensure high yield and health [cite: 827-834]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is Agritourism and what does it include?",
+      "answer": "Agritourism is a business utilizing sufficient land to grow plants and creating a tourism center. It includes mango/chikoo orchards, shade-giving plants, ornamental/flowering plants, butterfly gardens, medicinal plant gardens, and organic vegetable patches. It attracts tourists and allows selling of produce [cite: 808-819]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Describe the connective tissues: Blood and Lymph.",
+      "answer": "Blood: Found in the circulatory system; contains erythrocytes, leucocytes, platelets in liquid plasma; transports oxygen, nutrients, hormones, and waste. Lymph: Found around cells; fluid oozed from capillaries containing leucocytes; protects the body from infection[cite: 630]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Describe the connective tissues: Bones and Cartilage.",
+      "answer": "Bones: Skeleton; osteocytes in solid calcium phosphate ground substance; supports/protects organs and helps movement. Cartilage: Nose, ear, larynx; cells in flexible jelly-like ground substance; lubricates bone surfaces and gives support/shape[cite: 630]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the significance of Poultry Farming.",
+      "answer": "Poultry farming involves rearing chickens for eggs (layers) and meat (broilers). Hybrid varieties are developed to produce good quality chickens in large numbers, withstand high temperatures, and utilize agricultural by-products. Breeds like Rhode Island Red are used for both [cite: 842-844]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "What is the difference between Apical, Intercalary, and Lateral Meristem?",
+      "answer": "1. Apical: At root/stem tip; increases length. 2. Intercalary: At base of petiole/branches; grows branches/leaves/flowers. 3. Lateral: On lateral sides of root/stem; increases girth (diameter)[cite: 692]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "How does the growth of onion roots demonstrate the presence of meristematic tissue?",
+      "answer": "In an experiment, onion roots dipped in water grow due to apical meristem at the tips. If the tips are cut (removing apical meristem), growth stops. This proves that meristematic tissue responsible for length growth is located at the root tip [cite: 678-684, 687]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What are the applications of Biotechnology mentioned in the text?",
+      "answer": "1. Production of cash crops and improved varieties. 2. Environmental stress resistance. 3. Vaccine production. 4. Early diagnosis of diseases. 5. Organ transplant. 6. Cancer research. 7. Production of artificial skin/cartilage[cite: 723]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Green Evolution' via tissue culture.",
+      "answer": "Green evolution refers to the massive increase in food grain production to meet the needs of a huge population (like India). It is achieved by cultivating high-yielding GM crops (banana, maize, rice, etc.) produced through tissue culture, which are pest-resistant and stress-tolerant[cite: 763, 776]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "What are the precautions necessary for Animal Husbandry?",
+      "answer": "1. Provide a balanced diet with fiber-rich fodder and water. 2. Keep cattle sheds clean, dry, ventilated, and roofed. 3. Regular vaccination of cattle to prevent diseases. 4. Proper care is essential for high milk yield [cite: 830-834]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Describe the hierarchy of organization in living organisms.",
+      "answer": "Organisms follow a definite hierarchy: Cells → Tissues (group of cells with same origin/function) → Organs (tissues working together) → Organ Systems → Organism. This organization ensures efficient body functioning [cite: 561-569]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Why is blood considered a complex connective tissue?",
+      "answer": "Blood is considered a connective tissue because it circulates and connects different body parts. It is 'complex' because it contains different types of cells (erythrocytes, leucocytes, platelets) suspended in a liquid ground substance (plasma), unlike simple tissues with one cell type[cite: 604, 624]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the process of Sericulture from egg to silk.",
+      "answer": "Silkworm eggs are incubated artificially. Larvae hatch and feed on mulberry leaves. They spin a cocoon of silk thread. Before the adult moth emerges (which would break the thread), cocoons are boiled to kill the pupa. The silk fibers are then unwound, processed, and reeled to make fabric [cite: 853-861]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Compare Areolar and Adipose connective tissues.",
+      "answer": "Areolar: Located between skin/muscles and around vessels; supports internal organs; has loose cells with jelly-like substance and elastic fibers. Adipose: Located below skin/around organs; stores fat; provides insulation and energy; cells filled with fat droplets[cite: 630]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "How has Biotechnology changed agricultural management?",
+      "answer": "Biotechnology has introduced GM crops (Genetically Modified). These crops have new DNA traits not found in nature, allowing them to withstand stress, resist pests (reducing pesticide use), and improve nutrition. This has led to widespread cultivation of high-yield varieties [cite: 750-755]."
+    }
+  ]
+}

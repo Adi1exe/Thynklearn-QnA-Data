@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.16",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Please Listen!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the poem 'Please Listen!'?",
+      "options": [
+        { "option_id": 1, "text": "Rudyard Kipling", "is_correct": false },
+        { "option_id": 2, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 3, "text": "Author Unknown", "is_correct": true },
+        { "option_id": 4, "text": "Walt Whitman", "is_correct": false }
+      ],
+      "answer": "Author Unknown"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the speaker feel when the listener starts giving advice?",
+      "options": [
+        { "option_id": 1, "text": "Grateful", "is_correct": false },
+        { "option_id": 2, "text": "That the listener has not done what was asked", "is_correct": true },
+        { "option_id": 3, "text": "Relieved", "is_correct": false },
+        { "option_id": 4, "text": "Happy", "is_correct": false }
+      ],
+      "answer": "That the listener has not done what was asked"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "According to the poem, what action is described as 'trampling on my feelings'?",
+      "options": [
+        { "option_id": 1, "text": "Listening silently", "is_correct": false },
+        { "option_id": 2, "text": "Telling the speaker why they shouldn't feel that way", "is_correct": true },
+        { "option_id": 3, "text": "Offering money", "is_correct": false },
+        { "option_id": 4, "text": "Walking away", "is_correct": false }
+      ],
+      "answer": "Telling the speaker why they shouldn't feel that way"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How does the speaker feel when the listener tries to solve their problem?",
+      "options": [
+        { "option_id": 1, "text": "That the listener has failed them", "is_correct": true },
+        { "option_id": 2, "text": "That the listener is a hero", "is_correct": false },
+        { "option_id": 3, "text": "That the problem is gone", "is_correct": false },
+        { "option_id": 4, "text": "That they are loved", "is_correct": false }
+      ],
+      "answer": "That the listener has failed them"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the poet say about advice?",
+      "options": [
+        { "option_id": 1, "text": "It is priceless", "is_correct": false },
+        { "option_id": 2, "text": "It is hard to find", "is_correct": false },
+        { "option_id": 3, "text": "It is cheap", "is_correct": true },
+        { "option_id": 4, "text": "It is necessary", "is_correct": false }
+      ],
+      "answer": "It is cheap"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who are Dear Abby and Billy Graham mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "The poet's friends", "is_correct": false },
+        { "option_id": 2, "text": "Newspaper columnists/Advice givers", "is_correct": true },
+        { "option_id": 3, "text": "Doctors", "is_correct": false },
+        { "option_id": 4, "text": "Political leaders", "is_correct": false }
+      ],
+      "answer": "Newspaper columnists/Advice givers"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How does the speaker describe their own state?",
+      "options": [
+        { "option_id": 1, "text": "Helpless and hopeless", "is_correct": false },
+        { "option_id": 2, "text": "Discouraged and faltering, but not helpless", "is_correct": true },
+        { "option_id": 3, "text": "Strong and invincible", "is_correct": false },
+        { "option_id": 4, "text": "Angry and vengeful", "is_correct": false }
+      ],
+      "answer": "Discouraged and faltering, but not helpless"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happens when someone does something for the speaker that they can do themselves?",
+      "options": [
+        { "option_id": 1, "text": "It contributes to their fear and inadequacy", "is_correct": true },
+        { "option_id": 2, "text": "It makes them feel supported", "is_correct": false },
+        { "option_id": 3, "text": "It saves time", "is_correct": false },
+        { "option_id": 4, "text": "It solves the problem faster", "is_correct": false }
+      ],
+      "answer": "It contributes to their fear and inadequacy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "When do irrational feelings make sense according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Never", "is_correct": false },
+        { "option_id": 2, "text": "When we ignore them", "is_correct": false },
+        { "option_id": 3, "text": "When we understand what's behind them", "is_correct": true },
+        { "option_id": 4, "text": "When we act on them", "is_correct": false }
+      ],
+      "answer": "When we understand what's behind them"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why does the poet say prayer works for some people?",
+      "options": [
+        { "option_id": 1, "text": "Because God gives good advice", "is_correct": false },
+        { "option_id": 2, "text": "Because God is mute and doesn't try to fix things", "is_correct": true },
+        { "option_id": 3, "text": "Because it is a ritual", "is_correct": false },
+        { "option_id": 4, "text": "Because it is loud", "is_correct": false }
+      ],
+      "answer": "Because God is mute and doesn't try to fix things"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What style of poetry is 'Please Listen!' written in?",
+      "options": [
+        { "option_id": 1, "text": "Sonnet", "is_correct": false },
+        { "option_id": 2, "text": "Free verse / Colloquial style", "is_correct": true },
+        { "option_id": 3, "text": "Haiku", "is_correct": false },
+        { "option_id": 4, "text": "Epic", "is_correct": false }
+      ],
+      "answer": "Free verse / Colloquial style"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the word 'irrational' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Logical", "is_correct": false },
+        { "option_id": 2, "text": "Illogical, without any reason or base", "is_correct": true },
+        { "option_id": 3, "text": "Emotional", "is_correct": false },
+        { "option_id": 4, "text": "Helpful", "is_correct": false }
+      ],
+      "answer": "Illogical, without any reason or base"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should the listener do if they want to talk?",
+      "options": [
+        { "option_id": 1, "text": "Interrupt immediately", "is_correct": false },
+        { "option_id": 2, "text": "Wait a minute for their turn", "is_correct": true },
+        { "option_id": 3, "text": "Write a letter", "is_correct": false },
+        { "option_id": 4, "text": "Leave the room", "is_correct": false }
+      ],
+      "answer": "Wait a minute for their turn"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the speaker promise to do if the listener waits for their turn?",
+      "options": [
+        { "option_id": 1, "text": "Give advice", "is_correct": false },
+        { "option_id": 2, "text": "Listen to them", "is_correct": true },
+        { "option_id": 3, "text": "Leave", "is_correct": false },
+        { "option_id": 4, "text": "Argue", "is_correct": false }
+      ],
+      "answer": "Listen to them"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How much money does the poet say can get you advice from Dear Abby and Billy Graham?",
+      "options": [
+        { "option_id": 1, "text": "10 dollars", "is_correct": false },
+        { "option_id": 2, "text": "20 cents", "is_correct": true },
+        { "option_id": 3, "text": "1 dollar", "is_correct": false },
+        { "option_id": 4, "text": "50 cents", "is_correct": false }
+      ],
+      "answer": "20 cents"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the speaker actually ask the listener to do?",
+      "answer": "The speaker asks the listener to just listen, not talk or do anything."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why does the speaker feel their feelings are being trampled on?",
+      "answer": "The speaker feels trampled on when the listener starts telling them why they shouldn't feel a certain way."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What makes the speaker feel the listener has failed them?",
+      "answer": "The speaker feels failed when the listener tries to do something to solve their problem instead of just listening."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How does the speaker describe their capability in the poem?",
+      "answer": "The speaker states they can do things for themselves and are not helpless, though they may be discouraged or faltering."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What negative impact does 'doing for others' have, according to the poem?",
+      "answer": "Doing something for someone that they can do for themselves contributes to their fear and inadequacy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What simple fact does the speaker want the listener to accept?",
+      "answer": "The speaker wants the listener to accept the simple fact that they feel what they feel, no matter how irrational it is."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happens when the speaker's irrational feelings are accepted?",
+      "answer": "Once accepted, the speaker can stop trying to convince the listener and focus on understanding the reasons behind the feelings."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why does the poet refer to God as 'mute'?",
+      "answer": "God is referred to as 'mute' because He listens without giving advice or trying to fix things immediately."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does God let people do according to the poem?",
+      "answer": "God listens and lets people work out their problems for themselves."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What deal does the speaker make with the listener at the end of the poem?",
+      "answer": "The speaker agrees to listen to the other person if they wait a minute for their turn to talk."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the difference between 'hearing' and 'listening' implied in the poem?",
+      "answer": "Hearing is just perceiving sound, while listening implies understanding and accepting the speaker's feelings without judgment or interference."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is advice considered 'cheap' by the speaker?",
+      "answer": "Advice is cheap because it is easily available from newspaper columnists like Dear Abby for the low price of a newspaper."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Identify two adjectives the speaker uses to describe their state of mind.",
+      "answer": "The speaker describes themselves as 'discouraged' and 'faltering'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What leads to the answers becoming 'obvious' for the speaker?",
+      "answer": "The answers become obvious when the irrational feelings are understood and the situation becomes clear."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What literary style is used in the poem 'Please Listen!'?",
+      "answer": "The poem uses a free, conversational, or colloquial style."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the poet's view on the difference between offering advice and truly listening.",
+      "answer": "The poet distinguishes clearly between advice and listening. Advice is portrayed as something 'cheap' and readily available, often given when not requested. It creates a sense of failure in the listener-speaker dynamic because it ignores the speaker's need to be heard. True listening, on the other hand, involves just hearing the person without judgment, interruption, or the urge to 'fix' things. The poet believes that listening allows the speaker to process their own feelings, whereas advice often shuts down that process."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "How does the poem describe the psychological impact of doing things for others that they can do themselves?",
+      "answer": "The poem suggests that when someone does something for another person that they are capable of doing themselves, it has a negative psychological impact. Instead of being helpful, it contributes to the person's feelings of 'fear and inadequacy'. It reinforces the idea that they are helpless, even if they are just currently discouraged or faltering. The poet emphasizes the importance of self-reliance and the need for individuals to tackle their own problems to overcome these negative feelings."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Why does the speaker use the example of God to explain effective listening?",
+      "answer": "The speaker uses God as the ultimate example of a good listener because God is described as 'mute' in the context of immediate conversation. God does not interrupt, give cheap advice, or try to 'fix things' for the person praying. Instead, God 'just listens' and allows the individual the space to work out their problems on their own. This silence and acceptance create a safe environment for the speaker to find their own clarity and solutions."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the significance of accepting 'irrational feelings' as presented in the poem.",
+      "answer": "The poem argues that accepting irrational feelings is a crucial step in emotional processing. When a listener tries to convince the speaker not to feel a certain way, it invalidates those feelings. However, if the listener accepts the feelings as a 'simple fact', the speaker can stop arguing and start examining the root cause of those feelings. The poet suggests that once the underlying reasons are understood, even irrational feelings begin to make sense, leading to clarity and obvious solutions."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Summarize the 'Dos and Don'ts' of listening based on the speaker's requests.",
+      "answer": "Based on the poem, the 'Dos' of listening include: just listening and hearing the speaker, accepting their feelings as facts, waiting for a turn to speak, and letting the speaker work things out. The 'Don'ts' include: giving advice when not asked, telling the speaker why they shouldn't feel a certain way, trying to solve the problem for them, and doing things for the speaker that they can do themselves. The core message is to provide presence and acceptance rather than intervention."
+    }
+  ]
+}

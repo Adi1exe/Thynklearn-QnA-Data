@@ -1,0 +1,473 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.05",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Precipitation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What percentage of the earth's surface is covered by water?",
+      "options": [
+        { "option_id": 1, "text": "50.5%", "is_correct": false },
+        { "option_id": 2, "text": "70.8%", "is_correct": true },
+        { "option_id": 3, "text": "80.2%", "is_correct": false },
+        { "option_id": 4, "text": "60.4%", "is_correct": false }
+      ],
+      "answer": "70.8%"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a form of precipitation?",
+      "options": [
+        { "option_id": 1, "text": "Snow", "is_correct": false },
+        { "option_id": 2, "text": "Hail", "is_correct": false },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Water vapour", "is_correct": true }
+      ],
+      "answer": "Water vapour"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "At what temperature does snow form in the atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Above freezing point", "is_correct": false },
+        { "option_id": 2, "text": "Below freezing point", "is_correct": true },
+        { "option_id": 3, "text": "At 10°C", "is_correct": false },
+        { "option_id": 4, "text": "At 100°C", "is_correct": false }
+      ],
+      "answer": "Below freezing point"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the process of gaseous water vapour turning directly into solid snow called?",
+      "options": [
+        { "option_id": 1, "text": "Evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Condensation", "is_correct": false },
+        { "option_id": 3, "text": "Sublimation", "is_correct": true },
+        { "option_id": 4, "text": "Precipitation", "is_correct": false }
+      ],
+      "answer": "Sublimation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which solid form of precipitation consists of friable and opaque layers?",
+      "options": [
+        { "option_id": 1, "text": "Hail", "is_correct": false },
+        { "option_id": 2, "text": "Snow", "is_correct": true },
+        { "option_id": 3, "text": "Ice", "is_correct": false },
+        { "option_id": 4, "text": "Sleet", "is_correct": false }
+      ],
+      "answer": "Snow"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why does snow not flow like water?",
+      "options": [
+        { "option_id": 1, "text": "Because it is liquid", "is_correct": false },
+        { "option_id": 2, "text": "Because it is in solid form", "is_correct": true },
+        { "option_id": 3, "text": "Because it is gaseous", "is_correct": false },
+        { "option_id": 4, "text": "Because it is heavy", "is_correct": false }
+      ],
+      "answer": "Because it is in solid form"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What happens when heavy snow accumulates?",
+      "options": [
+        { "option_id": 1, "text": "Floods occur", "is_correct": false },
+        { "option_id": 2, "text": "Transport and communication systems collapse", "is_correct": true },
+        { "option_id": 3, "text": "Crops grow faster", "is_correct": false },
+        { "option_id": 4, "text": "Temperature rises", "is_correct": false }
+      ],
+      "answer": "Transport and communication systems collapse"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is formed when water droplets freeze while moving upward in air currents?",
+      "options": [
+        { "option_id": 1, "text": "Snow", "is_correct": false },
+        { "option_id": 2, "text": "Hailstones", "is_correct": true },
+        { "option_id": 3, "text": "Dew", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Hailstones"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why do hailstones fall to the ground?",
+      "options": [
+        { "option_id": 1, "text": "Because of wind", "is_correct": false },
+        { "option_id": 2, "text": "Because of gravity", "is_correct": true },
+        { "option_id": 3, "text": "Because of heat", "is_correct": false },
+        { "option_id": 4, "text": "Because of clouds", "is_correct": false }
+      ],
+      "answer": "Because of gravity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What feature of hailstones is formed due to repeated upward and downward movements?",
+      "options": [
+        { "option_id": 1, "text": "Concentric layers", "is_correct": true },
+        { "option_id": 2, "text": "Smooth surface", "is_correct": false },
+        { "option_id": 3, "text": "Transparent core", "is_correct": false },
+        { "option_id": 4, "text": "Hollow center", "is_correct": false }
+      ],
+      "answer": "Concentric layers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which regions does hailstorm occur frequently in India?",
+      "options": [
+        { "option_id": 1, "text": "Equatorial parts", "is_correct": false },
+        { "option_id": 2, "text": "Cold zones", "is_correct": false },
+        { "option_id": 3, "text": "Certain parts during summer", "is_correct": true },
+        { "option_id": 4, "text": "Coastal areas", "is_correct": false }
+      ],
+      "answer": "Certain parts during summer"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why don't hailstorms occur in equatorial zones?",
+      "options": [
+        { "option_id": 1, "text": "Lack of moisture", "is_correct": false },
+        { "option_id": 2, "text": "Lack of heat", "is_correct": false },
+        { "option_id": 3, "text": "Lack of upward air currents", "is_correct": false },
+        { "option_id": 4, "text": "Heat prevents atmospheric freezing conditions", "is_correct": true }
+      ],
+      "answer": "Heat prevents atmospheric freezing conditions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which type of rainfall occurs in equatorial areas?",
+      "options": [
+        { "option_id": 1, "text": "Orographic rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Cyclonic rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Convectional rainfall", "is_correct": true },
+        { "option_id": 4, "text": "Frontal rainfall", "is_correct": false }
+      ],
+      "answer": "Convectional rainfall"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "When does convectional rainfall typically occur?",
+      "options": [
+        { "option_id": 1, "text": "In the morning", "is_correct": false },
+        { "option_id": 2, "text": "In the afternoon", "is_correct": true },
+        { "option_id": 3, "text": "At night", "is_correct": false },
+        { "option_id": 4, "text": "Throughout the day", "is_correct": false }
+      ],
+      "answer": "In the afternoon"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which region receives convectional rainfall?",
+      "options": [
+        { "option_id": 1, "text": "The Amazon valley", "is_correct": true },
+        { "option_id": 2, "text": "The Sahara desert", "is_correct": false },
+        { "option_id": 3, "text": "The Himalayas", "is_correct": false },
+        { "option_id": 4, "text": "Antarctica", "is_correct": false }
+      ],
+      "answer": "The Amazon valley"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What causes Orographic rainfall?",
+      "options": [
+        { "option_id": 1, "text": "Heating of land", "is_correct": false },
+        { "option_id": 2, "text": "Obstruction of moisture-laden winds by mountains", "is_correct": true },
+        { "option_id": 3, "text": "Cyclones", "is_correct": false },
+        { "option_id": 4, "text": "Condensation on the ground", "is_correct": false }
+      ],
+      "answer": "Obstruction of moisture-laden winds by mountains"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which side of the mountain receives more rainfall in Orographic type?",
+      "options": [
+        { "option_id": 1, "text": "Leeward side", "is_correct": false },
+        { "option_id": 2, "text": "Windward side", "is_correct": true },
+        { "option_id": 3, "text": "Rain shadow region", "is_correct": false },
+        { "option_id": 4, "text": "Both sides equally", "is_correct": false }
+      ],
+      "answer": "Windward side"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the area with low rainfall on the leeward side called?",
+      "options": [
+        { "option_id": 1, "text": "Flood plain", "is_correct": false },
+        { "option_id": 2, "text": "Rain shadow area", "is_correct": true },
+        { "option_id": 3, "text": "Wetland", "is_correct": false },
+        { "option_id": 4, "text": "Highland", "is_correct": false }
+      ],
+      "answer": "Rain shadow area"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which type of rainfall occurs in most parts of the world?",
+      "options": [
+        { "option_id": 1, "text": "Convectional", "is_correct": false },
+        { "option_id": 2, "text": "Orographic", "is_correct": true },
+        { "option_id": 3, "text": "Cyclonic", "is_correct": false },
+        { "option_id": 4, "text": "Frontal", "is_correct": false }
+      ],
+      "answer": "Orographic"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is a Cyclone?",
+      "options": [
+        { "option_id": 1, "text": "High pressure surrounded by low pressure", "is_correct": false },
+        { "option_id": 2, "text": "Low pressure surrounded by high pressure", "is_correct": true },
+        { "option_id": 3, "text": "Equal pressure area", "is_correct": false },
+        { "option_id": 4, "text": "A type of cloud", "is_correct": false }
+      ],
+      "answer": "Low pressure surrounded by high pressure"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In which zone does cyclonic rainfall occur more frequently?",
+      "options": [
+        { "option_id": 1, "text": "Torrid zone", "is_correct": false },
+        { "option_id": 2, "text": "Temperate zone", "is_correct": true },
+        { "option_id": 3, "text": "Frigid zone", "is_correct": false },
+        { "option_id": 4, "text": "Equatorial zone", "is_correct": false }
+      ],
+      "answer": "Temperate zone"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What instrument is used to measure rainfall?",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Barometer", "is_correct": false },
+        { "option_id": 3, "text": "Rain gauge", "is_correct": true },
+        { "option_id": 4, "text": "Anemometer", "is_correct": false }
+      ],
+      "answer": "Rain gauge"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the diameter of the funnel used in a Rain gauge?",
+      "options": [
+        { "option_id": 1, "text": "30 cm", "is_correct": false },
+        { "option_id": 2, "text": "20 cm", "is_correct": true },
+        { "option_id": 3, "text": "10 cm", "is_correct": false },
+        { "option_id": 4, "text": "50 cm", "is_correct": false }
+      ],
+      "answer": "20 cm"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How much water in the measuring jar represents 1mm of rainfall?",
+      "options": [
+        { "option_id": 1, "text": "10 cc", "is_correct": false },
+        { "option_id": 2, "text": "20 cc", "is_correct": false },
+        { "option_id": 3, "text": "30 cc", "is_correct": true },
+        { "option_id": 4, "text": "40 cc", "is_correct": false }
+      ],
+      "answer": "30 cc"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is Fog?",
+      "options": [
+        { "option_id": 1, "text": "Frozen water droplets", "is_correct": false },
+        { "option_id": 2, "text": "Dense microscopic water particles suspended in air", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Hail", "is_correct": false }
+      ],
+      "answer": "Dense microscopic water particles suspended in air"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is Dew?",
+      "options": [
+        { "option_id": 1, "text": "Frozen water droplets", "is_correct": false },
+        { "option_id": 2, "text": "Moisture condensed on cold objects", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Cloud", "is_correct": false }
+      ],
+      "answer": "Moisture condensed on cold objects"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is Frost?",
+      "options": [
+        { "option_id": 1, "text": "Liquid water droplets", "is_correct": false },
+        { "option_id": 2, "text": "Frozen water droplets on cold surfaces", "is_correct": true },
+        { "option_id": 3, "text": "Heavy rain", "is_correct": false },
+        { "option_id": 4, "text": "Water vapour", "is_correct": false }
+      ],
+      "answer": "Frozen water droplets on cold surfaces"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these is harmful to crops?",
+      "options": [
+        { "option_id": 1, "text": "Rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Acid rain", "is_correct": true },
+        { "option_id": 3, "text": "Dew", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Acid rain"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Where does acid rain occur?",
+      "options": [
+        { "option_id": 1, "text": "In forests", "is_correct": false },
+        { "option_id": 2, "text": "In industrial areas", "is_correct": true },
+        { "option_id": 3, "text": "In deserts", "is_correct": false },
+        { "option_id": 4, "text": "On mountains", "is_correct": false }
+      ],
+      "answer": "In industrial areas"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is Precipitation?",
+      "answer": "Precipitation is the process where water falls from the clouds to the ground in liquid or solid form."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Name the major forms of precipitation.",
+      "answer": "Snow, hail, and rainfall."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "How is snow formed?",
+      "answer": "When the temperature falls below freezing point, water vapour turns directly into solid snowflakes through sublimation."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the difference between ice and snow?",
+      "answer": "Snow is friable and opaque, formed by sublimation. Ice is hard, formed by freezing water."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are the effects of hailstones?",
+      "answer": "Hailstones can destroy crops and cause loss of life and property due to their weight and hardness."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Describe Convectional Rainfall.",
+      "answer": "In equatorial regions, intense heat causes air to rise and cool. This leads to condensation and heavy rainfall accompanied by lightning and thunder."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Describe Orographic Rainfall.",
+      "answer": "Winds laden with moisture are obstructed by mountains, forced to rise, cool, and condense, causing heavy rain on the windward side and less on the leeward side."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is a 'Rain Shadow Area'?",
+      "answer": "It is the region on the leeward side of a mountain that receives very little rainfall because the winds have lost most of their moisture."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Describe Cyclonic Rainfall.",
+      "answer": "Air from surrounding high-pressure areas converges towards a low-pressure center and rises. As it cools, the moisture condenses and falls as rain."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the mount of the rain gauge?",
+      "answer": "The rain gauge is placed on a mount that is 30 cm high to prevent splashing water from entering."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How is snowfall measured?",
+      "answer": "Snow is collected in a container, melted, and then the water volume is measured."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is acid rain?",
+      "answer": "Rainfall that contains harmful acids formed by the reaction of industrial pollutants with water vapour in the air."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How does fog affect human life?",
+      "answer": "Dense fog reduces visibility, affecting transport like roads, railways, waterways, and airways."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the condition for dew formation?",
+      "answer": "When the temperature of air layers near the surface reduces, water vapour condenses on cold objects."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "When does frost occur?",
+      "answer": "When the air temperature drops below 0°C, the dew on surfaces freezes into ice, forming frost."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "Explain the formation of hailstones.",
+      "answer": "Strong upward air currents push water droplets to higher altitudes where they freeze into ice particles. As they fall, upward currents push them up again, depositing new layers of ice (snow and water) around them. This concentric layering continues until they become heavy enough to fall to the ground as hailstones."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "Compare the three types of rainfall based on their cause and region.",
+      "answer": "1. Convectional: Caused by heat and rising air, common in equatorial regions. 2. Orographic: Caused by mountain barriers obstructing winds, common in coastal mountainous regions (e.g., India). 3. Cyclonic: Caused by low-pressure systems, common in temperate zones and brings widespread rain."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "Describe the construction and use of a Rain Gauge.",
+      "answer": "A rain gauge consists of a funnel with a 20 cm diameter attached to a bottle, placed on a 30 cm high mount in an open area. Rainwater collects in the bottle. This water is poured into a calibrated measuring jar where 30 cc of water equals 1 mm of rainfall. It measures liquid precipitation accurately."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "What are the effects of precipitation on the economy and environment?",
+      "answer": "Precipitation is the main source of fresh water. Excessive rain causes floods and crop damage. Scanty rain leads to drought and food shortage. The economy of agrarian countries like India depends heavily on rainfall. Acid rain harms living organisms and structures. Fog and hail can disrupt daily life and transport."
+    }
+  ]
+}

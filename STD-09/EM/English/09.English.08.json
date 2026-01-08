@@ -1,0 +1,173 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.08",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "2.3 Somebody's Mother"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'Somebody's Mother'?",
+      "options": [
+        { "option_id": 1, "text": "Charlotte Bronte", "is_correct": false },
+        { "option_id": 2, "text": "Mary Dow Brine", "is_correct": true },
+        { "option_id": 3, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Mary Dow Brine"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the weather condition in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Rainy and hot", "is_correct": false },
+        { "option_id": 2, "text": "Chilly with recent snow", "is_correct": true },
+        { "option_id": 3, "text": "Sunny and bright", "is_correct": false },
+        { "option_id": 4, "text": "Windy and dusty", "is_correct": false }
+      ],
+      "answer": "Chilly with recent snow"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The woman in the poem is described as __________.",
+      "options": [
+        { "option_id": 1, "text": "Young and beautiful", "is_correct": false },
+        { "option_id": 2, "text": "Old, ragged, and gray", "is_correct": true },
+        { "option_id": 3, "text": "Wealthy and proud", "is_correct": false },
+        { "option_id": 4, "text": "Fast and energetic", "is_correct": false }
+      ],
+      "answer": "Old, ragged, and gray"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who finally helped the old woman cross the street?",
+      "options": [
+        { "option_id": 1, "text": "A passing driver", "is_correct": false },
+        { "option_id": 2, "text": "A group of women", "is_correct": false },
+        { "option_id": 3, "text": "The 'gayest laddie' of the group", "is_correct": true },
+        { "option_id": 4, "text": "The police", "is_correct": false }
+      ],
+      "answer": "The 'gayest laddie' of the group"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why was the woman afraid to cross the street?",
+      "options": [
+        { "option_id": 1, "text": "She was afraid of being robbed", "is_correct": false },
+        { "option_id": 2, "text": "She feared being trampled by horses and wheels", "is_correct": true },
+        { "option_id": 3, "text": "She didn't know the way", "is_correct": false },
+        { "option_id": 4, "text": "It was too dark to see", "is_correct": false }
+      ],
+      "answer": "She feared being trampled by horses and wheels"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the old woman's prayer at night?",
+      "options": [
+        { "option_id": 1, "text": "For more wealth", "is_correct": false },
+        { "option_id": 2, "text": "That God be kind to the noble boy", "is_correct": true },
+        { "option_id": 3, "text": "For the snow to melt", "is_correct": false },
+        { "option_id": 4, "text": "For her own youth back", "is_correct": false }
+      ],
+      "answer": "That God be kind to the noble boy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Arrange the following in ascending order: infant, youth, adult, aged.",
+      "options": [
+        { "option_id": 1, "text": "Infant, youth, adult, aged", "is_correct": true },
+        { "option_id": 2, "text": "Aged, adult, youth, infant", "is_correct": false },
+        { "option_id": 3, "text": "Youth, infant, adult, aged", "is_correct": false },
+        { "option_id": 4, "text": "Adult, aged, youth, infant", "is_correct": false }
+      ],
+      "answer": "Infant, youth, adult, aged"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does 'unheeding' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Watching closely", "is_correct": false },
+        { "option_id": 2, "text": "Neglecting or ignoring", "is_correct": true },
+        { "option_id": 3, "text": "Helping quickly", "is_correct": false },
+        { "option_id": 4, "text": "Running fast", "is_correct": false }
+      ],
+      "answer": "Neglecting or ignoring"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which set of words is in the correct ascending order of intensity?",
+      "options": [
+        { "option_id": 1, "text": "Pleased, happy, joyful, ecstatic", "is_correct": true },
+        { "option_id": 2, "text": "Ecstatic, joyful, happy, pleased", "is_correct": false },
+        { "option_id": 3, "text": "Happy, pleased, ecstatic, joyful", "is_correct": false },
+        { "option_id": 4, "text": "Joyful, happy, pleased, ecstatic", "is_correct": false }
+      ],
+      "answer": "Pleased, happy, joyful, ecstatic"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'laddie'?",
+      "options": [
+        { "option_id": 1, "text": "A small girl", "is_correct": false },
+        { "option_id": 2, "text": "A young boy", "is_correct": true },
+        { "option_id": 3, "text": "An old man", "is_correct": false },
+        { "option_id": 4, "text": "A teacher", "is_correct": false }
+      ],
+      "answer": "A young boy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Why was the old woman reluctant to cross the street by herself?",
+      "answer": "The woman was reluctant because she was old and slow, the streets were slippery with snow, and she feared being knocked down by the passing horses and carriages[cite: 312]."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What did the boy say to his comrades after helping the woman?",
+      "answer": "He told them that she is 'somebody's mother' and hoped that someone would someday help his own mother if she were old, poor, and gray while he was far away[cite: 312]."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Explain the proverb 'Do unto others as you would have others do unto you'.",
+      "answer": "This proverb means that you should treat other people with the same kindness and respect that you would like to receive from them[cite: 311]."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Define 'ragged' and 'throng' as used in the poem.",
+      "answer": "'Ragged' means wearing old and torn clothes, and 'throng' refers to a large crowd of people[cite: 312]."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What image does the line 'The streets were white with a recent snow' create?",
+      "answer": "It creates a cold, wintery image of a street completely covered in fresh, white snow[cite: 312]."
+    },
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "Describe the character of the young boy who helped the old woman.",
+      "answer": "The boy is described as the 'gayest laddie' of the group, showing he was cheerful and full of life[cite: 312]. Unlike the others who ignored the woman, he was sensitive and compassionate[cite: 312]. He showed respect by calling her 'Mother' and gently guiding her across the street[cite: 312]. His actions were driven by a sense of duty and the realization that she was someone's mother, reflecting his noble character and foresight[cite: 312]."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "What is the theme of the poem 'Somebody's Mother'?",
+      "answer": "The central theme is kindness, empathy, and the moral duty to help those in need, especially the elderly. It emphasizes that every person is connected to a family and deserves respect[cite: 312]. The poem teaches us that a small act of kindness not only helps the recipient but also reflects the character of the helper and creates a cycle of compassion in society[cite: 312]."
+    }
+  ]
+}

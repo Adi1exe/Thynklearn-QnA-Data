@@ -1,0 +1,509 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.01",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Sources of History"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where is the main office of the National Archives of India located?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "New Delhi", "is_correct": true },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is considered the fourth pillar of democracy?",
+      "options": [
+        { "option_id": 1, "text": "Judiciary", "is_correct": false },
+        { "option_id": 2, "text": "Newspapers", "is_correct": true },
+        { "option_id": 3, "text": "Television", "is_correct": false },
+        { "option_id": 4, "text": "Internet", "is_correct": false }
+      ],
+      "answer": "Newspapers"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which period was there no alternative to print media?",
+      "options": [
+        { "option_id": 1, "text": "1991-2000", "is_correct": false },
+        { "option_id": 2, "text": "1961-2000", "is_correct": true },
+        { "option_id": 3, "text": "1947-1960", "is_correct": false },
+        { "option_id": 4, "text": "2000-2010", "is_correct": false }
+      ],
+      "answer": "1961-2000"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which technology did the Press Trust of India start using in the 1990s?",
+      "options": [
+        { "option_id": 1, "text": "Tele-printers", "is_correct": false },
+        { "option_id": 2, "text": "Satellite Broadcast", "is_correct": true },
+        { "option_id": 3, "text": "Radio waves", "is_correct": false },
+        { "option_id": 4, "text": "Fiber Optics", "is_correct": false }
+      ],
+      "answer": "Satellite Broadcast"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who founded the 'Empire of India Philatelic Society'?",
+      "options": [
+        { "option_id": 1, "text": "Jal Cooper", "is_correct": true },
+        { "option_id": 2, "text": "Kusumagraj", "is_correct": false },
+        { "option_id": 3, "text": "Amar Sheikh", "is_correct": false },
+        { "option_id": 4, "text": "P. L. Deshpande", "is_correct": false }
+      ],
+      "answer": "Jal Cooper"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the subject of Jal Cooper's expertise?",
+      "options": [
+        { "option_id": 1, "text": "Coins", "is_correct": false },
+        { "option_id": 2, "text": "Postage Stamps", "is_correct": true },
+        { "option_id": 3, "text": "Ancient Monuments", "is_correct": false },
+        { "option_id": 4, "text": "Folk Art", "is_correct": false }
+      ],
+      "answer": "Postage Stamps"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In which year did the Government of India issue the 'Jal Cooper' stamp?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1977", "is_correct": true },
+        { "option_id": 3, "text": "1985", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1977"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a material source of history?",
+      "options": [
+        { "option_id": 1, "text": "Coins", "is_correct": false },
+        { "option_id": 2, "text": "Ornaments", "is_correct": false },
+        { "option_id": 3, "text": "Newspapers", "is_correct": true },
+        { "option_id": 4, "text": "Museums", "is_correct": false }
+      ],
+      "answer": "Newspapers"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where is the headquarters of the Reserve Bank of India?",
+      "options": [
+        { "option_id": 1, "text": "New Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Mumbai", "is_correct": true },
+        { "option_id": 3, "text": "Kolkata", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which museum is located at the Aga Khan Palace in Pune?",
+      "options": [
+        { "option_id": 1, "text": "Chhatrapati Shivaji Maharaj Museum", "is_correct": false },
+        { "option_id": 2, "text": "Gandhi Memorial Museum", "is_correct": true },
+        { "option_id": 3, "text": "National Museum", "is_correct": false },
+        { "option_id": 4, "text": "Salar Jung Museum", "is_correct": false }
+      ],
+      "answer": "Gandhi Memorial Museum"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these is an Oral Source of history?",
+      "options": [
+        { "option_id": 1, "text": "Correspondence", "is_correct": false },
+        { "option_id": 2, "text": "Owis", "is_correct": true },
+        { "option_id": 3, "text": "Coins", "is_correct": false },
+        { "option_id": 4, "text": "Films", "is_correct": false }
+      ],
+      "answer": "Owis"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem 'Aavahan' on the backdrop of the Sino-Indian war?",
+      "options": [
+        { "option_id": 1, "text": "Kusumagraj", "is_correct": true },
+        { "option_id": 2, "text": "Anna Bhau Sathe", "is_correct": false },
+        { "option_id": 3, "text": "Amar Sheikh", "is_correct": false },
+        { "option_id": 4, "text": "P. L. Deshpande", "is_correct": false }
+      ],
+      "answer": "Kusumagraj"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When was the Film and Television Institute of India (FTII) established?",
+      "options": [
+        { "option_id": 1, "text": "1953", "is_correct": false },
+        { "option_id": 2, "text": "1960", "is_correct": true },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "1982", "is_correct": false }
+      ],
+      "answer": "1960"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where is the FTII located?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "New Delhi", "is_correct": false },
+        { "option_id": 3, "text": "Pune", "is_correct": true },
+        { "option_id": 4, "text": "Hyderabad", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which department produced newsreels on important events in India?",
+      "options": [
+        { "option_id": 1, "text": "Press Trust of India", "is_correct": false },
+        { "option_id": 2, "text": "Indian News Review", "is_correct": true },
+        { "option_id": 3, "text": "National Archives", "is_correct": false },
+        { "option_id": 4, "text": "Reserve Bank of India", "is_correct": false }
+      ],
+      "answer": "Indian News Review"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a written source?",
+      "options": [
+        { "option_id": 1, "text": "Diaries", "is_correct": false },
+        { "option_id": 2, "text": "Reference books", "is_correct": false },
+        { "option_id": 3, "text": "Ornaments", "is_correct": true },
+        { "option_id": 4, "text": "Postage Stamps", "is_correct": false }
+      ],
+      "answer": "Ornaments"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of these is a form of Audio-Visual source?",
+      "options": [
+        { "option_id": 1, "text": "Newspaper", "is_correct": false },
+        { "option_id": 2, "text": "Television", "is_correct": true },
+        { "option_id": 3, "text": "Proverbs", "is_correct": false },
+        { "option_id": 4, "text": "Coins", "is_correct": false }
+      ],
+      "answer": "Television"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who edited 'India's Stamp Journal'?",
+      "options": [
+        { "option_id": 1, "text": "Jal Cooper", "is_correct": true },
+        { "option_id": 2, "text": "P. L. Deshpande", "is_correct": false },
+        { "option_id": 3, "text": "Amar Sheikh", "is_correct": false },
+        { "option_id": 4, "text": "Anna Bhau Sathe", "is_correct": false }
+      ],
+      "answer": "Jal Cooper"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which book is published by the Information and Broadcasting Department as an annual reference?",
+      "options": [
+        { "option_id": 1, "text": "India 2000", "is_correct": true },
+        { "option_id": 2, "text": "Bharat 2000", "is_correct": false },
+        { "option_id": 3, "text": "History of India", "is_correct": false },
+        { "option_id": 4, "text": "The Archives", "is_correct": false }
+      ],
+      "answer": "India 2000"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which activists' powadas were popular during the Sanyukta Maharashtra Movement?",
+      "options": [
+        { "option_id": 1, "text": "Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh", "is_correct": true },
+        { "option_id": 2, "text": "Kusumagraj and P. L. Deshpande", "is_correct": false },
+        { "option_id": 3, "text": "Jal Cooper and Amar Sheikh", "is_correct": false },
+        { "option_id": 4, "text": "Anna Bhau Sathe and Kusumagraj", "is_correct": false }
+      ],
+      "answer": "Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which museum in Mumbai depicts the cultural heritage of the state?",
+      "options": [
+        { "option_id": 1, "text": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya", "is_correct": true },
+        { "option_id": 2, "text": "Victoria Memorial", "is_correct": false },
+        { "option_id": 3, "text": "Salar Jung Museum", "is_correct": false },
+        { "option_id": 4, "text": "Gandhi Smarak Sangrahalaya", "is_correct": false }
+      ],
+      "answer": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What do 'Owis' refer to in the context of history sources?",
+      "options": [
+        { "option_id": 1, "text": "Written documents", "is_correct": false },
+        { "option_id": 2, "text": "Oral traditions/verses", "is_correct": true },
+        { "option_id": 3, "text": "Ancient coins", "is_correct": false },
+        { "option_id": 4, "text": "Historical monuments", "is_correct": false }
+      ],
+      "answer": "Oral traditions/verses"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which organization is responsible for printing currency notes?",
+      "options": [
+        { "option_id": 1, "text": "Press Trust of India", "is_correct": false },
+        { "option_id": 2, "text": "Reserve Bank of India", "is_correct": true },
+        { "option_id": 3, "text": "State Bank of India", "is_correct": false },
+        { "option_id": 4, "text": "Government Mint", "is_correct": false }
+      ],
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What technological advancement in the 1990s changed the nature of PTI's operations?",
+      "options": [
+        { "option_id": 1, "text": "Telegraph", "is_correct": false },
+        { "option_id": 2, "text": "Satellite Broadcast", "is_correct": true },
+        { "option_id": 3, "text": "Radio", "is_correct": false },
+        { "option_id": 4, "text": "Printing Press", "is_correct": false }
+      ],
+      "answer": "Satellite Broadcast"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a role of the PTI?",
+      "options": [
+        { "option_id": 1, "text": "Providing news reports", "is_correct": false },
+        { "option_id": 2, "text": "Providing photographs", "is_correct": false },
+        { "option_id": 3, "text": "Printing currency", "is_correct": true },
+        { "option_id": 4, "text": "Providing articles on financial issues", "is_correct": false }
+      ],
+      "answer": "Printing currency"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define 'Archives'.",
+      "answer": "The place where historical documents are preserved is called 'Archives'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the significance of the National Archives of India?",
+      "answer": "It is the largest archive in Asia, located in New Delhi, and preserves important historical documents."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Why are newspapers called the 'fourth pillar of democracy'?",
+      "answer": "They are a major medium of information, shaping public opinion and providing details on national and international affairs."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What role does the Press Trust of India (PTI) play?",
+      "answer": "PTI provides news reports, photographs, and articles on financial and scientific issues to newspapers across India."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What changed for PTI in the 1990s?",
+      "answer": "PTI started using 'satellite broadcast' technology instead of tele-printers to send news all over the country."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Who was Jal Cooper?",
+      "answer": "Jal Cooper was an internationally acclaimed philatelist who founded the Empire of India Philatelic Society."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is philately?",
+      "answer": "Philately is the study and collection of postage stamps."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Name the book edited by Jal Cooper.",
+      "answer": "India's Stamp Journal."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What do postage stamps reveal about history?",
+      "answer": "They reveal changes in schemes, sizes, subjects (political leaders, flowers, animals), and events over time."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "List four types of Material Sources.",
+      "answer": "Coins, Places of Worship, Museums, Royal Seals."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What information do coins provide?",
+      "answer": "Coins provide information about metals used, economic status, and contemporary issues like population control and agriculture."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Where is the Reserve Bank of India headquartered?",
+      "answer": "Mumbai."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name the museum located in Mumbai mentioned in the text.",
+      "answer": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What unique collection is found in the Reserve Bank museum in Pune?",
+      "answer": "It is not a Reserve Bank museum, but a general museum mentioned as an example of private collections."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What are Oral Sources?",
+      "answer": "Sources like folktales, folksongs, proverbs, ballads, and owis transmitted by word of mouth."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Who were the activists inspired by powadas during the Sanyukta Maharashtra Movement?",
+      "answer": "Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What are Audio-Visual sources?",
+      "answer": "Channels like Television, Films, and the Internet are called Audio-Visual media."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "When was FTII established?",
+      "answer": "1960."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Where is FTII located?",
+      "answer": "Pune."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the full form of FTII?",
+      "answer": "Film and Television Institute of India."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What was the purpose of establishing FTII?",
+      "answer": "To provide public education through films and television."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is 'Indian News Review'?",
+      "answer": "An institute that produced newsreels on important events in politics, social issues, art, sports, and culture."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name a written source of history.",
+      "answer": "Diaries / Correspondence / Encyclopedia / Government Gazettes."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What did the 'Indian News Review' produce about leaders?",
+      "answer": "They produced documentaries about prominent social leaders and people who contributed to the country."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why are government gazettes trustworthy?",
+      "answer": "They are official publications by the government containing verified information on administration and policies."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Why is the Press Trust of India (PTI) considered an important source for writing the history of modern India?",
+      "answer": "After 1953, PTI became an important source of primary details for all major events. It provided reports, photographs, and articles on financial and scientific issues to newspapers. In the 1990s, it adopted satellite broadcast technology to disseminate news faster. The material provided by PTI is authentic and crucial for historians documenting modern Indian history."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Explain the contribution of Jal Cooper to the field of philately.",
+      "answer": "Jal Cooper was an internationally acclaimed philatelist who elevated the study of Indian postage stamps to an international level. He founded the first Philatelic Bureau in India and the 'Empire of India Philatelic Society'. He edited 'India's Stamp Journal' and wrote many books on the subject, giving a scientific bent to the hobby. The government issued a stamp in his honour in 1977."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "How do material sources like museums and coins help us understand history?",
+      "answer": "Material sources provide tangible evidence of the past. Coins reveal information about the metals used, economic conditions, and important contemporary issues (e.g., agriculture, population) depicted on them. Museums preserve and display the cultural and social heritage of a state, such as the Chhatrapati Shivaji Maharaj Museum. Private collections of unique items like lamps or cricket equipment also offer historical insights."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "Discuss the importance of audio-visual media as a source of history.",
+      "answer": "Audio-visual media, including television, films, and the internet, capture history in real-time. Institutes like the FTII and Indian News Review produced newsreels and documentaries on important political, social, and cultural events. These recordings serve as direct evidence of historical events and the lives of prominent leaders, making them essential for studying modern history."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Why are postage stamps considered a valuable repository of history even though they don't speak?",
+      "answer": "Although stamps don't speak, historians interpret them to reveal history. Stamps have undergone significant changes since independence, reflecting changing times through their variety in size, subjects, and colors. The Postal Department issues stamps on diverse themes like leaders, flowers, animals, and major events (jubilees), effectively documenting the nation's history and heritage."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Describe the role of the Film and Television Institute of India (FTII).",
+      "answer": "The FTII was started in Pune in 1960 to impart public education through cinema. It produced newsreels on important events in Indian politics, social issues, art, sports, and culture. It also made documentaries on prominent leaders and historic locations. These productions are now used as authentic audio-visual sources for writing the history of modern India."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "What information can be gathered from the 'India 2000' reference book?",
+      "answer": "The 'India 2000' annual reference book, published by the Information and Broadcasting Department, contains useful information about the land, its people, national symbols, political system, defence, education, and cultural events. It serves as a reliable written source for researchers and historians."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "Explain the significance of Oral Sources in preserving history.",
+      "answer": "Oral sources include folktales, folksongs, proverbs, ballads, and owis that are passed down through generations by word of mouth. They provide insights into the social life, traditions, and beliefs of the common people that may not be recorded in written documents. For example, the powadas of Lokshahir Anna Bhau Sathe inspired activists during the Sanyukta Maharashtra Movement."
+    }
+  ]
+}

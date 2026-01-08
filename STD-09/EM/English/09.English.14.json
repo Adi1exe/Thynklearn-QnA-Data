@@ -1,0 +1,473 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.04",
+    "standard": "9",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "The United Nations (UN)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which international organization was established after the First World War?",
+      "options": [
+        { "option_id": 1, "text": "The United Nations", "is_correct": false },
+        { "option_id": 2, "text": "The League of Nations", "is_correct": true },
+        { "option_id": 3, "text": "The European Union", "is_correct": false },
+        { "option_id": 4, "text": "NATO", "is_correct": false }
+      ],
+      "answer": "The League of Nations"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "When was the Atlantic Treaty signed?",
+      "options": [
+        { "option_id": 1, "text": "24th October 1945", "is_correct": false },
+        { "option_id": 2, "text": "14th August 1941", "is_correct": true },
+        { "option_id": 3, "text": "1st November 1994", "is_correct": false },
+        { "option_id": 4, "text": "14th August 1945", "is_correct": false }
+      ],
+      "answer": "14th August 1941"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who signed the Atlantic Treaty?",
+      "options": [
+        { "option_id": 1, "text": "Stalin and Churchill", "is_correct": false },
+        { "option_id": 2, "text": "Roosevelt and Churchill", "is_correct": true },
+        { "option_id": 3, "text": "Roosevelt and Stalin", "is_correct": false },
+        { "option_id": 4, "text": "Hitler and Mussolini", "is_correct": false }
+      ],
+      "answer": "Roosevelt and Churchill"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When is United Nations Day celebrated?",
+      "options": [
+        { "option_id": 1, "text": "14th August", "is_correct": false },
+        { "option_id": 2, "text": "24th October", "is_correct": true },
+        { "option_id": 3, "text": "26th January", "is_correct": false },
+        { "option_id": 4, "text": "1st May", "is_correct": false }
+      ],
+      "answer": "24th October"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many member nations are currently in the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "50", "is_correct": false },
+        { "option_id": 2, "text": "193", "is_correct": true },
+        { "option_id": 3, "text": "150", "is_correct": false },
+        { "option_id": 4, "text": "200", "is_correct": false }
+      ],
+      "answer": "193"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a main organ of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "General Assembly", "is_correct": false },
+        { "option_id": 2, "text": "Security Council", "is_correct": false },
+        { "option_id": 3, "text": "World Health Organisation", "is_correct": true },
+        { "option_id": 4, "text": "Secretariat", "is_correct": false }
+      ],
+      "answer": "World Health Organisation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of the United Nations located?",
+      "options": [
+        { "option_id": 1, "text": "Geneva", "is_correct": false },
+        { "option_id": 2, "text": "The Hague", "is_correct": false },
+        { "option_id": 3, "text": "New York", "is_correct": true },
+        { "option_id": 4, "text": "London", "is_correct": false }
+      ],
+      "answer": "New York"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an official language of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "English", "is_correct": false },
+        { "option_id": 2, "text": "German", "is_correct": true },
+        { "option_id": 3, "text": "French", "is_correct": false },
+        { "option_id": 4, "text": "Arabic", "is_correct": false }
+      ],
+      "answer": "German"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many permanent members are there in the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": false },
+        { "option_id": 3, "text": "5", "is_correct": true },
+        { "option_id": 4, "text": "54", "is_correct": false }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which country is NOT a permanent member of the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "China", "is_correct": false },
+        { "option_id": 2, "text": "France", "is_correct": false },
+        { "option_id": 3, "text": "Germany", "is_correct": true },
+        { "option_id": 4, "text": "Russia", "is_correct": false }
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the term of non-permanent members of the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "5 years", "is_correct": false },
+        { "option_id": 2, "text": "2 years", "is_correct": true },
+        { "option_id": 3, "text": "3 years", "is_correct": false },
+        { "option_id": 4, "text": "1 year", "is_correct": false }
+      ],
+      "answer": "2 years"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How many votes are needed to pass a decision in the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "All 15 members", "is_correct": false },
+        { "option_id": 2, "text": "Any 9 members", "is_correct": false },
+        { "option_id": 3, "text": "5 permanent and 4 non-permanent members", "is_correct": true },
+        { "option_id": 4, "text": "Simple majority", "is_correct": false }
+      ],
+      "answer": "5 permanent and 4 non-permanent members"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How many members are in the Economic and Social Council?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": false },
+        { "option_id": 2, "text": "54", "is_correct": true },
+        { "option_id": 3, "text": "193", "is_correct": false },
+        { "option_id": 4, "text": "50", "is_correct": false }
+      ],
+      "answer": "54"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the tenure of the Secretary General?",
+      "options": [
+        { "option_id": 1, "text": "3 years", "is_correct": false },
+        { "option_id": 2, "text": "5 years", "is_correct": true },
+        { "option_id": 3, "text": "9 years", "is_correct": false },
+        { "option_id": 4, "text": "2 years", "is_correct": false }
+      ],
+      "answer": "5 years"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where is the International Court of Justice located?",
+      "options": [
+        { "option_id": 1, "text": "New York", "is_correct": false },
+        { "option_id": 2, "text": "Geneva", "is_correct": false },
+        { "option_id": 3, "text": "The Hague", "is_correct": true },
+        { "option_id": 4, "text": "Paris", "is_correct": false }
+      ],
+      "answer": "The Hague"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How many judges are there in the International Court of Justice?",
+      "options": [
+        { "option_id": 1, "text": "9", "is_correct": false },
+        { "option_id": 2, "text": "10", "is_correct": false },
+        { "option_id": 3, "text": "15", "is_correct": true },
+        { "option_id": 4, "text": "5", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which organ's work ended when Palau got independence?",
+      "options": [
+        { "option_id": 1, "text": "Security Council", "is_correct": false },
+        { "option_id": 2, "text": "Trusteeship Council", "is_correct": true },
+        { "option_id": 3, "text": "Economic and Social Council", "is_correct": false },
+        { "option_id": 4, "text": "Secretariat", "is_correct": false }
+      ],
+      "answer": "Trusteeship Council"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "When did Palau get independence?",
+      "options": [
+        { "option_id": 1, "text": "24th October 1945", "is_correct": false },
+        { "option_id": 2, "text": "1st November 1994", "is_correct": true },
+        { "option_id": 3, "text": "14th August 1947", "is_correct": false },
+        { "option_id": 4, "text": "1st January 2000", "is_correct": false }
+      ],
+      "answer": "1st November 1994"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which organization works for nutritious food and child health?",
+      "options": [
+        { "option_id": 1, "text": "UNESCO", "is_correct": false },
+        { "option_id": 2, "text": "UNICEF", "is_correct": true },
+        { "option_id": 3, "text": "WHO", "is_correct": false },
+        { "option_id": 4, "text": "ILO", "is_correct": false }
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "India was the first country to raise which issue in the UN in 1946?",
+      "options": [
+        { "option_id": 1, "text": "Terrorism", "is_correct": false },
+        { "option_id": 2, "text": "Racism", "is_correct": true },
+        { "option_id": 3, "text": "Climate Change", "is_correct": false },
+        { "option_id": 4, "text": "Disarmament", "is_correct": false }
+      ],
+      "answer": "Racism"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was the United Nations established after the Second World War?",
+      "answer": "The United Nations was established to instill the understanding that destructive wars must stop and to create a mechanism for establishing world peace[cite: 634, 636]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the Atlantic Treaty?",
+      "answer": "The Atlantic Treaty was an agreement signed on 14th August 1941 between Winston Churchill and Franklin D. Roosevelt to set up a permanent mechanism for international security[cite: 638]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are the official languages of the United Nations?",
+      "answer": "The official languages are English, French, Russian, Spanish, Chinese, and Arabic[cite: 690]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the primary significance of the General Assembly?",
+      "answer": "It serves as a platform for representatives of all member nations to discuss and make policy decisions on global issues[cite: 684]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How are decisions made in the General Assembly?",
+      "answer": "Decisions in the General Assembly are taken by majority and are in the form of resolutions[cite: 682, 683]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who has 'Veto' power in the Security Council?",
+      "answer": "The five permanent members—America, Russia, England, France, and China—have the Veto power[cite: 694]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happens if a permanent member uses their Veto power?",
+      "answer": "If even one permanent member uses the Veto (gives a negative vote), the decision cannot be taken[cite: 696]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the main responsibility of the Security Council?",
+      "answer": "The main responsibility is to maintain international peace and security[cite: 698]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How are members of the Economic and Social Council selected?",
+      "answer": "The 54 members are selected by the General Assembly for a tenure of three years[cite: 706, 707]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are the main functions of the Secretariat?",
+      "answer": "The Secretariat carries out administrative tasks, organizes meetings, compiles information, and supplies information to the media[cite: 713, 722, 723, 724]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who heads the Secretariat and how are they chosen?",
+      "answer": "The Secretary General heads the Secretariat and is chosen by the General Assembly and Security Council for a five-year term[cite: 714, 720]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the role of the International Court of Justice?",
+      "answer": "Its role is to settle disputes between member nations, interpret international law, and advise UN organs on legal issues[cite: 730, 731, 735]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the International Criminal Court?",
+      "answer": "It is an international tribunal headquartered in The Hague that prosecutes individuals for crimes like genocide and war crimes[cite: 736, 737]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was the Trusteeship Council established?",
+      "answer": "It was established to help developed nations administer undeveloped territories and assist them in attaining independence and democracy[cite: 739, 740]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are the Millennium Development Goals?",
+      "answer": "These are goals decided in 2000 to eliminate poverty, hunger, promote education, and improve health standards within a set time period[cite: 745, 749, 755]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the role of UNICEF?",
+      "answer": "UNICEF works towards making nutritious food and health care available to children[cite: 757]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does UNESCO promote?",
+      "answer": "UNESCO promotes peace and security by fostering cooperation in education, science, and culture[cite: 759]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does the UN ensure peace in strife-torn areas?",
+      "answer": "The UN creates awareness about human rights, helps conduct elections, starts schools, and restores normalcy in conflict zones[cite: 766]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the function of UN Peacekeeping Forces?",
+      "answer": "They create favorable circumstances for permanent peace in conflict-ridden areas and provide security[cite: 771, 773]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Describe India's contribution to UN peacekeeping.",
+      "answer": "India has consistently sent troops to UN peacekeeping forces, including an all-woman peacekeeping force[cite: 783, 784]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What issues has India raised on the UN platform?",
+      "answer": "India has raised issues like decolonization, disarmament, racial segregation, and problems of developing countries[cite: 780, 782]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the 'Atlantic Treaty' related to?",
+      "answer": "It is related to the decision to set up a permanent mechanism for international security after WWII[cite: 638]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How many countries drafted the UN Charter?",
+      "answer": "Representatives of fifty countries drafted the Charter of the United Nations[cite: 641]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the status of member nations in the UN?",
+      "answer": "All member nations have the same status; there is no discrimination based on size, economy, or military power[cite: 661]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Can the General Assembly make laws?",
+      "answer": "No, the General Assembly only passes resolutions; it does not make laws[cite: 683]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who elects the non-permanent members of the Security Council?",
+      "answer": "The General Assembly elects the non-permanent members of the Security Council[cite: 686]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the tenure of a judge in the International Court of Justice?",
+      "answer": "Every judge has a tenure of nine years[cite: 728]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the main objective of the Economic and Social Council?",
+      "answer": "Its main objective is to coordinate the economic and social policies of the United Nations[cite: 705]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How often does the General Assembly meet?",
+      "answer": "The General Assembly meets in its session every year from September to December[cite: 681]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What reform is India seeking in the Security Council?",
+      "answer": "India is making efforts to get permanent membership of the Security Council[cite: 703]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the principles of the United Nations.",
+      "answer": "The United Nations functions on specific principles. Firstly, all member nations have equal status regardless of their geographical size, economic strength, or military power[cite: 661]. Secondly, all members must respect the freedom and geographical unity of other nations[cite: 662]. Finally, all disputes and mutual differences among member nations must be solved through peaceful means[cite: 663]."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the structure and voting process of the UN Security Council.",
+      "answer": "The Security Council consists of 15 members: five permanent (America, Russia, England, France, China) and ten non-permanent members elected every two years[cite: 691, 692, 694]. The five permanent members possess 'Veto power'. For any substantive decision to be passed, it requires the assent of all five permanent members plus four non-permanent members[cite: 695]. If a single permanent member casts a negative vote (veto), the decision cannot be taken[cite: 696]."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What are the key functions of the Economic and Social Council?",
+      "answer": "The Economic and Social Council coordinates UN economic and social policies[cite: 705]. Its functions include initiating global discussions on poverty, unemployment, and inequality[cite: 709]. It discusses women's empowerment, human rights, and global trade[cite: 710]. It also strives to establish cultural and educational cooperation internationally [cite: 711] and coordinates the work of affiliated organizations[cite: 712]."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the objectives of the United Nations.",
+      "answer": "The United Nations aims to establish international peace by taking necessary measures[cite: 650]. Its specific objectives are to establish friendly relations among nations [cite: 653], enhance international security by solving disputes [cite: 654], and safeguard and foster human rights and freedom[cite: 655]. Additionally, it aims to enhance economic cooperation at the international level[cite: 656]."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How does the United Nations work towards the preservation of peace?",
+      "answer": "The UN aims to settle conflicts peacefully using methods like appointing intermediaries, legal procedures, or arbitrators[cite: 761, 763]. If needed, it may use military means. In modern times, it focuses on human security against terrorism and religious conflict[cite: 764]. It works to prevent violence in strife-torn areas and restore normalcy by starting schools, conducting elections, and creating human rights awareness[cite: 766]."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Write a note on India's relationship and role in the United Nations.",
+      "answer": "India has been involved with the UN since before its establishment, participating in early conferences[cite: 779]. It has raised key issues like decolonization, disarmament, and racism—being the first to raise the racism issue in 1946[cite: 780, 781]. India leads discussions on developing countries' problems and actively sends troops, including an all-woman force, for UN peacekeeping missions[cite: 782, 783, 784]. India is also currently seeking permanent membership in the Security Council[cite: 703]."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the Millennium Development Goals set by the UN.",
+      "answer": "In 2000, UN member nations agreed on goals for the new millennium[cite: 745]. These include eliminating poverty and hunger, providing primary education, and empowering women[cite: 749, 750, 751]. Other goals are reducing infant mortality, caring for pregnant women's health, fighting diseases like AIDS and malaria, and protecting the environment while fostering cooperation between developed and developing countries[cite: 752, 753, 754]."
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Science.08",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Useful and Harmful Microbes"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is a useful microbe found in buttermilk?",
+      "options": [
+        { "option_id": 1, "text": "Clostridium", "is_correct": false },
+        { "option_id": 2, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 3, "text": "Lactobacilli", "is_correct": true },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Lactobacilli"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Lactobacilli are ________ bacteria.",
+      "options": [
+        { "option_id": 1, "text": "Aerobic", "is_correct": false },
+        { "option_id": 2, "text": "Anaerobic", "is_correct": true },
+        { "option_id": 3, "text": "Pathogenic", "is_correct": false },
+        { "option_id": 4, "text": "Harmful", "is_correct": false }
+      ],
+      "answer": "Anaerobic"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which microbe helps in biological nitrogen fixation?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Rhizobium", "is_correct": true },
+        { "option_id": 3, "text": "Yeast", "is_correct": false },
+        { "option_id": 4, "text": "Penicillium", "is_correct": false }
+      ],
+      "answer": "Rhizobium"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Yeast reproduces asexually by ________.",
+      "options": [
+        { "option_id": 1, "text": "Binary fission", "is_correct": false },
+        { "option_id": 2, "text": "Budding", "is_correct": true },
+        { "option_id": 3, "text": "Sporulation", "is_correct": false },
+        { "option_id": 4, "text": "Fragmentation", "is_correct": false }
+      ],
+      "answer": "Budding"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which gas is released during fermentation of dough by yeast?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Penicillin is obtained from a ________.",
+      "options": [
+        { "option_id": 1, "text": "Bacterium", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": false },
+        { "option_id": 3, "text": "Fungus", "is_correct": true },
+        { "option_id": 4, "text": "Protozoan", "is_correct": false }
+      ],
+      "answer": "Fungus"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The first antibiotic, Penicillin, was discovered by ________.",
+      "options": [
+        { "option_id": 1, "text": "Louis Pasteur", "is_correct": false },
+        { "option_id": 2, "text": "Alexander Fleming", "is_correct": true },
+        { "option_id": 3, "text": "Edward Jenner", "is_correct": false },
+        { "option_id": 4, "text": "Robert Koch", "is_correct": false }
+      ],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which bacteria cause food poisoning?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacilli", "is_correct": false },
+        { "option_id": 2, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 3, "text": "Clostridium", "is_correct": true },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Clostridium"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Dengue is caused by ________.",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Fungi", "is_correct": false },
+        { "option_id": 3, "text": "Virus", "is_correct": true },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Malaria is caused by ________.",
+      "options": [
+        { "option_id": 1, "text": "Plasmodium (Protozoa)", "is_correct": true },
+        { "option_id": 2, "text": "Bacteria", "is_correct": false },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Virus", "is_correct": false }
+      ],
+      "answer": "Plasmodium (Protozoa)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Antibiotics mainly act against ________.",
+      "options": [
+        { "option_id": 1, "text": "Viruses", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Algae", "is_correct": false },
+        { "option_id": 4, "text": "Fungi only", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Rhizobium bacteria live in the ________ of leguminous plants.",
+      "options": [
+        { "option_id": 1, "text": "Leaves", "is_correct": false },
+        { "option_id": 2, "text": "Stems", "is_correct": false },
+        { "option_id": 3, "text": "Root nodules", "is_correct": true },
+        { "option_id": 4, "text": "Flowers", "is_correct": false }
+      ],
+      "answer": "Root nodules"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Yeast is a type of ________ fungus.",
+      "options": [
+        { "option_id": 1, "text": "Multicellular", "is_correct": false },
+        { "option_id": 2, "text": "Unicellular", "is_correct": true },
+        { "option_id": 3, "text": "Prokaryotic", "is_correct": false },
+        { "option_id": 4, "text": "Autotrophic", "is_correct": false }
+      ],
+      "answer": "Unicellular"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The process of conversion of sugar into alcohol by yeast is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Respiration", "is_correct": false },
+        { "option_id": 2, "text": "Fermentation", "is_correct": true },
+        { "option_id": 3, "text": "Digestion", "is_correct": false },
+        { "option_id": 4, "text": "Photosynthesis", "is_correct": false }
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is a fungal disease in humans?",
+      "options": [
+        { "option_id": 1, "text": "Cholera", "is_correct": false },
+        { "option_id": 2, "text": "Ringworm", "is_correct": true },
+        { "option_id": 3, "text": "Typhoid", "is_correct": false },
+        { "option_id": 4, "text": "AIDS", "is_correct": false }
+      ],
+      "answer": "Ringworm"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which acid is produced during the fermentation of milk by Lactobacilli?",
+      "options": [
+        { "option_id": 1, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 2, "text": "Lactic acid", "is_correct": true },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Hydrochloric acid", "is_correct": false }
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The relationship between Rhizobium and leguminous plants is ________.",
+      "options": [
+        { "option_id": 1, "text": "Parasitic", "is_correct": false },
+        { "option_id": 2, "text": "Symbiotic", "is_correct": true },
+        { "option_id": 3, "text": "Saprophytic", "is_correct": false },
+        { "option_id": 4, "text": "Competitive", "is_correct": false }
+      ],
+      "answer": "Symbiotic"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Bio-fuels are produced by the fermentation of ________.",
+      "options": [
+        { "option_id": 1, "text": "Plastics", "is_correct": false },
+        { "option_id": 2, "text": "Metals", "is_correct": false },
+        { "option_id": 3, "text": "Agricultural waste (Molasses)", "is_correct": true },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Agricultural waste (Molasses)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which species of mosquito spreads Dengue?",
+      "options": [
+        { "option_id": 1, "text": "Anopheles", "is_correct": false },
+        { "option_id": 2, "text": "Aedes aegypti", "is_correct": true },
+        { "option_id": 3, "text": "Culex", "is_correct": false },
+        { "option_id": 4, "text": "Housefly", "is_correct": false }
+      ],
+      "answer": "Aedes aegypti"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Swine Flu (H1N1) is a ________ disease.",
+      "options": [
+        { "option_id": 1, "text": "Bacterial", "is_correct": false },
+        { "option_id": 2, "text": "Fungal", "is_correct": false },
+        { "option_id": 3, "text": "Viral", "is_correct": true },
+        { "option_id": 4, "text": "Protozoan", "is_correct": false }
+      ],
+      "answer": "Viral"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Use of oil spills in oceans can be cleaned by ________.",
+      "options": [
+        { "option_id": 1, "text": "Lactobacilli", "is_correct": false },
+        { "option_id": 2, "text": "Hydrocarbonoclastic bacteria (Alcanivorax)", "is_correct": true },
+        { "option_id": 3, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 4, "text": "Clostridium", "is_correct": false }
+      ],
+      "answer": "Hydrocarbonoclastic bacteria (Alcanivorax)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Antibiotics that are effective against a wide variety of bacteria are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Narrow spectrum antibiotics", "is_correct": false },
+        { "option_id": 2, "text": "Broad spectrum antibiotics", "is_correct": true },
+        { "option_id": 3, "text": "Antivirals", "is_correct": false },
+        { "option_id": 4, "text": "Vaccines", "is_correct": false }
+      ],
+      "answer": "Broad spectrum antibiotics"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Penicillin is effective against infections caused by ________.",
+      "options": [
+        { "option_id": 1, "text": "Staphylococci", "is_correct": true },
+        { "option_id": 2, "text": "Viruses", "is_correct": false },
+        { "option_id": 3, "text": "Amoeba", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Staphylococci"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "AIDS is caused by ________.",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "HIV (Virus)", "is_correct": true },
+        { "option_id": 3, "text": "Fungus", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "HIV (Virus)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Probiotics contain ________ microbes.",
+      "options": [
+        { "option_id": 1, "text": "Dead", "is_correct": false },
+        { "option_id": 2, "text": "Active / Useful", "is_correct": true },
+        { "option_id": 3, "text": "Harmful", "is_correct": false },
+        { "option_id": 4, "text": "Pathogenic", "is_correct": false }
+      ],
+      "answer": "Active / Useful"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are lactobacilli?",
+      "answer": "Lactobacilli are minute, rectangular-shaped, anaerobic bacteria that convert milk into yoghurt."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "How is yoghurt made from milk?",
+      "answer": "Lactobacilli ferment the lactose sugar in milk into lactic acid, which coagulates milk proteins to form yoghurt."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is symbiosis?",
+      "answer": "Symbiosis is a mutually beneficial relationship between two different organisms living together. Example: Rhizobium and leguminous plants."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the role of Rhizobium?",
+      "answer": "Rhizobium bacteria fix atmospheric nitrogen into nitrates and nitrites, providing essential nitrogen compounds to plants."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why are leguminous plants rich in proteins?",
+      "answer": "Due to nitrogen fixation by Rhizobium bacteria in their root nodules, leguminous plants get ample nitrogen to synthesize proteins."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is yeast?",
+      "answer": "Yeast is a unicellular, eukaryotic fungus that reproduces by budding and performs fermentation."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is fermentation?",
+      "answer": "Fermentation is a chemical process where microbes convert organic compounds (like sugar) into simpler substances (like alcohol) and energy."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why does bread become spongy?",
+      "answer": "Yeast ferments sugar in the dough, releasing carbon dioxide gas. The bubbles of CO₂ make the dough rise and become spongy."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are antibiotics?",
+      "answer": "Antibiotics are carbon compounds obtained from bacteria and fungi that destroy or prevent the growth of harmful micro-organisms."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What are Broad Spectrum Antibiotics?",
+      "answer": "Antibiotics that are effective against a wide variety of bacteria are called broad-spectrum antibiotics. e.g., Amoxicillin."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What are Narrow Spectrum Antibiotics?",
+      "answer": "Antibiotics that are effective against limited or specific types of bacteria are called narrow-spectrum antibiotics. e.g., Penicillin."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is Penicillin?",
+      "answer": "Penicillin is an antibiotic obtained from the fungus Penicillium, used to control infections caused by Staphylococci, Clostridia, etc."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What caution should be taken with antibiotics?",
+      "answer": "Antibiotics should be taken only on a doctor's prescription and the full course must be completed."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the National Institute of Virology (NIV)?",
+      "answer": "NIV, located in Pune, undertakes research on viral diseases like measles, jaundice, fever, and flu."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What are harmful microbes?",
+      "answer": "Microbes that cause diseases in plants, animals, and humans or spoil food are called harmful microbes."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How does Clostridium cause food poisoning?",
+      "answer": "Clostridium bacteria produce toxins in cooked food that spoil it and make it dangerous to eat."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the shape of Clostridium bacteria?",
+      "answer": "They are rod-shaped and produce bottle-shaped endospores in adverse conditions."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How do fungi cause diseases?",
+      "answer": "Fungal spores germinate on moist skin or food, penetrating deep with fungal threads (hyphae) to suck nutrition, causing infection or spoilage."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Name two viral diseases.",
+      "answer": "AIDS, Hepatitis, Polio, Influenza."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Name two bacterial diseases.",
+      "answer": "Typhoid, Cholera, Tuberculosis."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name two protozoan diseases.",
+      "answer": "Malaria, Amoebiasis."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How is Dengue transmitted?",
+      "answer": "Dengue virus is transmitted through the bite of the female Aedes aegypti mosquito."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are probiotics?",
+      "answer": "Probiotics are food products (like yoghurt) containing active, useful bacteria that improve gut health and immunity."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why are bio-remediation bacteria useful?",
+      "answer": "They are used to clear oil spills in oceans and treat sewage by decomposing harmful chemicals."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is 'bio-fuel'?",
+      "answer": "A renewable fuel (like ethanol) produced by the fermentation of agricultural waste (molasses) by yeast."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why should we not eat food with fungal growth?",
+      "answer": "Fungi release mycotoxins into the food which are poisonous and can cause severe illness."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How is vinegar produced?",
+      "answer": "Vinegar (Acetic acid) is produced by the fermentation of alcohol by bacteria like Acetobacter."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the function of 'Rhizobium vaccine'?",
+      "answer": "Seeds are coated with Rhizobium solution before sowing to supply nitrogen to the growing plants (Rhizobial inoculation)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happens if you take antibiotics for a viral infection?",
+      "answer": "Antibiotics do not work against viruses, so they are useless for viral infections and may harm useful body bacteria."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the fungus used to make antibiotics.",
+      "answer": "Penicillium."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is 'budding' in yeast?",
+      "answer": "It is a method of asexual reproduction where a small bud grows on the parent cell and eventually separates to form a new cell."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are naphthalene balls used with clothes?",
+      "answer": "To prevent the growth of fungi and insects that can damage clothes."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the odd one out: Pneumonia, Diphtheria, Chickenpox, Cholera?",
+      "answer": "Chickenpox (Viral disease), others are Bacterial."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the odd one out: Lactobacilli, Rhizobium, Yeast, Clostridium?",
+      "answer": "Clostridium (Harmful), others are Useful microbes."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the odd one out: Root rot, Rust, Rubella, Mosaic?",
+      "answer": "Rubella (Human disease), others are Plant diseases."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name the pathogen for Malaria.",
+      "answer": "Plasmodium vivax (Protozoa)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are pathogens?",
+      "answer": "Disease-causing micro-organisms are called pathogens."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How can we prevent fungal growth on food?",
+      "answer": "By keeping food covered, dry, and cool (refrigeration), or using preservatives."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why does milk turn sour in summer?",
+      "answer": "Higher temperatures promote the growth of Lactobacilli which rapidly produce lactic acid, turning milk sour."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is 'Xanthan gum'?",
+      "answer": "A product obtained by fermenting starch with Xanthomonas bacteria, used as a thickener in foods like ice creams."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which microbe is used to make cheese?",
+      "answer": "Lactobacilli and certain fungi."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are the symptoms of Dengue?",
+      "answer": "High fever, headache, vomiting, and severe joint/muscle pain."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does AIDS spread?",
+      "answer": "Through contact with infected blood, semen, or from mother to child; not by casual contact."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is 'Rhizobial Inoculation'?",
+      "answer": "The process of coating seeds with Rhizobium culture before sowing to ensure nitrogen supply."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name the bacteria that produce vitamins in the human gut.",
+      "answer": "Lactobacilli and E. coli (some strains) help produce vitamins."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Can antibiotics kill human cells?",
+      "answer": "No, antibiotics target bacterial cell walls or processes not present in human cells."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the vector for Malaria?",
+      "answer": "Female Anopheles mosquito."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why are pickles kept in oil or salt?",
+      "answer": "Oil and salt act as preservatives, creating an environment where harmful microbes cannot grow."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the effect of 'Swine Flu'?",
+      "answer": "It is a respiratory viral disease causing fever, cough, and sore throat."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do vaccines work?",
+      "answer": "Vaccines introduce inactive pathogens to the body, stimulating the immune system to produce antibodies for future protection."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Describe the structure and uses of Lactobacilli.",
+      "answer": "Structure: Minute, rectangular, anaerobic bacteria. Uses: 1. Making yoghurt, buttermilk, cheese. 2. Fermentation of pickles and cider. 3. Producing probiotics for gut health. 4. Treating digestive disorders. 5. Leavening bread."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Explain the symbiotic relationship of Rhizobium bacteria.",
+      "answer": "Rhizobium lives in root nodules of leguminous plants. It takes food/energy from the plant and in return supplies nitrogen compounds (nitrates/amino acids). This mutual benefit is called symbiosis. It reduces the need for chemical fertilizers. "
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Describe the structure and reproduction of Yeast.",
+      "answer": "Structure: Unicellular, oval-shaped eukaryotic fungus with a cell wall, nucleus, and cytoplasm. Reproduction: Asexual reproduction by Budding. A small bud forms on the parent cell, grows, and detaches to form a new yeast cell. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What are Antibiotics? Explain their types with examples.",
+      "answer": "Antibiotics are antimicrobial substances from microbes. 1. Broad-spectrum: Effective against many bacteria (e.g., Amoxicillin, Tetracycline). Used when pathogen is unknown. 2. Narrow-spectrum: Effective against specific bacteria (e.g., Penicillin, Erythromycin). Used when pathogen is known."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Write a note on Penicillin and its discovery.",
+      "answer": "Discovered by Alexander Fleming (1928) from fungus Penicillium. It was the first antibiotic. It controls infections by Staphylococci and Streptococci bacteria. Useful for treating pneumonia, ear/throat infections, but can cause allergies in some."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the harmful effects of Clostridium bacteria.",
+      "answer": "Clostridium bacteria (e.g., Clostridium botulinum) are anaerobic. They grow in canned or spoiled food, producing deadly toxins. This causes food poisoning (Botulism), leading to vomiting, paralysis, or even death."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How do fungi cause food spoilage and health problems?",
+      "answer": "Fungal spores grow on moist/stale food (bread, pickles), forming mycelium. They release mycotoxins, making food poisonous. In humans, they cause skin diseases like ringworm, eczema, and dandruff by infecting moist skin."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Discuss the spread and prevention of Dengue.",
+      "answer": "Spread: By bite of Aedes aegypti mosquito which breeds in clean, stagnant water. Prevention: 1. Do not let water stagnate (coolers, tires). 2. Use mosquito repellents/nets. 3. Guppy fishes in ponds eat larvae. 4. Keep surroundings clean."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in fuel production and cleaning environment.",
+      "answer": "Fuel: Yeast ferments molasses to produce Ethanol (Bio-fuel), a clean smokeless fuel. Cleaning: Bacteria like Alcanivorax decompose oil spills in oceans. Some microbes degrade plastic (PET) and rubber from garbage."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Write the modes of infection and preventive measures for: AIDS, Hepatitis, Influenza.",
+      "answer": "AIDS: Blood/semen contact (Prevent: Safe needles/sex). Hepatitis: Contaminated water/food (Prevent: Boiled water, hygiene). Influenza: Contact with infected person (Prevent: Isolation, hygiene, vaccination)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Differentiate between Useful and Harmful Microbes.",
+      "answer": "Useful: Beneficial to humans/nature (e.g., Lactobacilli make yoghurt, Rhizobium fixes N₂). Harmful: Cause diseases or spoilage (e.g., Clostridium causes poisoning, HIV causes AIDS, Fungi spoil food)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why are vaccines important? How are they produced?",
+      "answer": "Importance: Prevent deadly diseases like Polio, Measles by building immunity. Production: Pathogens are grown in labs, weakened or killed, and then injected to stimulate antibody production without causing disease."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the process of bio-remediation with examples.",
+      "answer": "Bio-remediation uses microbes to remove pollutants. Examples: 1. Pseudomonas bacteria clear oil spills. 2. Bacteria decompose sewage waste into methane and manure. 3. Some ferns absorb heavy metals from soil."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What precautions should be taken while using antibiotics?",
+      "answer": "1. Take only on doctor's advice. 2. Complete the full course even if feeling better. 3. Don't take for viral cold/flu. 4. Don't share with others. Misuse can lead to antibiotic resistance."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Describe the economic importance of Yeast.",
+      "answer": "1. Bakery: Makes bread spongy. 2. Alcohol Industry: Produces wine, beer by fermenting fruit juices/grains. 3. Bio-fuel: Produces ethanol from molasses. 4. Nutrition: Source of B-vitamins."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the life cycle of Malaria parasite (Plasmodium) briefly.",
+      "answer": "Mosquito bites infected human → Parasite enters mosquito → Multiplies → Mosquito bites healthy human → Parasite enters blood → Infects liver and RBCs → Causes fever/chills → Cycle repeats. "
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Give scientific reason: Foam accumulates on surface of 'dal' kept for long in summer.",
+      "answer": "In summer, high temp favours bacterial/fungal growth. They ferment the dal, releasing gases (CO₂). The gas bubbles trapped in the liquid create foam, indicating spoilage."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Why is it necessary to safely store pathogens against which vaccines are produced?",
+      "answer": "Pathogens are dangerous and can cause outbreaks. For vaccine research, live or attenuated strains are needed. They must be stored securely to prevent accidental release and ensuring their viability for study."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "How do antibiotics cure diseases?",
+      "answer": "Antibiotics disrupt essential life processes of bacteria, like cell wall formation or protein synthesis. This stops their growth or kills them, allowing the immune system to clear the infection."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Are antibiotics given to humans and animals the same? Why?",
+      "answer": "The basic compounds might be similar, but dosages and formulations differ. Some human antibiotics are toxic to animals. Also, using human antibiotics in animals can lead to drug-resistant bacteria affecting humans."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Write a note on 'Probiotics'.",
+      "answer": "Probiotics are foods (yoghurt, kefir) with live beneficial bacteria (Lactobacilli). They balance gut flora, improve digestion, boost immunity, and help recover from antibiotic side-effects."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Which vaccines are given to infants? Why?",
+      "answer": "BCG (TB), Polio (Oral/IPV), DPT (Diphtheria, Pertussis, Tetanus), Hepatitis B, MMR (Measles, Mumps, Rubella). Infants have weak immunity; vaccines protect them from these life-threatening diseases."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in land-filling sites.",
+      "answer": "In modern landfills, degradable waste is buried. Microbes are added to decompose the waste anaerobically. This produces Methane gas (fuel) and high-quality compost, reducing pollution."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "How is 'Swine Flu' diagnosed and prevented?",
+      "answer": "Diagnosis: Testing throat swab liquid in labs (NIV). Prevention: Personal hygiene, washing hands, wearing masks, avoiding contact with infected persons/pigs, vaccination."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the chapter 'Useful and Harmful Microbes'.",
+      "answer": "1. Useful: Lactobacilli (dairy), Rhizobium (N₂ fixation), Yeast (fermentation), Antibiotics (Penicillin). 2. Harmful: Clostridium (poisoning), Viruses (AIDS, Flu), Protozoa (Malaria), Fungi (Ringworm). 3. Hygiene and vaccines are key to prevention."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.06",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "The Properties of Sea Water"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the major property of seawater mentioned first in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Viscosity", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": true },
+        { "option_id": 3, "text": "Transparency", "is_correct": false },
+        { "option_id": 4, "text": "Colour", "is_correct": false }
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the average surface temperature of seawater in equatorial areas?",
+      "options": [
+        { "option_id": 1, "text": "16° C", "is_correct": false },
+        { "option_id": 2, "text": "2° C", "is_correct": false },
+        { "option_id": 3, "text": "25° C", "is_correct": true },
+        { "option_id": 4, "text": "30° C", "is_correct": false }
+      ],
+      "answer": "25° C"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the average surface temperature of seawater in mid-latitudes?",
+      "options": [
+        { "option_id": 1, "text": "25° C", "is_correct": false },
+        { "option_id": 2, "text": "16° C", "is_correct": true },
+        { "option_id": 3, "text": "10° C", "is_correct": false },
+        { "option_id": 4, "text": "2° C", "is_correct": false }
+      ],
+      "answer": "16° C"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "At what depth does the temperature of seawater become uniform everywhere?",
+      "options": [
+        { "option_id": 1, "text": "500 m", "is_correct": false },
+        { "option_id": 2, "text": "1000 m", "is_correct": false },
+        { "option_id": 3, "text": "2000 m", "is_correct": true },
+        { "option_id": 4, "text": "5000 m", "is_correct": false }
+      ],
+      "answer": "2000 m"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the uniform temperature of seawater at depths below 2000m?",
+      "options": [
+        { "option_id": 1, "text": "0° C", "is_correct": false },
+        { "option_id": 2, "text": "4° C", "is_correct": true },
+        { "option_id": 3, "text": "10° C", "is_correct": false },
+        { "option_id": 4, "text": "25° C", "is_correct": false }
+      ],
+      "answer": "4° C"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How is the salinity of seawater expressed?",
+      "options": [
+        { "option_id": 1, "text": "Percent (%)", "is_correct": false },
+        { "option_id": 2, "text": "Parts per thousand (‰)", "is_correct": true },
+        { "option_id": 3, "text": "Parts per million (ppm)", "is_correct": false },
+        { "option_id": 4, "text": "Degrees", "is_correct": false }
+      ],
+      "answer": "Parts per thousand (‰)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to measure the salinity of seawater?",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Hydrometer", "is_correct": true },
+        { "option_id": 3, "text": "Refractometer", "is_correct": true },
+        { "option_id": 4, "text": "Salinometer", "is_correct": true }
+      ],
+      "answer": "Hydrometer / Refractometer / Salinometer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What causes an increase in salinity?",
+      "options": [
+        { "option_id": 1, "text": "High rainfall", "is_correct": false },
+        { "option_id": 2, "text": "High rate of evaporation", "is_correct": true },
+        { "option_id": 3, "text": "Supply of river water", "is_correct": false },
+        { "option_id": 4, "text": "Melting of snow", "is_correct": false }
+      ],
+      "answer": "High rate of evaporation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why is salinity low in equatorial regions despite high evaporation?",
+      "options": [
+        { "option_id": 1, "text": "Because of cloud cover", "is_correct": false },
+        { "option_id": 2, "text": "Because of low temperature", "is_correct": false },
+        { "option_id": 3, "text": "Because of plenty of rainfall and river water supply", "is_correct": true },
+        { "option_id": 4, "text": "Because of strong winds", "is_correct": false }
+      ],
+      "answer": "Because of plenty of rainfall and river water supply"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which sea has the highest salinity in the world?",
+      "options": [
+        { "option_id": 1, "text": "Mediterranean Sea", "is_correct": false },
+        { "option_id": 2, "text": "Red Sea", "is_correct": false },
+        { "option_id": 3, "text": "Dead Sea", "is_correct": true },
+        { "option_id": 4, "text": "Caspian Sea", "is_correct": false }
+      ],
+      "answer": "Dead Sea"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the salinity of the Dead Sea?",
+      "options": [
+        { "option_id": 1, "text": "37‰", "is_correct": false },
+        { "option_id": 2, "text": "200‰", "is_correct": false },
+        { "option_id": 3, "text": "332‰", "is_correct": true },
+        { "option_id": 4, "text": "40‰", "is_correct": false }
+      ],
+      "answer": "332‰"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is the salinity of the Mediterranean Sea high (39‰)?",
+      "options": [
+        { "option_id": 1, "text": "High rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Landlocked sea and high evaporation", "is_correct": true },
+        { "option_id": 3, "text": "Supply of fresh water", "is_correct": false },
+        { "option_id": 4, "text": "Low temperature", "is_correct": false }
+      ],
+      "answer": "Landlocked sea and high evaporation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the average salinity of the Atlantic Ocean?",
+      "options": [
+        { "option_id": 1, "text": "35‰", "is_correct": true },
+        { "option_id": 2, "text": "37‰", "is_correct": false },
+        { "option_id": 3, "text": "32‰", "is_correct": false },
+        { "option_id": 4, "text": "34‰", "is_correct": false }
+      ],
+      "answer": "35‰"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which ocean has the lowest average salinity (32‰)?",
+      "options": [
+        { "option_id": 1, "text": "Atlantic Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Pacific Ocean", "is_correct": false },
+        { "option_id": 3, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 4, "text": "Arctic Ocean", "is_correct": true }
+      ],
+      "answer": "Arctic Ocean"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which two properties control the density of sea water?",
+      "options": [
+        { "option_id": 1, "text": "Temperature and Depth", "is_correct": false },
+        { "option_id": 2, "text": "Temperature and Salinity", "is_correct": true },
+        { "option_id": 3, "text": "Salinity and Pressure", "is_correct": false },
+        { "option_id": 4, "text": "Depth and Pressure", "is_correct": false }
+      ],
+      "answer": "Temperature and Salinity"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which factor has a greater effect on the density of sea water?",
+      "options": [
+        { "option_id": 1, "text": "Salinity", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": true },
+        { "option_id": 3, "text": "Pressure", "is_correct": false },
+        { "option_id": 4, "text": "Depth", "is_correct": false }
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What happens to the density of water when temperature decreases?",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": false },
+        { "option_id": 2, "text": "Increases", "is_correct": true },
+        { "option_id": 3, "text": "Remains same", "is_correct": false },
+        { "option_id": 4, "text": "Becomes zero", "is_correct": false }
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why can water with high salinity still have low density?",
+      "options": [
+        { "option_id": 1, "text": "If its temperature is very low", "is_correct": false },
+        { "option_id": 2, "text": "If its temperature is high", "is_correct": true },
+        { "option_id": 3, "text": "If it is very deep", "is_correct": false },
+        { "option_id": 4, "text": "If it is near the poles", "is_correct": false }
+      ],
+      "answer": "If its temperature is high"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "After what depth do temperature, salinity, and density of sea water become almost constant?",
+      "options": [
+        { "option_id": 1, "text": "500 m", "is_correct": false },
+        { "option_id": 2, "text": "1000 m", "is_correct": true },
+        { "option_id": 3, "text": "2000 m", "is_correct": false },
+        { "option_id": 4, "text": "5000 m", "is_correct": false }
+      ],
+      "answer": "1000 m"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these seas has higher salinity?",
+      "options": [
+        { "option_id": 1, "text": "Arabian Sea", "is_correct": true },
+        { "option_id": 2, "text": "Bay of Bengal", "is_correct": false },
+        { "option_id": 3, "text": "Baltic Sea", "is_correct": false },
+        { "option_id": 4, "text": "Arctic Ocean", "is_correct": false }
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How does latitude affect the surface temperature of seawater?",
+      "answer": "Surface temperature decreases from the equatorial areas towards the poles. It is about 25°C at the equator, 16°C in mid-latitudes, and 2°C near the poles."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What factors besides latitude affect the surface temperature of seawater?",
+      "answer": "Cyclones, rainfall, sea waves, ocean currents, salinity, pollution, and convectional currents."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Does temperature decrease uniformly with depth?",
+      "answer": "No, it decreases rapidly up to 500m depth, then the rate of decrease slows down. Below 2000m, it is almost uniform at 4°C."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why does the temperature of seawater not freeze at greater depths?",
+      "answer": "Because the temperature is uniform at about 4°C everywhere at greater depths, which is above the freezing point of saline water."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the definition of salinity?",
+      "answer": "Salinity is the weight of salt dissolved in 1000 grams (1 kg) of seawater, expressed as parts per thousand (‰)."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why is the salinity of the Bay of Bengal lower than that of the Arabian Sea?",
+      "answer": "Because the Bay of Bengal receives a huge supply of fresh water from many large rivers, whereas the Arabian Sea has a higher rate of evaporation and less fresh water supply."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why is salinity high in the tropical zone (20° to 30° latitudes)?",
+      "answer": "Due to high evaporation rates and low rainfall."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What happens to density when salinity increases?",
+      "answer": "Density increases when salinity increases."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How does temperature affect density differently than salinity?",
+      "answer": "Temperature is a more dominant factor. Very cold water will have high density even if its salinity is low, but warm water can have low density even with high salinity."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is it easy to float in the Dead Sea?",
+      "answer": "Because of the exceptionally high salinity (332‰), the density of the water is very high, which increases buoyancy."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the factors affecting the salinity of seawater.",
+      "answer": "The main factors are evaporation and fresh water supply. 1. Evaporation: High evaporation leads to higher salinity (e.g., tropical zones). 2. Fresh Water Supply: Rainfall and river inflow reduce salinity (e.g., equatorial regions and Bay of Bengal). 3. Landlocked vs Open Seas: Landlocked seas in warm zones have higher salinity due to limited mixing and high evaporation (e.g., Mediterranean, Red Sea). 4. Latitude: Temperate zones have lower evaporation, hence lower salinity."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the vertical distribution of temperature in oceans.",
+      "answer": "The temperature of seawater changes with depth. 1. Surface layer: Temperature is higher and variable due to solar energy. 2. Up to 500m: Temperature decreases rapidly. 3. 500m to 1000m: The rate of decrease lessens. 4. Below 2000m: Temperature becomes uniform, around 4°C, from equator to poles. Deep ocean water does not freeze easily."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Explain the relationship between Temperature, Salinity, and Density.",
+      "answer": "These three properties are interconnected. 1. Density depends on temperature and salinity. 2. Temperature is the major factor; colder water is denser. 3. Salinity also increases density, but its effect is less than temperature. 4. Cold water with low salinity can be denser than warm water with high salinity. 5. Ocean currents are generated due to differences in these properties, acting as global temperature controllers."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Why is there a difference in salinity between the Arabian Sea and the Bay of Bengal?",
+      "answer": "The Arabian Sea experiences higher evaporation and receives less fresh water from rivers. The Bay of Bengal receives abundant fresh water from major rivers like the Ganga, Brahmaputra, and Mahanadi, and also receives more rainfall. Consequently, the salinity of the Arabian Sea (approx. 36‰) is higher than that of the Bay of Bengal (approx. 32‰)."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Discuss the distribution of salinity across different latitudinal zones.",
+      "answer": "1. Equatorial Zone (0°-15°): Salinity is moderate (34‰) due to high rainfall and cloud cover reducing evaporation. 2. Tropical Zone (15°-35°): Salinity is high (37‰) due to high evaporation and low rainfall. 3. Temperate Zone (35°-65°): Salinity is low (33‰) due to low evaporation and rainfall. 4. Polar Zone (65°-90°): Salinity is lowest (31‰) due to very low evaporation and melting of ice."
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Science.05",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Acids, Bases and Salts"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following turns blue litmus red?",
+      "options": [
+        { "option_id": 1, "text": "Base", "is_correct": false },
+        { "option_id": 2, "text": "Acid", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Acid"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to Arrhenius theory, an acid produces ________ ions in aqueous solution.",
+      "options": [
+        { "option_id": 1, "text": "OH⁻", "is_correct": false },
+        { "option_id": 2, "text": "H⁺", "is_correct": true },
+        { "option_id": 3, "text": "Cl⁻", "is_correct": false },
+        { "option_id": 4, "text": "Na⁺", "is_correct": false }
+      ],
+      "answer": "H⁺"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "A base which is highly soluble in water is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Acid", "is_correct": false },
+        { "option_id": 2, "text": "Alkali", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Oxide", "is_correct": false }
+      ],
+      "answer": "Alkali"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The pH of a neutral solution is ________.",
+      "options": [
+        { "option_id": 1, "text": "0", "is_correct": false },
+        { "option_id": 2, "text": "7", "is_correct": true },
+        { "option_id": 3, "text": "14", "is_correct": false },
+        { "option_id": 4, "text": "1", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is a strong acid?",
+      "options": [
+        { "option_id": 1, "text": "CH₃COOH", "is_correct": false },
+        { "option_id": 2, "text": "H₂CO₃", "is_correct": false },
+        { "option_id": 3, "text": "HCl", "is_correct": true },
+        { "option_id": 4, "text": "NH₄OH", "is_correct": false }
+      ],
+      "answer": "HCl"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The reaction between an acid and a base to form salt and water is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Decomposition", "is_correct": false },
+        { "option_id": 2, "text": "Neutralization", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Combination", "is_correct": false }
+      ],
+      "answer": "Neutralization"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which gas is liberated when dilute acid reacts with a metal?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The chemical name of Baking Soda is ________.",
+      "options": [
+        { "option_id": 1, "text": "Sodium Carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Sodium Bicarbonate", "is_correct": true },
+        { "option_id": 3, "text": "Calcium Carbonate", "is_correct": false },
+        { "option_id": 4, "text": "Sodium Chloride", "is_correct": false }
+      ],
+      "answer": "Sodium Bicarbonate"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Water of crystallization gives ________ to the crystals.",
+      "options": [
+        { "option_id": 1, "text": "Mass", "is_correct": false },
+        { "option_id": 2, "text": "Shape and Colour", "is_correct": true },
+        { "option_id": 3, "text": "Acidity", "is_correct": false },
+        { "option_id": 4, "text": "Basicity", "is_correct": false }
+      ],
+      "answer": "Shape and Colour"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Electrolysis of water uses ________ as an electrolyte.",
+      "options": [
+        { "option_id": 1, "text": "Pure Water", "is_correct": false },
+        { "option_id": 2, "text": "Sugar Solution", "is_correct": false },
+        { "option_id": 3, "text": "Acidified Water", "is_correct": true },
+        { "option_id": 4, "text": "Alcohol", "is_correct": false }
+      ],
+      "answer": "Acidified Water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Phenolphthalein turns ________ in basic solution.",
+      "options": [
+        { "option_id": 1, "text": "Colourless", "is_correct": false },
+        { "option_id": 2, "text": "Pink", "is_correct": true },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Pink"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is a weak base?",
+      "options": [
+        { "option_id": 1, "text": "NaOH", "is_correct": false },
+        { "option_id": 2, "text": "KOH", "is_correct": false },
+        { "option_id": 3, "text": "NH₄OH", "is_correct": true },
+        { "option_id": 4, "text": "Ca(OH)₂", "is_correct": false }
+      ],
+      "answer": "NH₄OH"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The number of H⁺ ions obtainable from one molecule of an acid is called its ________.",
+      "options": [
+        { "option_id": 1, "text": "Acidity", "is_correct": false },
+        { "option_id": 2, "text": "Basicity", "is_correct": true },
+        { "option_id": 3, "text": "Molarity", "is_correct": false },
+        { "option_id": 4, "text": "Normality", "is_correct": false }
+      ],
+      "answer": "Basicity"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Blue vitriol is chemically known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Ferrous Sulphate", "is_correct": false },
+        { "option_id": 2, "text": "Copper Sulphate", "is_correct": true },
+        { "option_id": 3, "text": "Zinc Sulphate", "is_correct": false },
+        { "option_id": 4, "text": "Magnesium Sulphate", "is_correct": false }
+      ],
+      "answer": "Copper Sulphate"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which type of salt is Sodium Chloride (NaCl)?",
+      "options": [
+        { "option_id": 1, "text": "Acidic", "is_correct": false },
+        { "option_id": 2, "text": "Basic", "is_correct": false },
+        { "option_id": 3, "text": "Neutral", "is_correct": true },
+        { "option_id": 4, "text": "Complex", "is_correct": false }
+      ],
+      "answer": "Neutral"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Acidic salts are formed by the neutralization of a ________ acid and a weak base.",
+      "options": [
+        { "option_id": 1, "text": "Weak", "is_correct": false },
+        { "option_id": 2, "text": "Strong", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Dilute", "is_correct": false }
+      ],
+      "answer": "Strong"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The positive electrode in an electrolytic cell is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Cathode", "is_correct": false },
+        { "option_id": 2, "text": "Anode", "is_correct": true },
+        { "option_id": 3, "text": "Cation", "is_correct": false },
+        { "option_id": 4, "text": "Anion", "is_correct": false }
+      ],
+      "answer": "Anode"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Universal indicator shows ________ colour in neutral solution.",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": true },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following acids is present in vinegar?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Acetic acid", "is_correct": true },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": false },
+        { "option_id": 4, "text": "Oxalic acid", "is_correct": false }
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Concentration of a solution is expressed in ________.",
+      "options": [
+        { "option_id": 1, "text": "Gram", "is_correct": false },
+        { "option_id": 2, "text": "Liter", "is_correct": false },
+        { "option_id": 3, "text": "Molarity (M)", "is_correct": true },
+        { "option_id": 4, "text": "Meter", "is_correct": false }
+      ],
+      "answer": "Molarity (M)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The gas released when metal carbonates react with acids is ________.",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen dioxide", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Identify the basic radical in K₂SO₄.",
+      "options": [
+        { "option_id": 1, "text": "K⁺", "is_correct": true },
+        { "option_id": 2, "text": "SO₄²⁻", "is_correct": false },
+        { "option_id": 3, "text": "O²⁻", "is_correct": false },
+        { "option_id": 4, "text": "S²⁻", "is_correct": false }
+      ],
+      "answer": "K⁺"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these is used for electroplating?",
+      "options": [
+        { "option_id": 1, "text": "Electrolysis", "is_correct": true },
+        { "option_id": 2, "text": "Neutralization", "is_correct": false },
+        { "option_id": 3, "text": "Crystallization", "is_correct": false },
+        { "option_id": 4, "text": "Evaporation", "is_correct": false }
+      ],
+      "answer": "Electrolysis"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In the reaction CuO + 2HCl → CuCl₂ + H₂O, CuO acts as a ________.",
+      "options": [
+        { "option_id": 1, "text": "Base", "is_correct": true },
+        { "option_id": 2, "text": "Acid", "is_correct": false },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Metal", "is_correct": false }
+      ],
+      "answer": "Base"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The pH scale ranges from ________.",
+      "options": [
+        { "option_id": 1, "text": "1 to 10", "is_correct": false },
+        { "option_id": 2, "text": "0 to 14", "is_correct": true },
+        { "option_id": 3, "text": "1 to 14", "is_correct": false },
+        { "option_id": 4, "text": "0 to 7", "is_correct": false }
+      ],
+      "answer": "0 to 14"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Acid according to Arrhenius theory.",
+      "answer": "An acid is a substance which on dissolving in water yields hydrogen ions (H⁺) as the only cation."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Define Base according to Arrhenius theory.",
+      "answer": "A base is a substance which on dissolving in water yields hydroxide ions (OH⁻) as the only anion."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is a Strong Acid?",
+      "answer": "An acid that dissociates almost completely in aqueous solution to give a high concentration of H⁺ ions is called a strong acid. E.g., HCl."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is a Weak Base?",
+      "answer": "A base that dissociates only partially in aqueous solution to give a low concentration of OH⁻ ions is called a weak base. E.g., NH₄OH."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Define Basicity of an acid.",
+      "answer": "The number of H⁺ ions obtainable from the dissociation of one molecule of an acid is called its basicity."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Define Acidity of a base.",
+      "answer": "The number of OH⁻ ions obtainable from the dissociation of one molecule of a base is called its acidity."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is Concentration of a solution?",
+      "answer": "The amount of solute present in a specific quantity of solvent or solution is called its concentration."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Define pH scale.",
+      "answer": "The scale used to measure the strength of acids and bases based on the concentration of H⁺ ions is called the pH scale."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is a Neutralization reaction?",
+      "answer": "A chemical reaction in which an acid reacts with a base to form salt and water is called neutralization."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What are Universal Indicators?",
+      "answer": "A mixture of several synthetic indicators which shows different colours at different pH values is called a universal indicator."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Name two natural indicators.",
+      "answer": "Litmus, Turmeric."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is Water of Crystallization?",
+      "answer": "The fixed number of water molecules present in the crystal structure of a salt is called water of crystallization."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "State two uses of Baking Soda.",
+      "answer": "1. To make bread/cake porous. 2. As an antacid to reduce acidity."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "State two uses of Washing Soda.",
+      "answer": "1. For cleaning clothes. 2. In glass and paper industry."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is Electrolysis?",
+      "answer": "The process of decomposition of a substance (electrolyte) by passing electric current through its solution or molten state is called electrolysis."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is a Cathode?",
+      "answer": "The electrode connected to the negative terminal of the battery in an electrolytic cell is called the cathode."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is an Anode?",
+      "answer": "The electrode connected to the positive terminal of the battery in an electrolytic cell is called the anode."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why is pure water a bad conductor of electricity?",
+      "answer": "Pure water has very few ions as it dissociates very slightly, hence it is a bad conductor of electricity."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Write the chemical formula of Blue Vitriol.",
+      "answer": "CuSO₄·5H₂O."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Write the chemical formula of Green Vitriol.",
+      "answer": "FeSO₄·7H₂O."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What happens when CO₂ gas is passed through lime water?",
+      "answer": "Lime water turns milky due to the formation of insoluble Calcium Carbonate (CaCO₃)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Classify HCl and H₂SO₄ based on basicity.",
+      "answer": "HCl is monobasic (basicity 1), H₂SO₄ is dibasic (basicity 2)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How is concentration of a solution expressed in g/L?",
+      "answer": "Concentration (g/L) = Mass of solute (g) / Volume of solution (L)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the colour of Phenolphthalein in acid and base?",
+      "answer": "Acid: Colourless, Base: Pink."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the colour of Methyl Orange in acid and base?",
+      "answer": "Acid: Pink (Red), Base: Yellow."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Give an example of a reaction between Metal Oxide and Acid.",
+      "answer": "CaO + 2HCl → CaCl₂ + H₂O."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are metal oxides called basic oxides?",
+      "answer": "Because they react with acids to form salt and water, similar to bases."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give an example of a reaction between Non-metal Oxide and Base.",
+      "answer": "CO₂ + 2NaOH → Na₂CO₃ + H₂O."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why are non-metal oxides called acidic oxides?",
+      "answer": "Because they react with bases to form salt and water, and also form acids when dissolved in water."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is Electroplating?",
+      "answer": "The process of coating a thin layer of a superior metal on an inferior metal using electrolysis is called electroplating."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Write the dissociation reaction of NaOH in water.",
+      "answer": "NaOH (s) → Na⁺ (aq) + OH⁻ (aq)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a Strong Base? Give example.",
+      "answer": "A base that dissociates completely in water. Example: NaOH, KOH."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a Weak Acid? Give example.",
+      "answer": "An acid that dissociates partially in water. Example: CH₃COOH (Acetic acid)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the salt formed by Strong Acid + Strong Base.",
+      "answer": "Neutral Salt (e.g., NaCl)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name the salt formed by Strong Acid + Weak Base.",
+      "answer": "Acidic Salt (e.g., NH₄Cl)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name the salt formed by Weak Acid + Strong Base.",
+      "answer": "Basic Salt (e.g., Na₂CO₃)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the pH of blood?",
+      "answer": "Approximately 7.4 (Slightly basic)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens when blue vitriol is heated?",
+      "answer": "It loses its water of crystallization and turns into white anhydrous copper sulphate."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "State the use of Alum.",
+      "answer": "Used for purification of water."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "State the use of Borax.",
+      "answer": "Used in cosmetics, lotions, and shampoos."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Write the chemical formula of Bleaching Powder.",
+      "answer": "CaOCl₂."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which gas is evolved at cathode during electrolysis of water?",
+      "answer": "Hydrogen gas."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which gas is evolved at anode during electrolysis of water?",
+      "answer": "Oxygen gas."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is Anodizing?",
+      "answer": "The process of forming a thick oxide layer on metals like Aluminium to prevent corrosion."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are Basic Radicals?",
+      "answer": "Positive ions (cations) derived from bases are called basic radicals. E.g., Na⁺ from NaOH."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are Acidic Radicals?",
+      "answer": "Negative ions (anions) derived from acids are called acidic radicals. E.g., Cl⁻ from HCl."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Calculate Molarity if 2 moles of solute are in 5 Liters of solution.",
+      "answer": "Molarity = Moles / Volume = 2 / 5 = 0.4 M."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is Sodium Chloride neutral?",
+      "answer": "Because it is formed from a strong acid (HCl) and a strong base (NaOH), so it does not hydrolyze to create excess H⁺ or OH⁻."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the colour of pH paper in acid and base?",
+      "answer": "Red/Orange in acid, Blue/Purple in base."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the chemical name of Table Salt?",
+      "answer": "Sodium Chloride (NaCl)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain Arrhenius Theory of Acids and Bases with examples.",
+      "answer": "Arrhenius Acid: A substance that gives H⁺ ions in water. HCl(aq) → H⁺(aq) + Cl⁻(aq). Arrhenius Base: A substance that gives OH⁻ ions in water. NaOH(aq) → Na⁺(aq) + OH⁻(aq). This theory applies only to aqueous solutions. "
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the classification of acids and bases based on their strength.",
+      "answer": "1. Strong Acid: Dissociates completely (e.g., HCl). 2. Weak Acid: Dissociates partially (e.g., CH₃COOH). 3. Strong Base: Dissociates completely (e.g., NaOH). 4. Weak Base: Dissociates partially (e.g., NH₄OH)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the pH scale and its significance.",
+      "answer": "The pH scale measures the acidity or basicity of a solution from 0 to 14. pH 7 is neutral (Pure water). pH < 7 is acidic (Higher H⁺ concentration). pH > 7 is basic (Lower H⁺ concentration). It is crucial for biological processes and chemical reactions. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the reaction of acids with metals with an example.",
+      "answer": "Dilute acids react with reactive metals to form salt and release hydrogen gas. Example: Magnesium reacts with dilute HCl. Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). The hydrogen gas burns with a pop sound."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Explain the reaction of acids with metal oxides with an example.",
+      "answer": "Metal oxides are basic in nature. They react with acids to form salt and water. Example: Red Copper Oxide reacts with dilute HCl. CuO(s) + 2HCl(aq) → CuCl₂(aq) + H₂O(l). The solution turns blue-green due to copper chloride."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the electrolysis of water with a diagram.",
+      "answer": "Electrolysis of acidified water is done using a voltmeter. Cathode (-) and Anode (+) are immersed. When current flows, water decomposes. 2H₂O(l) → 2H₂(g) + O₂(g). Hydrogen gas collects at the cathode and Oxygen at the anode in a 2:1 volume ratio. "
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Write short notes on: a) Sodium Chloride b) Sodium Bicarbonate.",
+      "answer": "a) Sodium Chloride (NaCl): Common salt, neutral salt, used in food and to make Na₂CO₃. b) Sodium Bicarbonate (NaHCO₃): Baking soda, basic salt, used in baking and as an antacid. Reaction: NaHCO₃ + HCl → NaCl + H₂O + CO₂."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the concept of Water of Crystallization with examples.",
+      "answer": "It is the fixed number of water molecules bound in the crystal structure of a salt. It gives shape and colour. E.g., Blue Vitriol (CuSO₄·5H₂O) is blue. On heating, it loses water and becomes white (CuSO₄). Adding water restores the blue colour."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Classify the following salts as Acidic, Basic, or Neutral: NaCl, CuSO₄, Na₂CO₃, NH₄Cl.",
+      "answer": "1. NaCl: Neutral (Strong Acid + Strong Base). 2. CuSO₄: Acidic (Strong Acid + Weak Base). 3. Na₂CO₃: Basic (Weak Acid + Strong Base). 4. NH₄Cl: Acidic (Strong Acid + Weak Base)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Explain the process of Neutralization with an equation.",
+      "answer": "Neutralization is the reaction where an acid and a base react to destroy each other's properties, forming salt and water. HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l). The H⁺ from acid combines with OH⁻ from base to form water."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the properties and uses of Washing Soda (Sodium Carbonate).",
+      "answer": "Formula: Na₂CO₃·10H₂O. Properties: Crystalline solid, turns red litmus blue (basic). Uses: Cleaning clothes, manufacturing glass/paper, removing hardness of water."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain the reaction between Metal Carbonates and Acids.",
+      "answer": "Metal carbonates react with dilute acids to form salt, water, and carbon dioxide gas. Example: Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g). The CO₂ turns lime water milky."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What is Anodizing? How is it useful?",
+      "answer": "Anodizing is an electrolytic process to form a protective oxide layer on metals like Al or Cu. The metal is made the anode. Oxygen released reacts with it to form a layer. It prevents corrosion and can be dyed for aesthetics. Used in kitchenware."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Write the chemical names and formulae of: 1. Alum 2. Epsom Salt 3. Barium Chloride 4. Glauber's Salt.",
+      "answer": "1. Potash Alum: K₂SO₄·Al₂(SO₄)₃·24H₂O. 2. Epsom Salt: MgSO₄·7H₂O. 3. Barium Chloride: BaCl₂·2H₂O. 4. Glauber's Salt: Na₂SO₄·10H₂O."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the reaction of bases with non-metal oxides.",
+      "answer": "Non-metal oxides are acidic. They react with bases to form salt and water. Example: Carbon dioxide reacts with Sodium Hydroxide. CO₂(g) + 2NaOH(aq) → Na₂CO₃(aq) + H₂O(l). This proves non-metal oxides are acidic."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How is the concentration of a solution calculated? Example: 2g NaOH in 50ml solution.",
+      "answer": "Concentration can be g/L or Molarity (mol/L). 1. g/L: (2g / 50ml) × 1000 = 40 g/L. 2. Molarity: Moles of NaOH = 2/40 = 0.05. Volume = 0.05 L. Molarity = 0.05 / 0.05 = 1 M."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Differentiate between Cations and Anions.",
+      "answer": "Cations: Positively charged, formed by losing electrons, attracted to cathode during electrolysis (e.g., Na⁺). Anions: Negatively charged, formed by gaining electrons, attracted to anode during electrolysis (e.g., Cl⁻)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the working of Electroplating with a diagram.",
+      "answer": "In electroplating, the object to be plated is the cathode, and the plating metal is the anode. Electrolyte contains ions of plating metal. Current causes metal ions to deposit on the cathode. Used for silver-plating spoons or gold-plating jewelry. "
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Why is the solution of Copper Sulphate acidic?",
+      "answer": "CuSO₄ is a salt of strong acid (H₂SO₄) and weak base (Cu(OH)₂). In water, it hydrolyzes. Cu²⁺ + 2H₂O ⇌ Cu(OH)₂ + 2H⁺. The presence of excess H⁺ ions makes the solution acidic (turns blue litmus red)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Write the electrode reactions for the electrolysis of molten NaCl.",
+      "answer": "Cathode (Reduction): Na⁺ + e⁻ → Na (Sodium metal). Anode (Oxidation): 2Cl⁻ → Cl₂ + 2e⁻ (Chlorine gas). Overall: 2NaCl → 2Na + Cl₂."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the role of indicators in identifying acids and bases.",
+      "answer": "Indicators change colour in acidic and basic media. Litmus: Red in acid, Blue in base. Phenolphthalein: Colourless in acid, Pink in base. Methyl Orange: Pink in acid, Yellow in base. Universal indicator gives specific colours for pH strength."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Write the reaction of dilute Nitric acid with Calcium oxide.",
+      "answer": "Calcium oxide (CaO) is a basic oxide. Nitric acid (HNO₃) is an acid. Reaction: CaO(s) + 2HNO₃(aq) → Ca(NO₃)₂(aq) + H₂O(l). Product is Calcium Nitrate and Water."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Why does the pH of water change when salt is dissolved in it?",
+      "answer": "Pure water is neutral (pH 7). If an acidic salt (like CuSO₄) is dissolved, pH decreases (<7). If a basic salt (like Na₂CO₃) is dissolved, pH increases (>7). Neutral salts (like NaCl) do not significantly change pH."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Summarize the properties of Ionic Compounds.",
+      "answer": "1. High melting and boiling points due to strong electrostatic forces. 2. Soluble in water (polar) but insoluble in organic solvents (non-polar). 3. Conduct electricity in molten state or aqueous solution (ions are free) but not in solid state."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Describe the process of crystallization of Alum.",
+      "answer": "Prepare a saturated solution of impure alum. Filter it. Allow the filtrate to cool slowly. Pure crystals of alum will separate out leaving impurities in the solution. This purifies the salt."
+    }
+  ]
+}

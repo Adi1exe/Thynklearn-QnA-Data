@@ -1,0 +1,581 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.04",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Economic Development"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which type of economy did India adopt after independence?",
+      "options": [
+        { "option_id": 1, "text": "Capitalist Economy", "is_correct": false },
+        { "option_id": 2, "text": "Socialist Economy", "is_correct": false },
+        { "option_id": 3, "text": "Mixed Economy", "is_correct": true },
+        { "option_id": 4, "text": "Communist Economy", "is_correct": false }
+      ],
+      "answer": "Mixed Economy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was the Chairman of the Planning Commission established in 1950?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Babasaheb Ambedkar", "is_correct": false },
+        { "option_id": 2, "text": "Pandit Jawaharlal Nehru", "is_correct": true },
+        { "option_id": 3, "text": "Sardar Vallabhbhai Patel", "is_correct": false },
+        { "option_id": 4, "text": "Lal Bahadur Shastri", "is_correct": false }
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sector consists of industries owned by private industrialists?",
+      "options": [
+        { "option_id": 1, "text": "Public Sector", "is_correct": false },
+        { "option_id": 2, "text": "Joint Sector", "is_correct": false },
+        { "option_id": 3, "text": "Private Sector", "is_correct": true },
+        { "option_id": 4, "text": "Cooperative Sector", "is_correct": false }
+      ],
+      "answer": "Private Sector"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In a mixed economy, who owns the means of production in the public sector?",
+      "options": [
+        { "option_id": 1, "text": "Private Individuals", "is_correct": false },
+        { "option_id": 2, "text": "The Government", "is_correct": true },
+        { "option_id": 3, "text": "Both Private and Government", "is_correct": false },
+        { "option_id": 4, "text": "Foreign Companies", "is_correct": false }
+      ],
+      "answer": "The Government"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which Five Year Plan focused on agriculture and social development?",
+      "options": [
+        { "option_id": 1, "text": "First Five Year Plan", "is_correct": true },
+        { "option_id": 2, "text": "Second Five Year Plan", "is_correct": false },
+        { "option_id": 3, "text": "Third Five Year Plan", "is_correct": false },
+        { "option_id": 4, "text": "Fourth Five Year Plan", "is_correct": false }
+      ],
+      "answer": "First Five Year Plan"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "During which plan were the iron and steel industries at Durgapur, Bhilai, and Rourkela set up?",
+      "options": [
+        { "option_id": 1, "text": "First Five Year Plan", "is_correct": false },
+        { "option_id": 2, "text": "Second Five Year Plan", "is_correct": true },
+        { "option_id": 3, "text": "Third Five Year Plan", "is_correct": false },
+        { "option_id": 4, "text": "Fifth Five Year Plan", "is_correct": false }
+      ],
+      "answer": "Second Five Year Plan"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which dam was built during the Second Five Year Plan?",
+      "options": [
+        { "option_id": 1, "text": "Koyna Dam", "is_correct": false },
+        { "option_id": 2, "text": "Bhakra-Nangal Dam", "is_correct": true },
+        { "option_id": 3, "text": "Tehri Dam", "is_correct": false },
+        { "option_id": 4, "text": "Sardar Sarovar Dam", "is_correct": false }
+      ],
+      "answer": "Bhakra-Nangal Dam"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When were 14 major banks nationalised in India?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": true },
+        { "option_id": 3, "text": "1971", "is_correct": false },
+        { "option_id": 4, "text": "1980", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who announced the 20-Point Programme in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Lal Bahadur Shastri", "is_correct": false },
+        { "option_id": 2, "text": "Indira Gandhi", "is_correct": true },
+        { "option_id": 3, "text": "Morarji Desai", "is_correct": false },
+        { "option_id": 4, "text": "Rajiv Gandhi", "is_correct": false }
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who started the first textile mill in Mumbai in 1854?",
+      "options": [
+        { "option_id": 1, "text": "Jamsetji Tata", "is_correct": false },
+        { "option_id": 2, "text": "Kawasjee Dawar", "is_correct": true },
+        { "option_id": 3, "text": "Narayan Meghaji Lokhande", "is_correct": false },
+        { "option_id": 4, "text": "Datta Samant", "is_correct": false }
+      ],
+      "answer": "Kawasjee Dawar"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which area in Mumbai came to be known as 'Girangaon'?",
+      "options": [
+        { "option_id": 1, "text": "Colaba", "is_correct": false },
+        { "option_id": 2, "text": "Bandra", "is_correct": false },
+        { "option_id": 3, "text": "Town of mills (Dadar, Parel, etc.)", "is_correct": true },
+        { "option_id": 4, "text": "Andheri", "is_correct": false }
+      ],
+      "answer": "Town of mills (Dadar, Parel, etc.)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who led the Great Bombay Textile Strike of 1982?",
+      "options": [
+        { "option_id": 1, "text": "George Fernandes", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Datta Samant", "is_correct": true },
+        { "option_id": 3, "text": "Narayan Surve", "is_correct": false },
+        { "option_id": 4, "text": "Anna Bhau Sathe", "is_correct": false }
+      ],
+      "answer": "Dr. Datta Samant"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When did the Great Bombay Textile Strike begin?",
+      "options": [
+        { "option_id": 1, "text": "18th January 1980", "is_correct": false },
+        { "option_id": 2, "text": "18th January 1982", "is_correct": true },
+        { "option_id": 3, "text": "1st May 1981", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1983", "is_correct": false }
+      ],
+      "answer": "18th January 1982"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which Prime Minister introduced the New Economic Policy of 1991?",
+      "options": [
+        { "option_id": 1, "text": "V. P. Singh", "is_correct": false },
+        { "option_id": 2, "text": "P. V. Narasimha Rao", "is_correct": true },
+        { "option_id": 3, "text": "Chandra Shekhar", "is_correct": false },
+        { "option_id": 4, "text": "Atal Bihari Vajpayee", "is_correct": false }
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who was the Finance Minister under P. V. Narasimha Rao in 1991?",
+      "options": [
+        { "option_id": 1, "text": "Pranab Mukherjee", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Manmohan Singh", "is_correct": true },
+        { "option_id": 3, "text": "P. Chidambaram", "is_correct": false },
+        { "option_id": 4, "text": "Yashwant Sinha", "is_correct": false }
+      ],
+      "answer": "Dr. Manmohan Singh"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which international organisation did India join in 1995?",
+      "options": [
+        { "option_id": 1, "text": "United Nations", "is_correct": false },
+        { "option_id": 2, "text": "World Trade Organisation (WTO)", "is_correct": true },
+        { "option_id": 3, "text": "World Health Organisation", "is_correct": false },
+        { "option_id": 4, "text": "UNESCO", "is_correct": false }
+      ],
+      "answer": "World Trade Organisation (WTO)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which bank was nationalised in 1955 and renamed State Bank of India?",
+      "options": [
+        { "option_id": 1, "text": "Reserve Bank of India", "is_correct": false },
+        { "option_id": 2, "text": "Imperial Bank", "is_correct": true },
+        { "option_id": 3, "text": "Bank of Bengal", "is_correct": false },
+        { "option_id": 4, "text": "Punjab National Bank", "is_correct": false }
+      ],
+      "answer": "Imperial Bank"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What was the Rolling Plan?",
+      "options": [
+        { "option_id": 1, "text": "A plan started by the Janata Party government in 1978", "is_correct": true },
+        { "option_id": 2, "text": "A plan for rolling mills", "is_correct": false },
+        { "option_id": 3, "text": "A plan by Indira Gandhi in 1980", "is_correct": false },
+        { "option_id": 4, "text": "A plan for transport", "is_correct": false }
+      ],
+      "answer": "A plan started by the Janata Party government in 1978"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which body replaced GATT at the international level?",
+      "options": [
+        { "option_id": 1, "text": "UNICEF", "is_correct": false },
+        { "option_id": 2, "text": "World Trade Organisation (WTO)", "is_correct": true },
+        { "option_id": 3, "text": "IMF", "is_correct": false },
+        { "option_id": 4, "text": "World Bank", "is_correct": false }
+      ],
+      "answer": "World Trade Organisation (WTO)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does SEBI stand for?",
+      "options": [
+        { "option_id": 1, "text": "State Electricity Board of India", "is_correct": false },
+        { "option_id": 2, "text": "Securities and Exchange Board of India", "is_correct": true },
+        { "option_id": 3, "text": "Social and Economic Board of India", "is_correct": false },
+        { "option_id": 4, "text": "Small Enterprise Board of India", "is_correct": false }
+      ],
+      "answer": "Securities and Exchange Board of India"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "During which plan was the Green Revolution initiated?",
+      "options": [
+        { "option_id": 1, "text": "First Five Year Plan", "is_correct": false },
+        { "option_id": 2, "text": "Annual Plans (1966-1969)", "is_correct": true },
+        { "option_id": 3, "text": "Fourth Five Year Plan", "is_correct": false },
+        { "option_id": 4, "text": "Fifth Five Year Plan", "is_correct": false }
+      ],
+      "answer": "Annual Plans (1966-1969)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which steel plant was established with German collaboration?",
+      "options": [
+        { "option_id": 1, "text": "Bhilai", "is_correct": false },
+        { "option_id": 2, "text": "Rourkela", "is_correct": true },
+        { "option_id": 3, "text": "Durgapur", "is_correct": false },
+        { "option_id": 4, "text": "Bokaro", "is_correct": false }
+      ],
+      "answer": "Rourkela"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which steel plant was established with Soviet Union's collaboration?",
+      "options": [
+        { "option_id": 1, "text": "Rourkela", "is_correct": false },
+        { "option_id": 2, "text": "Bhilai", "is_correct": true },
+        { "option_id": 3, "text": "Durgapur", "is_correct": false },
+        { "option_id": 4, "text": "Tata Steel", "is_correct": false }
+      ],
+      "answer": "Bhilai"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which steel plant was established with British collaboration?",
+      "options": [
+        { "option_id": 1, "text": "Bhilai", "is_correct": false },
+        { "option_id": 2, "text": "Durgapur", "is_correct": true },
+        { "option_id": 3, "text": "Rourkela", "is_correct": false },
+        { "option_id": 4, "text": "Visakhapatnam", "is_correct": false }
+      ],
+      "answer": "Durgapur"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was the duration of the 'Plan Holiday'?",
+      "options": [
+        { "option_id": 1, "text": "1961-1966", "is_correct": false },
+        { "option_id": 2, "text": "1966-1969", "is_correct": true },
+        { "option_id": 3, "text": "1969-1974", "is_correct": false },
+        { "option_id": 4, "text": "1978-1980", "is_correct": false }
+      ],
+      "answer": "1966-1969"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "When was the 20-Point Programme announced?",
+      "options": [
+        { "option_id": 1, "text": "1st July 1975", "is_correct": true },
+        { "option_id": 2, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 4, "text": "2nd October 1969", "is_correct": false }
+      ],
+      "answer": "1st July 1975"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which scheme was started in the Sixth Five Year Plan?",
+      "options": [
+        { "option_id": 1, "text": "Integrated Rural Development Programme (IRDP)", "is_correct": true },
+        { "option_id": 2, "text": "Jawahar Rozgar Yojana", "is_correct": false },
+        { "option_id": 3, "text": "Indira Awas Yojana", "is_correct": false },
+        { "option_id": 4, "text": "Pradhan Mantri Gram Sadak Yojana", "is_correct": false }
+      ],
+      "answer": "Integrated Rural Development Programme (IRDP)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In which plan was the Jawahar Rozgar Yojana started?",
+      "options": [
+        { "option_id": 1, "text": "Sixth Plan", "is_correct": false },
+        { "option_id": 2, "text": "Seventh Plan", "is_correct": true },
+        { "option_id": 3, "text": "Eighth Plan", "is_correct": false },
+        { "option_id": 4, "text": "Ninth Plan", "is_correct": false }
+      ],
+      "answer": "Seventh Plan"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which scheme was launched during the Eighth Five Year Plan?",
+      "options": [
+        { "option_id": 1, "text": "Pradhan Mantri Rozgar Yojana", "is_correct": true },
+        { "option_id": 2, "text": "Mid-day Meal Scheme", "is_correct": true },
+        { "option_id": 3, "text": "Both 1 and 2", "is_correct": true },
+        { "option_id": 4, "text": "None of the above", "is_correct": false }
+      ],
+      "answer": "Both 1 and 2"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which plan focused on 'Growth with Social Justice and Equality'?",
+      "options": [
+        { "option_id": 1, "text": "Ninth Five Year Plan", "is_correct": true },
+        { "option_id": 2, "text": "Tenth Five Year Plan", "is_correct": false },
+        { "option_id": 3, "text": "Eleventh Five Year Plan", "is_correct": false },
+        { "option_id": 4, "text": "Twelfth Five Year Plan", "is_correct": false }
+      ],
+      "answer": "Ninth Five Year Plan"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is a 'Mixed Economy'?",
+      "answer": "An economy where both the public sector and private sector co-exist and work together for economic development."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are the three sectors in a mixed economy?",
+      "answer": "Public Sector, Private Sector, and Joint Sector."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What was the main goal of the Second Five Year Plan?",
+      "answer": "Rapid industrialisation, especially focusing on heavy industries."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why did the government declare a 'plan holiday' from 1966 to 1969?",
+      "answer": "Due to intense famine, the invasion by China, and the war with Pakistan, which strained the economy."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What was the objective of the Fifth Five Year Plan?",
+      "answer": "To make India economically self-sufficient by alleviating poverty."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why were banks nationalised in 1969?",
+      "answer": "To cover deficits in implementing schemes, to ensure profits went to the government treasury, and to stop the monopoly of the private sector."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Who fought for the weekly Sunday holiday for mill workers?",
+      "answer": "Narayan Meghaji Lokhande."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What triggered the Great Bombay Textile Strike of 1982?",
+      "answer": "The dissatisfaction with the bonus offered (8% to 17%) instead of the demanded 20% led to the strike."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is 'Globalisation'?",
+      "answer": "Integrating the country's economy with the global economy by removing barriers to free trade and investment."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the function of SEBI?",
+      "answer": "To control and regulate the share market."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What does WTO stand for?",
+      "answer": "World Trade Organisation."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Name one programme started in the Sixth Five Year Plan.",
+      "answer": "Integrated Rural Development Programme (IRDP)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What was the main focus of the Ninth Five Year Plan?",
+      "answer": "Agriculture and rural development."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What crisis did the Indian economy face in 1991?",
+      "answer": "High inflation, low growth rate, and critically low foreign exchange reserves."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How did Dr. Manmohan Singh resolve the 1991 economic crisis?",
+      "answer": "By removing restrictions on foreign investment, opening up the public sector, and launching the policy of liberalisation, privatisation, and globalisation."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the 'Joint Sector'?",
+      "answer": "A sector where industries are owned and managed jointly by private industrialists and the government."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What was the duration of the First Five Year Plan?",
+      "answer": "1951-1956."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Second Five Year Plan?",
+      "answer": "1956-1961."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Third Five Year Plan?",
+      "answer": "1961-1966."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Fourth Five Year Plan?",
+      "answer": "1969-1974."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Fifth Five Year Plan?",
+      "answer": "1974-1979."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Sixth Five Year Plan?",
+      "answer": "1980-1985."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Seventh Five Year Plan?",
+      "answer": "1985-1990."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Eighth Five Year Plan?",
+      "answer": "1992-1997."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was the duration of the Ninth Five Year Plan?",
+      "answer": "1997-2002."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Explain the features of the Mixed Economy model adopted by India.",
+      "answer": "India adopted the mixed economy to balance capitalist and socialist advantages. It has a Public Sector fully controlled by the government (e.g., defence), a Private Sector owned by individuals but supervised by the government, and a Joint Sector where both cooperate. It aims for mass production, popular participation, and prioritizing national interests like long-term development."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "What were the major achievements of the nationalisation of banks?",
+      "answer": "Nationalisation ended the monopoly of the private sector in banking. The profits of banks started reaching the government treasury, which helped in implementing development schemes. It facilitated the opening of branches in rural areas, aiding development. The policy also supported small industries and the Green Revolution."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "Describe the 20-Point Programme announced by Indira Gandhi.",
+      "answer": "Announced on 1st July 1975, it aimed at rapid development. Key provisions included land ceiling, minimum wages, workers' participation in industry, prevention of tax evasion and smuggling, regulation of prices of basic necessities, and development of the handloom sector."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the Great Bombay Textile Strike of 1982.",
+      "answer": "The strike lasted for over a year, crippling Mumbai's textile industry. About 1.5 lakh workers became unemployed. As the strike dragged on, the demand for polyester cloth replaced cotton, affecting mill sales. Eventually, textile mills moved from Mumbai to Surat, changing the industrial landscape of Mumbai."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "What were the objectives of the World Trade Organisation (WTO)?",
+      "answer": "The WTO aimed to free trade between countries, end discriminatory laws and restrictions obstructing free trade, and regulate global trade through a formal mechanism. India joined the WTO in 1995 to integrate its economy with the global market."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "What were the challenges faced by the Indian economy in 1991?",
+      "answer": "India faced a severe economic crisis with inflation at 17%, foreign exchange reserves depleted to last only a week, and a high fiscal deficit. The country had to mortgage its gold reserves to the Bank of England to secure loans. The Chandra Shekhar government could not resolve the crisis due to lack of political support."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 1991 New Economic Policy.",
+      "answer": "The New Economic Policy, launched by P.V. Narasimha Rao and Dr. Manmohan Singh, liberalised the Indian economy. It removed license controls, allowed foreign investment, and privatised public sector industries. This led to increased economic growth, a rise in foreign exchange reserves, and control over inflation, effectively integrating India into the global economy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Discuss the role of the Rashtriya Mill Mazdoor Sangh during the textile strike.",
+      "answer": "The Rashtriya Mill Mazdoor Sangh was the officially recognized union for mill workers. During the 1981 Diwali bonus dispute, it agreed to a bonus of 8-17% without taking the workers into confidence. This angered the workers, who felt the union was not representing their interests properly, leading them to approach Dr. Datta Samant for leadership."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "How did the Imperial Bank of India transform into the State Bank of India?",
+      "answer": "The Imperial Bank of India was nationalised in 1955. It was renamed the State Bank of India. This transformation allowed the bank to open branches across the country, playing a pivotal role in government development schemes and financial inclusion."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "What were the main objectives of the First Five Year Plan?",
+      "answer": "The First Five Year Plan (1951-1956) aimed to lay the foundations of a planned economy. It focused heavily on agriculture, social development, irrigation, flood control, energy resources, rural and small-scale industries, heavy industries, and transport and communication."
+    }
+  ]
+}

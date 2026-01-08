@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.11",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Past in the Present"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main protagonist representing the modern era in the skit?",
+      "options": [
+        { "option_id": 1, "text": "A boy from 1950s", "is_correct": false },
+        { "option_id": 2, "text": "Neel", "is_correct": true },
+        { "option_id": 3, "text": "Sampatbhau", "is_correct": false },
+        { "option_id": 4, "text": "Mahadevbhau", "is_correct": false }
+      ],
+      "answer": "Neel"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What task did Neel claim to have completed before asking to go out?",
+      "options": [
+        { "option_id": 1, "text": "Made his bed", "is_correct": false },
+        { "option_id": 2, "text": "Put dishes in the dishwasher", "is_correct": true },
+        { "option_id": 3, "text": "Cleaned his bicycle", "is_correct": false },
+        { "option_id": 4, "text": "Watered the garden", "is_correct": false }
+      ],
+      "answer": "Put dishes in the dishwasher"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which relative does Mom first introduce to Neel?",
+      "options": [
+        { "option_id": 1, "text": "His father", "is_correct": false },
+        { "option_id": 2, "text": "His Grandpa (Boy from 1950s)", "is_correct": true },
+        { "option_id": 3, "text": "His Great-Grandfather", "is_correct": false },
+        { "option_id": 4, "text": "His Ancestor from 3000 BC", "is_correct": false }
+      ],
+      "answer": "His Grandpa (Boy from 1950s)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What specific chore did Neel forget to do?",
+      "options": [
+        { "option_id": 1, "text": "Dust the living room", "is_correct": false },
+        { "option_id": 2, "text": "Make his bed", "is_correct": true },
+        { "option_id": 3, "text": "Finish his homework", "is_correct": false },
+        { "option_id": 4, "text": "Clean the floor", "is_correct": false }
+      ],
+      "answer": "Make his bed"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How is the 'Boy from 1950s' dressed?",
+      "options": [
+        { "option_id": 1, "text": "Loose trousers and shirt", "is_correct": true },
+        { "option_id": 2, "text": "Kurta-pyjamas and cap", "is_correct": false },
+        { "option_id": 3, "text": "Dhoti and kurta", "is_correct": false },
+        { "option_id": 4, "text": "Sleeveless V-neck top", "is_correct": false }
+      ],
+      "answer": "Loose trousers and shirt"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What year is the 'Boy from 1910' associated with?",
+      "options": [
+        { "option_id": 1, "text": "19th Century", "is_correct": false },
+        { "option_id": 2, "text": "20th Century", "is_correct": false },
+        { "option_id": 3, "text": "1910", "is_correct": true },
+        { "option_id": 4, "text": "1857", "is_correct": false }
+      ],
+      "answer": "1910"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How is the mother of the 'Boy from 1910' dressed?",
+      "options": [
+        { "option_id": 1, "text": "In a mod outfit", "is_correct": false },
+        { "option_id": 2, "text": "In a nine-yard saree with a nose ring", "is_correct": true },
+        { "option_id": 3, "text": "In a silk saree", "is_correct": false },
+        { "option_id": 4, "text": "In a tunic and churidar", "is_correct": false }
+      ],
+      "answer": "In a nine-yard saree with a nose ring"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the 'Boy from 1910' clean?",
+      "options": [
+        { "option_id": 1, "text": "The bicycle", "is_correct": false },
+        { "option_id": 2, "text": "The grinding stones", "is_correct": true },
+        { "option_id": 3, "text": "The car", "is_correct": false },
+        { "option_id": 4, "text": "The windows", "is_correct": false }
+      ],
+      "answer": "The grinding stones"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What game did the 'Boy from 1800' want to play?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Atya-patya", "is_correct": true },
+        { "option_id": 3, "text": "Ashtapada", "is_correct": false },
+        { "option_id": 4, "text": "Chaupar", "is_correct": false }
+      ],
+      "answer": "Atya-patya"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who is the 'Boy from 1500' related to Neel as?",
+      "options": [
+        { "option_id": 1, "text": "Double double great-great Grandpa", "is_correct": true },
+        { "option_id": 2, "text": "Uncle", "is_correct": false },
+        { "option_id": 3, "text": "Father", "is_correct": false },
+        { "option_id": 4, "text": "Cousin", "is_correct": false }
+      ],
+      "answer": "Double double great-great Grandpa"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What game did the 'Boy from 1500' want to play?",
+      "options": [
+        { "option_id": 1, "text": "Bagh-chal", "is_correct": false },
+        { "option_id": 2, "text": "Ashtapada", "is_correct": true },
+        { "option_id": 3, "text": "Hide and seek", "is_correct": false },
+        { "option_id": 4, "text": "Hockey", "is_correct": false }
+      ],
+      "answer": "Ashtapada"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How is the 'Boy from 1000 CE' dressed?",
+      "options": [
+        { "option_id": 1, "text": "Flare tunic and churidar", "is_correct": true },
+        { "option_id": 2, "text": "Jeans and T-shirt", "is_correct": false },
+        { "option_id": 3, "text": "Dhoti only", "is_correct": false },
+        { "option_id": 4, "text": "Animal skin", "is_correct": false }
+      ],
+      "answer": "Flare tunic and churidar"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did the 'Boy from 1000 CE' wish to watch?",
+      "options": [
+        { "option_id": 1, "text": "A movie", "is_correct": false },
+        { "option_id": 2, "text": "A puppet show", "is_correct": true },
+        { "option_id": 3, "text": "A dance performance", "is_correct": false },
+        { "option_id": 4, "text": "A bull fight", "is_correct": false }
+      ],
+      "answer": "A puppet show"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How did the 'Boy from 1st Century CE' address his mother?",
+      "options": [
+        { "option_id": 1, "text": "Mom", "is_correct": false },
+        { "option_id": 2, "text": "Mummy", "is_correct": false },
+        { "option_id": 3, "text": "Matadevi", "is_correct": true },
+        { "option_id": 4, "text": "Ma", "is_correct": false }
+      ],
+      "answer": "Matadevi"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What game did the 'Boy from 1st Century CE' want to play?",
+      "options": [
+        { "option_id": 1, "text": "Bagh-chal", "is_correct": true },
+        { "option_id": 2, "text": "Chess", "is_correct": false },
+        { "option_id": 3, "text": "Ludo", "is_correct": false },
+        { "option_id": 4, "text": "Chaupar", "is_correct": false }
+      ],
+      "answer": "Bagh-chal"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the timeline of the oldest ancestor mentioned in the skit?",
+      "options": [
+        { "option_id": 1, "text": "1000 BC", "is_correct": false },
+        { "option_id": 2, "text": "3000 BCE", "is_correct": true },
+        { "option_id": 3, "text": "5000 BCE", "is_correct": false },
+        { "option_id": 4, "text": "100 CE", "is_correct": false }
+      ],
+      "answer": "3000 BCE"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What chore did the 'Boy from 3000 BCE' perform?",
+      "options": [
+        { "option_id": 1, "text": "Cleaned the car", "is_correct": false },
+        { "option_id": 2, "text": "Hunted down food", "is_correct": true },
+        { "option_id": 3, "text": "Bought groceries", "is_correct": false },
+        { "option_id": 4, "text": "Watered the garden", "is_correct": false }
+      ],
+      "answer": "Hunted down food"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What game did the 'Boy from 3000 BCE' want to play?",
+      "options": [
+        { "option_id": 1, "text": "Chaupar", "is_correct": true },
+        { "option_id": 2, "text": "Cards", "is_correct": false },
+        { "option_id": 3, "text": "Dice", "is_correct": false },
+        { "option_id": 4, "text": "Hunting", "is_correct": false }
+      ],
+      "answer": "Chaupar"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How did the 'Boy from 3000 BCE' address his mother?",
+      "options": [
+        { "option_id": 1, "text": "Mom", "is_correct": false },
+        { "option_id": 2, "text": "Mother dear", "is_correct": false },
+        { "option_id": 3, "text": "Thee / Thou (Old English style)", "is_correct": true },
+        { "option_id": 4, "text": "Mata", "is_correct": false }
+      ],
+      "answer": "Thee / Thou (Old English style)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the common command given by all mothers in the skit?",
+      "options": [
+        { "option_id": 1, "text": "Go to sleep", "is_correct": false },
+        { "option_id": 2, "text": "Do your homework", "is_correct": false },
+        { "option_id": 3, "text": "Make your bed", "is_correct": true },
+        { "option_id": 4, "text": "Clean the kitchen", "is_correct": false }
+      ],
+      "answer": "Make your bed"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the condition of Neel's room at the beginning of the play?",
+      "answer": "Neel's room was in a messed up state with books, clothes, and headphones on the floor and bed[cite: 256, 266]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What reason does Neel give for not making his bed?",
+      "answer": "Neel argues that the bed is going to be messed up again when he sleeps after lunch, so he doesn't see the point[cite: 275]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What chores had the 1950s boy completed before asking to go out?",
+      "answer": "He had watered the garden, brought home groceries, dusted the living room, and cleaned his bicycle[cite: 285]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did the 1910 boy help in the kitchen?",
+      "answer": "The 1910 boy collected wood for the stove and cleaned the grinding stones[cite: 290]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did the 1910 boy have to clean grinding stones?",
+      "answer": "Neel realizes that they did not have electric grinders in those days, so manual grinding stones were used[cite: 292]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where did the 1910 boy promise to go with his friends?",
+      "answer": "The 1910 boy promised to go to the riverside with his friends[cite: 296]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What chores did the 1800 boy perform related to clothes?",
+      "answer": "The 1800 boy washed clothes at the river and put them up to dry[cite: 303]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did the 1800 boy do with the goats?",
+      "answer": "He took the goats up the hill to graze[cite: 304]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who were the friends the 1500 boy wanted to play with?",
+      "answer": "The 1500 boy wanted to play with Sampatbhau and Mahadevbhau[cite: 312]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What agricultural tasks did the 1000 CE boy perform?",
+      "answer": "He fetched water from the lake for farm channels, cleared blocked channels, and pulled out weeds[cite: 316]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How did the 1000 CE boy repair his home?",
+      "answer": "He patched the cracks in the mud walls of his home[cite: 317]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What tool did the 1st Century CE boy use to keep birds away?",
+      "answer": "The 1st Century CE boy used a sling to keep the birds away from the field[cite: 324]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did the 1st Century CE boy use to plaster the yard?",
+      "answer": "He plastered the yard with dung[cite: 324]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did the 3000 BCE boy help with building the house?",
+      "answer": "He helped his father carve stone bricks for their new house[cite: 331]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What kind of clothes did the 3000 BCE boy dust?",
+      "answer": "He dusted their leather clothes[cite: 332]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did the 3000 BCE boy make for cooking?",
+      "answer": "He moulded mud pots for cooking and put them to dry[cite: 332]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What did Neel wish for at the end of the play?",
+      "answer": "Neel wished he had a robot to make his bed and tidy up his room[cite: 340]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was Mom's response to Neel's wish for a robot?",
+      "answer": "Mom said it is possible to make such a robot if he tries, but even that requires hard work[cite: 341]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What lesson does Mom say daily chores build?",
+      "answer": "Mom says daily chores build the right habits and the right attitude[cite: 269]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How is the 1st Century CE boy's mother dressed?",
+      "answer": "She is dressed in a saree, an upper garment, and beads jewellery[cite: 322]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the evolution of the boys' clothing from the 1950s back to 3000 BCE as depicted in the play.",
+      "answer": "The play visualizes a clear regression in clothing style corresponding to the era. The 1950s boy wears modern loose trousers and a shirt. The 1910 boy wears a traditional kurta-pyjama and cap. The 1800 boy is dressed in a dhoti, kurta, and a small turban. Going further back, the 1500 boy wears a sleeveless V-neck top and short dhoti. The 1000 CE boy wears a flare tunic and churidar. The 1st Century CE boy wears a dhoti and waistband with no shirt. Finally, the 3000 BCE boy wears only a cloth around his waist held by a cord[cite: 283, 288, 300, 307, 314, 322, 329]."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Compare the daily chores of the boy from 1950s with the boy from 3000 BCE.",
+      "answer": "The chores of the boy from the 1950s are relatively modern and domestic, such as watering the garden, buying groceries, dusting the living room, and cleaning a bicycle. In contrast, the boy from 3000 BCE performs survival-based and labor-intensive tasks. He hunts for food, helps carve stone bricks for shelter, dusts leather clothes, and moulds mud pots for cooking. This comparison highlights how daily responsibilities have shifted from basic survival to home maintenance over 5000 years[cite: 285, 330, 331, 332]."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What is the central theme of the skit 'The Past in the Present'?",
+      "answer": "The central theme of the skit is that while times, technology, and lifestyles change, certain responsibilities and the need for discipline remain constant across generations. Neel believes his life is difficult because he has to make his bed, but the skit demonstrates that boys throughout history—from the 1950s back to 3000 BCE—had far more arduous physical chores to complete. Despite their hard work, they were still expected to maintain personal discipline, such as making their beds. It emphasizes that basic duties are timeless[cite: 200, 337, 339]."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "How does the play use the character of 'Mom' to teach Neel a lesson?",
+      "answer": "The character of 'Mom' serves as the bridge between the present and the past. She initiates the lesson by introducing Neel to his ancestors when he complains about his chores. Throughout the skit, the mothers from different eras appear to reinforce the same rule: 'Make your bed.' By showing that every mother, regardless of the century, demanded this discipline despite the boys' hard labor, Neel's Mom effectively proves that his complaints are unjustified and that he has it much easier than his forefathers[cite: 278, 287, 298, 336]."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Analyze Neel's reaction to his ancestors and his final realization.",
+      "answer": "Initially, Neel is irritated and dismissive of his chores, questioning their necessity. As he meets his ancestors, he listens to their lists of heavy labor with growing surprise and realization. For instance, he is shocked to learn about grinding stones and the lack of electricity in 1910. By the end of the play, Neel realizes that teenage boys have always had chores to do, both outdoors and indoors, often much harder than his own. He accepts this reality, although he still humorously wishes for a robot to do the work for him[cite: 266, 292, 337, 340]."
+    }
+  ]
+}

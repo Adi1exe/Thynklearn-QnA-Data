@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.04",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Exogenetic Processes Part-II"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following agents creates V-shaped valleys?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Glacier", "is_correct": false },
+        { "option_id": 3, "text": "River", "is_correct": true },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which landform is formed due to the depositional work of a river at the foothills?",
+      "options": [
+        { "option_id": 1, "text": "Delta", "is_correct": false },
+        { "option_id": 2, "text": "Alluvial fan", "is_correct": true },
+        { "option_id": 3, "text": "Gorge", "is_correct": false },
+        { "option_id": 4, "text": "Meander", "is_correct": false }
+      ],
+      "answer": "Alluvial fan"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the sediment carried by a glacier called?",
+      "options": [
+        { "option_id": 1, "text": "Silt", "is_correct": false },
+        { "option_id": 2, "text": "Alluvium", "is_correct": false },
+        { "option_id": 3, "text": "Moraine", "is_correct": true },
+        { "option_id": 4, "text": "Loess", "is_correct": false }
+      ],
+      "answer": "Moraine"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following landforms is produced by the erosional work of a glacier?",
+      "options": [
+        { "option_id": 1, "text": "Drumlin", "is_correct": false },
+        { "option_id": 2, "text": "Esker", "is_correct": false },
+        { "option_id": 3, "text": "Cirque", "is_correct": true },
+        { "option_id": 4, "text": "Yardang", "is_correct": false }
+      ],
+      "answer": "Cirque"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Mushroom rocks are formed due to the erosional work of which agent?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": true },
+        { "option_id": 3, "text": "Groundwater", "is_correct": false },
+        { "option_id": 4, "text": "Sea waves", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which landform is created by the deposition of sand in deserts?",
+      "options": [
+        { "option_id": 1, "text": "Yardang", "is_correct": false },
+        { "option_id": 2, "text": "Sand dune (Barchan)", "is_correct": true },
+        { "option_id": 3, "text": "Hamada", "is_correct": false },
+        { "option_id": 4, "text": "Deflation hollow", "is_correct": false }
+      ],
+      "answer": "Sand dune (Barchan)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Lagoons are formed due to the work of which agent?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Wind", "is_correct": false },
+        { "option_id": 3, "text": "Sea waves", "is_correct": true },
+        { "option_id": 4, "text": "Glacier", "is_correct": false }
+      ],
+      "answer": "Sea waves"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Stalactites and stalagmites are formed in limestone caves due to which process?",
+      "options": [
+        { "option_id": 1, "text": "Erosion by wind", "is_correct": false },
+        { "option_id": 2, "text": "Deposition by groundwater", "is_correct": true },
+        { "option_id": 3, "text": "Erosion by sea waves", "is_correct": false },
+        { "option_id": 4, "text": "Transport by rivers", "is_correct": false }
+      ],
+      "answer": "Deposition by groundwater"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a type of moraine?",
+      "options": [
+        { "option_id": 1, "text": "Ground moraine", "is_correct": false },
+        { "option_id": 2, "text": "Lateral moraine", "is_correct": false },
+        { "option_id": 3, "text": "Vertical moraine", "is_correct": true },
+        { "option_id": 4, "text": "Medial moraine", "is_correct": false }
+      ],
+      "answer": "Vertical moraine"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What type of valley is formed by a glacier?",
+      "options": [
+        { "option_id": 1, "text": "V-shaped valley", "is_correct": false },
+        { "option_id": 2, "text": "U-shaped valley", "is_correct": true },
+        { "option_id": 3, "text": "I-shaped valley", "is_correct": false },
+        { "option_id": 4, "text": "Rift valley", "is_correct": false }
+      ],
+      "answer": "U-shaped valley"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by the union of many flows of water?",
+      "options": [
+        { "option_id": 1, "text": "Lake", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": true },
+        { "option_id": 3, "text": "Glacier", "is_correct": false },
+        { "option_id": 4, "text": "Ocean", "is_correct": false }
+      ],
+      "answer": "River"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where does the Jacobshavn Glacier, one of the fastest moving glaciers, locate?",
+      "options": [
+        { "option_id": 1, "text": "Antarctica", "is_correct": false },
+        { "option_id": 2, "text": "Greenland", "is_correct": true },
+        { "option_id": 3, "text": "Himalayas", "is_correct": false },
+        { "option_id": 4, "text": "Alaska", "is_correct": false }
+      ],
+      "answer": "Greenland"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these landforms is created by the depositional work of wind?",
+      "options": [
+        { "option_id": 1, "text": "Mushroom rock", "is_correct": false },
+        { "option_id": 2, "text": "Loess plain", "is_correct": true },
+        { "option_id": 3, "text": "Yardang", "is_correct": false },
+        { "option_id": 4, "text": "Sea cliff", "is_correct": false }
+      ],
+      "answer": "Loess plain"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which erosional landform is found at sea coasts?",
+      "options": [
+        { "option_id": 1, "text": "Beach", "is_correct": false },
+        { "option_id": 2, "text": "Sand bar", "is_correct": false },
+        { "option_id": 3, "text": "Sea cliff", "is_correct": true },
+        { "option_id": 4, "text": "Lagoon", "is_correct": false }
+      ],
+      "answer": "Sea cliff"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Sinkholes are associated with the work of which agent?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Groundwater", "is_correct": true },
+        { "option_id": 3, "text": "River", "is_correct": false },
+        { "option_id": 4, "text": "Glacier", "is_correct": false }
+      ],
+      "answer": "Groundwater"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "How is a river formed?",
+      "answer": "Running water flows naturally in a direction according to gravity along the slope. When many such flows of water come together, a river is formed."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "List the landforms formed by the erosional work of a river.",
+      "answer": "Gorges (canyons), V-shaped valleys, and waterfalls."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "List the landforms formed by the depositional work of a river.",
+      "answer": "Alluvial fans, flood levees, flood plains, and deltas."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What are the erosional landforms produced by glaciers?",
+      "answer": "Cirques, arêtes, horns, U-shaped valleys, hanging valleys, and rôche moutonnées (sheepbacks)."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What are the depositional landforms produced by glaciers?",
+      "answer": "Drumlins and eskers."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Name the types of moraines based on location.",
+      "answer": "Ground moraines, lateral moraines, medial moraines, and terminal moraines."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What landforms are produced by the erosional work of wind?",
+      "answer": "Mushroom rocks, deflation hollows, and yardangs."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What landforms are produced by the depositional work of wind?",
+      "answer": "Sand dunes, barchans, seifs, ripple marks, and loess plains."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "List the landforms formed by the erosional work of sea waves.",
+      "answer": "Wave-cut platforms, sea caves, sea arches, sea cliffs, and sea stacks."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "List the landforms formed by the depositional work of sea waves.",
+      "answer": "Beaches, sand bars, and lagoons."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is 'Groundwater'?",
+      "answer": "Rainwater that seeps below the earth's surface through porous rocks or cracks and accumulates in the non-porous layer is called groundwater."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name the landforms produced by the work of groundwater.",
+      "answer": "Sinkholes, limestone caves, stalactites, and stalagmites."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the 'Water Table'?",
+      "answer": "The upper surface of the water accumulated below the ground is called the water table."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is a 'Glacier'?",
+      "answer": "A moving mass of ice that slides along a slope due to the heavy weight of accumulated snow and friction is called a glacier."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is the work of wind more prominent in deserts?",
+      "answer": "Because mechanical weathering occurs on a large scale producing loose sand, and there are few obstacles like vegetation to stop the wind."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Explain the erosional, transportation, and depositional work of rivers.",
+      "answer": "Rivers erode their bed and banks in high altitude areas due to fast flow, forming gorges and V-shaped valleys[cite: 1]. They transport sediments downstream. At foothills, reduced speed leads to the deposition of coarse sediments forming alluvial fans[cite: 1]. In plains, rivers meander and deposit fine sediments during floods, creating flood levees and flood plains[cite: 1]. Finally, near the sea, the river splits into distributaries depositing sediments to form a delta[cite: 1]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Describe the work of a glacier and the landforms it produces.",
+      "answer": "Glaciers move slowly but have great mass, eroding their bed and banks to form cirques, arêtes, horns, and U-shaped valleys[cite: 3]. They transport sediments known as moraines (ground, lateral, medial, terminal)[cite: 3]. When the glacier melts, it deposits these sediments, forming landforms like drumlins and eskers[cite: 3]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "How does the wind modify the landscape in desert regions?",
+      "answer": "Wind erodes rocks by friction with sand particles, creating mushroom rocks and yardangs[cite: 5]. It transports sand particles over distances. When the wind speed reduces, it deposits the sand, forming sand dunes like barchans and seifs, ripple marks, and extensive loess plains[cite: 5]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Explain the work of sea waves along the coast.",
+      "answer": "Sea waves erode the coast by hitting rocks, forming sea cliffs, sea caves, and sea arches. Continuous erosion can leave isolated pillars called sea stacks[cite: 7]. The eroded material is moved by tides and deposited in areas with less wave effect, forming beaches, sand bars, and lagoons[cite: 7]."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Describe the work of groundwater in limestone regions.",
+      "answer": "Groundwater dissolves soluble minerals like calcium in limestone rocks (erosion), creating sinkholes and caves[cite: 9]. As the water drips in caves and evaporates, the dissolved minerals are deposited, forming stalactites (hanging from the roof) and stalagmites (growing from the floor)[cite: 9]."
+    }
+  ]
+}

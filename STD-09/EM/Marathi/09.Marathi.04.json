@@ -1,0 +1,461 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.04",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "हास्यचित्रांतली मुलं (स्थूलवाचन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘हास्यचित्रांतली मुलं’ या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "वसंत सरवटे", "is_correct": false },
+        { "option_id": 2, "text": "शि. द. फडणीस", "is_correct": false },
+        { "option_id": 3, "text": "मधुकर धर्मापुरीकर", "is_correct": true },
+        { "option_id": 4, "text": "आर. के. लक्ष्मण", "is_correct": false }
+      ],
+      "answer": "मधुकर धर्मापुरीकर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मधुकर धर्मापुरीकर यांनी कोणत्या सालापासून व्यंगचित्रांचा संग्रह करण्यास सुरुवात केली?",
+      "options": [
+        { "option_id": 1, "text": "१९५४", "is_correct": false },
+        { "option_id": 2, "text": "१९७६", "is_correct": true },
+        { "option_id": 3, "text": "२०१६", "is_correct": false },
+        { "option_id": 4, "text": "१९८०", "is_correct": false }
+      ],
+      "answer": "१९७६"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सफाईदार रेषांनी काढलेलं गमतीदार चित्र म्हणजे __________.",
+      "options": [
+        { "option_id": 1, "text": "व्यंगचित्र", "is_correct": false },
+        { "option_id": 2, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 3, "text": "हास्यचित्र", "is_correct": true },
+        { "option_id": 4, "text": "निसर्गचित्र", "is_correct": false }
+      ],
+      "answer": "हास्यचित्र"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "व्यंगचित्र म्हणजे हास्यचित्राचा __________ टप्पा होय.",
+      "options": [
+        { "option_id": 1, "text": "मागचा", "is_correct": false },
+        { "option_id": 2, "text": "पुढला", "is_correct": true },
+        { "option_id": 3, "text": "मधला", "is_correct": false },
+        { "option_id": 4, "text": "शेवटचा", "is_correct": false }
+      ],
+      "answer": "पुढला"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हास्यचित्र पाहिल्यावर आपल्याला काय येते?",
+      "options": [
+        { "option_id": 1, "text": "रडू", "is_correct": false },
+        { "option_id": 2, "text": "हसू", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "हसू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "व्यंगचित्राचा हेतू केवळ __________ हा नसतो.",
+      "options": [
+        { "option_id": 1, "text": "रडवणे", "is_correct": false },
+        { "option_id": 2, "text": "हसवणे", "is_correct": true },
+        { "option_id": 3, "text": "शिकवणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढणे", "is_correct": false }
+      ],
+      "answer": "हसवणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चित्रमालिका म्हणजे __________.",
+      "options": [
+        { "option_id": 1, "text": "हास्यचित्र", "is_correct": false },
+        { "option_id": 2, "text": "व्यंगचित्र", "is_correct": false },
+        { "option_id": 3, "text": "स्ट्रीप कार्टून्स", "is_correct": true },
+        { "option_id": 4, "text": "निसर्गचित्र", "is_correct": false }
+      ],
+      "answer": "स्ट्रीप कार्टून्स"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'चिंटू' हे कशाचे महत्त्वाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "हास्यचित्र", "is_correct": false },
+        { "option_id": 2, "text": "चित्रमालिका (स्ट्रीप कार्टून्स)", "is_correct": true },
+        { "option_id": 3, "text": "व्यंगचित्र", "is_correct": false },
+        { "option_id": 4, "text": "कथा", "is_correct": false }
+      ],
+      "answer": "चित्रमालिका (स्ट्रीप कार्टून्स)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कोणाची हास्यचित्रे काढणे सर्वांत कठीण असते?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांची", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या माणसांची", "is_correct": false },
+        { "option_id": 3, "text": "मुलांची", "is_correct": true },
+        { "option_id": 4, "text": "झाडांची", "is_correct": false }
+      ],
+      "answer": "मुलांची"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चौथी-पाचवीच्या गणिताच्या पुस्तकात कोणाची हास्यचित्रे होती?",
+      "options": [
+        { "option_id": 1, "text": "आर. के. लक्ष्मण", "is_correct": false },
+        { "option_id": 2, "text": "शि. द. फडणीस", "is_correct": true },
+        { "option_id": 3, "text": "श्याम जोशी", "is_correct": false },
+        { "option_id": 4, "text": "वसंत सरवटे", "is_correct": false }
+      ],
+      "answer": "शि. द. फडणीस"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शि. द. फडणीस यांच्या चित्रांमुळे मुलांचा कशाचा 'बाऊ' कमी झाला?",
+      "options": [
+        { "option_id": 1, "text": "शाळेचा", "is_correct": false },
+        { "option_id": 2, "text": "गणिताचा", "is_correct": true },
+        { "option_id": 3, "text": "परीक्षेचा", "is_correct": false },
+        { "option_id": 4, "text": "इंग्रजीचा", "is_correct": false }
+      ],
+      "answer": "गणिताचा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लहान बाळाला दूध पाजावे तसे रोपट्याला पाणी घालणारी मुलगी कोणत्या हास्यचित्रकाराच्या चित्रात आहे?",
+      "options": [
+        { "option_id": 1, "text": "श्याम जोशी", "is_correct": false },
+        { "option_id": 2, "text": "शि. द. फडणीस", "is_correct": true },
+        { "option_id": 3, "text": "डेव्हीड लँग्डन", "is_correct": false },
+        { "option_id": 4, "text": "नॉर्मन थेलवेल", "is_correct": false }
+      ],
+      "answer": "शि. द. फडणीस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "श्याम जोशी हे कोणत्या पिढीचे हास्यचित्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सध्याच्या", "is_correct": false },
+        { "option_id": 2, "text": "मागच्या", "is_correct": true },
+        { "option_id": 3, "text": "भावी", "is_correct": false },
+        { "option_id": 4, "text": "परदेशी", "is_correct": false }
+      ],
+      "answer": "मागच्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "डेव्हीड लँग्डन हे कोणत्या देशाचे व्यंगचित्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "हंगेरी", "is_correct": false },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": true },
+        { "option_id": 4, "text": "ब्रिटन", "is_correct": false }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "डेव्हीड लँग्डन यांच्या चित्रात चतुर मुलगा काय फोडतो आहे?",
+      "options": [
+        { "option_id": 1, "text": "फुगा", "is_correct": false },
+        { "option_id": 2, "text": "नारळ", "is_correct": false },
+        { "option_id": 3, "text": "पैशाचा गल्ला", "is_correct": true },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "पैशाचा गल्ला"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "डेव्हीड लँग्डन यांच्या चित्रात मुलाने भोकाड का पसरले आहे?",
+      "options": [
+        { "option_id": 1, "text": "भूक लागली म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "सेफ्टी पिन टोचते आहे म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "खेळणे मोडले म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "आईने मारले म्हणून", "is_correct": false }
+      ],
+      "answer": "सेफ्टी पिन टोचते आहे म्हणून"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जागतिक कीर्तीचे भारतीय व्यंगचित्रकार कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शि. द. फडणीस", "is_correct": false },
+        { "option_id": 2, "text": "आर. के. लक्ष्मण", "is_correct": true },
+        { "option_id": 3, "text": "वसंत सरवटे", "is_correct": false },
+        { "option_id": 4, "text": "मधुकर धर्मापुरीकर", "is_correct": false }
+      ],
+      "answer": "आर. के. लक्ष्मण"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आर. के. लक्ष्मण यांच्या व्यंगचित्रात केस कापणारा माणूस कोणाला जमिनीवर बसवून केस कापतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या माणसाला", "is_correct": false },
+        { "option_id": 2, "text": "मुलाला", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्याला", "is_correct": false },
+        { "option_id": 4, "text": "स्वतःला", "is_correct": false }
+      ],
+      "answer": "मुलाला"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "चिंटू कोणाला प्रश्न विचारतो?",
+      "options": [
+        { "option_id": 1, "text": "आईला", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षकांना", "is_correct": false },
+        { "option_id": 3, "text": "पप्पांना", "is_correct": true },
+        { "option_id": 4, "text": "मित्राला", "is_correct": false }
+      ],
+      "answer": "पप्पांना"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चिंटू पप्पांना कशाबद्दल प्रश्न विचारतो?",
+      "options": [
+        { "option_id": 1, "text": "अभ्यासाचा", "is_correct": false },
+        { "option_id": 2, "text": "नदीच्या पाण्याचा", "is_correct": true },
+        { "option_id": 3, "text": "खेळाचा", "is_correct": false },
+        { "option_id": 4, "text": "टीव्हीचा", "is_correct": false }
+      ],
+      "answer": "नदीच्या पाण्याचा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हंगेरियन व्यंगचित्रकाराचे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "रेबर", "is_correct": true },
+        { "option_id": 2, "text": "नॉर्मन थेलवेल", "is_correct": false },
+        { "option_id": 3, "text": "डेव्हीड लँग्डन", "is_correct": false },
+        { "option_id": 4, "text": "वॉल्ट डिस्नी", "is_correct": false }
+      ],
+      "answer": "रेबर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रेबर यांच्या चित्रात मुलगा काय वाजवत आहे?",
+      "options": [
+        { "option_id": 1, "text": "बासरी", "is_correct": false },
+        { "option_id": 2, "text": "तबला", "is_correct": false },
+        { "option_id": 3, "text": "व्हायोलिन", "is_correct": true },
+        { "option_id": 4, "text": "गिटार", "is_correct": false }
+      ],
+      "answer": "व्हायोलिन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लहान मुलांना कशाचे आकर्षण असते असे रेबर याला सुचवायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "लहान वस्तूंचे", "is_correct": false },
+        { "option_id": 2, "text": "'मोठ्या' वस्तूंचे", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तकांचे", "is_correct": false }
+      ],
+      "answer": "'मोठ्या' वस्तूंचे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नॉर्मन थेलवेल हे कोणत्या देशाचे व्यंगचित्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "जपान", "is_correct": false },
+        { "option_id": 3, "text": "ब्रिटन", "is_correct": true },
+        { "option_id": 4, "text": "फ्रान्स", "is_correct": false }
+      ],
+      "answer": "ब्रिटन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "नॉर्मन थेलवेल यांच्या चित्रातील मुलगा कशाचा मुलगा आहे?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्याचा", "is_correct": false },
+        { "option_id": 2, "text": "स्काउटचा", "is_correct": true },
+        { "option_id": 3, "text": "सैनिकाचा", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकाराचा", "is_correct": false }
+      ],
+      "answer": "स्काउटचा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "हास्यचित्र म्हणजे काय?",
+      "answer": "सफाईदार रेषांनी काढलेलं गमतीदार चित्र म्हणजे हास्यचित्र होय."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "व्यंगचित्र आणि हास्यचित्र यातील मुख्य फरक काय आहे?",
+      "answer": "हास्यचित्र पाहिल्यावर हसू येते, तर व्यंगचित्र आपल्याला हसवण्यासोबतच काहीतरी सांगू पाहते आणि गमतीदार विचार मांडते."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "मुलांची हास्यचित्रे काढणे का अवघड असते?",
+      "answer": "कारण लहान मुलांचे चित्र आकाराने लहान काढले तरी ते लहान मुलाचे वाटेलच असे नाही; त्यांचे हावभाव आणि प्रमाणबद्धता साधणे कठीण असते."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "शि. द. फडणीस यांच्या हास्यचित्राचे वैशिष्ट्य काय आहे?",
+      "answer": "त्यांची हास्यचित्रे पाहिल्यावर मुलांचा गणिताचा 'बाऊ' कमी झाला होता आणि त्यांच्या चित्रात लहान मुलांचे भाव छान टिपलेले असतात."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "श्याम जोशी यांच्या चित्रातील रेषा कशा आहेत?",
+      "answer": "श्याम जोशी यांच्या चित्रातील रेषा फडणीसांच्या रेषेपेक्षा उलट, म्हणजे नाजूक आणि लवचीक आहेत."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "श्याम जोशी यांच्या चित्रात देवाला 'फूल' वाहणारा मुलगा काय म्हणतो?",
+      "answer": "तो म्हणतो, 'बागेत एकही फूल मिळालं नाही रे बाप्पा!'"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "डेव्हीड लँग्डन यांच्या पहिल्या चित्रात काय दिसते?",
+      "answer": "पहिल्या चित्रात एक चतुर मुलगा पैशाचा गल्ला फोडताना दिसतो आणि त्याच्या चेहऱ्यावरचे भाव खरे वाटतात."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "डेव्हीड लँग्डन यांच्या दुसऱ्या चित्रात मुलाच्या रडण्याचे कारण काय आहे?",
+      "answer": "त्याच्या डायपरची सेफ्टी पिन त्याला टोचत असते, म्हणून तो रडत असतो."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "आर. के. लक्ष्मण यांच्या व्यंगचित्रात मोठा माणूस आणि छोटा मुलगा यांच्यात काय फरक दिसतो?",
+      "answer": "दोघांचे हात-पाय, नाक-डोळे सारखे असूनही मोठा माणूस उत्साही आणि मुलगा कंटाळलेला, वैतागलेला दिसतो, ज्यामुळे वयाचा फरक स्पष्ट होतो."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "चिंटूच्या चित्रात पप्पांनी नदीच्या पाण्याबद्दल काय सांगितले?",
+      "answer": "पप्पांनी सांगितले की नदीचं पाणी मोठ्या नदीला मिळते आणि मोठी नदी समुद्राला मिळते."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "चिंटूने नदीच्या पाण्याबद्दल प्रश्न विचारण्याचे खरे कारण काय होते?",
+      "answer": "चिंटूने प्रश्न विचारला कारण पप्पांच्या स्कूटरची किल्ली नदीत पडली होती."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "हंगेरियन व्यंगचित्रकार रेबर यांच्या चित्रात काय तफावत आहे?",
+      "answer": "लहानपणी मुलगा मोठे व्हायोलिन वाजवतो आणि मोठा झाल्यावर लहान व्हायोलिन वाजवतो, हे चित्रात दाखवले आहे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "रेबर यांना चित्रातून काय सांगायचे आहे?",
+      "answer": "वाढत्या वयानुसार छंदाचे बाह्य आकर्षण कमी होऊन तो अधिक खोल आणि सूक्ष्म होत जातो."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "नॉर्मन थेलवेल यांच्या चित्रातील मुलाच्या बुटात काय झाले आहे?",
+      "answer": "त्याच्या बुटात मध्यभागी काहीतरी घुसून बसले आहे आणि तो ते काढण्याच्या नादात वेडावाकडा झाला आहे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "लहान मुलाचे चित्र काढताना काय महत्त्वाचे असते?",
+      "answer": "चित्राचा किंवा मुलाचा लहान आकारच नव्हे, तर शरीराच्या प्रत्येक अवयवाचा आकार त्या प्रमाणात लहान असणे गरजेचे असते."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "लहान मुलांच्या हाता-पायांची नखं आपोआप लहान कधी होतात?",
+      "answer": "जेव्हा हाता-पायांची बोटं लहान काढली जातात, तेव्हा नखं आपोआप लहान होतात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "लहान मुलांच्या चेहऱ्याचे कोणते वैशिष्ट्य पाठात सांगितले आहे?",
+      "answer": "लहान मुलांच्या भुवया लहान किंवा एका रेषेच्या असतात आणि त्यांना दाढी-मिश्या नसतात."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "हास्यचित्र आणि चित्र यात काय फरक असतो?",
+      "answer": "चित्रात हुबेहूब काढण्याचा प्रयत्न असतो, तर हास्यचित्रात गमतीदार हुबेहूब नक्कल असते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "मधुकर धर्मापुरीकर यांनी कोणत्या पुस्तकाचे मराठी अनुवाद केले आहेत?",
+      "answer": "आर. के. नारायण यांच्या 'मालगुडी डेज' आणि 'स्वामी अॅण्ड फ्रेंडज' या पुस्तकांचे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "प्रस्तुत लेख कोणत्या मासिकातून घेतला आहे?",
+      "answer": "प्रस्तुत लेख 'वयम् २०१६' च्या दिवाळी अंकातून घेतला आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "हास्यचित्र आणि व्यंगचित्र यांमधील फरक स्पष्ट करा.",
+      "answer": "हास्यचित्र हे सफाईदार रेषांनी काढलेले गमतीदार चित्र असते, जे पाहिल्यावर आपल्याला हसू येते. त्याचा मुख्य उद्देश मनोरंजन करणे हा असतो. याउलट, व्यंगचित्र हा हास्यचित्राचा पुढचा टप्पा आहे. व्यंगचित्र पाहिल्यावर हसू तर येतेच, पण त्यासोबतच ते आपल्याला काहीतरी विचार करायला भाग पाडते. त्यात एखादा गमतीदार विचार किंवा सामाजिक भाष्य मांडलेले असते. केवळ हसवणे हा व्यंगचित्राचा हेतू नसतो."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "लहान मुलांची हास्यचित्रे काढणे अवघड का असते, ते सोदाहरण स्पष्ट करा.",
+      "answer": "लहान मुलांची हास्यचित्रे काढणे मोठे आव्हान असते कारण केवळ आकार लहान काढला म्हणजे ते मूल वाटत नाही. एखाद्या मोठ्या माणसाचा आकार लहान केला तरी तो मोठा माणूसच वाटतो. मुलाचे चित्र काढताना शरीराच्या प्रत्येक अवयवाचे प्रमाणबद्ध लहान रूप काढावे लागते. उदाहरणार्थ, हातापायांची बोटं लहान काढली तरच नखं लहान वाटतात. नाकाचा, ओठांचा आकार, भुवयांची रेष, दाढी-मिश्या नसणे या बारीकसारीक गोष्टींकडे लक्ष द्यावे लागते. हे न जमल्यास चित्रातलं मूल मुलासारखं न दिसता विचित्र दिसू शकते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "शि. द. फडणीस आणि श्याम जोशी यांच्या हास्यचित्रांमधील फरक सांगा.",
+      "answer": "शि. द. फडणीस यांची हास्यचित्रे जाड रेषांनी काढलेली असतात. तरीही त्यांच्या चित्रात लहान मुले अगदी लोभसवाणी दिसतात. उदाहरणार्थ, त्यांच्या एका चित्रात मुलगी रोपट्याला दुधाच्या बाटलीने पाणी घालते. याउलट, श्याम जोशी यांच्या चित्रातील रेषा नाजूक आणि लवचीक असतात. त्यांच्या चित्रात हालचाल आणि भाव स्पष्ट जाणवतात. जसे की, देवाला 'फूल' (बाळ) वाहणारा मुलगा किंवा भारत बंद असूनही 'उघडा' (कपडे नसलेला) असणारा मुलगा. दोन्ही चित्रकारांची शैली भिन्न असली तरी दोघांची चित्रे प्रभावी आहेत."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "डेव्हीड लँग्डन यांच्या व्यंगचित्रातून मुलांच्या रडण्यामागचा विचार कसा मांडला आहे?",
+      "answer": "डेव्हीड लँग्डन यांच्या एका व्यंगचित्रात एक लहान मुलगा खूप जोरात रडताना (भोकाड पसरताना) दिसतो. पहिल्या नजरेत आपल्याला वाटते की लहान मुले उगीचच रडतात, तसाच हा रडत असावा. पण चित्राचे बारकाईने निरीक्षण केल्यावर आपल्याला दिसते की त्याच्या डायपरची सेफ्टी पिन उघडी आहे आणि ती त्याला टोचते आहे. यातून व्यंगचित्रकार हे सुचवतात की मुलांच्या रडण्याला नेहमी काहीतरी ठोस 'कारण' असते, ते उगीच रडत नाहीत. हा विचार या साध्या चित्रातून गमतीदार पण प्रभावीपणे मांडला आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "हंगेरियन व्यंगचित्रकार रेबर यांचे चित्र बालपण आणि मोठेपण यांतील फरक कसा दर्शवते?",
+      "answer": "रेबर यांच्या व्यंगचित्रात दोन भाग आहेत. पहिल्या भागात एक लहान मुलगा स्टूलवर चढून मोठे व्हायोलिन वाजवताना दिसतो. दुसऱ्या भागात तोच मुलगा मोठा झालेला आहे आणि खुर्चीवर बसून लहान व्हायोलिन वाजवत आहे. भिंतीवरचे चित्र आणि केसांची ठेवण दोघांची एकच आहे. यातून चित्रकार सुचवतात की लहान मुलांना 'मोठ्या' वस्तूंचे आकर्षण असते, तर वाढत्या वयानुसार आणि अनुभवानुसार माणूस बाह्य आकारापेक्षा कलेतील सूक्ष्मता आणि खोलवरचा आनंद शोधू लागतो. छंद अधिक प्रगल्भ होत जातो."
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.07",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Science and Technology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was the first Chairman of the Indian Atomic Energy Commission?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Raja Ramanna", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Homi Bhabha", "is_correct": true },
+        { "option_id": 3, "text": "Dr. APJ Abdul Kalam", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Homi Sethna", "is_correct": false }
+      ],
+      "answer": "Dr. Homi Bhabha"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "When was the Indian Atomic Energy Commission established?",
+      "options": [
+        { "option_id": 1, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 2, "text": "10th August 1948", "is_correct": true },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 4, "text": "1st May 1956", "is_correct": false }
+      ],
+      "answer": "10th August 1948"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was the name of India's first nuclear reactor set up in 1956?",
+      "options": [
+        { "option_id": 1, "text": "Dhruva", "is_correct": false },
+        { "option_id": 2, "text": "Cirus", "is_correct": false },
+        { "option_id": 3, "text": "Apsara", "is_correct": true },
+        { "option_id": 4, "text": "Purnima", "is_correct": false }
+      ],
+      "answer": "Apsara"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where was the atomic power station set up in 1969?",
+      "options": [
+        { "option_id": 1, "text": "Tarapur", "is_correct": true },
+        { "option_id": 2, "text": "Kalpakkam", "is_correct": false },
+        { "option_id": 3, "text": "Rawatbhata", "is_correct": false },
+        { "option_id": 4, "text": "Kudankulam", "is_correct": false }
+      ],
+      "answer": "Tarapur"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which substance is used for generating atomic power at the Reactor Research Centre in Kalpakkam?",
+      "options": [
+        { "option_id": 1, "text": "Uranium", "is_correct": false },
+        { "option_id": 2, "text": "Plutonium", "is_correct": false },
+        { "option_id": 3, "text": "Thorium", "is_correct": true },
+        { "option_id": 4, "text": "Radium", "is_correct": false }
+      ],
+      "answer": "Thorium"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When is 'Science Day' celebrated in India?",
+      "options": [
+        { "option_id": 1, "text": "28th February", "is_correct": true },
+        { "option_id": 2, "text": "11th May", "is_correct": false },
+        { "option_id": 3, "text": "15th August", "is_correct": false },
+        { "option_id": 4, "text": "14th November", "is_correct": false }
+      ],
+      "answer": "28th February"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which completely Indian-made nuclear reactor was started at Trombay in 1985?",
+      "options": [
+        { "option_id": 1, "text": "Apsara", "is_correct": false },
+        { "option_id": 2, "text": "Dhruva", "is_correct": true },
+        { "option_id": 3, "text": "Zerlina", "is_correct": false },
+        { "option_id": 4, "text": "Kamini", "is_correct": false }
+      ],
+      "answer": "Dhruva"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When was the Nuclear Power Corporation of India Ltd. (NPCIL) set up?",
+      "options": [
+        { "option_id": 1, "text": "1948", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": false },
+        { "option_id": 3, "text": "1987", "is_correct": true },
+        { "option_id": 4, "text": "1998", "is_correct": false }
+      ],
+      "answer": "1987"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where did India perform its first nuclear test?",
+      "options": [
+        { "option_id": 1, "text": "Sriharikota", "is_correct": false },
+        { "option_id": 2, "text": "Pokharan", "is_correct": true },
+        { "option_id": 3, "text": "Chandipur", "is_correct": false },
+        { "option_id": 4, "text": "Thumba", "is_correct": false }
+      ],
+      "answer": "Pokharan"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When was the first nuclear test conducted by India?",
+      "options": [
+        { "option_id": 1, "text": "18th May 1974", "is_correct": true },
+        { "option_id": 2, "text": "11th May 1998", "is_correct": false },
+        { "option_id": 3, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 4, "text": "26th January 1950", "is_correct": false }
+      ],
+      "answer": "18th May 1974"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was the Chairman of the Atomic Energy Commission during the first nuclear test?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Raja Ramanna", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Homi Sethna", "is_correct": true },
+        { "option_id": 3, "text": "Dr. APJ Abdul Kalam", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Homi Bhabha", "is_correct": false }
+      ],
+      "answer": "Dr. Homi Sethna"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was the Director of BARC during the first nuclear test?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Raja Ramanna", "is_correct": true },
+        { "option_id": 2, "text": "Dr. Homi Sethna", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "Satish Dhawan", "is_correct": false }
+      ],
+      "answer": "Dr. Raja Ramanna"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When was the second nuclear test conducted?",
+      "options": [
+        { "option_id": 1, "text": "11th May 1998", "is_correct": true },
+        { "option_id": 2, "text": "18th May 1974", "is_correct": false },
+        { "option_id": 3, "text": "13th May 1999", "is_correct": false },
+        { "option_id": 4, "text": "28th February 1998", "is_correct": false }
+      ],
+      "answer": "11th May 1998"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Missile Man' of India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Homi Bhabha", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Vikram Sarabhai", "is_correct": false },
+        { "option_id": 3, "text": "Dr. APJ Abdul Kalam", "is_correct": true },
+        { "option_id": 4, "text": "Dr. Raja Ramanna", "is_correct": false }
+      ],
+      "answer": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "When was the DRDO established?",
+      "options": [
+        { "option_id": 1, "text": "1948", "is_correct": false },
+        { "option_id": 2, "text": "1958", "is_correct": true },
+        { "option_id": 3, "text": "1969", "is_correct": false },
+        { "option_id": 4, "text": "1974", "is_correct": false }
+      ],
+      "answer": "1958"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which missile was successfully tested in 1988?",
+      "options": [
+        { "option_id": 1, "text": "Agni", "is_correct": false },
+        { "option_id": 2, "text": "Prithvi", "is_correct": true },
+        { "option_id": 3, "text": "Akash", "is_correct": false },
+        { "option_id": 4, "text": "Nag", "is_correct": false }
+      ],
+      "answer": "Prithvi"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which missile is a surface-to-air missile?",
+      "options": [
+        { "option_id": 1, "text": "Prithvi", "is_correct": false },
+        { "option_id": 2, "text": "Agni", "is_correct": false },
+        { "option_id": 3, "text": "Akash", "is_correct": true },
+        { "option_id": 4, "text": "Nag", "is_correct": false }
+      ],
+      "answer": "Akash"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which missile is an anti-tank missile?",
+      "options": [
+        { "option_id": 1, "text": "Nag", "is_correct": true },
+        { "option_id": 2, "text": "Prithvi", "is_correct": false },
+        { "option_id": 3, "text": "Agni", "is_correct": false },
+        { "option_id": 4, "text": "Akash", "is_correct": false }
+      ],
+      "answer": "Nag"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where was India's first research rocket launched from?",
+      "options": [
+        { "option_id": 1, "text": "Sriharikota", "is_correct": false },
+        { "option_id": 2, "text": "Thumba", "is_correct": true },
+        { "option_id": 3, "text": "Pokharan", "is_correct": false },
+        { "option_id": 4, "text": "Chandipur", "is_correct": false }
+      ],
+      "answer": "Thumba"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "When was the Indian Space Research Organisation (ISRO) established?",
+      "options": [
+        { "option_id": 1, "text": "1962", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": true },
+        { "option_id": 3, "text": "1972", "is_correct": false },
+        { "option_id": 4, "text": "1975", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was the name of the first Indian satellite launched in 1975?",
+      "options": [
+        { "option_id": 1, "text": "Rohini", "is_correct": false },
+        { "option_id": 2, "text": "Aryabhatta", "is_correct": true },
+        { "option_id": 3, "text": "Bhaskar", "is_correct": false },
+        { "option_id": 4, "text": "Apple", "is_correct": false }
+      ],
+      "answer": "Aryabhatta"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which was the first completely indigenously built satellite by ISRO launched in 1981?",
+      "options": [
+        { "option_id": 1, "text": "Aryabhatta", "is_correct": false },
+        { "option_id": 2, "text": "APPLE", "is_correct": true },
+        { "option_id": 3, "text": "Bhaskar-2", "is_correct": false },
+        { "option_id": 4, "text": "INSAT-1A", "is_correct": false }
+      ],
+      "answer": "APPLE"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When was the telex service started in India?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1963", "is_correct": true },
+        { "option_id": 3, "text": "1969", "is_correct": false },
+        { "option_id": 4, "text": "1972", "is_correct": false }
+      ],
+      "answer": "1963"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "When was the Pincode system introduced in India?",
+      "options": [
+        { "option_id": 1, "text": "15th August 1972", "is_correct": true },
+        { "option_id": 2, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 3, "text": "2nd October 1969", "is_correct": false },
+        { "option_id": 4, "text": "14th November 1980", "is_correct": false }
+      ],
+      "answer": "15th August 1972"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Metro Man'?",
+      "options": [
+        { "option_id": 1, "text": "Sam Pitroda", "is_correct": false },
+        { "option_id": 2, "text": "E. Sreedharan", "is_correct": true },
+        { "option_id": 3, "text": "R. K. Laxman", "is_correct": false },
+        { "option_id": 4, "text": "Sundar Pichai", "is_correct": false }
+      ],
+      "answer": "E. Sreedharan"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "When did the mobile phone service start in India?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "1994", "is_correct": true },
+        { "option_id": 3, "text": "1998", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1994"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which public sector company was established in 2000 for telecommunication services?",
+      "options": [
+        { "option_id": 1, "text": "VSNL", "is_correct": false },
+        { "option_id": 2, "text": "MTNL", "is_correct": false },
+        { "option_id": 3, "text": "BSNL", "is_correct": true },
+        { "option_id": 4, "text": "Airtel", "is_correct": false }
+      ],
+      "answer": "BSNL"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where was the first diesel engine manufactured?",
+      "options": [
+        { "option_id": 1, "text": "Chittaranjan", "is_correct": false },
+        { "option_id": 2, "text": "Varanasi", "is_correct": true },
+        { "option_id": 3, "text": "Kapurthala", "is_correct": false },
+        { "option_id": 4, "text": "Perambur", "is_correct": false }
+      ],
+      "answer": "Varanasi"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "When did Konkan Railway start?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "1998", "is_correct": true },
+        { "option_id": 3, "text": "2000", "is_correct": false },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "1998"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What was the name of the drillship used at Bombay High?",
+      "options": [
+        { "option_id": 1, "text": "Sagar Samrat", "is_correct": true },
+        { "option_id": 2, "text": "Sagar Kanya", "is_correct": false },
+        { "option_id": 3, "text": "Samudra Manthan", "is_correct": false },
+        { "option_id": 4, "text": "Vikrant", "is_correct": false }
+      ],
+      "answer": "Sagar Samrat"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Who was the first Chairman of the Indian Atomic Energy Commission?",
+      "answer": "Dr. Homi Bhabha."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What were the objectives of the Atomic Energy Commission?",
+      "answer": "To produce electricity from atomic energy, increase food grain yield, and develop nanotechnology."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Which reactor was set up in 1956?",
+      "answer": "Apsara."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Where was the Reactor Research Centre set up to use Thorium?",
+      "answer": "Kalpakkam, Tamil Nadu."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What are 'Heavy Water Projects'?",
+      "answer": "Factories set up to manufacture heavy water needed for atomic power generation (e.g., at Vadodara, Talcher)."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is the 'Dhruva' reactor?",
+      "answer": "A completely Indian-made nuclear reactor started in 1985 at Trombay."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the objective of NPCIL?",
+      "answer": "To generate safe, cheap, and environmentally profitable electricity from atomic energy."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why did India conduct the first nuclear test at Pokharan?",
+      "answer": "For peace and self-sufficiency, and in response to China's nuclear capability and Pakistan's efforts."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Who were the key scientists behind the first nuclear test?",
+      "answer": "Dr. Homi Sethna and Dr. Raja Ramanna."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why was Pokharan chosen for the test?",
+      "answer": "It was far away from human settlement and had no ground water reserves."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How did the USA react to India's first nuclear test?",
+      "answer": "The USA refused to give India technology for defence, space research, and missile development."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What was the policy adopted by India regarding missile development?",
+      "answer": "To develop its own missile programme indigenously without depending on others."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What happened during the second nuclear test in 1998?",
+      "answer": "Three tests were conducted, including a Hydrogen Bomb test, to prove nuclear preparedness."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What assurance did PM Vajpayee give after the 1998 tests?",
+      "answer": "That there would be no first use of nuclear weapons by India."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is IGMDP?",
+      "answer": "Integrated Guided Missile Development Programme."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Who led the IGMDP?",
+      "answer": "Dr. APJ Abdul Kalam."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the 'Prithvi' missile?",
+      "answer": "A surface-to-surface ballistic missile."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the 'Agni' missile?",
+      "answer": "A missile developed to secure borders, with a range of 700 km (Agni-1)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the 'Akash' missile?",
+      "answer": "A missile fired from land into air."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the 'Nag' missile?",
+      "answer": "An anti-tank missile of the 'fire and forget' type."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was India's first research rocket?",
+      "answer": "It was launched in 1961 from Thumba."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is 'Rohini-75'?",
+      "answer": "An indigenously built rocket launched in 1967."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "When was the first Indian satellite launched?",
+      "answer": "Aryabhatta was launched in 1975."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where are ISRO's headquarters?",
+      "answer": "Bengaluru."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was Bhaskar-1?",
+      "answer": "A remote sensing satellite launched in 1979."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was APPLE?",
+      "answer": "India's first indigenous communication satellite launched in 1981."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is INSAT?",
+      "answer": "Indian National Satellite system."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two services revolutionized by INSAT.",
+      "answer": "Telecommunication and Weather forecasting."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is Chittaranjan Locomotive Works known for?",
+      "answer": "Manufacturing steam, electric, and diesel railway engines."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the telex service?",
+      "answer": "A service to transmit typed messages rapidly from one part of the country to another."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Describe the development of atomic energy in India under Dr. Homi Bhabha.",
+      "answer": "Dr. Homi Bhabha was the first Chairman of the Atomic Energy Commission established in 1948. Under his leadership, the commission aimed to produce electricity, improve agriculture, and develop technology. The first reactor 'Apsara' was set up in 1956. Later, atomic power stations like Tarapur (1969) and research centres at Kalpakkam were established to advance atomic energy capabilities."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Pokharan-I nuclear test.",
+      "answer": "Conducted on 18th May 1974, Pokharan-I was India's first nuclear test. It was a strategic move for peace and self-sufficiency in response to the nuclear capabilities of neighbors China and Pakistan. The successful test demonstrated India's technological capability, despite subsequent technology denials by the USA."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Discuss the missile development programme of India.",
+      "answer": "Under the DRDO and leadership of Dr. APJ Abdul Kalam, India initiated the Integrated Guided Missile Development Programme (IGMDP). It successfully developed the Prithvi (surface-to-surface), Agni (long-range), Akash (surface-to-air), and Nag (anti-tank) missiles. This programme made India militarily secure and self-reliant in defence technology."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "What was the role of the Bhaskar satellites?",
+      "answer": "Bhaskar-1 (1979) and Bhaskar-2 (1981) were remote sensing satellites launched from Russia. They were used to observe the earth's surface, aiding in the study of water bodies, mineral deposits, forests, and environment. The data was crucial for oceanography and weather forecasting."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "How has INSAT technology benefited India?",
+      "answer": "Launched in 1983, INSAT-1B revolutionized telecommunications, TV, radio, and weather forecasting. It connected 207 radio stations. It aids in disaster management (cyclones, crashes), telemedicine by connecting rural centers to super-specialty hospitals, and supports educational broadcasting."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "Write a note on the progress of Indian Railways technology.",
+      "answer": "Indian Railways modernized with the setting up of Chittaranjan Locomotive Works for engine manufacturing. The Diesel Locomotive Works at Varanasi produced the first diesel engine. Computerized reservation started in Delhi in 1984. Metro services began in Kolkata (1984) and Delhi. The Konkan Railway (1998) is a technological marvel with its tunnels and bridges."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Describe the evolution of telecommunication services in India.",
+      "answer": "It started with the Telex service in 1963. Satellite communication earth stations were set up in 1967 (Ahmedabad) and 1970 (Pune). The Pincode system began in 1972. ISD started in 1976. VSNL became a major internet provider in the 90s. Mobile services launched in 1994. BSNL was formed in 2000 to provide services like cellular, internet, and broadband."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Explain the features of the Konkan Railway.",
+      "answer": "Started in 1998, the Konkan Railway spans 760 km across Maharashtra, Goa, Karnataka, and Kerala. It features 92 tunnels (longest being Karbude 6.5 km) and 179 big and 1819 small bridges. It includes sensors on engines to prevent accidents in landslide-prone areas, showcasing advanced engineering."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "What is the Pincode system and why was it introduced?",
+      "answer": "Introduced on 15th August 1972, the Postal Index Code (Pincode) is a six-digit system intended to bring efficiency to mail distribution. It divides the country into regions. The digits indicate the region, sub-region, district, and local post office, streamlining the sorting and delivery process."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "Write about the Oil and Natural Gas Corporation (ONGC).",
+      "answer": "Established in 1956 to search for mineral oil and gas deposits, ONGC found deposits in Ankleshwar and the Gulf of Khambhat. In 1974, it started digging in 'Bombay High' using the drillship 'Sagar Samrat'. This area became a major source, contributing significantly to India's oil and gas production."
+    }
+  ]
+}

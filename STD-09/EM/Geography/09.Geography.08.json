@@ -1,0 +1,329 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.08",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Introduction to Economics"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The word 'Economics' is derived from which Greek word?",
+      "options": [
+        { "option_id": 1, "text": "Eco-nomos", "is_correct": false },
+        { "option_id": 2, "text": "Oikonomia", "is_correct": true },
+        { "option_id": 3, "text": "Oikon-nomos", "is_correct": false },
+        { "option_id": 4, "text": "Economia", "is_correct": false }
+      ],
+      "answer": "Oikonomia"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the Greek word 'Oikonomia' mean?",
+      "options": [
+        { "option_id": 1, "text": "Wealth management", "is_correct": false },
+        { "option_id": 2, "text": "National management", "is_correct": false },
+        { "option_id": 3, "text": "Family management", "is_correct": true },
+        { "option_id": 4, "text": "Resource management", "is_correct": false }
+      ],
+      "answer": "Family management"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Father of Economics'?",
+      "options": [
+        { "option_id": 1, "text": "Lionel Robbins", "is_correct": false },
+        { "option_id": 2, "text": "Adam Smith", "is_correct": true },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Amartya Sen", "is_correct": false }
+      ],
+      "answer": "Adam Smith"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which book did Adam Smith define Economics as the 'science of wealth'?",
+      "options": [
+        { "option_id": 1, "text": "Das Kapital", "is_correct": false },
+        { "option_id": 2, "text": "The General Theory", "is_correct": false },
+        { "option_id": 3, "text": "Wealth of Nations", "is_correct": true },
+        { "option_id": 4, "text": "Principles of Economics", "is_correct": false }
+      ],
+      "answer": "Wealth of Nations"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which year was 'Wealth of Nations' published?",
+      "options": [
+        { "option_id": 1, "text": "1776", "is_correct": true },
+        { "option_id": 2, "text": "1850", "is_correct": false },
+        { "option_id": 3, "text": "1947", "is_correct": false },
+        { "option_id": 4, "text": "1991", "is_correct": false }
+      ],
+      "answer": "1776"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who defined Economics as a science which studies human behaviour as a relationship between ends and scarce means?",
+      "options": [
+        { "option_id": 1, "text": "Adam Smith", "is_correct": false },
+        { "option_id": 2, "text": "Lionel Robbins", "is_correct": true },
+        { "option_id": 3, "text": "Alfred Marshall", "is_correct": false },
+        { "option_id": 4, "text": "Keynes", "is_correct": false }
+      ],
+      "answer": "Lionel Robbins"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In a Capitalist Economy, who owns the means of production?",
+      "options": [
+        { "option_id": 1, "text": "The Government", "is_correct": false },
+        { "option_id": 2, "text": "Private individuals", "is_correct": true },
+        { "option_id": 3, "text": "Both Government and Private", "is_correct": false },
+        { "option_id": 4, "text": "Co-operatives", "is_correct": false }
+      ],
+      "answer": "Private individuals"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the main aim of a Capitalist Economy?",
+      "options": [
+        { "option_id": 1, "text": "Social welfare", "is_correct": false },
+        { "option_id": 2, "text": "Economic equality", "is_correct": false },
+        { "option_id": 3, "text": "Maximum profit", "is_correct": true },
+        { "option_id": 4, "text": "National security", "is_correct": false }
+      ],
+      "answer": "Maximum profit"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following countries has a Capitalist Economy?",
+      "options": [
+        { "option_id": 1, "text": "China", "is_correct": false },
+        { "option_id": 2, "text": "India", "is_correct": false },
+        { "option_id": 3, "text": "Germany/USA", "is_correct": true },
+        { "option_id": 4, "text": "Vietnam", "is_correct": false }
+      ],
+      "answer": "Germany/USA"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In a Socialist Economy, who owns the means of production?",
+      "options": [
+        { "option_id": 1, "text": "Private individuals", "is_correct": false },
+        { "option_id": 2, "text": "The Government (State)", "is_correct": true },
+        { "option_id": 3, "text": "Private companies", "is_correct": false },
+        { "option_id": 4, "text": "Foreign investors", "is_correct": false }
+      ],
+      "answer": "The Government (State)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the main aim of a Socialist Economy?",
+      "options": [
+        { "option_id": 1, "text": "Profit maximization", "is_correct": false },
+        { "option_id": 2, "text": "Social welfare", "is_correct": true },
+        { "option_id": 3, "text": "Industrial growth only", "is_correct": false },
+        { "option_id": 4, "text": "Trade expansion", "is_correct": false }
+      ],
+      "answer": "Social welfare"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which country is an example of a Socialist Economy?",
+      "options": [
+        { "option_id": 1, "text": "USA", "is_correct": false },
+        { "option_id": 2, "text": "China", "is_correct": true },
+        { "option_id": 3, "text": "Japan", "is_correct": false },
+        { "option_id": 4, "text": "United Kingdom", "is_correct": false }
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which type of economy does India have?",
+      "options": [
+        { "option_id": 1, "text": "Capitalist", "is_correct": false },
+        { "option_id": 2, "text": "Socialist", "is_correct": false },
+        { "option_id": 3, "text": "Mixed", "is_correct": true },
+        { "option_id": 4, "text": "Communist", "is_correct": false }
+      ],
+      "answer": "Mixed"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What characterises a Mixed Economy?",
+      "options": [
+        { "option_id": 1, "text": "Only public sector exists", "is_correct": false },
+        { "option_id": 2, "text": "Only private sector exists", "is_correct": false },
+        { "option_id": 3, "text": "Co-existence of public and private sectors", "is_correct": true },
+        { "option_id": 4, "text": "No government interference", "is_correct": false }
+      ],
+      "answer": "Co-existence of public and private sectors"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does an economy strive to create a balance between?",
+      "options": [
+        { "option_id": 1, "text": "Import and Export", "is_correct": false },
+        { "option_id": 2, "text": "Rich and Poor", "is_correct": false },
+        { "option_id": 3, "text": "Limited resources and Unlimited needs", "is_correct": true },
+        { "option_id": 4, "text": "Profit and Loss", "is_correct": false }
+      ],
+      "answer": "Limited resources and Unlimited needs"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor affecting the economy of a country?",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Geographical Area", "is_correct": false },
+        { "option_id": 3, "text": "Natural Resources", "is_correct": false },
+        { "option_id": 4, "text": "Fashion trends", "is_correct": true }
+      ],
+      "answer": "Fashion trends"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the recent economic policy that aligns a country's economy with the world economy?",
+      "options": [
+        { "option_id": 1, "text": "Privatisation", "is_correct": false },
+        { "option_id": 2, "text": "Nationalisation", "is_correct": false },
+        { "option_id": 3, "text": "Globalisation", "is_correct": true },
+        { "option_id": 4, "text": "Industrialisation", "is_correct": false }
+      ],
+      "answer": "Globalisation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happens to trade restrictions during Globalisation?",
+      "options": [
+        { "option_id": 1, "text": "They are increased", "is_correct": false },
+        { "option_id": 2, "text": "They are removed", "is_correct": true },
+        { "option_id": 3, "text": "They remain same", "is_correct": false },
+        { "option_id": 4, "text": "They become stricter", "is_correct": false }
+      ],
+      "answer": "They are removed"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Define 'Economics' according to Adam Smith.",
+      "answer": "Adam Smith defined Economics as the science of wealth."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Define 'Economics' according to Lionel Robbins.",
+      "answer": "Economics is a science which studies human behaviour as a relationship between ends and scarce means which have alternative uses."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is meant by the 'Management of family finance'?",
+      "answer": "It relates to income and expenditure; managing the family finances involves creating a balance between income and expenditure to satisfy needs."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is an Economy?",
+      "answer": "An economy is a system that includes the production, distribution, and consumption of goods and services in a specific region."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "List the three types of economies.",
+      "answer": "Capitalist Economy, Socialist Economy, and Mixed Economy."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Name two countries with a Capitalist Economy.",
+      "answer": "Germany, Japan, USA (Any two)."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Name two countries with a Socialist Economy.",
+      "answer": "China, Russia."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Name two countries with a Mixed Economy.",
+      "answer": "India, Sweden, United Kingdom (Any two)."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the primary motive of a Capitalist Economy?",
+      "answer": "To earn maximum profit."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the primary motive of a Socialist Economy?",
+      "answer": "Achieving social welfare."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the primary aim of a Mixed Economy?",
+      "answer": "To strike a balance between profit and social welfare."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is Globalisation?",
+      "answer": "Globalisation is building a world economy where there is free flow of resources, capital, labour, and technology across borders, aligning the country's economy with the world economy."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What are the main functions of an economy?",
+      "answer": "Deciding what and how much to produce, minimizing production costs, distributing national income justly, and making provisions for future economic needs."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Explain the similarities between family management and economics.",
+      "answer": "Just as a family manages its finances by balancing income and expenditure to meet the unlimited needs of its members using limited resources, a country (or village/state) also manages its economy. Both involve prioritizing expenditure and making choices about how to use scarce resources efficiently. Economics basically applies the principles of family management to a larger scale like a nation."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Describe the features of a Capitalist Economy with examples.",
+      "answer": "In a Capitalist Economy, the ownership and management of the means of production rest in the hands of private individuals. The primary aim is to earn maximum profit. The government has minimal interference in economic activities. Countries like Germany, Japan, and the USA have adopted this system."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Describe the features of a Socialist Economy with examples.",
+      "answer": "In a Socialist Economy, the means of production belong to the society as a whole, which means they are under the control of the government. The primary aim is to achieve social welfare rather than profit. The state plans and controls economic activities. Countries like China and Russia have adopted this type of economy."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "Explain the concept of a Mixed Economy and why India adopted it.",
+      "answer": "A Mixed Economy is a system where there is a co-existence of the public sector (government-owned) and the private sector. It tries to balance the profit motive of capitalism with the social welfare aim of socialism. India adopted this system to ensure development while also taking care of social justice and welfare, allowing both private enterprise and government planning to function together."
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Science.09",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Environmental Management"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Atmospheric conditions at a specific time at a particular place are referred to as ________.",
+      "options": [
+        { "option_id": 1, "text": "Climate", "is_correct": false },
+        { "option_id": 2, "text": "Weather", "is_correct": true },
+        { "option_id": 3, "text": "Meteorology", "is_correct": false },
+        { "option_id": 4, "text": "Season", "is_correct": false }
+      ],
+      "answer": "Weather"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The science that studies the inter-relationships between air components and natural cycles is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Geology", "is_correct": false },
+        { "option_id": 2, "text": "Meteorology", "is_correct": true },
+        { "option_id": 3, "text": "Biology", "is_correct": false },
+        { "option_id": 4, "text": "Ecology", "is_correct": false }
+      ],
+      "answer": "Meteorology"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who founded the India Meteorological Department (IMD)?",
+      "options": [
+        { "option_id": 1, "text": "Indian Government", "is_correct": false },
+        { "option_id": 2, "text": "British", "is_correct": true },
+        { "option_id": 3, "text": "Americans", "is_correct": false },
+        { "option_id": 4, "text": "Russians", "is_correct": false }
+      ],
+      "answer": "British"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The head office of the World Meteorological Organization is at ________.",
+      "options": [
+        { "option_id": 1, "text": "Geneva", "is_correct": true },
+        { "option_id": 2, "text": "Pune", "is_correct": false },
+        { "option_id": 3, "text": "New York", "is_correct": false },
+        { "option_id": 4, "text": "Shimla", "is_correct": false }
+      ],
+      "answer": "Geneva"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a climatic factor?",
+      "options": [
+        { "option_id": 1, "text": "Atmospheric Pressure", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": false },
+        { "option_id": 3, "text": "Humidity", "is_correct": false },
+        { "option_id": 4, "text": "Soil Texture", "is_correct": true }
+      ],
+      "answer": "Soil Texture"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The Monsoon model based on parameters was developed by ________.",
+      "options": [
+        { "option_id": 1, "text": "Dr. Vasantrao Gowariker", "is_correct": true },
+        { "option_id": 2, "text": "H.F. Blanford", "is_correct": false },
+        { "option_id": 3, "text": "Sir Gilbert Walker", "is_correct": false },
+        { "option_id": 4, "text": "Dr. A.P.J. Abdul Kalam", "is_correct": false }
+      ],
+      "answer": "Dr. Vasantrao Gowariker"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Waste that can be degraded by microbes is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Non-biodegradable waste", "is_correct": false },
+        { "option_id": 2, "text": "Biodegradable waste", "is_correct": true },
+        { "option_id": 3, "text": "E-waste", "is_correct": false },
+        { "option_id": 4, "text": "Hazardous waste", "is_correct": false }
+      ],
+      "answer": "Biodegradable waste"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a non-biodegradable waste?",
+      "options": [
+        { "option_id": 1, "text": "Spoiled food", "is_correct": false },
+        { "option_id": 2, "text": "Fruits", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": true },
+        { "option_id": 4, "text": "Dung", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Bio-medical waste includes ________.",
+      "options": [
+        { "option_id": 1, "text": "Vegetable peels", "is_correct": false },
+        { "option_id": 2, "text": "Syringes and needles", "is_correct": true },
+        { "option_id": 3, "text": "Old computers", "is_correct": false },
+        { "option_id": 4, "text": "Glass bottles", "is_correct": false }
+      ],
+      "answer": "Syringes and needles"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The 3 R's of waste management are ________.",
+      "options": [
+        { "option_id": 1, "text": "Reduce, Reuse, Recycle", "is_correct": true },
+        { "option_id": 2, "text": "Read, Rewrite, Remember", "is_correct": false },
+        { "option_id": 3, "text": "Run, Rest, Repeat", "is_correct": false },
+        { "option_id": 4, "text": "Refuse, Reject, Return", "is_correct": false }
+      ],
+      "answer": "Reduce, Reuse, Recycle"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Vermicomposting uses ________ to decompose waste.",
+      "options": [
+        { "option_id": 1, "text": "Ants", "is_correct": false },
+        { "option_id": 2, "text": "Earthworms", "is_correct": true },
+        { "option_id": 3, "text": "Snakes", "is_correct": false },
+        { "option_id": 4, "text": "Cockroaches", "is_correct": false }
+      ],
+      "answer": "Earthworms"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of E-waste?",
+      "options": [
+        { "option_id": 1, "text": "Bandages", "is_correct": false },
+        { "option_id": 2, "text": "Mobile phones", "is_correct": true },
+        { "option_id": 3, "text": "Plastic bags", "is_correct": false },
+        { "option_id": 4, "text": "Metal scraps", "is_correct": false }
+      ],
+      "answer": "Mobile phones"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The main objective of First Aid is ________.",
+      "options": [
+        { "option_id": 1, "text": "To cure the disease", "is_correct": false },
+        { "option_id": 2, "text": "To prevent death and deterioration", "is_correct": true },
+        { "option_id": 3, "text": "To perform surgery", "is_correct": false },
+        { "option_id": 4, "text": "To give medicines", "is_correct": false }
+      ],
+      "answer": "To prevent death and deterioration"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "For transporting patients who cannot move, the ________ method is used.",
+      "options": [
+        { "option_id": 1, "text": "Cradle", "is_correct": false },
+        { "option_id": 2, "text": "Stretcher", "is_correct": true },
+        { "option_id": 3, "text": "Piggyback", "is_correct": false },
+        { "option_id": 4, "text": "Human crutch", "is_correct": false }
+      ],
+      "answer": "Stretcher"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "RICE remedy is used for ________.",
+      "options": [
+        { "option_id": 1, "text": "Burns", "is_correct": false },
+        { "option_id": 2, "text": "Sprains and twisting", "is_correct": true },
+        { "option_id": 3, "text": "Bleeding", "is_correct": false },
+        { "option_id": 4, "text": "Snake bite", "is_correct": false }
+      ],
+      "answer": "Sprains and twisting"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "IMD stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Indian Medical Department", "is_correct": false },
+        { "option_id": 2, "text": "Indian Meteorological Department", "is_correct": true },
+        { "option_id": 3, "text": "International Meteorological Department", "is_correct": false },
+        { "option_id": 4, "text": "Indian Mining Department", "is_correct": false }
+      ],
+      "answer": "Indian Meteorological Department"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which method is useful for carrying unconscious patients for a short distance?",
+      "options": [
+        { "option_id": 1, "text": "Human crutch", "is_correct": false },
+        { "option_id": 2, "text": "Fireman's lift", "is_correct": true },
+        { "option_id": 3, "text": "Four-hand chair", "is_correct": false },
+        { "option_id": 4, "text": "Two-hand chair", "is_correct": false }
+      ],
+      "answer": "Fireman's lift"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The first monsoon prediction based on snowfall in the Himalayas was made by ________.",
+      "options": [
+        { "option_id": 1, "text": "H.F. Blanford", "is_correct": true },
+        { "option_id": 2, "text": "Sir Gilbert Walker", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Gowariker", "is_correct": false },
+        { "option_id": 4, "text": "Aryabhata", "is_correct": false }
+      ],
+      "answer": "H.F. Blanford"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In 'ABC' of first aid, 'A' stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Action", "is_correct": false },
+        { "option_id": 2, "text": "Airway", "is_correct": true },
+        { "option_id": 3, "text": "Accident", "is_correct": false },
+        { "option_id": 4, "text": "Ambulance", "is_correct": false }
+      ],
+      "answer": "Airway"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The head-tilt chin-lift method is used to ________.",
+      "options": [
+        { "option_id": 1, "text": "Stop bleeding", "is_correct": false },
+        { "option_id": 2, "text": "Open the airway", "is_correct": true },
+        { "option_id": 3, "text": "Treat burns", "is_correct": false },
+        { "option_id": 4, "text": "Transport patients", "is_correct": false }
+      ],
+      "answer": "Open the airway"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Mathematical models for monsoon prediction use ________.",
+      "options": [
+        { "option_id": 1, "text": "Supercomputers", "is_correct": true },
+        { "option_id": 2, "text": "Calculators", "is_correct": false },
+        { "option_id": 3, "text": "Simple maps", "is_correct": false },
+        { "option_id": 4, "text": "Manual calculations", "is_correct": false }
+      ],
+      "answer": "Supercomputers"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Composting helps in ________ waste management.",
+      "options": [
+        { "option_id": 1, "text": "Biodegradable", "is_correct": true },
+        { "option_id": 2, "text": "Non-biodegradable", "is_correct": false },
+        { "option_id": 3, "text": "Radioactive", "is_correct": false },
+        { "option_id": 4, "text": "Medical", "is_correct": false }
+      ],
+      "answer": "Biodegradable"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a principle of first aid?",
+      "options": [
+        { "option_id": 1, "text": "Preserve life", "is_correct": false },
+        { "option_id": 2, "text": "Prevent further injury", "is_correct": false },
+        { "option_id": 3, "text": "Promote recovery", "is_correct": false },
+        { "option_id": 4, "text": "Panic immediately", "is_correct": true }
+      ],
+      "answer": "Panic immediately"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Solid waste from industries includes ________.",
+      "options": [
+        { "option_id": 1, "text": "Paper", "is_correct": false },
+        { "option_id": 2, "text": "Chemicals and pigments", "is_correct": true },
+        { "option_id": 3, "text": "Vegetables", "is_correct": false },
+        { "option_id": 4, "text": "Cow dung", "is_correct": false }
+      ],
+      "answer": "Chemicals and pigments"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The cradle method of transport is used for ________.",
+      "options": [
+        { "option_id": 1, "text": "Children and lightweight victims", "is_correct": true },
+        { "option_id": 2, "text": "Heavy adults", "is_correct": false },
+        { "option_id": 3, "text": "Unconscious patients", "is_correct": false },
+        { "option_id": 4, "text": "Fractured patients", "is_correct": false }
+      ],
+      "answer": "Children and lightweight victims"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Weather.",
+      "answer": "Weather is the atmospheric condition at a specific time and place, determined by factors like temperature, pressure, humidity, and rainfall."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Define Climate.",
+      "answer": "Climate is the long-term average of weather conditions in a specific region, usually calculated over 30 years or more."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is Meteorology?",
+      "answer": "Meteorology is the scientific study of the atmosphere, weather, climate, and the inter-relationships between air components and natural cycles."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "List four climatic factors.",
+      "answer": "Temperature, Atmospheric Pressure, Humidity, Rainfall (or Sunlight, Visibility, Clouds)."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Who founded the IMD and in which year?",
+      "answer": "The India Meteorological Department (IMD) was founded by the British in 1875."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the primary function of IMD?",
+      "answer": "The primary function is to observe weather, make weather forecasts, and issue warnings about natural disasters like storms and heavy rain."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What are the three main models used for monsoon prediction?",
+      "answer": "1. Mathematical Model (Dynamic). 2. Holistic Model. 3. Statistical Model."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is Solid Waste?",
+      "answer": "Solid waste refers to the useless or unwanted solid materials generated from human activities like household trash, industrial waste, etc."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Differentiate between Biodegradable and Non-biodegradable waste.",
+      "answer": "Biodegradable waste can be decomposed by microbes (e.g., food, paper). Non-biodegradable waste cannot be easily decomposed (e.g., plastic, glass)."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is E-waste?",
+      "answer": "E-waste (Electronic waste) includes discarded electronic appliances like non-functional TVs, mobiles, computers, and their parts."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is 3R mantra?",
+      "answer": "The 3R mantra for waste management is Reduce (waste generation), Reuse (items), and Recycle (materials)."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Why is waste separation important?",
+      "answer": "Separating wet (biodegradable) and dry (non-biodegradable) waste is crucial for effective recycling and composting."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is Disaster Management?",
+      "answer": "It involves planning and implementing measures to prevent disasters, minimize damage, and facilitate recovery and rehabilitation."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What does ABC stand for in First Aid?",
+      "answer": "A = Airway, B = Breathing, C = Circulation. It is the basic life support sequence."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How do you check 'Breathing' in a victim?",
+      "answer": "Check if the chest is moving or listen for breath sounds. If not breathing, start artificial respiration (mouth-to-mouth)."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How do you check 'Circulation' in a victim?",
+      "answer": "Check pulse. If unconscious, give CPR (Cardio-Pulmonary Resuscitation) by pressing the chest."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What should be done for a bleeding victim?",
+      "answer": "Cover the wound with an antiseptic pad and apply pressure for 5 minutes. Keep the wounded part elevated above the heart level."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the RICE remedy?",
+      "answer": "Rest, Ice, Compression, Elevation. It is used for treating sprains, twisting, and contusions."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "When is the 'Cradle method' used?",
+      "answer": "It is used to carry children or lightweight victims who cannot walk."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "When is the 'Human crutch' method used?",
+      "answer": "It is used if one leg is injured. The victim leans on the rescuer for support while walking."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "When is the 'Fireman's lift' used?",
+      "answer": "It is used to carry an unconscious patient for a short distance."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What are the harmful effects of solid waste?",
+      "answer": "Foul odour, production of toxic gases, spread of diseases, air and water pollution, soil degradation."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name two methods of solid waste management.",
+      "answer": "Composting (Vermicomposting) and Landfilling (Secured Landfill)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the role of satellites in meteorology?",
+      "answer": "Satellites observe weather conditions from space, providing data on clouds, storms, and temperature for accurate forecasting."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why is plastic harmful to the environment?",
+      "answer": "Plastic is non-biodegradable, persists for hundreds of years, clogs drains, harms animals if ingested, and releases toxins when burnt."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is Bio-medical waste?",
+      "answer": "Waste from hospitals/clinics like bandages, syringes, blood, and body parts. It is hazardous and infectious."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is Industrial waste?",
+      "answer": "Waste from factories containing chemicals, pigments, ash, sludge, and heavy metals. It causes severe pollution."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How does climate affect human lifestyle?",
+      "answer": "Climate determines diet, clothing, housing, occupations (like agriculture), and health."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the importance of weather forecasting for farmers?",
+      "answer": "It helps them plan sowing, irrigation, and harvesting activities, and protects crops from adverse weather."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the 'Two-hand chair' method?",
+      "answer": "A method to carry a patient who cannot use their hands but can hold their body upright. Two rescuers form a seat with their hands."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the 'Four-hand chair' method?",
+      "answer": "A method where two rescuers interlock hands to form a seat. Used when the patient needs support below the waist."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What precautions should be taken for burn victims?",
+      "answer": "Hold the injured part under cold flowing water for 10 minutes. Do not break blisters. Cover with clean cloth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is incineration used for biomedical waste?",
+      "answer": "High-temperature burning (incineration) destroys infectious pathogens and reduces waste volume."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is Vermicomposting?",
+      "answer": "It is a method of composting organic waste using earthworms to produce high-quality manure."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name the institute that researches seismology in India.",
+      "answer": "Indian Institute of Tropical Meteorology (IITM) or IMD (Seismology division)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is Ocean waste?",
+      "answer": "Waste dumped into oceans, including plastics, industrial effluents, and oil spills, harming marine life."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is 'Refuse' an important principle?",
+      "answer": "Refusing non-biodegradable items (like plastic bags) stops waste at the source."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is Radioactive waste?",
+      "answer": "Waste emitting radiation, like spent nuclear fuel or materials from atomic research. It is highly dangerous."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How to transport patients with spinal injuries?",
+      "answer": "They should be transported on a hard stretcher to keep the spine immobile."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is CPR?",
+      "answer": "Cardio-Pulmonary Resuscitation. It is a lifesaving technique used when a person's breathing or heartbeat has stopped."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is meteorology important for aviation?",
+      "answer": "Pilots need weather data (wind, visibility, storms) for safe flight planning and navigation."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the 'Holistic Model' of prediction?",
+      "answer": "A model that considers interactions between various components like atmosphere, ocean, and land to predict monsoon."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What causes sunstroke?",
+      "answer": "Prolonged exposure to high temperatures and dehydration."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the immediate remedy for sunstroke?",
+      "answer": "Move the person to a cool shade, sponge body with cold water, give plenty of water to drink."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the role of an 'Observatory'?",
+      "answer": "An observatory records climatic factors like temperature, pressure, and rainfall."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why is e-waste recycling difficult?",
+      "answer": "It contains toxic metals (lead, mercury) and complex materials that are hard to separate."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is 'Urban waste'?",
+      "answer": "Waste generated in cities from households, shops, and vegetable markets."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why shouldn't we throw waste in open spaces?",
+      "answer": "It creates unhygienic conditions, attracts pests, spreads diseases, and pollutes the environment."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the function of IITM?",
+      "answer": "Indian Institute of Tropical Meteorology conducts basic research on the monsoon and related atmospheric sciences."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is 'Pick-a-back' or 'Piggyback' method?",
+      "answer": "Carrying a conscious patient on one's back. Useful for short distances."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the difference between Weather and Climate.",
+      "answer": "Weather: 1. Atmospheric conditions at a specific time/place. 2. Short-term. 3. Changes frequently. 4. Related to a small area. Climate: 1. Average weather over a long period (30+ years). 2. Long-term. 3. Does not change continuously. 4. Related to a large region."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the functions of the India Meteorological Department (IMD).",
+      "answer": "1. Forecasting weather, rainfall, and storms. 2. Warning about disasters like cyclones, dust storms, tsunamis. 3. Providing data to aviation, shipping, agriculture, and irrigation sectors. 4. Conducting research on seismology and allied subjects. 5. Launching weather satellites."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Explain the different models used for monsoon prediction.",
+      "answer": "1. Mathematical Model (Dynamic): Uses supercomputers to solve equations governing atmospheric physics. 2. Holistic Model: Considers collective effect of various parameters. IMD uses this. 3. Statistical Model: Compares current parameters with historical data to find correlations."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Classify Solid Waste into different types with examples.",
+      "answer": "1. Domestic Waste: Kitchen scraps, paper, plastic. 2. Industrial Waste: Chemicals, sludge, ash. 3. Biomedical Waste: Bandages, syringes. 4. E-waste: Old electronics. 5. Hazardous Waste: Radioactive materials, toxic chemicals. 6. Garden Waste: Leaves, branches."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What are the harmful effects of improper solid waste management?",
+      "answer": "1. Spread of diseases (Cholera, Malaria) by vectors. 2. Air pollution from burning waste. 3. Water pollution from leachates entering groundwater. 4. Soil pollution destroying fertility. 5. Foul odour affecting quality of life. 6. Harm to biodiversity."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the 7 principles of Solid Waste Management.",
+      "answer": "1. Reuse: Use items again. 2. Refuse: Say no to non-biodegradables. 3. Recycle: Process waste into new products. 4. Rethink: Change consumption habits. 5. Reduce: Minimize waste generation. 6. Research: Find new ways to manage waste. 7. Regulate/Public Awareness: Follow laws and educate people."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe the First Aid measures for Snake Bite.",
+      "answer": "1. Keep the patient calm. 2. Wash the wound with water. 3. Tie a cloth tightly above the wound to stop venom spread. 4. Do not suck the poison. 5. Take the victim to a hospital immediately for anti-venom."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the ABC of First Aid.",
+      "answer": "A (Airway): Ensure the airway is clear. Head-tilt, chin-lift method prevents tongue from blocking throat. B (Breathing): Check if breathing. If not, give mouth-to-mouth resuscitation. C (Circulation): Check pulse. If absent, perform CPR (chest compressions) to pump blood."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Describe different methods of transporting patients with diagrams (Mental visualization).",
+      "answer": "1. Cradle: For children/light victims. 2. Carrying Piggy Back: For conscious patients. 3. Human Crutch: For leg injuries. 4. Four-hand chair: For support below waist. 5. Two-hand chair: For patients who can't use hands. 6. Fireman's lift: Unconscious patients. 7. Stretcher: Unconscious/Immobile patients. "
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Discuss the necessity of solid waste management.",
+      "answer": "1. To prevent environmental pollution (air, water, soil). 2. To control the spread of infectious diseases. 3. To conserve resources by recycling (energy production, manure). 4. To improve public health and hygiene. 5. To maintain the beauty of surroundings."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "What is the difference between degradable and non-degradable waste?",
+      "answer": "Degradable (Biodegradable): Decomposed naturally by microbes (Food, wood, cotton). Can become manure. Non-degradable: Cannot be decomposed naturally (Plastic, glass, metals). Persists in environment. Needs recycling or special disposal."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Write a note on Disaster Management.",
+      "answer": "It includes preparation, mitigation, response, and recovery. 1. Pre-disaster: Planning, drills, forecasting. 2. During disaster: Rescue, first aid, evacuation. 3. Post-disaster: Rehabilitation, rebuilding, medical aid. Aim is to save lives and reduce loss."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the scientific and eco-friendly methods of waste management.",
+      "answer": "1. Segregation: Separating dry/wet waste. 2. Composting: Making manure from wet waste. 3. Vermicomposting: Using earthworms. 4. Secured Landfill: Burying hazardous waste safely. 5. Pyrolysis: Burning waste at high temp to generate energy (biogas/electricity)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What is the importance of climate in the living world?",
+      "answer": "1. Determines flora and fauna of a region. 2. Influences agricultural cycles and food production. 3. Affects human housing, clothing, and diet. 4. Weathering of rocks forms soil. 5. Role in water cycle and microbe activity in soil."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Explain the harmful effects of E-waste and how to manage it.",
+      "answer": "Effects: Contains lead, mercury, cadmium causing soil/water pollution and health issues (nerve damage). Management: 1. Reuse working parts. 2. Scientific recycling to recover metals. 3. Safe disposal of hazardous components. 4. Donating old electronics."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Describe the First Aid for Burns and Scalds.",
+      "answer": "Minor Burns: Wash with cold water, drink water, apply antiseptic (like honey/ointment), cover with gauze. Do not burst blisters. Severe Burns: Cover with sterile cloth, remove constricting jewelry, do not touch wound, seek medical help immediately."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Explain the role of public participation in waste management.",
+      "answer": "Government efforts fail without public help. People must: 1. Segregate waste at source. 2. Stop littering. 3. Use cloth bags instead of plastic. 4. Compost kitchen waste. 5. Follow 3R principles. Collective action leads to cleaner cities."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "What is the relation between weather forecasting and disaster management?",
+      "answer": "Accurate forecasting gives lead time before disasters (cyclones, floods). This allows: 1. Evacuation of people to safe zones. 2. Stocking essential supplies. 3. Deployment of rescue teams. 4. Fishermen/farmers warnings. It drastically reduces loss of life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Write a short note on 'Meteorology'.",
+      "answer": "Science of atmosphere. Studies air pressure, temperature, humidity, wind. Includes study of storms, clouds, rainfall. Helps in weather prediction. Interdisciplinary: connects physics, chemistry, and geography. Crucial for agriculture and aviation."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Explain the First Aid kit components and their uses.",
+      "answer": "1. Bandages/Gauze: Dress wounds. 2. Antiseptic (Dettol/Betadine): Clean wounds. 3. Scissors/Tweezers: Cut tape/remove debris. 4. Painkillers/Paracetamol: Relieve pain/fever. 5. Thermometer: Check temp. 6. Soap: Hand washing. 7. Torch: Visibility."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Why is plastic waste a global concern?",
+      "answer": "1. Non-biodegradable: Lasts centuries. 2. Ocean Pollution: Great Pacific Garbage Patch, harms marine life (turtles/fish eat it). 3. Microplastics: Enter food chain. 4. Landfills: Fills up space. 5. Burning: Releases toxic dioxins. Urgent need to reduce usage."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the 'Monsoon Model' help India?",
+      "answer": "India is agricultural. Monsoon determines crop yield. Accurate prediction (Dr. Gowariker's model) helps: 1. Farmers choose crops. 2. Government manage food stocks. 3. Water resource management. 4. Economic planning (GDP depends on monsoon)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "What is the difference between 'Pre-disaster' and 'Post-disaster' management?",
+      "answer": "Pre-disaster: Proactive. Planning, training, drills, warning systems, building resistant structures. Aim: Prevention/Mitigation. Post-disaster: Reactive. Rescue, first aid, food/shelter supply, clearing debris, rehabilitation. Aim: Recovery."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Describe the First Aid for Sunstroke.",
+      "answer": "Sunstroke is heat exhaustion. 1. Move patient to cool shade/room. 2. Sponge body with cold water to lower temp. 3. Place wet cloth on neck/head. 4. Give plenty of fluids (water/sherbet). 5. Seek medical help if unconscious."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Summarize the chapter 'Environmental Management'.",
+      "answer": "1. Meteorology helps predict weather/climate. 2. Solid waste management (3Rs, Segregation) is vital for health. 3. Disaster Management involves First Aid (ABC, Transport methods) and preparedness. 4. Public participation is key to a clean and safe environment."
+    }
+  ]
+}

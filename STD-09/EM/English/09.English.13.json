@@ -1,0 +1,341 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.13",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Works of Art"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which Indian artist is popularly known as 'Raza'?",
+      "options": [
+        { "option_id": 1, "text": "M.F. Husain", "is_correct": false },
+        { "option_id": 2, "text": "Sayed Haider Raza", "is_correct": true },
+        { "option_id": 3, "text": "Amrita Sher-Gil", "is_correct": false },
+        { "option_id": 4, "text": "Raja Ravi Varma", "is_correct": false }
+      ],
+      "answer": "Sayed Haider Raza"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which two colors are found in almost all of Raza's paintings?",
+      "options": [
+        { "option_id": 1, "text": "Red and Green", "is_correct": false },
+        { "option_id": 2, "text": "Black and White", "is_correct": false },
+        { "option_id": 3, "text": "Blue and Orange", "is_correct": true },
+        { "option_id": 4, "text": "Yellow and Purple", "is_correct": false }
+      ],
+      "answer": "Blue and Orange"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What style of painting do Raza's works belong to?",
+      "options": [
+        { "option_id": 1, "text": "Realistic", "is_correct": false },
+        { "option_id": 2, "text": "Abstract", "is_correct": true },
+        { "option_id": 3, "text": "Surrealist", "is_correct": false },
+        { "option_id": 4, "text": "Impressionist", "is_correct": false }
+      ],
+      "answer": "Abstract"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where did Sayed Haider Raza study art after Nagpur?",
+      "options": [
+        { "option_id": 1, "text": "J. J. School of Art, Mumbai", "is_correct": true },
+        { "option_id": 2, "text": "Shantiniketan, Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "College of Art, Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Fine Arts College, Chennai", "is_correct": false }
+      ],
+      "answer": "J. J. School of Art, Mumbai"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which country did Raza decide to settle?",
+      "options": [
+        { "option_id": 1, "text": "USA", "is_correct": false },
+        { "option_id": 2, "text": "UK", "is_correct": false },
+        { "option_id": 3, "text": "France", "is_correct": true },
+        { "option_id": 4, "text": "Germany", "is_correct": false }
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which specific geometric shape became the core of Raza's paintings?",
+      "options": [
+        { "option_id": 1, "text": "Triangle", "is_correct": false },
+        { "option_id": 2, "text": "Square", "is_correct": false },
+        { "option_id": 3, "text": "The 'bindu' or point", "is_correct": true },
+        { "option_id": 4, "text": "Hexagon", "is_correct": false }
+      ],
+      "answer": "The 'bindu' or point"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following awards was Raza honored with?",
+      "options": [
+        { "option_id": 1, "text": "Bharat Ratna", "is_correct": false },
+        { "option_id": 2, "text": "All three Padma awards", "is_correct": true },
+        { "option_id": 3, "text": "Nobel Prize", "is_correct": false },
+        { "option_id": 4, "text": "Oscar", "is_correct": false }
+      ],
+      "answer": "All three Padma awards"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Gond Art is primarily developed by tribal people residing in which Indian state?",
+      "options": [
+        { "option_id": 1, "text": "Kerala", "is_correct": false },
+        { "option_id": 2, "text": "Madhya Pradesh", "is_correct": true },
+        { "option_id": 3, "text": "Punjab", "is_correct": false },
+        { "option_id": 4, "text": "Assam", "is_correct": false }
+      ],
+      "answer": "Madhya Pradesh"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The Gondi language is similar to which Dravidian language?",
+      "options": [
+        { "option_id": 1, "text": "Tamil", "is_correct": false },
+        { "option_id": 2, "text": "Kannada", "is_correct": false },
+        { "option_id": 3, "text": "Malayalam", "is_correct": false },
+        { "option_id": 4, "text": "Telugu", "is_correct": true }
+      ],
+      "answer": "Telugu"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was originally used as a canvas for Gond art?",
+      "options": [
+        { "option_id": 1, "text": "Paper", "is_correct": false },
+        { "option_id": 2, "text": "Canvas cloth", "is_correct": false },
+        { "option_id": 3, "text": "Earthen walls of houses", "is_correct": true },
+        { "option_id": 4, "text": "Leaves", "is_correct": false }
+      ],
+      "answer": "Earthen walls of houses"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following was NOT used to prepare colors in traditional Gond art?",
+      "options": [
+        { "option_id": 1, "text": "Cow-dung", "is_correct": false },
+        { "option_id": 2, "text": "Synthetic chemical dyes", "is_correct": true },
+        { "option_id": 3, "text": "Plant juice", "is_correct": false },
+        { "option_id": 4, "text": "Coal", "is_correct": false }
+      ],
+      "answer": "Synthetic chemical dyes"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "According to the text, the roots of folk arts likely lie in what?",
+      "options": [
+        { "option_id": 1, "text": "Royal courts", "is_correct": false },
+        { "option_id": 2, "text": "Women's daily chores", "is_correct": true },
+        { "option_id": 3, "text": "Religious temples", "is_correct": false },
+        { "option_id": 4, "text": "Commercial markets", "is_correct": false }
+      ],
+      "answer": "Women's daily chores"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What texture designs are commonly used in Gond art?",
+      "options": [
+        { "option_id": 1, "text": "Dots and lines", "is_correct": true },
+        { "option_id": 2, "text": "Shading and blending", "is_correct": false },
+        { "option_id": 3, "text": "3D modeling", "is_correct": false },
+        { "option_id": 4, "text": "Spray painting", "is_correct": false }
+      ],
+      "answer": "Dots and lines"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "At what age did Raza begin to paint?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": false },
+        { "option_id": 2, "text": "Twelve", "is_correct": true },
+        { "option_id": 3, "text": "Fifteen", "is_correct": false },
+        { "option_id": 4, "text": "Twenty", "is_correct": false }
+      ],
+      "answer": "Twelve"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the idiom for 'a sudden shock or surprise' mentioned in the Warming Up section?",
+      "options": [
+        { "option_id": 1, "text": "Green belt", "is_correct": false },
+        { "option_id": 2, "text": "Bolt from the blue", "is_correct": true },
+        { "option_id": 3, "text": "Red herring", "is_correct": false },
+        { "option_id": 4, "text": "Black sheep", "is_correct": false }
+      ],
+      "answer": "Bolt from the blue"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are the characteristic features of Raza's paintings[cite: 507]?",
+      "answer": "Simple geometric shapes, striking colour combinations, and captivating compositions are the characteristic features of Raza's paintings[cite: 507]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How do Raza's paintings differ from realistic art[cite: 508]?",
+      "answer": "None of Raza's paintings depict lifelike human figures or copies of scenes from his environment[cite: 508]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where do Raza's abstract paintings originate from[cite: 510]?",
+      "answer": "They originate when the artist tries to peep into his own inner mind, rather than being inspired by external factors[cite: 510]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did Raza find his unique style of painting[cite: 512]?",
+      "answer": "Raza found his paintings through his study of Indian art and its heritage, cultural context, and philosophy[cite: 512]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What feeling do Raza's pictures radiate[cite: 513]?",
+      "answer": "His pictures seem to radiate peace and life at the same time[cite: 513]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What awards did Sayed Haider Raza receive[cite: 521]?",
+      "answer": "He was honored with all three Padma awards: Padma Shri, Padma Bhushan, and Padma Vibhushan[cite: 521]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How did Raza describe his own work[cite: 524]?",
+      "answer": "He described his work as his own inner experience and involvement with the mysteries of nature and form, expressed in colour, line, space, and light[cite: 524, 525]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "When did Sayed Haider Raza pass away[cite: 528]?",
+      "answer": "This great artist passed away on 23 July 2016 at the age of 94[cite: 528]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who has developed and preserved Gond Art[cite: 532]?",
+      "answer": "Gond Art has been developed and preserved by the Gond tribal people residing largely in Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, and Odisha[cite: 532]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the purpose of decorating a house with Gond art[cite: 538]?",
+      "answer": "A house decorated with beautiful pictures creates a pleasant atmosphere[cite: 538]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What natural materials were used to prepare colors for Gond art in the past[cite: 543]?",
+      "answer": "Soils of different shades, plant juice, leaves, tree bark, flowers, fruits, coal, and cow-dung were used to prepare colors[cite: 543]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How is the 'canvas' prepared in folk arts like Gond art[cite: 539]?",
+      "answer": "In folk arts, the artist themselves prepare the 'canvas', which is the surface on which to draw[cite: 539, 540]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What techniques are used to create textures in Gond art designs[cite: 549]?",
+      "answer": "Simple textures are achieved using dots, straight lines, dotted lines, curvy shapes, and circles[cite: 549]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What makes the whole picture look lively in Gond art[cite: 548]?",
+      "answer": "The designs that fill the outlines make the whole picture look lively and attractive[cite: 548]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What connects the Gondi language to Telugu[cite: 534]?",
+      "answer": "The Gondi language is similar to Telugu, which is a Dravidian language[cite: 534]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the 'bindu' in Raza's paintings[cite: 523]?",
+      "answer": "The 'bindu' or point is the core of Raza's paintings, representing a spiritual and metaphysical path[cite: 522, 523]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is creating folk art considered an enriching experience[cite: 541]?",
+      "answer": "It is enriching because the artist prepares their own canvas and colors using natural mediums, reflecting a deep connection with nature[cite: 539, 540, 541]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What legacy did Raza leave behind[cite: 528]?",
+      "answer": "He left behind a legacy of sensitive paintings depicting extraordinary compositions of lines and colors[cite: 528]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did Raza create compositions in his abstract art[cite: 511]?",
+      "answer": "He arranged circles, triangles, squares, and lines using effective paint techniques to achieve balance and imbalance[cite: 511]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What role do women play in the roots of Gond art[cite: 552]?",
+      "answer": "The roots of Gond art lie in women's daily chores like cleaning, decorating the house, and cooking with natural colors[cite: 552]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the evolution of Sayed Haider Raza's career and his unique artistic style.",
+      "answer": "Raza was born in a small village in Madhya Pradesh and began painting at twelve. He studied at 'Chitrakala Mahavidyalaya' in Nagpur and J.J. School of Art in Mumbai before moving to France. His style evolved into abstract art characterized by simple geometric shapes and striking colors like blue and orange. Unlike realistic art, his work did not depict lifelike figures but originated from his inner mind. Over time, the 'bindu' or point became the spiritual core of his paintings, reflecting Indian philosophy and radiating peace[cite: 506, 507, 510, 517, 518, 519, 523]."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the significance of the medium and materials used in Gond Art.",
+      "answer": "Gond Art reflects a deep connection with nature through its choice of medium. Originally, the 'canvas' was the earthen walls of houses. The colors were prepared naturally using soils of different shades, plant juices, leaves, tree bark, flowers, fruits, coal, and cow-dung. This process of preparing one's own canvas and colors from the environment makes the creation of folk art a very enriching experience, preserving the art form's simplicity and richness year after year[cite: 535, 540, 541, 543, 544]."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Compare the artistic philosophy of Raza with the traditional approach of Gond Art.",
+      "answer": "Raza's art is abstract and spiritual, originating from an attempt to peep into his own 'inner mind'. It focuses on geometric composition, balance, and the metaphysical 'bindu', uninfluenced by external factors. In contrast, Gond Art is a folk tradition deeply rooted in external nature and community life. It involves recording what is seen, preserving myths and legends, and decorating homes. While Raza's art is an individual's complex inner expression, Gond Art is a communal, smoothly flowing process transferred across generations[cite: 510, 524, 532, 537, 539]."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "How does the passage justify the idea that folk art roots lie in women's daily chores?",
+      "answer": "The passage suggests that the origins of folk art are closely linked to the domestic activities of women. It highlights that women traditionally handled chores like cleaning and decorating the house, which provided a surface for art. Furthermore, in the course of cooking and leisure activities, women dealt with natural colors and materials. This familiarity with using natural elements for decoration and daily tasks likely evolved into the artistic expression seen in styles like Gond art[cite: 552]."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Discuss the visual language of Gond Art including its designs and textures.",
+      "answer": "The visual language of Gond Art is defined by its lively and attractive designs that fill the outlines of the subject. These designs rely on simple textures created through the use of dots, straight lines, dotted lines, curvy shapes, and circles. While outlines may vary between artists, the filling designs and the careful choice of various colors create an amazing and beautiful total effect. This simplicity in technique allows the art to be easily transferred and preserved across generations[cite: 537, 548, 549, 550]."
+    }
+  ]
+}

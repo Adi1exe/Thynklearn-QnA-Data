@@ -1,0 +1,239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.11",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Transport and Communication"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor to be considered while selecting a mode of transportation?",
+      "options": [
+        { "option_id": 1, "text": "Distance and Duration", "is_correct": false },
+        { "option_id": 2, "text": "Cost and Time", "is_correct": false },
+        { "option_id": 3, "text": "Physiography and Climate", "is_correct": false },
+        { "option_id": 4, "text": "Political parties", "is_correct": true }
+      ],
+      "answer": "Political parties"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Development of transportation infrastructure is an indicator of what?",
+      "options": [
+        { "option_id": 1, "text": "Population growth", "is_correct": false },
+        { "option_id": 2, "text": "Development of the country or region", "is_correct": true },
+        { "option_id": 3, "text": "Cultural diversity", "is_correct": false },
+        { "option_id": 4, "text": "Agricultural decline", "is_correct": false }
+      ],
+      "answer": "Development of the country or region"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which physiographic feature in the western part of Satara district limits the development of transport routes?",
+      "options": [
+        { "option_id": 1, "text": "Plains", "is_correct": false },
+        { "option_id": 2, "text": "Sahyadris and high elevation", "is_correct": true },
+        { "option_id": 3, "text": "Deserts", "is_correct": false },
+        { "option_id": 4, "text": "Coastal areas", "is_correct": false }
+      ],
+      "answer": "Sahyadris and high elevation"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is a 'Green Corridor' used for?",
+      "options": [
+        { "option_id": 1, "text": "Transporting VIPs", "is_correct": false },
+        { "option_id": 2, "text": "Transporting agricultural produce", "is_correct": false },
+        { "option_id": 3, "text": "Rapid transport of donated organs", "is_correct": true },
+        { "option_id": 4, "text": "Military movement", "is_correct": false }
+      ],
+      "answer": "Rapid transport of donated organs"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does RoRo stand for in transport?",
+      "options": [
+        { "option_id": 1, "text": "Run-on Run-off", "is_correct": false },
+        { "option_id": 2, "text": "Roll-on Roll-off", "is_correct": true },
+        { "option_id": 3, "text": "Ride-on Ride-off", "is_correct": false },
+        { "option_id": 4, "text": "Rail-on Rail-off", "is_correct": false }
+      ],
+      "answer": "Roll-on Roll-off"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did the use of RoRo services start for the first time in India?",
+      "options": [
+        { "option_id": 1, "text": "Western Railway", "is_correct": false },
+        { "option_id": 2, "text": "Konkan Railway", "is_correct": true },
+        { "option_id": 3, "text": "Central Railway", "is_correct": false },
+        { "option_id": 4, "text": "Northern Railway", "is_correct": false }
+      ],
+      "answer": "Konkan Railway"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which modern means of communication has made video calling possible?",
+      "options": [
+        { "option_id": 1, "text": "Radio", "is_correct": false },
+        { "option_id": 2, "text": "Newspapers", "is_correct": false },
+        { "option_id": 3, "text": "Internet/Mobile", "is_correct": true },
+        { "option_id": 4, "text": "Postal service", "is_correct": false }
+      ],
+      "answer": "Internet/Mobile"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a threat associated with the internet?",
+      "options": [
+        { "option_id": 1, "text": "Quick information access", "is_correct": false },
+        { "option_id": 2, "text": "Cyber crimes (hacking, fraud)", "is_correct": true },
+        { "option_id": 3, "text": "Online payment", "is_correct": false },
+        { "option_id": 4, "text": "Video conferencing", "is_correct": false }
+      ],
+      "answer": "Cyber crimes (hacking, fraud)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which app is mentioned as an example for carrying out digital transactions?",
+      "options": [
+        { "option_id": 1, "text": "BHIM app", "is_correct": true },
+        { "option_id": 2, "text": "Instagram", "is_correct": false },
+        { "option_id": 3, "text": "Facebook", "is_correct": false },
+        { "option_id": 4, "text": "Twitter", "is_correct": false }
+      ],
+      "answer": "BHIM app"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What facilitates the study of resources on the earth's surface and regional planning?",
+      "options": [
+        { "option_id": 1, "text": "Newspapers", "is_correct": false },
+        { "option_id": 2, "text": "Satellite images obtained by remote sensing", "is_correct": true },
+        { "option_id": 3, "text": "Postal letters", "is_correct": false },
+        { "option_id": 4, "text": "Radio broadcasts", "is_correct": false }
+      ],
+      "answer": "Satellite images obtained by remote sensing"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In the RoRo transport system, trucks are transported via which mode?",
+      "options": [
+        { "option_id": 1, "text": "Ship", "is_correct": false },
+        { "option_id": 2, "text": "Aeroplane", "is_correct": false },
+        { "option_id": 3, "text": "Goods train (Railways)", "is_correct": true },
+        { "option_id": 4, "text": "Bigger trucks", "is_correct": false }
+      ],
+      "answer": "Goods train (Railways)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Shiva-sagar reservoir of the Koyna Dam is located in which district?",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "Satara", "is_correct": true },
+        { "option_id": 3, "text": "Nagpur", "is_correct": false },
+        { "option_id": 4, "text": "Nashik", "is_correct": false }
+      ],
+      "answer": "Satara"
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "List the factors to be considered while selecting a mode of transport.",
+      "answer": "Distance, Duration, Cost, Time, Products, Climate, Market, Routes and means, and Physiography."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Why is the price of a good dependent on transport cost?",
+      "answer": "The selling price is decided by the cost of production and the transport cost. If transport is affordable, the price of the good can be kept low."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Explain the concept of 'Green Corridor'.",
+      "answer": "A Green Corridor is a route cleared of all obstacles to urgently transport donated organs from a donor to a receiver to save a life."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is RoRo transport?",
+      "answer": "RoRo (Roll-on Roll-off) transport involves loading trucks with goods onto goods trains to transport them to desired stations, helping reduce fuel costs and pollution."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "How does physiography affect the development of transport routes?",
+      "answer": "Transport facilities develop well in plains, while areas with high relief, hills, and valleys obstruct the development of transport routes, leading to sparse networks."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the importance of man-made satellites in communication?",
+      "answer": "Satellites facilitate the exchange of messages via mobiles, TV broadcasting, weather updates, and remote sensing for resource study and regional planning."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What are the threats associated with the internet?",
+      "answer": "Threats include cyber crimes like website/email hacking, fraud, theft of information, economic frauds, and cyber wars."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What precautions should be taken while using social networks?",
+      "answer": "One should not reveal personal or sensitive information without ensuring safety to avoid theft and misuse."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Which means of transport is best for sending Alphonso mangoes from Konkan to Arab countries?",
+      "answer": "Airways, because mangoes are perishable goods and need to reach quickly to distant international markets."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why is the transport network dense in the central part of Satara district?",
+      "answer": "Because the central part has lower and medium elevations compared to the west, and a National Highway and railway route pass through it."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "Discuss the importance of transportation for a region's development.",
+      "answer": "Transportation is a basic infrastructure. Its development indicates the region's progress. It extends trade networks, promotes rapid industrialisation, and creates employment opportunities. It provides regional connectivity, overcomes scarcity by moving goods from surplus to deficit areas, decreases regional imbalance, and boosts tourism. Ultimately, it increases the Gross Domestic Product (GDP) and per capita income."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "Explain the relationship between physiography and transport routes with reference to Satara district.",
+      "answer": "The western part of Satara district is occupied by the Sahyadris with high elevation and undulating topography (e.g., Shivsagar reservoir), resulting in a sparse transport network. The central and eastern parts have lower elevation, facilitating a denser network with National Highways and railways. This shows that plains support dense transport networks, while hilly terrains restrict them."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "Describe the modern means of communication and their benefits.",
+      "answer": "Modern means include telephones, mobiles, video calling, video conferencing, and the internet. Satellites enable simultaneous telecasting and communication. The internet and social media allow instant exchange of information. Apps like BHIM facilitate online payments and transactions. These means have made communication faster, cheaper, and more efficient, connecting the entire world."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "What is cyber crime and what measures should be taken to prevent it?",
+      "answer": "Cyber crime involves illegal activities through the internet, such as hacking, fraud, theft of data, and economic scams. To prevent it, one should not share sensitive personal information (like bank details, passwords) on social networks or unverified sites. Users should be aware of threats and ensure the safety of the platforms they use."
+    }
+  ]
+}

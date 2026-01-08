@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.01",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "1.1 Life"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Life'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Charlotte Bronte", "is_correct": true },
+        { "option_id": 3, "text": "H. W. Longfellow", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Charlotte Bronte"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the sages, life is a __________.",
+      "options": [
+        { "option_id": 1, "text": "pleasant dream", "is_correct": false },
+        { "option_id": 2, "text": "dark dream", "is_correct": true },
+        { "option_id": 3, "text": "sunny day", "is_correct": false },
+        { "option_id": 4, "text": "golden wing", "is_correct": false }
+      ],
+      "answer": "dark dream"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does 'a little morning rain' often foretell?",
+      "options": [
+        { "option_id": 1, "text": "A pleasant day", "is_correct": true },
+        { "option_id": 2, "text": "A stormy night", "is_correct": false },
+        { "option_id": 3, "text": "Clouds of gloom", "is_correct": false },
+        { "option_id": 4, "text": "Heavy sorrow", "is_correct": false }
+      ],
+      "answer": "A pleasant day"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The 'clouds of gloom' are described as __________.",
+      "options": [
+        { "option_id": 1, "text": "permanent", "is_correct": false },
+        { "option_id": 2, "text": "transient", "is_correct": true },
+        { "option_id": 3, "text": "heavy", "is_correct": false },
+        { "option_id": 4, "text": "dark", "is_correct": false }
+      ],
+      "answer": "transient"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What makes the roses bloom?",
+      "options": [
+        { "option_id": 1, "text": "The sun", "is_correct": false },
+        { "option_id": 2, "text": "The shower (rain)", "is_correct": true },
+        { "option_id": 3, "text": "The wind", "is_correct": false },
+        { "option_id": 4, "text": "The snow", "is_correct": false }
+      ],
+      "answer": "The shower (rain)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How do life's sunny hours flit by?",
+      "options": [
+        { "option_id": 1, "text": "Slowly and sadly", "is_correct": false },
+        { "option_id": 2, "text": "Rapidly and merrily", "is_correct": true },
+        { "option_id": 3, "text": "Fearlessly and manfully", "is_correct": false },
+        { "option_id": 4, "text": "Darkly and gloomily", "is_correct": false }
+      ],
+      "answer": "Rapidly and merrily"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does 'transient' mean?",
+      "options": [
+        { "option_id": 1, "text": "Permanent", "is_correct": false },
+        { "option_id": 2, "text": "Temporary", "is_correct": true },
+        { "option_id": 3, "text": "Transparent", "is_correct": false },
+        { "option_id": 4, "text": "Transforming", "is_correct": false }
+      ],
+      "answer": "Temporary"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does 'lament' mean?",
+      "options": [
+        { "option_id": 1, "text": "To celebrate", "is_correct": false },
+        { "option_id": 2, "text": "To express grief or regret", "is_correct": true },
+        { "option_id": 3, "text": "To laugh", "is_correct": false },
+        { "option_id": 4, "text": "To suppress", "is_correct": false }
+      ],
+      "answer": "To express grief or regret"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Whose wings are described as 'golden' and 'buoyant'?",
+      "options": [
+        { "option_id": 1, "text": "Life", "is_correct": false },
+        { "option_id": 2, "text": "Death", "is_correct": false },
+        { "option_id": 3, "text": "Hope", "is_correct": true },
+        { "option_id": 4, "text": "Sorrow", "is_correct": false }
+      ],
+      "answer": "Hope"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What can courage quell?",
+      "options": [
+        { "option_id": 1, "text": "Hope", "is_correct": false },
+        { "option_id": 2, "text": "Despair", "is_correct": true },
+        { "option_id": 3, "text": "Joy", "is_correct": false },
+        { "option_id": 4, "text": "Victory", "is_correct": false }
+      ],
+      "answer": "Despair"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The phrase 'And calls our Best away' is an example of which figure of speech?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Euphemism", "is_correct": true },
+        { "option_id": 3, "text": "Simile", "is_correct": false },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Euphemism"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'positive feeling'?",
+      "options": [
+        { "option_id": 1, "text": "Anxious", "is_correct": false },
+        { "option_id": 2, "text": "Enthusiastic", "is_correct": true },
+        { "option_id": 3, "text": "Threatened", "is_correct": false },
+        { "option_id": 4, "text": "Lonely", "is_correct": false }
+      ],
+      "answer": "Enthusiastic"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The adverb form of 'victory' is __________.",
+      "options": [
+        { "option_id": 1, "text": "Victorious", "is_correct": false },
+        { "option_id": 2, "text": "Victoriously", "is_correct": true },
+        { "option_id": 3, "text": "Victoryly", "is_correct": false },
+        { "option_id": 4, "text": "Victor", "is_correct": false }
+      ],
+      "answer": "Victoriously"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'sway' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "To move back and forth", "is_correct": false },
+        { "option_id": 2, "text": "Controlling influence", "is_correct": true },
+        { "option_id": 3, "text": "A dance move", "is_correct": false },
+        { "option_id": 4, "text": "To fall down", "is_correct": false }
+      ],
+      "answer": "Controlling influence"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How should we bear the 'day of trial'?",
+      "options": [
+        { "option_id": 1, "text": "Fearfully and tearfully", "is_correct": false },
+        { "option_id": 2, "text": "Manfully and fearlessly", "is_correct": true },
+        { "option_id": 3, "text": "Silently and sadly", "is_correct": false },
+        { "option_id": 4, "text": "Angrily and violently", "is_correct": false }
+      ],
+      "answer": "Manfully and fearlessly"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the central message of the poem 'Life'?",
+      "answer": "The central message is that life is not a dark dream as some say; it has both sorrow and joy. Sorrow is transient, and hope always returns to help us overcome difficulties with courage."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Identify the metaphor in the line: 'Oft a little morning rain Foretells a pleasant day'.",
+      "answer": "The 'morning rain' is a metaphor for small difficulties or sorrows in life that often lead to happier times ('pleasant day')."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'Life's sunny hours'?",
+      "answer": "'Life's sunny hours' refer to the happy, joyful, and pleasant times in one's life."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Pick out two lines from the poem that reflect an optimistic attitude.",
+      "answer": "1. 'If the shower will make the roses bloom, Oh, why lament its fall?'\n2. 'Yet Hope again elastic springs, Unconquered, though she fell'."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Pick out two lines from the poem that reflect a pessimistic attitude (which the poet argues against).",
+      "answer": "1. 'Life, believe, is not a dream, So dark as sages say'\n2. 'Sometimes there are clouds of gloom'."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Give the adverbs of similar meaning for: (a) rapidly (b) merrily.",
+      "answer": "(a) fast / quickly / swiftly\n(b) happily / cheerfully / joyfully"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Explain the personification in 'What though death at times steps in'.",
+      "answer": "Death is personified as a person who 'steps in' and takes people away."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is Euphemism? Give an example from the poem.",
+      "answer": "Euphemism is a gentle way of expressing an unpleasant idea. Example: 'And calls our Best away' is a euphemism for death/dying."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What does 'buoyant' mean in the poem?",
+      "answer": "'Buoyant' means something that can rise upwards; here it refers to Hope being uplifting and resilient."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "How is Hope described in the poem?",
+      "answer": "Hope is described as having 'golden wings', being 'elastic' (bouncing back), 'unconquered', and 'buoyant'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "Summarize the poet's view on how to deal with the ups and downs of life.",
+      "answer": "The poet Charlotte Bronte encourages a positive outlook on life. She advises not to believe that life is a 'dark dream'. She suggests that sorrows ('clouds of gloom') are temporary ('transient') and often bring good results, like rain making roses bloom. We should enjoy the happy times ('sunny hours') gratefully. Even when death or sorrow strikes, we should not lose hope. Hope is resilient and strong. Finally, she urges us to bear trials 'manfully' and 'fearlessly', letting courage conquer despair."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "Explain the metaphor 'If the shower will make the roses bloom, Oh, why lament its fall?'.",
+      "answer": "In these lines, 'the shower' (rain) represents sorrows, difficulties, or hardships in life. 'Roses bloom' represents the good outcomes, happiness, or growth that follow these hardships. The poet is asking why we should feel sad about difficulties if they eventually lead to something beautiful and positive. It teaches us to see the positive purpose behind our struggles."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "Describe the rhyme scheme and tone of the poem 'Life'.",
+      "answer": "The poem generally follows an ABAB rhyme scheme (e.g., dream/rain, say/day). The tone of the poem is optimistic, encouraging, and inspirational. It acknowledges the reality of sorrow and death but emphasizes the power of hope and courage to overcome them. The rhythm is quick, matching the message of life flitting by rapidly."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "What are the rhetorical questions (interrogations) used in the poem and what points do they make?",
+      "answer": "1. 'If the shower will make the roses bloom, Oh, why lament its fall?' - Point: We should not grieve over temporary sorrows that bring good results.\n2. 'What though death at times steps in, And calls our Best away?' - Point: Even death, though painful, is a part of life that we must accept without losing hope.\n3. 'What though Sorrow seems to win, O'er hope a heavy sway?' - Point: Sorrow's victory is only temporary; it cannot permanently defeat hope."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "Write a short paragraph on the importance of 'Hope' based on the poem.",
+      "answer": "Based on the poem, Hope is the sustaining force of life. It is described as 'elastic' and 'unconquered', meaning it always bounces back no matter how many times it falls. It has 'golden wings' that are 'buoyant' and strong enough to bear us up during difficult times. Even when sorrow seems to take over, Hope returns to save us. It is the companion of courage that allows us to face life's trials victoriously."
+    }
+  ]
+}

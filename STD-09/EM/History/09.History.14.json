@@ -1,0 +1,461 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.14",
+    "standard": "9",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "The United Nations (UN)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which international organisation was established after the First World War?",
+      "options": [
+        { "option_id": 1, "text": "United Nations", "is_correct": false },
+        { "option_id": 2, "text": "League of Nations", "is_correct": true },
+        { "option_id": 3, "text": "NATO", "is_correct": false },
+        { "option_id": 4, "text": "Warsaw Pact", "is_correct": false }
+      ],
+      "answer": "League of Nations"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "When was the Atlantic Treaty signed?",
+      "options": [
+        { "option_id": 1, "text": "14th August 1941", "is_correct": true },
+        { "option_id": 2, "text": "24th October 1945", "is_correct": false },
+        { "option_id": 3, "text": "1st January 1942", "is_correct": false },
+        { "option_id": 4, "text": "15th August 1947", "is_correct": false }
+      ],
+      "answer": "14th August 1941"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who signed the Atlantic Treaty?",
+      "options": [
+        { "option_id": 1, "text": "Stalin and Churchill", "is_correct": false },
+        { "option_id": 2, "text": "Roosevelt and Stalin", "is_correct": false },
+        { "option_id": 3, "text": "Churchill and Roosevelt", "is_correct": true },
+        { "option_id": 4, "text": "Hitler and Mussolini", "is_correct": false }
+      ],
+      "answer": "Churchill and Roosevelt"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where was the Charter of the United Nations drafted?",
+      "options": [
+        { "option_id": 1, "text": "New York", "is_correct": false },
+        { "option_id": 2, "text": "San Francisco", "is_correct": true },
+        { "option_id": 3, "text": "London", "is_correct": false },
+        { "option_id": 4, "text": "Paris", "is_correct": false }
+      ],
+      "answer": "San Francisco"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many countries' representatives drafted the UN Charter initially?",
+      "options": [
+        { "option_id": 1, "text": "50", "is_correct": true },
+        { "option_id": 2, "text": "51", "is_correct": false },
+        { "option_id": 3, "text": "193", "is_correct": false },
+        { "option_id": 4, "text": "15", "is_correct": false }
+      ],
+      "answer": "50"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When is United Nations Day celebrated?",
+      "options": [
+        { "option_id": 1, "text": "14th August", "is_correct": false },
+        { "option_id": 2, "text": "24th October", "is_correct": true },
+        { "option_id": 3, "text": "10th December", "is_correct": false },
+        { "option_id": 4, "text": "1st January", "is_correct": false }
+      ],
+      "answer": "24th October"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many member nations are there in the United Nations today?",
+      "options": [
+        { "option_id": 1, "text": "190", "is_correct": false },
+        { "option_id": 2, "text": "193", "is_correct": true },
+        { "option_id": 3, "text": "198", "is_correct": false },
+        { "option_id": 4, "text": "150", "is_correct": false }
+      ],
+      "answer": "193"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a main organ of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "General Assembly", "is_correct": false },
+        { "option_id": 2, "text": "Security Council", "is_correct": false },
+        { "option_id": 3, "text": "World Health Organisation", "is_correct": true },
+        { "option_id": 4, "text": "Secretariat", "is_correct": false }
+      ],
+      "answer": "World Health Organisation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where are the headquarters of the United Nations located?",
+      "options": [
+        { "option_id": 1, "text": "Geneva", "is_correct": false },
+        { "option_id": 2, "text": "The Hague", "is_correct": false },
+        { "option_id": 3, "text": "New York", "is_correct": true },
+        { "option_id": 4, "text": "Washington DC", "is_correct": false }
+      ],
+      "answer": "New York"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an official language of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "English", "is_correct": false },
+        { "option_id": 2, "text": "German", "is_correct": true },
+        { "option_id": 3, "text": "Spanish", "is_correct": false },
+        { "option_id": 4, "text": "Arabic", "is_correct": false }
+      ],
+      "answer": "German"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How many members are there in the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "10", "is_correct": false },
+        { "option_id": 3, "text": "15", "is_correct": true },
+        { "option_id": 4, "text": "54", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which country is NOT a permanent member of the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "China", "is_correct": false },
+        { "option_id": 2, "text": "Germany", "is_correct": true },
+        { "option_id": 3, "text": "France", "is_correct": false },
+        { "option_id": 4, "text": "Russia", "is_correct": false }
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the tenure of non-permanent members of the Security Council?",
+      "options": [
+        { "option_id": 1, "text": "1 year", "is_correct": false },
+        { "option_id": 2, "text": "2 years", "is_correct": true },
+        { "option_id": 3, "text": "3 years", "is_correct": false },
+        { "option_id": 4, "text": "5 years", "is_correct": false }
+      ],
+      "answer": "2 years"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How many members does the Economic and Social Council have?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": false },
+        { "option_id": 2, "text": "54", "is_correct": true },
+        { "option_id": 3, "text": "193", "is_correct": false },
+        { "option_id": 4, "text": "50", "is_correct": false }
+      ],
+      "answer": "54"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the tenure of a member of the Economic and Social Council?",
+      "options": [
+        { "option_id": 1, "text": "2 years", "is_correct": false },
+        { "option_id": 2, "text": "3 years", "is_correct": true },
+        { "option_id": 3, "text": "5 years", "is_correct": false },
+        { "option_id": 4, "text": "9 years", "is_correct": false }
+      ],
+      "answer": "3 years"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who selects the Secretary General of the United Nations?",
+      "options": [
+        { "option_id": 1, "text": "General Assembly only", "is_correct": false },
+        { "option_id": 2, "text": "Security Council only", "is_correct": false },
+        { "option_id": 3, "text": "General Assembly and Security Council", "is_correct": true },
+        { "option_id": 4, "text": "International Court of Justice", "is_correct": false }
+      ],
+      "answer": "General Assembly and Security Council"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the tenure of the Secretary General?",
+      "options": [
+        { "option_id": 1, "text": "3 years", "is_correct": false },
+        { "option_id": 2, "text": "4 years", "is_correct": false },
+        { "option_id": 3, "text": "5 years", "is_correct": true },
+        { "option_id": 4, "text": "6 years", "is_correct": false }
+      ],
+      "answer": "5 years"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Where is the International Court of Justice located?",
+      "options": [
+        { "option_id": 1, "text": "New York", "is_correct": false },
+        { "option_id": 2, "text": "Geneva", "is_correct": false },
+        { "option_id": 3, "text": "The Hague", "is_correct": true },
+        { "option_id": 4, "text": "London", "is_correct": false }
+      ],
+      "answer": "The Hague"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How many judges are there in the International Court of Justice?",
+      "options": [
+        { "option_id": 1, "text": "9", "is_correct": false },
+        { "option_id": 2, "text": "10", "is_correct": false },
+        { "option_id": 3, "text": "15", "is_correct": true },
+        { "option_id": 4, "text": "20", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the tenure of a judge in the International Court of Justice?",
+      "options": [
+        { "option_id": 1, "text": "5 years", "is_correct": false },
+        { "option_id": 2, "text": "6 years", "is_correct": false },
+        { "option_id": 3, "text": "9 years", "is_correct": true },
+        { "option_id": 4, "text": "Life term", "is_correct": false }
+      ],
+      "answer": "9 years"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The work of the Trusteeship Council ended with the independence of which island?",
+      "options": [
+        { "option_id": 1, "text": "Philippines", "is_correct": false },
+        { "option_id": 2, "text": "Palau", "is_correct": true },
+        { "option_id": 3, "text": "Fiji", "is_correct": false },
+        { "option_id": 4, "text": "Maldives", "is_correct": false }
+      ],
+      "answer": "Palau"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "When were the Millennium Development Goals decided?",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "2000", "is_correct": true },
+        { "option_id": 3, "text": "2005", "is_correct": false },
+        { "option_id": 4, "text": "2010", "is_correct": false }
+      ],
+      "answer": "2000"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which UN agency works towards making nutritious food and health care available to children?",
+      "options": [
+        { "option_id": 1, "text": "UNESCO", "is_correct": false },
+        { "option_id": 2, "text": "WHO", "is_correct": false },
+        { "option_id": 3, "text": "UNICEF", "is_correct": true },
+        { "option_id": 4, "text": "FAO", "is_correct": false }
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the full form of UNESCO?",
+      "options": [
+        { "option_id": 1, "text": "United Nations Economic, Social and Cultural Organisation", "is_correct": false },
+        { "option_id": 2, "text": "United Nations Educational, Scientific and Cultural Organisation", "is_correct": true },
+        { "option_id": 3, "text": "United Nations Environment and Science Council", "is_correct": false },
+        { "option_id": 4, "text": "United Nations Emergency Scientific Committee", "is_correct": false }
+      ],
+      "answer": "United Nations Educational, Scientific and Cultural Organisation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In which year did India raise the question of racism in the UN for the first time?",
+      "options": [
+        { "option_id": 1, "text": "1945", "is_correct": false },
+        { "option_id": 2, "text": "1946", "is_correct": true },
+        { "option_id": 3, "text": "1950", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1946"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why was the United Nations established?",
+      "answer": "To ensure peace and security at the international level after the destruction caused by the Second World War."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why did the League of Nations fail?",
+      "answer": "It failed because it could not stop the Second World War from happening."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the 'Atlantic Treaty'?",
+      "answer": "A treaty signed on 14th August 1941 between Churchill and Roosevelt to set up a mechanism for international security."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "List the six main organs of the United Nations.",
+      "answer": "General Assembly, Security Council, Economic and Social Council, International Court of Justice, Trusteeship Council, Secretariat."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the status of member nations in the General Assembly?",
+      "answer": "All member nations have the same status; there is no discrimination based on size or power."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does the General Assembly do?",
+      "answer": "It discusses global issues, passes resolutions, elects non-permanent members of the Security Council, and passes the annual budget."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the 'Veto power'?",
+      "answer": "The power of the five permanent members of the Security Council to give a negative vote, which stops a decision from being taken."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the main responsibility of the Security Council?",
+      "answer": "To maintain international peace and security."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the function of the Economic and Social Council?",
+      "answer": "To coordinate the economic and social policies of the United Nations."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Who is the chief of the Secretariat?",
+      "answer": "The Secretary General."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is the role of the International Court of Justice?",
+      "answer": "To settle disputes between member nations and interpret international law authentically."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does the International Criminal Court do?",
+      "answer": "It prosecutes individuals for international crimes like genocide, crimes against humanity, and war crimes."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why has the work of the Trusteeship Council ended?",
+      "answer": "Because there are no trust territories left to administer; the last one, Palau, became independent in 1994."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the role of UN Peacekeeping Forces?",
+      "answer": "To create favourable circumstances for permanent peace in strife-torn areas and ensure security."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What are 'Specialised Agencies'?",
+      "answer": "Affiliated organisations working in specific areas (like health, labour, agriculture) to help different nations."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Give the full form of WHO and its function.",
+      "answer": "World Health Organisation; it deals with global health issues."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Give the full form of FAO.",
+      "answer": "Food and Agriculture Organisation."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Give the full form of IMF.",
+      "answer": "International Monetary Fund."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How has India contributed to the UN?",
+      "answer": "India has raised issues like racism and decolonisation, and has always sent troops for peacekeeping missions, including an all-woman force."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What are the official languages of the UN?",
+      "answer": "English, French, Russian, Spanish, Chinese, and Arabic."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "Explain the principles of the United Nations.",
+      "answer": "The principles include: 1. All member nations have the same status without discrimination. 2. Members must respect the freedom and geographical unity of others. 3. International disputes must be solved peacefully."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "Describe the functions of the United Nations Security Council.",
+      "answer": "Its main responsibility is maintaining international peace. It can suggest resolving conflicts peacefully, impose economic sanctions, or take military action against aggressors. It prepares arms control policies and participates in appointing judges to the ICJ and the Secretary General."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "What are the functions of the Economic and Social Council?",
+      "answer": "It discusses global issues like poverty, unemployment, and inequality. It addresses women's empowerment, human rights, and health. It promotes cultural and educational cooperation and coordinates the work of affiliated organisations."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "Write about the Millennium Development Goals.",
+      "answer": "Decided in 2000, these goals include eliminating poverty and hunger, providing primary education, empowering women, reducing infant mortality, improving maternal health, fighting diseases like AIDS and malaria, and protecting the environment."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "How does the United Nations work towards the preservation of peace?",
+      "answer": "The UN aims to settle conflicts peacefully. It appoints intermediaries, uses legal procedures, or appoints arbitrators. If needed, it uses military means. It works to prevent violence in strife-torn areas, helps restore normalcy, starts schools, and creates awareness about human rights."
+    }
+  ]
+}

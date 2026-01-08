@@ -1,0 +1,173 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.09",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "2.4 The Fall of Troy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are the two great epics of European antiquity mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Ramayana and Mahabharata", "is_correct": false },
+        { "option_id": 2, "text": "The Iliad and The Odyssey", "is_correct": true },
+        { "option_id": 3, "text": "Paradise Lost and Divine Comedy", "is_correct": false },
+        { "option_id": 4, "text": "Beowulf and Gilgamesh", "is_correct": false }
+      ],
+      "answer": "The Iliad and The Odyssey"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is traditionally believed to be the author of 'The Iliad' and 'The Odyssey'?",
+      "options": [
+        { "option_id": 1, "text": "Virgil", "is_correct": false },
+        { "option_id": 2, "text": "Homer", "is_correct": true },
+        { "option_id": 3, "text": "Socrates", "is_correct": false },
+        { "option_id": 4, "text": "Sophocles", "is_correct": false }
+      ],
+      "answer": "Homer"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How were epics transmitted from generation to generation before being written down?",
+      "options": [
+        { "option_id": 1, "text": "Through stone carvings", "is_correct": false },
+        { "option_id": 2, "text": "Oral tradition (wandering singers)", "is_correct": true },
+        { "option_id": 3, "text": "Private letters", "is_correct": false },
+        { "option_id": 4, "text": "Family diaries", "is_correct": false }
+      ],
+      "answer": "Oral tradition (wandering singers)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Troy was a rich trading city located near which body of water?",
+      "options": [
+        { "option_id": 1, "text": "The Mediterranean Sea", "is_correct": false },
+        { "option_id": 2, "text": "The Hellespont", "is_correct": true },
+        { "option_id": 3, "text": "The Red Sea", "is_correct": false },
+        { "option_id": 4, "text": "The Dead Sea", "is_correct": false }
+      ],
+      "answer": "The Hellespont"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the main cause of the ten-year war between the Greeks and Trojans?",
+      "options": [
+        { "option_id": 1, "text": "Dispute over trade routes", "is_correct": false },
+        { "option_id": 2, "text": "Paris taking Helen, the wife of King Menelaus", "is_correct": true },
+        { "option_id": 3, "text": "Religious differences", "is_correct": false },
+        { "option_id": 4, "text": "Dispute over gold mines", "is_correct": false }
+      ],
+      "answer": "Paris taking Helen, the wife of King Menelaus"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was the bravest of the Trojan heroes, the son of King Priam?",
+      "options": [
+        { "option_id": 1, "text": "Achilles", "is_correct": false },
+        { "option_id": 2, "text": "Hector", "is_correct": true },
+        { "option_id": 3, "text": "Paris", "is_correct": false },
+        { "option_id": 4, "text": "Agamemnon", "is_correct": false }
+      ],
+      "answer": "Hector"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which Greek hero killed Hector and was himself killed by a poisoned arrow in his heel?",
+      "options": [
+        { "option_id": 1, "text": "Odysseus", "is_correct": false },
+        { "option_id": 2, "text": "Achilles", "is_correct": true },
+        { "option_id": 3, "text": "Menelaus", "is_correct": false },
+        { "option_id": 4, "text": "Ajax", "is_correct": false }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who devised the cunning plan of the 'Wooden Horse' to capture Troy?",
+      "options": [
+        { "option_id": 1, "text": "Achilles", "is_correct": false },
+        { "option_id": 2, "text": "Odysseus", "is_correct": true },
+        { "option_id": 3, "text": "Agamemnon", "is_correct": false },
+        { "option_id": 4, "text": "Priam", "is_correct": false }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the Trojans find when they looked out from their walls on the morning the Greeks 'left'?",
+      "options": [
+        { "option_id": 1, "text": "A massive stone wall", "is_correct": false },
+        { "option_id": 2, "text": "A huge Wooden Horse on the beach", "is_correct": true },
+        { "option_id": 3, "text": "A gold statue", "is_correct": false },
+        { "option_id": 4, "text": "Empty Greek ships", "is_correct": false }
+      ],
+      "answer": "A huge Wooden Horse on the beach"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happened to Troy at the end of the war?",
+      "options": [
+        { "option_id": 1, "text": "It became a Greek colony", "is_correct": false },
+        { "option_id": 2, "text": "It was burned to the ground and destroyed", "is_correct": true },
+        { "option_id": 3, "text": "It made peace with the Greeks", "is_correct": false },
+        { "option_id": 4, "text": "It vanished into the sea", "is_correct": false }
+      ],
+      "answer": "It was burned to the ground and destroyed"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Describe the location and defenses of the city of Troy.",
+      "answer": "Troy was a rich trading city in Asia Minor, situated on a hill near the Hellespont. It was well-protected by high, thick walls that surrounded the city, and its gates were closed during times of war, making it nearly impossible for enemies to enter."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Why did the Greeks sail to Troy with a great fleet?",
+      "answer": "The Greeks sailed to Troy to take revenge and win back Helen, who had been taken by the Trojan prince Paris from her husband, King Menelaus of Sparta."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What was the Greeks' trick to get inside the walls of Troy?",
+      "answer": "The Greeks built a massive hollow Wooden Horse and hid their best fighters inside. They then pretended to sail away, leaving the horse on the beach as an offering to Poseidon, hoping the Trojans would pull it inside their walls."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What warning did the priest Laocoon give to the Trojans?",
+      "answer": "Laocoon warned the Trojans not to trust the Greek gift, saying, 'I fear the Greeks even when they bring gifts'. However, he was ignored after a Greek spy told a convincing lie and serpents killed the priest and his sons."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Define 'Dramatic Present Tense' as used in narration.",
+      "answer": "The 'Dramatic Present Tense' is when an event that occurred in the past is narrated using the present tense to create a more vivid and dramatic effect for the listener or reader."
+    },
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "Explain the significance of Hector and Achilles in the story of Troy.",
+      "answer": "Hector and Achilles were the primary champions of their respective sides. Hector, the eldest son of King Priam, was the bravest Trojan hero who successfully defended his city for years. Achilles was the greatest Greek warrior, whose strength and rage often turned the tide of battle. The war reached a climax when Achilles killed Hector in single combat. Eventually, both heroes met their deaths—Hector at the hands of Achilles, and Achilles by a poisoned arrow shot by Paris into his vulnerable heel—signaling the nearing end of the long conflict."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "Summarize the final night of Troy after the Wooden Horse was brought into the city.",
+      "answer": "Thinking the war was over, the Trojans spent the night feasting and celebrating. Once the city was asleep, the Greek fleet secretly returned from Tenedos. At the same time, the hidden Greek fighters climbed out of the Wooden Horse and opened the city gates. The Greek army rushed in, set the city on fire, and slaughtered the unsuspecting Trojans. Troy was burned to the ground, its palace destroyed, and its people either killed or taken as slaves, marking the total fall of the once-great city."
+    }
+  ]
+}

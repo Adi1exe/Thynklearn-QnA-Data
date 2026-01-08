@@ -1,0 +1,173 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.06",
+    "standard": "9",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "2.1 Invictus"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the title 'Invictus'?",
+      "options": [
+        { "option_id": 1, "text": "Unconquered", "is_correct": true },
+        { "option_id": 2, "text": "Victorious", "is_correct": false },
+        { "option_id": 3, "text": "Invisible", "is_correct": false },
+        { "option_id": 4, "text": "Sadness", "is_correct": false }
+      ],
+      "answer": "Unconquered"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The poet is thankful for his __________ soul.",
+      "options": [
+        { "option_id": 1, "text": "Beautiful", "is_correct": false },
+        { "option_id": 2, "text": "Unconquerable", "is_correct": true },
+        { "option_id": 3, "text": "Lonely", "is_correct": false },
+        { "option_id": 4, "text": "Frightened", "is_correct": false }
+      ],
+      "answer": "Unconquerable"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In the poem, 'night' is described as being as black as __________.",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "The Pit", "is_correct": true },
+        { "option_id": 3, "text": "A sheet", "is_correct": false },
+        { "option_id": 4, "text": "Ink", "is_correct": false }
+      ],
+      "answer": "The Pit"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What has the poet NOT done in the 'fell clutch of circumstance'?",
+      "options": [
+        { "option_id": 1, "text": "Laughed", "is_correct": false },
+        { "option_id": 2, "text": "Winced nor cried aloud", "is_correct": true },
+        { "option_id": 3, "text": "Fought back", "is_correct": false },
+        { "option_id": 4, "text": "Prayed", "is_correct": false }
+      ],
+      "answer": "Winced nor cried aloud"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The line 'My head is bloody, but unbowed' shows that the poet is __________.",
+      "options": [
+        { "option_id": 1, "text": "Defeated", "is_correct": false },
+        { "option_id": 2, "text": "Resilient and brave", "is_correct": true },
+        { "option_id": 3, "text": "Angry", "is_correct": false },
+        { "option_id": 4, "text": "Hurt and crying", "is_correct": false }
+      ],
+      "answer": "Resilient and brave"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does 'the menace of the years' find the poet?",
+      "options": [
+        { "option_id": 1, "text": "Afraid", "is_correct": false },
+        { "option_id": 2, "text": "Unafraid", "is_correct": true },
+        { "option_id": 3, "text": "Weak", "is_correct": false },
+        { "option_id": 4, "text": "Old and tired", "is_correct": false }
+      ],
+      "answer": "Unafraid"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is the master of the poet's fate?",
+      "options": [
+        { "option_id": 1, "text": "God", "is_correct": false },
+        { "option_id": 2, "text": "The poet himself", "is_correct": true },
+        { "option_id": 3, "text": "Circumstance", "is_correct": false },
+        { "option_id": 4, "text": "Chance", "is_correct": false }
+      ],
+      "answer": "The poet himself"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What symbolizes 'strength/firmness' in the warming-up section?",
+      "options": [
+        { "option_id": 1, "text": "A dark night", "is_correct": false },
+        { "option_id": 2, "text": "A tall mountain", "is_correct": true },
+        { "option_id": 3, "text": "Sunrise", "is_correct": false },
+        { "option_id": 4, "text": "A rose", "is_correct": false }
+      ],
+      "answer": "A tall mountain"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The 'strait' gate and 'punishments the scroll' refer to __________.",
+      "options": [
+        { "option_id": 1, "text": "School rules", "is_correct": false },
+        { "option_id": 2, "text": "The difficulties and consequences in life", "is_correct": true },
+        { "option_id": 3, "text": "A legal contract", "is_correct": false },
+        { "option_id": 4, "text": "A physical race", "is_correct": false }
+      ],
+      "answer": "The difficulties and consequences in life"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poet describes himself as the 'captain' of his __________.",
+      "options": [
+        { "option_id": 1, "text": "Ship", "is_correct": false },
+        { "option_id": 2, "text": "Soul", "is_correct": true },
+        { "option_id": 3, "text": "Fate", "is_correct": false },
+        { "option_id": 4, "text": "Life", "is_correct": false }
+      ],
+      "answer": "Soul"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What does 'Out of the night that covers me' symbolize?",
+      "answer": "It symbolizes a situation where circumstances are extremely bad, and there is a sense of deep distress or hopelessness."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is the poet's reaction to the 'bludgeonings of chance'?",
+      "answer": "Although his head is 'bloody' (he has suffered setbacks and pain), he remains 'unbowed', meaning he refuses to give up or show defeat."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What is meant by the 'place of wrath and fears' in the poem?",
+      "answer": "It refers to the world or life's journey where one encounters extreme anger, suffering, and frightening challenges."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "How does the poet view his own responsibility in life based on the final stanza?",
+      "answer": "The poet believes he is the 'master of his fate' and the 'captain of his soul', meaning he takes full responsibility for his life and his reactions to whatever happens."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "In the matching exercise, what does 'sunrise' and 'a flying bird' symbolize?",
+      "answer": "'Sunrise' symbolizes hope, and 'a flying bird' symbolizes freedom."
+    },
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "Analyze the theme of resilience as presented in the poem 'Invictus'.",
+      "answer": "The theme of resilience is central to 'Invictus'. The poet describes facing an all-encompassing 'night' of suffering, yet he remains thankful for his 'unconquerable soul'. Despite being caught in the 'fell clutch of circumstance' and beaten by the 'bludgeonings of chance', he neither winces nor cries aloud. His head is 'bloody, but unbowed', illustrating that physical or situational suffering does not break his spirit. He faces the 'menace of the years' with courage and asserts that he is the sole master of his own destiny and internal state."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "Explain the significance of the metaphors 'master of my fate' and 'captain of my soul' in the context of the poet's philosophy.",
+      "answer": "These metaphors represent the ultimate expression of self-reliance and internal strength. By calling himself the 'master of my fate', the poet declares that external events do not define his life; rather, his choices and willpower do. As the 'captain of my soul', he signifies that he has full control over his inner self, values, and spirit. Even if the 'gate' of life is narrow ('strait') and the list of punishments for mistakes is long ('charged with punishments the scroll'), he remains the leader of his own spiritual journey, refusing to be a victim of his circumstances."
+    }
+  ]
+}

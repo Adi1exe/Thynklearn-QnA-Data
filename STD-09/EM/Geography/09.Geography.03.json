@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Geography.03",
+    "standard": "9",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Exogenetic Processes Part-I"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are landforms formed on the earth's surface as a result of internal movements called?",
+      "options": [
+        { "option_id": 1, "text": "Tertiary landforms", "is_correct": false },
+        { "option_id": 2, "text": "Primary and Secondary landforms", "is_correct": true },
+        { "option_id": 3, "text": "Quaternary landforms", "is_correct": false },
+        { "option_id": 4, "text": "External landforms", "is_correct": false }
+      ],
+      "answer": "Primary and Secondary landforms"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a tertiary landform?",
+      "options": [
+        { "option_id": 1, "text": "Mountain", "is_correct": false },
+        { "option_id": 2, "text": "Continent", "is_correct": false },
+        { "option_id": 3, "text": "Sand dune", "is_correct": true },
+        { "option_id": 4, "text": "Plateau", "is_correct": false }
+      ],
+      "answer": "Sand dune"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the breaking or weakening of rocks called?",
+      "options": [
+        { "option_id": 1, "text": "Erosion", "is_correct": false },
+        { "option_id": 2, "text": "Weathering", "is_correct": true },
+        { "option_id": 3, "text": "Transportation", "is_correct": false },
+        { "option_id": 4, "text": "Deposition", "is_correct": false }
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which type of weathering mainly occurs in arid climates?",
+      "options": [
+        { "option_id": 1, "text": "Chemical weathering", "is_correct": false },
+        { "option_id": 2, "text": "Biological weathering", "is_correct": false },
+        { "option_id": 3, "text": "Mechanical weathering", "is_correct": true },
+        { "option_id": 4, "text": "Solar weathering", "is_correct": false }
+      ],
+      "answer": "Mechanical weathering"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In which climate is chemical weathering more effective?",
+      "options": [
+        { "option_id": 1, "text": "Dry and cold", "is_correct": false },
+        { "option_id": 2, "text": "Hot and dry", "is_correct": false },
+        { "option_id": 3, "text": "Humid", "is_correct": true },
+        { "option_id": 4, "text": "Arid", "is_correct": false }
+      ],
+      "answer": "Humid"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the phenomenon where the outer layers of rock fall apart from the main rock due to heat?",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Carbonation", "is_correct": false },
+        { "option_id": 3, "text": "Exfoliation", "is_correct": true },
+        { "option_id": 4, "text": "Solution", "is_correct": false }
+      ],
+      "answer": "Exfoliation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which minerals in rocks expand due to heat?",
+      "options": [
+        { "option_id": 1, "text": "All minerals", "is_correct": true },
+        { "option_id": 2, "text": "Only iron", "is_correct": false },
+        { "option_id": 3, "text": "Only calcium", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "All minerals"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happens to the volume of water when it freezes?",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": false },
+        { "option_id": 2, "text": "Remains same", "is_correct": false },
+        { "option_id": 3, "text": "Increases", "is_correct": true },
+        { "option_id": 4, "text": "Fluctuates", "is_correct": false }
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which type of weathering involves the growth of crystals in rock crevices?",
+      "options": [
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Mechanical", "is_correct": true },
+        { "option_id": 3, "text": "Biological", "is_correct": false },
+        { "option_id": 4, "text": "Human-made", "is_correct": false }
+      ],
+      "answer": "Mechanical"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the honeycomb structure on sea coasts an example of?",
+      "options": [
+        { "option_id": 1, "text": "Chemical weathering due to alkaline water", "is_correct": false },
+        { "option_id": 2, "text": "Mechanical weathering due to crystal growth", "is_correct": true },
+        { "option_id": 3, "text": "Biological weathering by marine animals", "is_correct": false },
+        { "option_id": 4, "text": "Exfoliation due to sun", "is_correct": false }
+      ],
+      "answer": "Mechanical weathering due to crystal growth"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a factor causing mechanical weathering?",
+      "options": [
+        { "option_id": 1, "text": "Temperature", "is_correct": false },
+        { "option_id": 2, "text": "Frost", "is_correct": false },
+        { "option_id": 3, "text": "Crystal growth", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen reaction", "is_correct": true }
+      ],
+      "answer": "Oxygen reaction"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is granular weathering?",
+      "options": [
+        { "option_id": 1, "text": "Disintegration of rocks into particles due to water", "is_correct": true },
+        { "option_id": 2, "text": "Rusting of rocks", "is_correct": false },
+        { "option_id": 3, "text": "Peeling of rock layers", "is_correct": false },
+        { "option_id": 4, "text": "Dissolving of rocks", "is_correct": false }
+      ],
+      "answer": "Disintegration of rocks into particles due to water"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is 'Block Disintegration'?",
+      "options": [
+        { "option_id": 1, "text": "Rocks breaking into sand", "is_correct": false },
+        { "option_id": 2, "text": "Rocks detaching in blocks due to widened joints", "is_correct": true },
+        { "option_id": 3, "text": "Rocks dissolving in water", "is_correct": false },
+        { "option_id": 4, "text": "Rocks rusting", "is_correct": false }
+      ],
+      "answer": "Rocks detaching in blocks due to widened joints"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which gas reacts with water to form Carbonic acid?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which mineral in limestone gets dissolved in water easily?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Calcium", "is_correct": true },
+        { "option_id": 3, "text": "Silica", "is_correct": false },
+        { "option_id": 4, "text": "Aluminum", "is_correct": false }
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Stalactites in limestone caves are a result of which process?",
+      "options": [
+        { "option_id": 1, "text": "Mechanical weathering", "is_correct": false },
+        { "option_id": 2, "text": "Chemical weathering (Solution/Precipitation)", "is_correct": true },
+        { "option_id": 3, "text": "Biological weathering", "is_correct": false },
+        { "option_id": 4, "text": "Exfoliation", "is_correct": false }
+      ],
+      "answer": "Chemical weathering (Solution/Precipitation)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which chemical process causes rusting of rocks?",
+      "options": [
+        { "option_id": 1, "text": "Carbonation", "is_correct": false },
+        { "option_id": 2, "text": "Solution", "is_correct": false },
+        { "option_id": 3, "text": "Oxidation", "is_correct": true },
+        { "option_id": 4, "text": "Exfoliation", "is_correct": false }
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Biological weathering is caused by which of the following?",
+      "options": [
+        { "option_id": 1, "text": "Only plants", "is_correct": false },
+        { "option_id": 2, "text": "Only animals", "is_correct": false },
+        { "option_id": 3, "text": "Living organisms (plants, animals, algae, etc.)", "is_correct": true },
+        { "option_id": 4, "text": "Sun and wind", "is_correct": false }
+      ],
+      "answer": "Living organisms (plants, animals, algae, etc.)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of these animals helps in weathering by making burrows?",
+      "options": [
+        { "option_id": 1, "text": "Birds", "is_correct": false },
+        { "option_id": 2, "text": "Rats and mice", "is_correct": true },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Cattle", "is_correct": false }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is 'Mass Wasting'?",
+      "options": [
+        { "option_id": 1, "text": "Weathering of rocks", "is_correct": false },
+        { "option_id": 2, "text": "Movement of weathered material down the slope due to gravity", "is_correct": true },
+        { "option_id": 3, "text": "Erosion by river", "is_correct": false },
+        { "option_id": 4, "text": "Deposition of sand", "is_correct": false }
+      ],
+      "answer": "Movement of weathered material down the slope due to gravity"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which type of mass wasting happens rapidly?",
+      "options": [
+        { "option_id": 1, "text": "Soil creep", "is_correct": false },
+        { "option_id": 2, "text": "Rockfalls and landslides", "is_correct": true },
+        { "option_id": 3, "text": "Solifluction", "is_correct": false },
+        { "option_id": 4, "text": "Exfoliation", "is_correct": false }
+      ],
+      "answer": "Rockfalls and landslides"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is 'Solifluction'?",
+      "options": [
+        { "option_id": 1, "text": "Rapid sliding of rocks", "is_correct": false },
+        { "option_id": 2, "text": "Slow movement of soil in periglacial regions", "is_correct": true },
+        { "option_id": 3, "text": "Freezing of water in cracks", "is_correct": false },
+        { "option_id": 4, "text": "Rusting of iron", "is_correct": false }
+      ],
+      "answer": "Slow movement of soil in periglacial regions"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where does solifluction typically occur?",
+      "options": [
+        { "option_id": 1, "text": "Deserts", "is_correct": false },
+        { "option_id": 2, "text": "Tropical forests", "is_correct": false },
+        { "option_id": 3, "text": "Periglacial regions (glacial margins)", "is_correct": true },
+        { "option_id": 4, "text": "River banks", "is_correct": false }
+      ],
+      "answer": "Periglacial regions (glacial margins)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an agent of erosion?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Running water", "is_correct": false },
+        { "option_id": 3, "text": "Gravity", "is_correct": true },
+        { "option_id": 4, "text": "Glaciers", "is_correct": false }
+      ],
+      "answer": "Gravity"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Erosion creates which kind of landforms?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": true },
+        { "option_id": 4, "text": "Internal", "is_correct": false }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Exfoliation.",
+      "answer": "Exfoliation is a mechanical weathering process where the outer layers of a rock peel off from the main rock due to the temperature difference between the outer and inner layers, similar to peeling an onion."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Mechanical Weathering?",
+      "answer": "Mechanical weathering is the disintegration of rocks without any change in their chemical composition, mainly due to physical factors like temperature, frost, and pressure."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is Chemical Weathering?",
+      "answer": "Chemical weathering is the decomposition of rocks due to chemical reactions between minerals in the rocks and water or gases in the atmosphere."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is Biological Weathering?",
+      "answer": "Biological weathering is the breakdown of rocks caused by living organisms such as plant roots growing in cracks, animals burrowing, and algae/moss releasing acids."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How does frost cause weathering?",
+      "answer": "In cold regions, water enters rock cracks and freezes. Since the volume of water increases upon freezing, it exerts pressure on the rock walls, causing them to shatter."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Explain Carbonation.",
+      "answer": "Carbonation is a chemical process where rainwater mixes with carbon dioxide in the air to form mild carbonic acid, which dissolves minerals like limestone in rocks."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is Oxidation?",
+      "answer": "Oxidation is a chemical reaction where iron in rocks reacts with oxygen and water to form iron oxide (rust), weakening the rock."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is Solution in terms of weathering?",
+      "answer": "Solution is a chemical weathering process where soluble minerals in rocks dissolve in water and get washed away, making the rock porous and brittle."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is Soil Creep?",
+      "answer": "Soil creep is a very slow type of mass wasting occurring on gentle slopes where the soil layer moves downward almost imperceptibly."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the difference between rapid and slower mass wasting?",
+      "answer": "Rapid mass wasting (e.g., landslides) occurs on steep slopes and is destructive, while slower mass wasting (e.g., soil creep) occurs on gentle slopes and is often only noticeable over long periods."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How does crystal growth lead to weathering?",
+      "answer": "In coastal areas, saline water enters rock pores. When the water evaporates, salt crystals form and grow, exerting pressure on the rock and creating holes (honeycomb structure)."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the role of pressure release in weathering?",
+      "answer": "When the upper layers of rock are removed or pressure is released, the lower or inner layers expand and get liberated from pressure, leading to weathering."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name two animals that contribute to biological weathering.",
+      "answer": "Rats, mice, rabbits, ants (any two)."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is Erosion?",
+      "answer": "Erosion is the process of wearing away and transporting soil and rock debris by agents like wind, running water, glaciers, and sea water."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "List the agents of erosion mentioned in the text.",
+      "answer": "Wind, running water, glaciers, sea water, and groundwater."
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "Explain the process of Mechanical Weathering with its various types.",
+      "answer": "Mechanical weathering is the physical breakdown of rocks. Its types include: 1. Temperature: Daily heating and cooling cause expansion and contraction, leading to cracks and exfoliation. 2. Frost: Freezing water in cracks expands, breaking the rock. 3. Crystal Growth: Salt crystals growing in rock pores exert pressure. 4. Release of Pressure: Removal of overlying pressure causes lower rocks to expand and break. 5. Water: Some rocks like sandstone absorb water and disintegrate into grains (granular weathering)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "Describe the different types of Chemical Weathering.",
+      "answer": "Chemical weathering involves chemical changes in rocks. Main types are: 1. Carbonation: CO2 in air mixes with rain to form carbonic acid, which dissolves limestone. 2. Solution: Soluble minerals dissolve in water (e.g., salts in alkalis), making rocks porous. 3. Oxidation: Iron in rocks reacts with oxygen and water to form rust, weakening the rock structure. These processes depend on the presence of water."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "What is Mass Wasting and what are its types?",
+      "answer": "Mass wasting is the movement of weathered material down a slope due to gravity alone. It has two main types: 1. Rapid Mass Wasting: Occurs on steep slopes with high precipitation, e.g., rockfalls, landslides, and land subsidence. It is sudden and destructive. 2. Slower Mass Wasting: Occurs on gentle slopes in dry climates, e.g., soil creep and solifluction (in periglacial areas). It happens gradually."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "Differentiate between Weathering and Mass Wasting.",
+      "answer": "Weathering is the in-situ breaking or decomposition of rocks due to atmospheric and biological factors. It prepares the material for movement but does not necessarily involve moving it. Mass Wasting is the downward movement of this weathered material under the influence of gravity. While weathering breaks the rock, mass wasting transports the debris down the slope."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "Explain Biological Weathering with examples.",
+      "answer": "Biological weathering involves the breakdown of rocks by living organisms. Examples include: 1. Plants: Roots of trees grow into rock cracks, widening them and breaking the rock. 2. Animals: Burrowing animals like rats and ants dig into the soil and soft rocks, loosening them. 3. Microorganisms: Algae and moss grow on rocks, releasing chemicals that decompose the rock surface. It is a mix of physical and chemical processes."
+    }
+  ]
+}

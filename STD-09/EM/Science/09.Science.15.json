@@ -1,0 +1,624 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.15",
+    "standard": "9",
+    "subject": "Science and Technology",
+    "medium": "English",
+    "chapter_name": "Life Processes in Living Organisms"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which tissue conducts water in plants?",
+      "options": [
+        { "option_id": 1, "text": "Phloem", "is_correct": false },
+        { "option_id": 2, "text": "Xylem", "is_correct": true },
+        { "option_id": 3, "text": "Parenchyma", "is_correct": false },
+        { "option_id": 4, "text": "Collenchyma", "is_correct": false }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The functional unit of the kidney is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Neuron", "is_correct": false },
+        { "option_id": 2, "text": "Nephron", "is_correct": true },
+        { "option_id": 3, "text": "Alveoli", "is_correct": false },
+        { "option_id": 4, "text": "Glomerulus", "is_correct": false }
+      ],
+      "answer": "Nephron"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which hormone helps in stem elongation in plants?",
+      "options": [
+        { "option_id": 1, "text": "Auxin", "is_correct": false },
+        { "option_id": 2, "text": "Gibberellins", "is_correct": true },
+        { "option_id": 3, "text": "Cytokinins", "is_correct": false },
+        { "option_id": 4, "text": "Abscisic acid", "is_correct": false }
+      ],
+      "answer": "Gibberellins"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The movement of a plant part in response to light is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Gravitropic movement", "is_correct": false },
+        { "option_id": 2, "text": "Phototropic movement", "is_correct": true },
+        { "option_id": 3, "text": "Hydrotropic movement", "is_correct": false },
+        { "option_id": 4, "text": "Chemotropic movement", "is_correct": false }
+      ],
+      "answer": "Phototropic movement"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which part of the brain controls voluntary movements and intelligence?",
+      "options": [
+        { "option_id": 1, "text": "Cerebellum", "is_correct": false },
+        { "option_id": 2, "text": "Medulla oblongata", "is_correct": false },
+        { "option_id": 3, "text": "Cerebrum", "is_correct": true },
+        { "option_id": 4, "text": "Spinal cord", "is_correct": false }
+      ],
+      "answer": "Cerebrum"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Waste materials in plants are stored in the form of crystals of calcium oxalate called __________.",
+      "options": [
+        { "option_id": 1, "text": "Resins", "is_correct": false },
+        { "option_id": 2, "text": "Gums", "is_correct": false },
+        { "option_id": 3, "text": "Raphides", "is_correct": true },
+        { "option_id": 4, "text": "Latex", "is_correct": false }
+      ],
+      "answer": "Raphides"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which hormone is effective in prevention and retardation of plant growth?",
+      "options": [
+        { "option_id": 1, "text": "Auxin", "is_correct": false },
+        { "option_id": 2, "text": "Abscisic acid", "is_correct": true },
+        { "option_id": 3, "text": "Cytokinins", "is_correct": false },
+        { "option_id": 4, "text": "Gibberellins", "is_correct": false }
+      ],
+      "answer": "Abscisic acid"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many pairs of cranial nerves are there in humans?",
+      "options": [
+        { "option_id": 1, "text": "31", "is_correct": false },
+        { "option_id": 2, "text": "10", "is_correct": false },
+        { "option_id": 3, "text": "12", "is_correct": true },
+        { "option_id": 4, "text": "21", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The space between two adjacent neurons is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Axon", "is_correct": false },
+        { "option_id": 2, "text": "Dendrite", "is_correct": false },
+        { "option_id": 3, "text": "Synapse", "is_correct": true },
+        { "option_id": 4, "text": "Cyton", "is_correct": false }
+      ],
+      "answer": "Synapse"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which gland controls the pituitary gland?",
+      "options": [
+        { "option_id": 1, "text": "Thyroid", "is_correct": false },
+        { "option_id": 2, "text": "Hypothalamus", "is_correct": true },
+        { "option_id": 3, "text": "Adrenal", "is_correct": false },
+        { "option_id": 4, "text": "Pancreas", "is_correct": false }
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which part of the nephron is the glomerulus located?",
+      "options": [
+        { "option_id": 1, "text": "Loop of Henle", "is_correct": false },
+        { "option_id": 2, "text": "Bowman's capsule", "is_correct": true },
+        { "option_id": 3, "text": "Collecting duct", "is_correct": false },
+        { "option_id": 4, "text": "Ureter", "is_correct": false }
+      ],
+      "answer": "Bowman's capsule"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which hormone stimulates the liver to convert glycogen into glucose?",
+      "options": [
+        { "option_id": 1, "text": "Insulin", "is_correct": false },
+        { "option_id": 2, "text": "Glucagon", "is_correct": true },
+        { "option_id": 3, "text": "Thyroxine", "is_correct": false },
+        { "option_id": 4, "text": "Thymosin", "is_correct": false }
+      ],
+      "answer": "Glucagon"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which part of the brain maintains the body's balance?",
+      "options": [
+        { "option_id": 1, "text": "Cerebrum", "is_correct": false },
+        { "option_id": 2, "text": "Cerebellum", "is_correct": true },
+        { "option_id": 3, "text": "Medulla oblongata", "is_correct": false },
+        { "option_id": 4, "text": "Pons", "is_correct": false }
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Movement of plant roots towards water is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Phototropic", "is_correct": false },
+        { "option_id": 2, "text": "Gravitropic", "is_correct": false },
+        { "option_id": 3, "text": "Hydrotropic", "is_correct": true },
+        { "option_id": 4, "text": "Thigmotropic", "is_correct": false }
+      ],
+      "answer": "Hydrotropic"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The longest cell in the human body is __________.",
+      "options": [
+        { "option_id": 1, "text": "Muscle cell", "is_correct": false },
+        { "option_id": 2, "text": "Bone cell", "is_correct": false },
+        { "option_id": 3, "text": "Nerve cell", "is_correct": true },
+        { "option_id": 4, "text": "Blood cell", "is_correct": false }
+      ],
+      "answer": "Nerve cell"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the approximate weight of an adult human brain?",
+      "options": [
+        { "option_id": 1, "text": "500-600 grams", "is_correct": false },
+        { "option_id": 2, "text": "1300-1400 grams", "is_correct": true },
+        { "option_id": 3, "text": "2000-2500 grams", "is_correct": false },
+        { "option_id": 4, "text": "100-200 grams", "is_correct": false }
+      ],
+      "answer": "1300-1400 grams"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which nitrogenous waste is formed in the liver?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Urea", "is_correct": true },
+        { "option_id": 3, "text": "Glucose", "is_correct": false },
+        { "option_id": 4, "text": "Starch", "is_correct": false }
+      ],
+      "answer": "Urea"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The growth of a pollen tube towards the ovule is an example of __________.",
+      "options": [
+        { "option_id": 1, "text": "Phototropic movement", "is_correct": false },
+        { "option_id": 2, "text": "Chemotropic movement", "is_correct": true },
+        { "option_id": 3, "text": "Hydrotropic movement", "is_correct": false },
+        { "option_id": 4, "text": "Gravitropic movement", "is_correct": false }
+      ],
+      "answer": "Chemotropic movement"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Insulin is secreted by which gland?",
+      "options": [
+        { "option_id": 1, "text": "Liver", "is_correct": false },
+        { "option_id": 2, "text": "Pancreas", "is_correct": true },
+        { "option_id": 3, "text": "Adrenal", "is_correct": false },
+        { "option_id": 4, "text": "Thyroid", "is_correct": false }
+      ],
+      "answer": "Pancreas"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which process separates nitrogenous waste from blood using a machine if kidneys fail?",
+      "options": [
+        { "option_id": 1, "text": "Transpiration", "is_correct": false },
+        { "option_id": 2, "text": "Dialysis", "is_correct": true },
+        { "option_id": 3, "text": "Electrolysis", "is_correct": false },
+        { "option_id": 4, "text": "Photosynthesis", "is_correct": false }
+      ],
+      "answer": "Dialysis"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How many pairs of spinal nerves are there?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": false },
+        { "option_id": 2, "text": "31", "is_correct": true },
+        { "option_id": 3, "text": "10", "is_correct": false },
+        { "option_id": 4, "text": "33", "is_correct": false }
+      ],
+      "answer": "31"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is an involuntary activity controlled by the Medulla oblongata?",
+      "options": [
+        { "option_id": 1, "text": "Memory", "is_correct": false },
+        { "option_id": 2, "text": "Sneezing", "is_correct": true },
+        { "option_id": 3, "text": "Logical thinking", "is_correct": false },
+        { "option_id": 4, "text": "Writing", "is_correct": false }
+      ],
+      "answer": "Sneezing"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The hormone Thymosin is secreted by which gland?",
+      "options": [
+        { "option_id": 1, "text": "Thyroid", "is_correct": false },
+        { "option_id": 2, "text": "Thymus", "is_correct": true },
+        { "option_id": 3, "text": "Testis", "is_correct": false },
+        { "option_id": 4, "text": "Pituitary", "is_correct": false }
+      ],
+      "answer": "Thymus"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which plant has a trap that deceives insects?",
+      "options": [
+        { "option_id": 1, "text": "Balsam", "is_correct": false },
+        { "option_id": 2, "text": "Venus fly trap", "is_correct": true },
+        { "option_id": 3, "text": "Lotus", "is_correct": false },
+        { "option_id": 4, "text": "Mimosa", "is_correct": false }
+      ],
+      "answer": "Venus fly trap"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The hormone Adrenaline controls behavior during __________.",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Digestion", "is_correct": false },
+        { "option_id": 3, "text": "Emotional crisis", "is_correct": true },
+        { "option_id": 4, "text": "Growth", "is_correct": false }
+      ],
+      "answer": "Emotional crisis"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define 'Transportation' in living organisms.",
+      "answer": "Transportation is the process by which a substance synthesized or absorbed in one part of the body reaches another part."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the function of Xylem?",
+      "answer": "The xylem tissue conducts water from the roots to all parts of the plant."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the function of Phloem?",
+      "answer": "The phloem tissue conducts food produced in leaves to other parts of the plant."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Define 'Root Pressure'.",
+      "answer": "Root pressure is the pressure exerted by turgid root cells on adjacent cells, pushing water and minerals into the xylem."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What are guard cells?",
+      "answer": "Guard cells are two cells present around the stomata that control their opening and closing."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is 'Transpiration'?",
+      "answer": "Transpiration is the process where plants release water in the form of vapor through stomata on their leaves."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is 'Translocation' in plants?",
+      "answer": "Translocation is the transport of food produced in leaves to each cell in the plant body, carried out by phloem."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Define 'Excretion'.",
+      "answer": "Excretion is the removal of harmful and waste substances from the body."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Name three waste substances produced in living organisms.",
+      "answer": "Urea, uric acid, and ammonia."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How do unicellular organisms excrete waste?",
+      "answer": "Unicellular organisms eliminate waste materials directly across the cell surface."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why do elephant's foot leaves cause itching?",
+      "answer": "They contain needle-shaped crystals of calcium oxalate called raphides, which prickle and cause skin irritation."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "List the parts of the human excretory system.",
+      "answer": "A pair of kidneys, a pair of ureters, the urinary bladder, and the urethra."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is the functional unit of the kidney?",
+      "answer": "The nephron is the functional unit of the kidney."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the Glomerulus?",
+      "answer": "The glomerulus is a network of capillaries present in the Bowman's capsule."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How much blood do kidneys filter daily?",
+      "answer": "Kidneys filter about 190 liters of blood every day."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How much urine is formed daily in a healthy person?",
+      "answer": "About 1 to 1.9 liters of urine is formed daily."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is Dialysis?",
+      "answer": "Dialysis is the process of separating nitrogenous waste from blood using a machine when kidneys fail."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Define 'Homeostasis'.",
+      "answer": "Homeostasis is the state of equilibrium maintained by proper coordination between various systems of an organism."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is 'Phototropic movement'?",
+      "answer": "It is the movement of a plant part towards a source of light."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is 'Gravitropic movement'?",
+      "answer": "It is the response of the root system of plants to gravitation."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is 'Thigmotropic response'?",
+      "answer": "It is the response of plants (like tendrils) to touch."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "State the function of Auxin.",
+      "answer": "Auxin helps in the enlargement of cells."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "State the function of Cytokinins.",
+      "answer": "Cytokinins help in cell division."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "State the function of Abscisic acid.",
+      "answer": "Abscisic acid prevents and retards growth and causes leaf wilting."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are 'Growth-irrelevant movements'?",
+      "answer": "Specific movements of plants that do not lead to the plant's growth (e.g., closing of Mimosa leaves)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How does the Venus fly trap digest insects?",
+      "answer": "When an insect enters the flower-like trap, it closes, and the insect is digested by the plant."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are Neurons?",
+      "answer": "Neurons are special cells that conduct impulses from one place to another in the body."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are Neuroglia?",
+      "answer": "Neuroglia are cells that support nerve cells and help in their functioning."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a Synapse?",
+      "answer": "A synapse is the minute space between two adjacent neurons where chemicals transmit the impulse."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are Sensory Neurons?",
+      "answer": "Neurons that conduct impulses from sensory organs to the brain and spinal cord."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are Motor Neurons?",
+      "answer": "Neurons that conduct impulses from the brain or spinal cord to effector organs like muscles or glands."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are the two parts of the Central Nervous System?",
+      "answer": "The brain and the spinal cord."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are Meninges?",
+      "answer": "Meninges are the protective layers between the central nervous system and its bony covering."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the function of Cerebro-spinal fluid?",
+      "answer": "It supplies nutrients to the CNS and protects it from shock."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are Convolutions in the brain?",
+      "answer": "Convolutions are the deep, irregular ridges and grooves on the surface of the cerebrum."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "State one function of the Cerebellum.",
+      "answer": "It coordinates voluntary movements and maintains the body's balance."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the Filum terminale?",
+      "answer": "It is a thread-like fibrous structure at the end of the spinal cord."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a Reflex Action?",
+      "answer": "An immediate and involuntary response given to a stimulus from the environment without thinking."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are Endocrine Glands?",
+      "answer": "Endocrine glands are ductless glands that secrete hormones directly into blood circulation."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the function of Insulin?",
+      "answer": "Insulin stimulates the liver to convert excess blood glucose into glycogen."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the function of Thyroxine?",
+      "answer": "Thyroxine controls the growth of the body and metabolic activities."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does Parathormone control?",
+      "answer": "Parathormone controls the metabolism of calcium and phosphorus."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the function of Testosterone?",
+      "answer": "It stimulates the growth of secondary sexual characteristics like beard and hoarse voice in men."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the function of Oestrogen?",
+      "answer": "It stimulates the growth of endometrium and secondary sexual characteristics in women."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does the Autonomic Nervous System control?",
+      "answer": "It controls involuntary organs like the heart, lungs, and stomach."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Where is the Pituitary gland located?",
+      "answer": "It is located at the base of the brain."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the role of Adrenaline?",
+      "answer": "Adrenaline controls behavior during crisis and emotional situations."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is the skin considered an excretory organ?",
+      "answer": "Because it helps in the process of excretion (removal of waste like sweat)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What are 'Cranial Nerves'?",
+      "answer": "Nerves originating from the brain are called cranial nerves."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens in the 'loop of Henle'?",
+      "answer": "It is a part of the nephron where reabsorption takes place (implied from diagram)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain the process of Root Pressure in plants.",
+      "answer": "Root cells contact water and minerals in soil. Differences in concentration cause water to enter root cells, making them turgid. These cells exert pressure on adjacent cells, pushing water into the xylem. This continuous pressure, called root pressure, pushes the water column upwards."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Describe the mechanism of Transpiration Pull.",
+      "answer": "Plants release water vapor through stomata (transpiration). This lowers the water level in leaf epidermal layers. To compensate, water is pulled up from the xylem. This transpiration pull helps absorb water and minerals and distribute them to all plant parts, especially during the day."
+    }
+  ]
+}
+    

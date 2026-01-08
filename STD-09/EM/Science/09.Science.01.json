@@ -1,0 +1,591 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Science.01.EN",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Laws of Motion"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the SI unit of velocity?",
+      "options": [
+        { "option_id": 1, "text": "m/s²", "is_correct": false },
+        { "option_id": 2, "text": "km/hr", "is_correct": false },
+        { "option_id": 3, "text": "m/s", "is_correct": true },
+        { "option_id": 4, "text": "cm/s", "is_correct": false }
+      ],
+      "answer": "m/s"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The rate of change of velocity is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Speed", "is_correct": false },
+        { "option_id": 2, "text": "Acceleration", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Momentum", "is_correct": false }
+      ],
+      "answer": "Acceleration"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of Newton's laws is also known as the Law of Inertia?",
+      "options": [
+        { "option_id": 1, "text": "First Law", "is_correct": true },
+        { "option_id": 2, "text": "Second Law", "is_correct": false },
+        { "option_id": 3, "text": "Third Law", "is_correct": false },
+        { "option_id": 4, "text": "Universal Law", "is_correct": false }
+      ],
+      "answer": "First Law"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Displacement is a ________ quantity.",
+      "options": [
+        { "option_id": 1, "text": "Scalar", "is_correct": false },
+        { "option_id": 2, "text": "Vector", "is_correct": true },
+        { "option_id": 3, "text": "Derived", "is_correct": false },
+        { "option_id": 4, "text": "Base", "is_correct": false }
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "If a car covers equal distances in equal intervals of time, it is in ________.",
+      "options": [
+        { "option_id": 1, "text": "Non-uniform motion", "is_correct": false },
+        { "option_id": 2, "text": "Uniform motion", "is_correct": true },
+        { "option_id": 3, "text": "Accelerated motion", "is_correct": false },
+        { "option_id": 4, "text": "Circular motion", "is_correct": false }
+      ],
+      "answer": "Uniform motion"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the product of mass and velocity?",
+      "options": [
+        { "option_id": 1, "text": "Force", "is_correct": false },
+        { "option_id": 2, "text": "Momentum", "is_correct": true },
+        { "option_id": 3, "text": "Power", "is_correct": false },
+        { "option_id": 4, "text": "Inertia", "is_correct": false }
+      ],
+      "answer": "Momentum"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Negative acceleration is also called ________.",
+      "options": [
+        { "option_id": 1, "text": "Retardation", "is_correct": true },
+        { "option_id": 2, "text": "Velocity", "is_correct": false },
+        { "option_id": 3, "text": "Constant speed", "is_correct": false },
+        { "option_id": 4, "text": "Relative motion", "is_correct": false }
+      ],
+      "answer": "Retardation"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The CGS unit of Force is ________.",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": false },
+        { "option_id": 3, "text": "Dyne", "is_correct": true },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Dyne"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In uniform circular motion, the ________ is constant.",
+      "options": [
+        { "option_id": 1, "text": "Velocity", "is_correct": false },
+        { "option_id": 2, "text": "Speed", "is_correct": true },
+        { "option_id": 3, "text": "Direction", "is_correct": false },
+        { "option_id": 4, "text": "Displacement", "is_correct": false }
+      ],
+      "answer": "Speed"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which equation represents the velocity-time relation?",
+      "options": [
+        { "option_id": 1, "text": "v = u + at", "is_correct": true },
+        { "option_id": 2, "text": "s = ut + ½ at²", "is_correct": false },
+        { "option_id": 3, "text": "v² = u² + 2as", "is_correct": false },
+        { "option_id": 4, "text": "F = ma", "is_correct": false }
+      ],
+      "answer": "v = u + at"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "1 Newton is equal to ________ dynes.",
+      "options": [
+        { "option_id": 1, "text": "10³", "is_correct": false },
+        { "option_id": 2, "text": "10⁵", "is_correct": true },
+        { "option_id": 3, "text": "10⁷", "is_correct": false },
+        { "option_id": 4, "text": "10⁶", "is_correct": false }
+      ],
+      "answer": "10⁵"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The displacement of an object starting from A and returning to A is ________.",
+      "options": [
+        { "option_id": 1, "text": "Maximum", "is_correct": false },
+        { "option_id": 2, "text": "Zero", "is_correct": true },
+        { "option_id": 3, "text": "Infinite", "is_correct": false },
+        { "option_id": 4, "text": "The path length", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a scalar quantity?",
+      "options": [
+        { "option_id": 1, "text": "Distance", "is_correct": true },
+        { "option_id": 2, "text": "Velocity", "is_correct": false },
+        { "option_id": 3, "text": "Acceleration", "is_correct": false },
+        { "option_id": 4, "text": "Force", "is_correct": false }
+      ],
+      "answer": "Distance"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Newton's Third Law states that every action has an equal and ________ reaction.",
+      "options": [
+        { "option_id": 1, "text": "Similar", "is_correct": false },
+        { "option_id": 2, "text": "Opposite", "is_correct": true },
+        { "option_id": 3, "text": "Parallel", "is_correct": false },
+        { "option_id": 4, "text": "Delayed", "is_correct": false }
+      ],
+      "answer": "Opposite"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Acceleration occurs when there is a change in velocity's ________.",
+      "options": [
+        { "option_id": 1, "text": "Magnitude", "is_correct": false },
+        { "option_id": 2, "text": "Direction", "is_correct": false },
+        { "option_id": 3, "text": "Both magnitude and direction", "is_correct": true },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Both magnitude and direction"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "A body is said to be at rest if its position ________ with respect to surroundings.",
+      "options": [
+        { "option_id": 1, "text": "Changes", "is_correct": false },
+        { "option_id": 2, "text": "Does not change", "is_correct": true },
+        { "option_id": 3, "text": "Accelerates", "is_correct": false },
+        { "option_id": 4, "text": "Vibrates", "is_correct": false }
+      ],
+      "answer": "Does not change"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The tendency of an object to resist a change in its state of motion is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Momentum", "is_correct": false },
+        { "option_id": 2, "text": "Inertia", "is_correct": true },
+        { "option_id": 3, "text": "Friction", "is_correct": false },
+        { "option_id": 4, "text": "Gravity", "is_correct": false }
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Momentum is a ________ राशी (quantity).",
+      "options": [
+        { "option_id": 1, "text": "Scalar", "is_correct": false },
+        { "option_id": 2, "text": "Vector", "is_correct": true },
+        { "option_id": 3, "text": "Base", "is_correct": false },
+        { "option_id": 4, "text": "Constant", "is_correct": false }
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "When an object falls freely, its acceleration is ________.",
+      "options": [
+        { "option_id": 1, "text": "Zero", "is_correct": false },
+        { "option_id": 2, "text": "Uniform", "is_correct": true },
+        { "option_id": 3, "text": "Variable", "is_correct": false },
+        { "option_id": 4, "text": "Negative", "is_correct": false }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The unit of momentum in SI system is ________.",
+      "options": [
+        { "option_id": 1, "text": "kg m/s", "is_correct": true },
+        { "option_id": 2, "text": "g cm/s", "is_correct": false },
+        { "option_id": 3, "text": "Newton", "is_correct": false },
+        { "option_id": 4, "text": "kg m/s²", "is_correct": false }
+      ],
+      "answer": "kg m/s"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Force = mass × ________.",
+      "options": [
+        { "option_id": 1, "text": "Velocity", "is_correct": false },
+        { "option_id": 2, "text": "Speed", "is_correct": false },
+        { "option_id": 3, "text": "Acceleration", "is_correct": true },
+        { "option_id": 4, "text": "Time", "is_correct": false }
+      ],
+      "answer": "Acceleration"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "If initial velocity is 'u' and final velocity is 'v', then change in velocity is ________.",
+      "options": [
+        { "option_id": 1, "text": "u - v", "is_correct": false },
+        { "option_id": 2, "text": "v - u", "is_correct": true },
+        { "option_id": 3, "text": "v + u", "is_correct": false },
+        { "option_id": 4, "text": "v × u", "is_correct": false }
+      ],
+      "answer": "v - u"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Balanced forces result in ________ change in state of motion.",
+      "options": [
+        { "option_id": 1, "text": "Maximum", "is_correct": false },
+        { "option_id": 2, "text": "Zero", "is_correct": true },
+        { "option_id": 3, "text": "Variable", "is_correct": false },
+        { "option_id": 4, "text": "Constant", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The Law of Conservation of Momentum applies when ________ external force is zero.",
+      "options": [
+        { "option_id": 1, "text": "Internal", "is_correct": false },
+        { "option_id": 2, "text": "Balanced", "is_correct": false },
+        { "option_id": 3, "text": "Unbalanced", "is_correct": true },
+        { "option_id": 4, "text": "Gravity", "is_correct": false }
+      ],
+      "answer": "Unbalanced"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Recoil velocity is seen in a ________.",
+      "options": [
+        { "option_id": 1, "text": "Bicycle", "is_correct": false },
+        { "option_id": 2, "text": "Gun", "is_correct": true },
+        { "option_id": 3, "text": "Fan", "is_correct": false },
+        { "option_id": 4, "text": "Pendulum", "is_correct": false }
+      ],
+      "answer": "Gun"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Motion.",
+      "answer": "Motion is a relative concept. If the position of an object is changing with respect to its surroundings, it is said to be in motion."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Distance?",
+      "answer": "Distance is the length of the actual path travelled by an object in motion while going from one point to another."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Define Displacement.",
+      "answer": "Displacement is the minimum distance between the starting and finishing points of an object's motion."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the formula for Speed?",
+      "answer": "Speed = Total distance travelled / Time required."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Define Velocity.",
+      "answer": "Velocity is the distance travelled in a particular direction by an object in unit time."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Distinguish between Uniform and Non-uniform motion.",
+      "answer": "If an object covers equal distances in equal time intervals, it is uniform motion. If it covers unequal distances in equal time intervals, it is non-uniform motion."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is Acceleration?",
+      "answer": "The rate of change of velocity is called acceleration. Acceleration = Change in velocity / Time."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is Positive Acceleration?",
+      "answer": "When the velocity of an object increases, the acceleration is positive. It is in the direction of velocity."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is Negative Acceleration?",
+      "answer": "When the velocity of an object decreases, the acceleration is negative. It is opposite to the direction of velocity and is also called deceleration or retardation."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is Zero Acceleration?",
+      "answer": "If the velocity of an object does not change with time (constant velocity), its acceleration is zero."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Give an example of Uniform Circular Motion.",
+      "answer": "The motion of the tip of the second hand of a clock is uniform circular motion."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "State Newton's First Law of Motion.",
+      "answer": "An object continues to remain at rest or in a state of uniform motion along a straight line unless an external unbalanced force acts on it."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is Inertia?",
+      "answer": "Inertia is the inherent property of an object to resist any change in its state of rest or uniform motion."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "State Newton's Second Law of Motion.",
+      "answer": "The rate of change of momentum is proportional to the applied force and the change of momentum occurs in the direction of the force."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Define Momentum.",
+      "answer": "Momentum (P) is the product of the mass (m) and velocity (v) of an object. P = m × v."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define 1 Newton force.",
+      "answer": "The force that causes an acceleration of 1 m/s² in an object of mass 1 kg is called 1 Newton."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "State Newton's Third Law of Motion.",
+      "answer": "Every action force has an equal and opposite reaction force which acts simultaneously."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the Law of Conservation of Momentum?",
+      "answer": "When no external force acts on two interacting objects, their total momentum remains unchanged (constant)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Why do we lean forward when a bus stops suddenly?",
+      "answer": "Due to inertia of motion, our upper body continues to move forward while the lower body comes to rest with the bus."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why is it easier to stop a tennis ball than a cricket ball moving with same velocity?",
+      "answer": "A cricket ball has more mass, hence more momentum than a tennis ball at the same velocity. Higher momentum requires more force to stop."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Define Scalar Quantity with an example.",
+      "answer": "A quantity that can be completely described by magnitude alone is a scalar quantity. Example: Distance, Speed."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Define Vector Quantity with an example.",
+      "answer": "A quantity that requires both magnitude and direction for its complete description is a vector quantity. Example: Displacement, Velocity."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What happens when unbalanced force acts on an object?",
+      "answer": "An unbalanced force causes a change in the state of rest or the state of uniform motion of an object (it causes acceleration)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Write the three kinematical equations of motion.",
+      "answer": "1) v = u + at, 2) s = ut + ½ at², 3) v² = u² + 2as."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Define uniform acceleration.",
+      "answer": "If the velocity changes by equal amounts in equal time intervals, the object is said to be in uniform acceleration."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the relation between Newton and Dyne?",
+      "answer": "1 Newton = 10⁵ Dyne."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Explain recoil of a gun.",
+      "answer": "When a bullet is fired (action), the gun moves backward (reaction) with a velocity called recoil velocity, according to Newton's Third Law."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How can velocity be changed?",
+      "answer": "Velocity can be changed by changing the speed, changing the direction of motion, or both."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the average speed of an object moving 18m in 3s and 22m in next 3s?",
+      "answer": "Average speed = Total distance / Total time = (18+22)/(3+3) = 40/6 = 6.67 m/s."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "State the formula for acceleration from velocity-time graph.",
+      "answer": "Acceleration = Slope of the velocity-time graph = (v - u) / t."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does the area under a velocity-time graph represent?",
+      "answer": "The area under a velocity-time graph represents the displacement of the object."
+    },
+    { "question_id": 57, "question_type": "SHORT", "question": "Why is motion called a relative concept?", "answer": "Because the motion of an object depends on the observer's frame of reference. An object may be in motion for one observer but at rest for another." },
+    { "question_id": 58, "question_type": "SHORT", "question": "Define 1 Dyne force.", "answer": "The force that causes an acceleration of 1 cm/s² in an object of mass 1 g is called 1 Dyne." },
+    { "question_id": 59, "question_type": "SHORT", "question": "What is the total momentum of a system before and after collision?", "answer": "The total momentum remains constant (m1u1 + m2u2 = m1v1 + m2v2) if no external force acts." },
+    { "question_id": 60, "question_type": "SHORT", "question": "Give an example where distance is non-zero but displacement is zero.", "answer": "A person walking around a circular track and returning to the starting point." },
+    { "question_id": 61, "question_type": "SHORT", "question": "What is the slope of distance-time graph for uniform motion?", "answer": "The slope is a straight line, representing constant speed." },
+    { "question_id": 62, "question_type": "SHORT", "question": "Define mass in terms of Newton's laws.", "answer": "Mass is the measure of inertia of an object." },
+    { "question_id": 63, "question_type": "SHORT", "question": "Why does a fielder pull his hands back while catching a ball?", "answer": "To increase the time of impact, which decreases the rate of change of momentum and thus reduces the force on the hands." },
+    { "question_id": 64, "question_type": "SHORT", "question": "What is the SI unit of acceleration?", "answer": "m/s² (metre per second squared)." },
+    { "question_id": 65, "question_type": "SHORT", "question": "Which law explains rocket propulsion?", "answer": "Newton's Third Law of Motion (Action and Reaction)." },
+    { "question_id": 66, "question_type": "SHORT", "question": "If F = 0, what is the acceleration?", "answer": "Acceleration is zero (Law of Inertia)." },
+    { "question_id": 67, "question_type": "SHORT", "question": "Calculate force for m = 16 kg and a = 3 m/s².", "answer": "F = m × a = 16 × 3 = 48 Newton." },
+    { "question_id": 68, "question_type": "SHORT", "question": "Define Retardation.", "answer": "Retardation is negative acceleration where velocity decreases over time." },
+    { "question_id": 69, "question_type": "SHORT", "question": "Is speed ever negative?", "answer": "No, speed is a scalar quantity and is always positive or zero." },
+    { "question_id": 70, "question_type": "SHORT", "question": "Can an object have constant speed but variable velocity?", "answer": "Yes, in uniform circular motion, speed is constant but direction (and hence velocity) changes." },
+    { "question_id": 71, "question_type": "SHORT", "question": "What is internal force?", "answer": "Forces acting between objects within a defined system." },
+    { "question_id": 72, "question_type": "SHORT", "question": "Does inertia depend on velocity?", "answer": "No, inertia depends only on the mass of the object." },
+    { "question_id": 73, "question_type": "SHORT", "question": "Define unit of momentum in CGS.", "answer": "g cm/s." },
+    { "question_id": 74, "question_type": "SHORT", "question": "What is a balanced force?", "answer": "Forces acting on an object that are equal in magnitude and opposite in direction, resulting in zero net force." },
+    { "question_id": 75, "question_type": "SHORT", "question": "When is displacement equal to distance?", "answer": "When an object moves in a straight line in one direction." },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Explain Newton's First Law with examples of static and dynamic inertia.",
+      "answer": "Newton's First Law states that an object remains at rest or in motion unless acted upon by a force. Examples: 1) Static Inertia: When a bus starts suddenly, passengers lean backward because their body wants to stay at rest. 2) Dynamic Inertia: When a moving bus stops suddenly, passengers lean forward because their body wants to continue its state of motion."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Derive the equation v = u + at using a velocity-time graph.",
+      "answer": "1) Consider an object moving with initial velocity 'u' at time t=0. 2) After time 't', its velocity becomes 'v'. 3) Acceleration (a) is the slope of the graph: a = (Change in velocity) / (Time) = (v - u) / (t - 0). 4) Rearranging: at = v - u, hence v = u + at."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "State Newton's Second Law and derive F = ma.",
+      "answer": "1) Second Law: Rate of change of momentum is proportional to force. 2) Initial momentum = mu, Final momentum = mv. 3) Change in momentum = mv - mu. 4) Rate of change = m(v-u)/t. 5) Since (v-u)/t = a, rate of change = ma. 6) By law: F ∝ ma, or F = kma. For k=1, F = ma."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Explain the Law of Conservation of Momentum with the help of a collision between two objects.",
+      "answer": "1) Let objects A and B have masses m1, m2 and velocities u1, u2. 2) During collision, A exerts force F1 on B and B exerts force F2 on A. 3) According to Third Law: F1 = -F2. 4) m2(v2-u2)/t = -m1(v1-u1)/t. 5) m2v2 - m2u2 = -m1v1 + m1u1. 6) Rearranging: m1v1 + m2v2 = m1u1 + m2u2. Total momentum after = Total momentum before."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Distinguish between Distance and Displacement in detail.",
+      "answer": "1) Distance is the path length; Displacement is the minimum distance between start and end. 2) Distance is scalar; Displacement is vector. 3) Distance is always positive; Displacement can be positive, negative, or zero. 4) Distance ≥ Displacement."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Describe an experiment to demonstrate Newton's First Law of Motion.",
+      "answer": "1) Place a glass on a table. 2) Put a cardboard on the glass and a coin on the cardboard. 3) Flick the cardboard away quickly. 4) Result: The cardboard moves away, but the coin falls into the glass due to its inertia of rest. It tries to maintain its position."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain Uniform Circular Motion. How do we find the speed in such motion?",
+      "answer": "1) When an object moves with constant speed in a circular path, it is Uniform Circular Motion. 2) Direction changes at every point, so velocity is variable. 3) Speed = Distance / Time = Circumference / Time = 2πr / t."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "What is acceleration? Explain its three types with examples.",
+      "answer": "Acceleration is the rate of change of velocity. Types: 1) Positive: Velocity increases (e.g., train leaving a station). 2) Negative: Velocity decreases (e.g., car applying brakes). 3) Zero: Velocity is constant (e.g., car moving with steady speed on a straight highway)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain Newton's Third Law with four different examples from daily life.",
+      "answer": "1) Walking: We push the ground back, ground pushes us forward. 2) Swimming: We push water back, water pushes us forward. 3) Rocket: Gas ejected downward, rocket moves upward. 4) Bird flight: Wings push air down, air pushes bird up."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Derive s = ut + ½ at² using the graph method.",
+      "answer": "1) Area under velocity-time graph = displacement (s). 2) Area = Area of Rectangle + Area of Triangle. 3) Area = (u × t) + (½ × base × height) = ut + ½(t)(v - u). 4) Since v - u = at, s = ut + ½(t)(at) = ut + ½ at²."
+    },
+    { "question_id": 86, "question_type": "LONG", "question": "Why even if action and reaction forces are equal and opposite, they don't cancel each other?", "answer": "Forces only cancel each other if they act on the same object. Newton's Third Law states that action and reaction forces act on two different objects. Therefore, they produce effects on separate bodies and do not cancel out." },
+    { "question_id": 87, "question_type": "LONG", "question": "An object of mass 16kg moves with a = 3m/s². If same force acts on 24kg mass, what is its acceleration?", "answer": "1) Force = 16 × 3 = 48 N. 2) For 24kg, Force = 48 N. 3) a = F/m = 48 / 24 = 2 m/s²." },
+    { "question_id": 88, "question_type": "LONG", "question": "Explain the concept of 'Recoil Velocity' of a gun using momentum conservation.", "answer": "Initially, momentum of gun and bullet is zero. After firing, bullet momentum = mv. Gun momentum = MV. By conservation: MV + mv = 0. Recoil velocity V = -mv/M. The negative sign shows the gun moves in the opposite direction." },
+    { "question_id": 89, "question_type": "LONG", "question": "Distinguish between Scalar and Vector quantities with three examples each.", "answer": "1) Scalars have only magnitude (Distance, Speed, Time). 2) Vectors have both magnitude and direction (Displacement, Velocity, Force)." },
+    { "question_id": 90, "question_type": "LONG", "question": "Explain why the velocity of an object at rest is considered uniform.", "answer": "An object at rest has a velocity of zero. This zero velocity remains constant (unchanged) over time unless a force acts. Since the magnitude and direction (non-existent) don't change, it meets the definition of uniform velocity." },
+    { "question_id": 91, "question_type": "LONG", "question": "Prove v² = u² + 2as using kinematical equations.", "answer": "1) We know v = u + at, so t = (v-u)/a. 2) We know s = ut + ½ at². 3) Substitute t: s = u(v-u)/a + ½ a(v-u)²/a². 4) 2as = 2uv - 2u² + v² + u² - 2uv. 5) 2as = v² - u², hence v² = u² + 2as." },
+    { "question_id": 92, "question_type": "LONG", "question": "Why is it dangerous to jump out of a moving bus?", "answer": "When inside a moving bus, the entire body is in motion. On jumping out, the feet come to rest on the ground, but the upper body remains in motion due to inertia of motion. This leads to a sudden fall forward, causing injury." },
+    { "question_id": 93, "question_type": "LONG", "question": "Explain the units of force in SI and CGS systems.", "answer": "SI unit is Newton (N): 1N = 1kg × 1m/s². CGS unit is Dyne: 1 dyne = 1g × 1cm/s². Relationship: 1N = 10⁵ dyne." },
+    { "question_id": 94, "question_type": "LONG", "question": "What is the difference between speed and velocity? When are they equal?", "answer": "Speed is scalar (dist/time); Velocity is vector (disp/time). They are equal in magnitude only when the object moves in a straight line without changing direction." },
+    { "question_id": 95, "question_type": "LONG", "question": "Solve: A bullet of 10g moving at 1.5m/s hits a 900g plank and sticks. Find their common velocity.", "answer": "1) m1 = 0.01kg, u1 = 1.5. m2 = 0.9kg, u2 = 0. 2) Total before = (0.01 × 1.5) + 0 = 0.015. 3) Total after = (0.01 + 0.9) × V = 0.91V. 4) V = 0.015 / 0.91 ≈ 0.016 m/s." },
+    { "question_id": 96, "question_type": "LONG", "question": "Describe the types of Inertia with an example for each.", "answer": "1) Inertia of rest: Coin falling in glass when card is flicked. 2) Inertia of motion: Fanned blades rotating after power cut. 3) Inertia of direction: Passengers leaning outward when a car turns a sharp curve." },
+    { "question_id": 97, "question_type": "LONG", "question": "What is non-uniform acceleration? Give a real-life example.", "answer": "When velocity changes by unequal amounts in equal time intervals. Example: A vehicle moving through heavy city traffic where speed changes irregularly due to signals and other cars." },
+    { "question_id": 98, "question_type": "LONG", "question": "Discuss the significance of Newton's laws in modern technology.", "answer": "They are the foundation of classical mechanics. Used in designing cars (safety belts), launching satellites, building structures, and understanding planetary motions." },
+    { "question_id": 99, "question_type": "LONG", "question": "Explain the concept of relative motion.", "answer": "Motion is never absolute. For a person in a bus, the passenger next to him is at rest, but for a person on the road, both are in motion. Motion is always described with respect to a frame of reference." },
+    { "question_id": 100, "question_type": "LONG", "question": "A person swims 100m in 40s and returns back 80m in 40s. Find average speed and average velocity.", "answer": "1) Speed = Total Dist / Total Time = (100+80) / (40+40) = 180 / 80 = 2.25 m/s. 2) Velocity = Net Disp / Total Time = (100-80) / 80 = 20 / 80 = 0.25 m/s." }
+  ]
+}

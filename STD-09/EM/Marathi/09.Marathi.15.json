@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.15",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "पुन्हा एकदा (कविता)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'पुन्हा एकदा' या कवितेच्या कवयित्री कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "इंदिरा संत", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिमा इंगोले", "is_correct": true },
+        { "option_id": 3, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 4, "text": "बहिणाबाई चौधरी", "is_correct": false }
+      ],
+      "answer": "प्रतिमा इंगोले"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवयित्रीने कवितेत कशाचा ध्यास घेतला आहे?",
+      "options": [
+        { "option_id": 1, "text": "पावसाचा", "is_correct": false },
+        { "option_id": 2, "text": "नवनिर्माणाचा", "is_correct": true },
+        { "option_id": 3, "text": "युद्धाचा", "is_correct": false },
+        { "option_id": 4, "text": "प्रवासाचा", "is_correct": false }
+      ],
+      "answer": "नवनिर्माणाचा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवयित्री पुन्हा एकदा काय चमकावी असे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तलवार", "is_correct": false },
+        { "option_id": 2, "text": "चांदणी", "is_correct": false },
+        { "option_id": 3, "text": "वीज", "is_correct": true },
+        { "option_id": 4, "text": "पणती", "is_correct": false }
+      ],
+      "answer": "वीज"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रक्तात काय भिनावी अशी कवयित्रीची इच्छा आहे?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "वीज", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "शांतता", "is_correct": false }
+      ],
+      "answer": "वीज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कशाच्या सरी कोसळाव्यात असे कवितेत म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पावसाच्या", "is_correct": true },
+        { "option_id": 2, "text": "फुलांच्या", "is_correct": false },
+        { "option_id": 3, "text": "गारांच्या", "is_correct": false },
+        { "option_id": 4, "text": "अश्रूंच्या", "is_correct": false }
+      ],
+      "answer": "पावसाच्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाऊस पडल्यावर कशात काय एक व्हावे?",
+      "options": [
+        { "option_id": 1, "text": "नदीत पाणी", "is_correct": false },
+        { "option_id": 2, "text": "मातीत माती", "is_correct": true },
+        { "option_id": 3, "text": "ढगात वीज", "is_correct": false },
+        { "option_id": 4, "text": "मनात विचार", "is_correct": false }
+      ],
+      "answer": "मातीत माती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवयित्री काय पुसून टाकण्यास सांगतात?",
+      "options": [
+        { "option_id": 1, "text": "चित्रे", "is_correct": false },
+        { "option_id": 2, "text": "भेदाभेद", "is_correct": true },
+        { "option_id": 3, "text": "पाटी", "is_correct": false },
+        { "option_id": 4, "text": "आठवणी", "is_correct": false }
+      ],
+      "answer": "भेदाभेद"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वारा घुमल्यामुळे इथला युवक कसा जावा?",
+      "options": [
+        { "option_id": 1, "text": "घाबरून", "is_correct": false },
+        { "option_id": 2, "text": "पळून", "is_correct": false },
+        { "option_id": 3, "text": "भारला", "is_correct": true },
+        { "option_id": 4, "text": "झोपून", "is_correct": false }
+      ],
+      "answer": "भारला"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नवनिर्माणाची काय लागावी असे कवयित्री म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चाहूल", "is_correct": true },
+        { "option_id": 2, "text": "तहान", "is_correct": false },
+        { "option_id": 3, "text": "सवय", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "चाहूल"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भूमी कोठे उजळावी?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "दिगंतात (आकाशात/दिशांत)", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 4, "text": "अंधारात", "is_correct": false }
+      ],
+      "answer": "दिगंतात (आकाशात/दिशांत)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारताच्या झेंड्यातील पांढरा रंग कशाचा निदर्शक आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्यागाचा", "is_correct": false },
+        { "option_id": 2, "text": "समृद्धीचा", "is_correct": false },
+        { "option_id": 3, "text": "सत्याचा आणि साधेपणाचा", "is_correct": true },
+        { "option_id": 4, "text": "गतीचा", "is_correct": false }
+      ],
+      "answer": "सत्याचा आणि साधेपणाचा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अशोकचक्र कशाचे प्रतीक आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थिरतेचे", "is_correct": false },
+        { "option_id": 2, "text": "गतीचे (गतिमानतेचे)", "is_correct": true },
+        { "option_id": 3, "text": "रंगाचे", "is_correct": false },
+        { "option_id": 4, "text": "धर्माचे", "is_correct": false }
+      ],
+      "answer": "गतीचे (गतिमानतेचे)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "केशरी रंग कशाचा निदर्शक आहे?",
+      "options": [
+        { "option_id": 1, "text": "हरितश्यामल भूमातेचा", "is_correct": false },
+        { "option_id": 2, "text": "त्यागाचा व नम्रतेचा", "is_correct": true },
+        { "option_id": 3, "text": "प्रकाशाचा", "is_correct": false },
+        { "option_id": 4, "text": "शांततेचा", "is_correct": false }
+      ],
+      "answer": "त्यागाचा व नम्रतेचा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "झेंड्यातील हिरवा रंग कशाचे प्रतीक आहे?",
+      "options": [
+        { "option_id": 1, "text": "हरितश्यामल भूमातेचे", "is_correct": true },
+        { "option_id": 2, "text": "त्यागाचे", "is_correct": false },
+        { "option_id": 3, "text": "सत्याचे", "is_correct": false },
+        { "option_id": 4, "text": "गतीचे", "is_correct": false }
+      ],
+      "answer": "हरितश्यामल भूमातेचे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'वीज रक्तात भिनावी' या प्रतीकाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "माणसांत उत्साह निर्माण व्हावा", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस पडावा", "is_correct": false },
+        { "option_id": 3, "text": "अंधार व्हावा", "is_correct": false },
+        { "option_id": 4, "text": "भीती वाटावी", "is_correct": false }
+      ],
+      "answer": "माणसांत उत्साह निर्माण व्हावा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवयित्री पावसाच्या सरींनी काय करावे असे म्हणतात?",
+      "answer": "कवयित्री म्हणतात की पावसाच्या सरींनी बेभान होऊन कोसळावे आणि मातीत माती एक करावी."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "'मातीत माती व्हावी एक' याचा अर्थ काय?",
+      "answer": "याचा अर्थ समाजातील भेदभाव नष्ट होऊन सर्वांनी एकत्र यावे आणि एकजूट व्हावी."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "इथल्या युवकांनी काय विसरावे अशी कवयित्रीची इच्छा आहे?",
+      "answer": "इथल्या युवकांनी तहान आणि भूक विसरावी अशी कवयित्रीची इच्छा आहे."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "वारा घुमल्याचा काय परिणाम होईल?",
+      "answer": "वारा घुमल्यामुळे इथला युवक नवनिर्माणासाठी भारला जाईल."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कवयित्रीच्या मते स्नायू का पेटावेत?",
+      "answer": "नवनिर्माणाचा पुकार करण्यासाठी स्नायू पेटावेत."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'नवनिर्माणाची चाहूल लागावी' याचा अर्थ काय?",
+      "answer": "याचा अर्थ नवनवीन गोष्टींची निर्मिती करण्याची इच्छा आणि सुरुवात व्हावी."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'उजळावी भूमी दिगंतात' या ओळीचा अर्थ सांगा.",
+      "answer": "सर्वत्र भारतभूमीची कीर्ती चमकावी आणि ती उजळून निघावी."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "झेंड्याचा पांढरा रंग कशाचा निदर्शक आहे?",
+      "answer": "झेंड्याचा पांढरा रंग प्रकाशाचा, सत्याचा आणि साधेपणाचा निदर्शक आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "अशोकचक्र आपल्याला कोणता संदेश देते?",
+      "answer": "अशोकचक्र आपल्याला सद्गुणी राहण्याचा आणि सतत गतिमान राहण्याचा संदेश देते."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "प्रतिमा इंगोले यांच्या लेखनाचे खास वैशिष्ट्य कोणते आहे?",
+      "answer": "अस्सल वैदर्भी बोलीचा प्रभावी वापर हे त्यांच्या लेखनाचे खास वैशिष्ट्य आहे."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "पुन्हा एकदा वीज चमकून काय व्हावे?",
+      "answer": "पुन्हा एकदा वीज चमकून ती खाली उतरावी आणि रक्तात भिनावी."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "पावसाने काय करावे?",
+      "answer": "पावसाने पिंगा घालावा आणि बेभान होऊन कोसळावे."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "कवयित्री युवकांना काय करण्यास सांगत आहेत?",
+      "answer": "कवयित्री युवकांना नवनिर्माणासाठी तहान-भूक विसरून आणि भारून जाऊन कार्य करण्यास सांगत आहेत."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "झेंड्याखाली काम करताना आपण कसे राहिले पाहिजे?",
+      "answer": "झेंड्याखाली काम करताना आपण धर्ममय आणि सत्यमय राहिले पाहिजे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "आपण पृथ्वीवर स्वर्ग कसा निर्माण करू शकतो?",
+      "answer": "सेवावृत्तीने आणि निरहंकारीपणाने वागून आपण पृथ्वीवर स्वर्ग निर्माण करू शकतो."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "'मातीत माती व्हावी एक, पुसून टाकीत भेदाभेद' या काव्यपंक्तीतील सामाजिक आशय स्पष्ट करा.",
+      "answer": "या ओळीतून कवयित्री राष्ट्रीय एकात्मतेचा आणि समतेचा संदेश देतात. पाऊस पडल्यावर जशी सगळी माती एकजीव होते, त्याप्रमाणे समाजात कोणताही भेदभाव नसावा. जात, धर्म, वर्ण यांसारखे भेद पुसून टाकून सर्व मानवांनी एकजुटीने राहावे. जेव्हा समाजातील भेदाभेद नष्ट होतील, तेव्हाच खऱ्या अर्थाने नवनिर्माण होईल आणि देश प्रगती करेल. हा सामाजिक ऐक्याचा विचार येथे व्यक्त झाला आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "'पुन्हा एकदा' या कवितेचा तुम्हांला समजलेला भावार्थ लिहा.",
+      "answer": "‘पुन्हा एकदा’ या कवितेत कवयित्री प्रतिमा इंगोले यांनी नवनिर्माणाचा ध्यास व्यक्त केला आहे. त्यांना वाटते की समाजातील मरगळ झटकून टाकण्यासाठी पुन्हा एकदा क्रांतीची वीज चमकावी. पावसाने भेदभावाच्या भिंती पाडून एकी निर्माण करावी. नवयुवकांनी आपल्यात उत्साह भरून, तहान-भूक विसरून देशाच्या नवनिर्माणासाठी सज्ज व्हावे. भारतभूमीला पुन्हा एकदा वैभवाच्या शिखरावर नेण्यासाठी आणि भेदभाव विसरून एक नवीन समाज घडवण्यासाठी कवीने यात आवाहन केले आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "आपल्या देशात शांतता निर्माण व्हावी यासाठी 'पुन्हा एकदा' काय व्हावे असे तुम्हांस वाटते?",
+      "answer": "माझ्या मते, देशात शांतता निर्माण होण्यासाठी पुन्हा एकदा माणसांनी एकमेकांना 'माणूस' म्हणून ओळखणे गरजेचे आहे. जाती-धर्माच्या नावावर होणारी भांडणे थांबवून प्रेमाचा पाऊस पडावा. प्रत्येकाच्या मनात देशप्रेमाची वीज चमकावी. तरुणांनी हिंसा सोडून नवनिर्माणाचा आणि विकासाचा मार्ग धरावा. भ्रष्टाचार आणि अन्यायाविरुद्ध सर्वांनी एकजुटीने उभे राहावे. जेव्हा आपण भेद विसरून एक होऊ, तेव्हाच देशात खरी शांतता नांदेल."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "झेंड्यातील विविध रंगांचा आणि अशोकचक्राचा अर्थ स्पष्ट करा.",
+      "answer": "आपल्या तिरंग्यातील प्रत्येक रंगाला विशेष अर्थ आहे. सर्वात वरचा केशरी रंग त्याग, शौर्य आणि नम्रतेचे प्रतीक आहे. मधला पांढरा रंग सत्य, प्रकाश आणि साधेपणा दर्शवतो. तळाचा हिरवा रंग आपल्या सुजलाम सुफलाम धरणीमातेचे आणि समृद्धीचे प्रतीक आहे. पांढऱ्या पट्ट्यावरील निळे अशोकचक्र 'गती' दर्शवते. ते आपल्याला सतत प्रगतीपथावर आणि गतिमान राहण्याचा संदेश देते, तसेच ते धर्माचे आणि सद्गुणांचे प्रतीक आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "कवयित्रीने युवकांकडून कोणत्या अपेक्षा व्यक्त केल्या आहेत?",
+      "answer": "कवयित्रींना युवकांकडून खूप मोठ्या अपेक्षा आहेत. त्यांना वाटते की नवयुवकांनी आळस आणि नैराश्य झटकून टाकावे. त्यांच्या रक्तात नवनिर्माणाचा उत्साह भिनावा. जसा वारा वेगाने घुमतो, तसे युवकांनी कार्याने भारून जावे. देशाच्या प्रगतीसाठी त्यांनी आपली तहान-भूक विसरून कष्ट करावेत. समाजात ऐक्य निर्माण करून भारताचे नाव जगात उज्ज्वल करण्याची जबाबदारी युवकांनी घ्यावी, अशी कवयित्रींची अपेक्षा आहे."
+    }
+  ]
+}
