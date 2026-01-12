@@ -1,0 +1,1511 @@
+{
+  "chapter metadata": {
+    "chapter id": "09.Marathi.1.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter name": "The Story of Tea"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is the most widely consumed beverage in the world after water?",
+      "options": [
+        { "option id": 1, "text": "Coffee", "is correct": false },
+        { "option id": 2, "text": "Tea", "is correct": true },
+        { "option id": 3, "text": "Milk", "is correct": false },
+        { "option id": 4, "text": "Lime juice", "is correct": false }
+      ],
+      "answer": "Tea"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the botanical name of the tea plant?",
+      "options": [
+        { "option id": 1, "text": "Camellia sinensis", "is correct": true },
+        { "option id": 2, "text": "Assamica", "is correct": false },
+        { "option id": 3, "text": "Theanine caffeine", "is correct": false },
+        { "option id": 4, "text": "Sinensis cambod", "is correct": false }
+      ],
+      "answer": "Camellia sinensis"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The tea plant is a type of ________ plant.",
+      "options": [
+        { "option id": 1, "text": "Deciduous", "is correct": false },
+        { "option id": 2, "text": "Evergreen", "is correct": true },
+        { "option id": 3, "text": "Desert", "is correct": false },
+        { "option id": 4, "text": "Aquatic", "is correct": false }
+      ],
+      "answer": "Evergreen"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In which climates does the tea plant grow?",
+      "options": [
+        { "option id": 1, "text": "Cold and dry", "is correct": false },
+        { "option id": 2, "text": "Tropical and sub-tropical", "is correct": true },
+        { "option id": 3, "text": "Arctic", "is correct": false },
+        { "option id": 4, "text": "Arid and sandy", "is correct": false }
+      ],
+      "answer": "Tropical and sub-tropical"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How much rainfall per year do tea plants require?",
+      "options": [
+        { "option id": 1, "text": "50-75 cm", "is correct": false },
+        { "option id": 2, "text": "100-125 cm", "is correct": true },
+        { "option id": 3, "text": "200-300 cm", "is correct": false },
+        { "option id": 4, "text": "Less than 10 cm", "is correct": false }
+      ],
+      "answer": "100-125 cm"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What type of soil do tea plants prefer?",
+      "options": [
+        { "option id": 1, "text": "Alkaline soils", "is correct": false },
+        { "option id": 2, "text": "Acidic soils", "is correct": true },
+        { "option id": 3, "text": "Clayey soils", "is correct": false },
+        { "option id": 4, "text": "Salty soils", "is correct": false }
+      ],
+      "answer": "Acidic soils"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "At what elevation are many of the world's best tea estates located?",
+      "options": [
+        { "option id": 1, "text": "Up to 100 metres", "is correct": false },
+        { "option id": 2, "text": "Up to 1500 metres", "is correct": true },
+        { "option id": 3, "text": "Up to 5000 metres", "is correct": false },
+        { "option id": 4, "text": "At sea level", "is correct": false }
+      ],
+      "answer": "Up to 1500 metres"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What are the picked buds and leaves of the tea plant called?",
+      "options": [
+        { "option id": 1, "text": "Petals", "is correct": false },
+        { "option id": 2, "text": "Flushes", "is correct": true },
+        { "option id": 3, "text": "Shoots", "is correct": false },
+        { "option id": 4, "text": "Foliage", "is correct": false }
+      ],
+      "answer": "Flushes"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How often does a new flush appear on the plant during the peak growing season?",
+      "options": [
+        { "option id": 1, "text": "Every day", "is correct": false },
+        { "option id": 2, "text": "Every seven to ten days", "is correct": true },
+        { "option id": 3, "text": "Once a month", "is correct": false },
+        { "option id": 4, "text": "Twice a year", "is correct": false }
+      ],
+      "answer": "Every seven to ten days"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why are tea plants pruned to a height of about three feet?",
+      "options": [
+        { "option id": 1, "text": "To keep them beautiful", "is correct": false },
+        { "option id": 2, "text": "To enable easy plucking of leaves", "is correct": true },
+        { "option id": 3, "text": "To protect them from wind", "is correct": false },
+        { "option id": 4, "text": "To prevent them from flowering", "is correct": false }
+      ],
+      "answer": "To enable easy plucking of leaves"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How are teas usually classified?",
+      "options": [
+        { "option id": 1, "text": "By their aroma", "is correct": false },
+        { "option id": 2, "text": "According to their leaf size", "is correct": true },
+        { "option id": 3, "text": "By the color of the package", "is correct": false },
+        { "option id": 4, "text": "By their cost", "is correct": false }
+      ],
+      "answer": "According to their leaf size"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which type of tea is characterized by the largest leaves?",
+      "options": [
+        { "option id": 1, "text": "China type", "is correct": false },
+        { "option id": 2, "text": "Assam type", "is correct": true },
+        { "option id": 3, "text": "Cambod type", "is correct": false },
+        { "option id": 4, "text": "Darjeeling type", "is correct": false }
+      ],
+      "answer": "Assam type"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which type of tea is characterized by the smallest leaves?",
+      "options": [
+        { "option id": 1, "text": "Assam type", "is correct": false },
+        { "option id": 2, "text": "China type", "is correct": true },
+        { "option id": 3, "text": "Cambod type", "is correct": false },
+        { "option id": 4, "text": "Nilgiri type", "is correct": false }
+      ],
+      "answer": "China type"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where is Darjeeling located in India?",
+      "options": [
+        { "option id": 1, "text": "South India", "is correct": false },
+        { "option id": 2, "text": "North-Eastern India", "is correct": true },
+        { "option id": 3, "text": "Western India", "is correct": false },
+        { "option id": 4, "text": "Central India", "is correct": false }
+      ],
+      "answer": "North-Eastern India"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What gives tea its stimulating quality?",
+      "options": [
+        { "option id": 1, "text": "Sugar and milk", "is correct": false },
+        { "option id": 2, "text": "Theanine and caffeine", "is correct": true },
+        { "option id": 3, "text": "Vitamin C", "is correct": false },
+        { "option id": 4, "text": "Carbohydrates", "is correct": false }
+      ],
+      "answer": "Theanine and caffeine"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "According to Chinese legend, who discovered tea?",
+      "options": [
+        { "option id": 1, "text": "Emperor Hui Tsung", "is correct": false },
+        { "option id": 2, "text": "Emperor Shennong", "is correct": true },
+        { "option id": 3, "text": "Bodhidharma", "is correct": false },
+        { "option id": 4, "text": "Robert Bruce", "is correct": false }
+      ],
+      "answer": "Emperor Shennong"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "In the legend, why did the water change color?",
+      "options": [
+        { "option id": 1, "text": "Because of dirt", "is correct": false },
+        { "option id": 2, "text": "Leaves from a nearby tree blew into the boiling water", "is correct": true },
+        { "option id": 3, "text": "The servant added tea powder", "is correct": false },
+        { "option id": 4, "text": "The emperor dropped his medicine in it", "is correct": false }
+      ],
+      "answer": "Leaves from a nearby tree blew into the boiling water"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who was Bodhidharma?",
+      "options": [
+        { "option id": 1, "text": "A Chinese Emperor", "is correct": false },
+        { "option id": 2, "text": "A Buddhist monk", "is correct": true },
+        { "option id": 3, "text": "A Turkish trader", "is correct": false },
+        { "option id": 4, "text": "A British botanist", "is correct": false }
+      ],
+      "answer": "A Buddhist monk"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why did Bodhidharma want to find a medicinal plant?",
+      "options": [
+        { "option id": 1, "text": "To cure a fever", "is correct": false },
+        { "option id": 2, "text": "To stay awake and alert for prayer and meditation", "is correct": true },
+        { "option id": 3, "text": "To lose weight", "is correct": false },
+        { "option id": 4, "text": "To color his robes", "is correct": false }
+      ],
+      "answer": "To stay awake and alert for prayer and meditation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which Emperor failed to notice that Mongolia had taken over his empire because he was so 'tea minded'?",
+      "options": [
+        { "option id": 1, "text": "Shennong", "is correct": false },
+        { "option id": 2, "text": "Hui Tsung", "is correct": true },
+        { "option id": 3, "text": "Bodhidharma", "is correct": false },
+        { "option id": 4, "text": "Darjeeling", "is correct": false }
+      ],
+      "answer": "Hui Tsung"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The Marathi word 'chaha' is close to which Hindi word?",
+      "options": [
+        { "option id": 1, "text": "Pani", "is correct": false },
+        { "option id": 2, "text": "Chai", "is correct": true },
+        { "option id": 3, "text": "Dudh", "is correct": false },
+        { "option id": 4, "text": "Brew", "is correct": false }
+      ],
+      "answer": "Chai"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "When did the first Indian tea from Assam arrive in England for public sale?",
+      "options": [
+        { "option id": 1, "text": "1770s", "is correct": false },
+        { "option id": 2, "text": "May 1838", "is correct": true },
+        { "option id": 3, "text": "1823", "is correct": false },
+        { "option id": 4, "text": "19th century", "is correct": false }
+      ],
+      "answer": "May 1838"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who discovered tea plants growing wild in the Upper Brahmaputra valley in 1823?",
+      "options": [
+        { "option id": 1, "text": "Robert Bruce", "is correct": true },
+        { "option id": 2, "text": "Bodhidharma", "is correct": false },
+        { "option id": 3, "text": "Shennong", "is correct": false },
+        { "option id": 4, "text": "Mrs. Jones", "is correct": false }
+      ],
+      "answer": "Robert Bruce"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Tea contains antioxidants called ________.",
+      "options": [
+        { "option id": 1, "text": "Proteins", "is correct": false },
+        { "option id": 2, "text": "Flavonoids", "is correct": true },
+        { "option id": 3, "text": "Carbohydrates", "is correct": false },
+        { "option id": 4, "text": "Free radicals", "is correct": false }
+      ],
+      "answer": "Flavonoids"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do scientists believe helps protect our system against free radicals?",
+      "options": [
+        { "option id": 1, "text": "Caffeine", "is correct": false },
+        { "option id": 2, "text": "Antioxidants (flavonoids)", "is correct": true },
+        { "option id": 3, "text": "Theanine", "is correct": false },
+        { "option id": 4, "text": "Acidic soil", "is correct": false }
+      ],
+      "answer": "Antioxidants (flavonoids)"
+    },
+    {
+    "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which Chinese character was first used in early inscriptions to describe tea?",
+      "options": [
+        { "option id": 1, "text": "Ch'a", "is correct": false },
+        { "option id": 2, "text": "T'u", "is correct": true },
+        { "option id": 3, "text": "Chai", "is correct": false },
+        { "option id": 4, "text": "Camellia", "is correct": false }
+      ],
+      "answer": "T'u"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the modern Chinese character specifically developed to refer to tea?",
+      "options": [
+        { "option id": 1, "text": "T'u", "is correct": false },
+        { "option id": 2, "text": "Ch'a", "is correct": true },
+        { "option id": 3, "text": "Chai", "is correct": false },
+        { "option id": 4, "text": "Shikuya", "is correct": false }
+      ],
+      "answer": "Ch'a"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which word is used in English specifically to refer to China tea?",
+      "options": [
+        { "option id": 1, "text": "Ch'a", "is correct": true },
+        { "option id": 2, "text": "Chai", "is correct": false },
+        { "option id": 3, "text": "Chaha", "is correct": false },
+        { "option id": 4, "text": "T'u", "is correct": false }
+      ],
+      "answer": "Ch'a"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The Hindi word 'chai' is used all over India to refer to ________.",
+      "options": [
+        { "option id": 1, "text": "Water", "is correct": false },
+        { "option id": 2, "text": "Tea", "is correct": true },
+        { "option id": 3, "text": "Coffee", "is correct": false },
+        { "option id": 4, "text": "Medicine", "is correct": false }
+      ],
+      "answer": "Tea"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "According to historians, how was tea known in India since ancient times?",
+      "options": [
+        { "option id": 1, "text": "As a popular drink", "is correct": false },
+        { "option id": 2, "text": "As a medicinal plant", "is correct": true },
+        { "option id": 3, "text": "As a holy plant", "is correct": false },
+        { "option id": 4, "text": "As an unwanted weed", "is correct": false }
+      ],
+      "answer": "As a medicinal plant"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "When did the British begin to establish tea plantations in India?",
+      "options": [
+        { "option id": 1, "text": "17th century", "is correct": false },
+        { "option id": 2, "text": "18th century", "is correct": false },
+        { "option id": 3, "text": "19th century", "is correct": true },
+        { "option id": 4, "text": "20th century", "is correct": false }
+      ],
+      "answer": "19th century"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "In the 1770s, the British East India Company unsuccessfully tried to grow tea in which regions?",
+      "options": [
+        { "option id": 1, "text": "Nilgiris and Darjeeling", "is correct": false },
+        { "option id": 2, "text": "Bhutan and Assam", "is correct": true },
+        { "option id": 3, "text": "China and Japan", "is correct": false },
+        { "option id": 4, "text": "Kerala and Tamil Nadu", "is correct": false }
+      ],
+      "answer": "Bhutan and Assam"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Where did Robert Bruce find tea plants growing wild in 1823?",
+      "options": [
+        { "option id": 1, "text": "Lower Ganges valley", "is correct": false },
+        { "option id": 2, "text": "Upper Brahmaputra valley", "is correct": true },
+        { "option id": 3, "text": "Himalayan foothills", "is correct": false },
+        { "option id": 4, "text": "Nilgiri hills", "is correct": false }
+      ],
+      "answer": "Upper Brahmaputra valley"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a claimed health benefit of tea?",
+      "options": [
+        { "option id": 1, "text": "Reducing the risk of cancer", "is correct": false },
+        { "option id": 2, "text": "Controlling blood pressure", "is correct": false },
+        { "option id": 3, "text": "Increasing body fat", "is correct": true },
+        { "option id": 4, "text": "Fighting viruses", "is correct": false }
+      ],
+      "answer": "Increasing body fat"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In which countries are tea ceremonies considered important social occasions?",
+      "options": [
+        { "option id": 1, "text": "Japan, China, Russia and Korea", "is correct": true },
+        { "option id": 2, "text": "USA, UK, Canada and Australia", "is correct": false },
+        { "option id": 3, "text": "Brazil, Mexico and Argentina", "is correct": false },
+        { "option id": 4, "text": "France, Germany and Italy", "is correct": false }
+      ],
+      "answer": "Japan, China, Russia and Korea"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In Japan, most people belong to a ________ where they take part in weekly tea ceremonies.",
+      "options": [
+        { "option id": 1, "text": "Social club", "is correct": false },
+        { "option id": 2, "text": "Tea club", "is correct": true },
+        { "option id": 3, "text": "Religious group", "is correct": false },
+        { "option id": 4, "text": "Garden society", "is correct": false }
+      ],
+      "answer": "Tea club"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What do ordinary people in some cultures consider tea ceremonies to be?",
+      "options": [
+        { "option id": 1, "text": "Boring meetings", "is correct": false },
+        { "option id": 2, "text": "Spiritual occasions", "is correct": true },
+        { "option id": 3, "text": "Political events", "is correct": false },
+        { "option id": 4, "text": "Fashion shows", "is correct": false }
+      ],
+      "answer": "Spiritual occasions"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "According to the passage, tea reduces loneliness and ________.",
+      "options": [
+        { "option id": 1, "text": "Heats the body", "is correct": false },
+        { "option id": 2, "text": "Calms your heart", "is correct": true },
+        { "option id": 3, "text": "Makes you sleep", "is correct": false },
+        { "option id": 4, "text": "Increases hunger", "is correct": false }
+      ],
+      "answer": "Calms your heart"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "In which country do people half-fill tea cups as a sign of friendship?",
+      "options": [
+        { "option id": 1, "text": "Russia", "is correct": false },
+        { "option id": 2, "text": "China", "is correct": true },
+        { "option id": 3, "text": "India", "is correct": false },
+        { "option id": 4, "text": "Vietnam", "is correct": false }
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is a 'samovar'?",
+      "options": [
+        { "option id": 1, "text": "A Japanese tea bowl", "is correct": false },
+        { "option id": 2, "text": "A special Russian tea kettle", "is correct": true },
+        { "option id": 3, "text": "A type of tea leaf", "is correct": false },
+        { "option id": 4, "text": "A Vietnamese tea cup", "is correct": false }
+      ],
+      "answer": "A special Russian tea kettle"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which special varieties of tea does Vietnam produce?",
+      "options": [
+        { "option id": 1, "text": "Ginger and cardamom tea", "is correct": false },
+        { "option id": 2, "text": "Lotus tea and jasmine tea", "is correct": true },
+        { "option id": 3, "text": "Lemon and honey tea", "is correct": false },
+        { "option id": 4, "text": "Milk and sugar tea", "is correct": false }
+      ],
+      "answer": "Lotus tea and jasmine tea"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is 'matcha'?",
+      "options": [
+        { "option id": 1, "text": "A type of tea pot", "is correct": false },
+        { "option id": 2, "text": "Powdered green tea used in Japan", "is correct": true },
+        { "option id": 3, "text": "A bamboo whisk", "is correct": false },
+        { "option id": 4, "text": "A tea ceremony rule", "is correct": false }
+      ],
+      "answer": "Powdered green tea used in Japan"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "In Japan, a ________ is used to mix tea with boiled water.",
+      "options": [
+        { "option id": 1, "text": "Metal spoon", "is correct": false },
+        { "option id": 2, "text": "Bamboo whisk", "is correct": true },
+        { "option id": 3, "text": "Wooden stirrer", "is correct": false },
+        { "option id": 4, "text": "Plastic straw", "is correct": false }
+      ],
+      "answer": "Bamboo whisk"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "In India, a cup of tea is offered to any visitor as a token of ________.",
+      "options": [
+        { "option id": 1, "text": "Payment", "is correct": false },
+        { "option id": 2, "text": "Hospitality", "is correct": true },
+        { "option id": 3, "text": "Friendship", "is correct": false },
+        { "option id": 4, "text": "Reward", "is correct": false }
+      ],
+      "answer": "Hospitality"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is often added to tea in India during the rainy season for medicinal properties?",
+      "options": [
+        { "option id": 1, "text": "Sugar", "is correct": false },
+        { "option id": 2, "text": "Ginger", "is correct": true },
+        { "option id": 3, "text": "Jasmine", "is correct": false },
+        { "option id": 4, "text": "Ice", "is correct": false }
+      ],
+      "answer": "Ginger"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of these spices are mentioned as being added to tea in India for flavor?",
+      "options": [
+        { "option id": 1, "text": "Salt and pepper", "is correct": false },
+        { "option id": 2, "text": "Cardamom, cloves or mace", "is correct": true },
+        { "option id": 3, "text": "Cumin and turmeric", "is correct": false },
+        { "option id": 4, "text": "Chilli and mustard", "is correct": false }
+      ],
+      "answer": "Cardamom, cloves or mace"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "A tea connoisseur is a person who ________.",
+      "options": [
+        { "option id": 1, "text": "Grows tea", "is correct": false },
+        { "option id": 2, "text": "Relishes and knows a lot about tea", "is correct": true },
+        { "option id": 3, "text": "Sells tea packets", "is correct": false },
+        { "option id": 4, "text": "Fixes tea machines", "is correct": false }
+      ],
+      "answer": "Relishes and knows a lot about tea"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of these is a compound word found in the passage?",
+      "options": [
+        { "option id": 1, "text": "Tea", "is correct": false },
+        { "option id": 2, "text": "Evergreen", "is correct": true },
+        { "option id": 3, "text": "Botanical", "is correct": false },
+        { "option id": 4, "text": "Aromatic", "is correct": false }
+      ],
+      "answer": "Evergreen"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is an 'infinitive' in grammar?",
+      "options": [
+        { "option id": 1, "text": "A verb that shows tense", "is correct": false },
+        { "option id": 2, "text": "A non-finite verb form usually used with 'to'", "is correct": true },
+        { "option id": 3, "text": "A plural subject", "is correct": false },
+        { "option id": 4, "text": "A punctuation mark", "is correct": false }
+      ],
+      "answer": "A non-finite verb form usually used with 'to'"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the synonym for 'aromatic'?",
+      "options": [
+        { "option id": 1, "text": "Sharp", "is correct": false },
+        { "option id": 2, "text": "Fragrant / having a pleasant smell", "is correct": true },
+        { "option id": 3, "text": "Tasteless", "is correct": false },
+        { "option id": 4, "text": "Bitter", "is correct": false }
+      ],
+      "answer": "Fragrant / having a pleasant smell"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the most popular beverage in the world after water?",
+      "answer": "Tea is the most popular and widely consumed beverage in the world after water."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "State the botanical name of the tea plant.",
+      "answer": "The botanical name of the tea plant is Camellia sinensis."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "In what kind of climate does the Camellia sinensis plant grow?",
+      "answer": "It is an evergreen plant that grows in tropical and sub-tropical climates."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are the specific environmental requirements for tea plants to thrive?",
+      "answer": "Tea plants require at least 100-125 cm of annual rainfall and prefer acidic soils."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why are many of the best tea estates located on hill slopes?",
+      "answer": "They are located on slopes at elevations up to 1500 metres because tea plants grow slowly and develop a richer flavour at this height."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by 'flushes' in tea cultivation?",
+      "answer": "'Flushes' refers to the top 1-2 inches of the plant (buds and leaves) that are picked once the plant matures."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are tea plants pruned to a height of about three feet?",
+      "answer": "They are pruned and kept at waist height to enable the workers to pluck the leaves easily."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How are teas usually classified in the market?",
+      "answer": "Teas are usually classified according to the size of their leaves."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the three types of tea based on leaf size classification.",
+      "answer": "The three types are Assam (largest leaves), China (smallest leaves), and Cambod (intermediate size)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which three regions in India are famous for producing distinct types of tea?",
+      "answer": "The three distinct tea-growing regions are Darjeeling, Assam, and Nilgiris."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are the stimulating components found in tea?",
+      "answer": "Theanine and caffeine give tea its special flavour and stimulating quality."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Describe the Chinese legend of Emperor Shennong discovering tea.",
+      "answer": "According to legend, leaves from a nearby tree blew into water being boiled for the Emperor; he found the resulting infusion delicious and refreshing ."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What restorative properties did Emperor Shennong discover about tea?",
+      "answer": "He discovered that tea had healing properties and could act as an antidote to certain poisons."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did the Buddhist monk Bodhidharma use tea leaves?",
+      "answer": "He chewed tea leaves as a stimulant to help him stay awake and alert for long periods of prayer and meditation."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How did tea seeds and leaves reach Japan from China?",
+      "answer": "Japanese priests studying under Buddhist teachers in China carried tea seeds and leaves back to their home country."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was the consequence of Emperor Hui Tsung being too 'tea minded'?",
+      "answer": "He was so occupied with tea research and tournaments that he failed to notice Mongolia taking over his empire."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Explain the origin of the modern word 'ch'a'.",
+      "answer": "The character 't'u' was first used, but later a specific character 'ch'a' was developed to refer specifically to tea."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "When did tea drinking for pleasure become popular in India?",
+      "answer": "Tea was not drunk for pleasure in India until the British began establishing plantations in the 19th century."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What did the botanist Robert Bruce discover in 1823?",
+      "answer": "He discovered tea plants growing wild in the Upper Brahmaputra valley."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are flavonoids and what is their function in tea?",
+      "answer": "Flavonoids are antioxidants found in tea that scientists believe help protect our body system against free radicals ."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why are tea cups only half-filled in Chinese tea ceremonies?",
+      "answer": "They are half-filled because the Chinese believe the rest of the cup must be filled with friendship and affection "
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is 'matcha' and how is it prepared in Japan?",
+      "answer": "'Matcha' is powdered green tea mixed with boiled water using a bamboo whisk and served in small bowls."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How is tea typically served to guests in India?",
+      "answer": "It is offered as a token of hospitality, usually hot with a good deal of milk and sugar."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What ingredients are added to Indian tea to enhance its medicinal properties or flavour?",
+      "answer": "Indians often add ginger for medicinal use, or spices like cardamom, cloves, and mace for flavour."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a 'samovar' and which country uses it?",
+      "answer": "A samovar is a special metal tea kettle used in Russia to make and serve tea[ 617]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is a compound word as described in the Language Study section?",
+      "answer": "A compound word is formed when two words come together to create a new word with a new meaning."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Give three examples of compound words found in the passage.",
+      "answer": "Three examples of compound words from the text are 'evergreen', 'blood pressure', and 'everyday'."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are the three common ways compound words are written?",
+      "answer": "Compound words can be written as one word (teapot), with a hyphen (tea-making), or as two separate words (tea club)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Define a 'non-finite' form or an 'infinitive' verb.",
+      "answer": "A non-finite form or infinitive is a verb that names an action but does not change according to tense, number, or person."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How is an infinitive typically used in a sentence?",
+      "answer": "An infinitive is typically used with the word 'to', though it can sometimes be used without it."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Identify the infinitive in the sentence: 'How did people first begin to drink tea?'",
+      "answer": "The infinitive in this sentence is 'to drink'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Identify the infinitive used without 'to' in the sentence: 'Can you name the beverage?'",
+      "answer": "The infinitive in this sentence is 'name'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What does the word 'infusion' mean in the context of making tea?",
+      "answer": "'Infusion' refers to the liquid resulting from brewing or steeping plant materials like tea leaves in boiling water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are 'free radicals' and how do they affect the body?",
+      "answer": "Free radicals are chemicals produced by the body that can damage health and body systems."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How does tea help protect the body against free radicals?",
+      "answer": "Tea contains antioxidants called flavonoids, which scientists believe help protect our system from the damage caused by free radicals."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What health benefits do tea lovers claim the drink provides?",
+      "answer": "Tea lovers claim it can reduce cancer risk, control blood pressure, fight viruses, and help people live longer."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'restorative'?",
+      "answer": "'Restorative' refers to something that has the power to restore health, strength, or a sense of well-being."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who are tea 'connoisseurs'?",
+      "answer": "Tea connoisseurs are experts or people who have a great deal of knowledge and appreciation for the delicate flavours of various teas."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Name some geographical places mentioned in the passage outside of India.",
+      "answer": "Geographical places mentioned include China, Japan, Russia, Korea, Vietnam, and Mongolia."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is unique about Vietnamese tea production?",
+      "answer": "Vietnam is known for producing special varieties like lotus tea and jasmine tea."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Describe the spiritual significance of tea ceremonies in some cultures.",
+      "answer": "For many, tea ceremonies are spiritual occasions closely associated with religion that provide time to relax and enjoy the tea's qualities."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What do the Chinese believe should fill the 'empty' half of a tea cup?",
+      "answer": "The Chinese believe the remaining half of the cup must be filled with friendship and affection."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How is 'matcha' mixed in a Japanese tea ceremony?",
+      "answer": "Powdered 'matcha' green tea is mixed with boiled water using a traditional bamboo whisk [ 619-620]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the cultural importance of tea in Indian households?",
+      "answer": "In India, offering a cup of tea to any guest or visitor is a fundamental token of hospitality[ 621]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is ginger added to tea in India during the rainy season?",
+      "answer": "Ginger is added during the rainy season to give the tea additional medicinal properties[ 623]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Name three spices Indians commonly add to tea for flavour.",
+      "answer": "Indians commonly add spices like cardamom, cloves, and mace[ 624]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "When is tea considered a 'must' for most Indians?",
+      "answer": "Tea is considered a 'must' after eating a plate of spicy snacks, especially in the mornings and evenings[ 625]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are the qualities that make each Indian tea region's produce unique?",
+      "answer": "The tea from each region is unique in its taste, aroma, strength, and flavour[ 561]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How are tea plants described in terms of their growth on hill slopes?",
+      "answer": "Tea plants grow slowly at high elevations (up to 1500 metres), which allows them to acquire a richer flavour[ 552]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What happens to a tea plant if it is not pruned?",
+      "answer": "If left to grow on its own without pruning, a tea plant may actually grow into a small tree[ 555]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does the term 'intermediate size' refer to in the classification of tea?",
+      "answer": "In tea classification, intermediate size refers to the Cambod type of tea, whose leaves are between the large Assam type and small China type in size[ 559]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which region in South India is famous for producing tea unique in taste and aroma?",
+      "answer": "The Nilgiris in South India is the region famous for producing tea with a unique taste, aroma, and flavour[ 564]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What nutritional components are entirely absent in tea?",
+      "answer": "Tea contains no carbohydrates, fat, or proteins[ 565]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Mention the two chemicals in tea that provide a stimulating quality.",
+      "answer": "Theanine and caffeine are the two components that give tea its stimulating quality and distinctive flavour[ 566]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who is traditionally considered the father of Chinese medicine?",
+      "answer": "Emperor Shennong is considered the father of both Chinese agriculture and medicine according to legends[ 569]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "In the Chinese legend, what was the servant doing when the tea discovery happened?",
+      "answer": "The servant was boiling some water for Emperor Shennong to drink when leaves from a nearby tree blew into the pot [ 569-570]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why was Emperor Shennong amazed upon drinking the water with leaves in it?",
+      "answer": "He was amazed by the rich flavour and refreshing quality of the infusion created by the accidental addition of leaves[ 571]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "According to legend, what restorative property did tea possess?",
+      "answer": "Tea was discovered to have healing properties and could also be used as an antidote to certain poisons[ 572]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why did Bodhidharma want a medicinal plant that acted as a stimulant?",
+      "answer": "He wanted a plant that would help him stay awake and alert for long periods of time during prayer and meditation[ 574]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did tea spread among Bodhidharma's disciples in China?",
+      "answer": "Bodhidharma introduced the practice of using tea as a stimulant among his disciples after finding that chewing tea leaves helped him stay awake [ 575-576]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who carried tea seeds and leaves back home to Japan from China?",
+      "answer": "Japanese priests who were studying under Buddhist teachers in China carried the seeds and leaves back home[ 577]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "With whom did Turkish traders begin to bargain for tea?",
+      "answer": "Turkish traders began to bargain for tea on the border of Mongolia[ 578]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What tournaments did Emperor Hui Tsung host in his court?",
+      "answer": "He hosted tea-making and tea-tasting tournaments in his court[ 579]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did 'tea mindedness' affect Emperor Hui Tsung's governance?",
+      "answer": "He was so obsessed with tea that he failed to notice Mongolia taking over his empire[ 580]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What was the original Chinese character used to describe tea?",
+      "answer": "The character 't’u' was first used in early inscriptions to describe tea[ 593]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Which language uses the word 'chai' to refer to tea across India?",
+      "answer": "Hindi is the language that uses 'chai' to refer to tea all over India[ 596]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why wasn't tea drunk for pleasure in India until the 19th century?",
+      "answer": "Until the British established plantations, tea was primarily known in India as a medicinal plant rather than a beverage for pleasure[ 597]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "When were the first attempts made by the British to grow tea in Bhutan and Assam?",
+      "answer": "The British East India Company made several unsuccessful attempts to grow tea in those regions in the 1770s[ 598]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What did Robert Bruce discover growing wild in 1823?",
+      "answer": "He discovered tea plants growing wild in the Upper Brahmaputra valley[ 599]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "In what month and year was the first Indian tea sent to England for sale?",
+      "answer": "The first Indian tea from Assam was sent to England for public sale in May 1838[ 600]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What chemical damage can free radicals cause to the human body?",
+      "answer": "Free radicals produced by the body can damage the body and overall health[ 603]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Name the antioxidants found in tea that protect our system.",
+      "answer": "Tea contains antioxidants called flavonoids, which help protect the body system against free radicals [ 603-604]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why do people in Japan, China, Russia, and Korea have tea ceremonies?",
+      "answer": "These ceremonies are held as social traditions to give people time to relax and enjoy the taste and smell of tea [ 607-608]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is the significance of half-filling a cup in Chinese tea traditions?",
+      "answer": "The Chinese half-fill cups because they believe the remaining space must be filled with friendship and affection [ 615-616]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How is Indian tea typically brewed during the rainy season for health benefits?",
+      "answer": "During the rainy season, tea is often brewed with ginger to give it additional medicinal properties[ 623]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What are the three distinct and different tea-growing regions in India?",
+      "answer": "The three distinct regions are Darjeeling in North-Eastern India, Assam in far North-East India, and Nilgiris in South India [ 560-564]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Does tea contain any fats or proteins?",
+      "answer": "No, tea is a refreshing drink that contains no carbohydrates, fat, or proteins[ 565]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which chemicals provide tea with its stimulating quality?",
+      "answer": "Tea's special flavour and stimulating quality are provided by theanine and caffeine[ 566]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Who was Emperor Shennong according to Chinese legends?",
+      "answer": "Emperor Shennong is known in Chinese legends as the father of Chinese agriculture and medicine[ 569]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did Emperor Shennong accidentally discover tea?",
+      "answer": "While a servant was boiling water, leaves from a nearby tree blew into it, changing the water's colour and creating a rich, refreshing flavour [ 569-571]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What did Emperor Shennong find out about tea after his investigations?",
+      "answer": "He discovered that tea had healing and restorative properties and could even be used as an antidote to certain poisons[ 572]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What was the monk Bodhidharma looking for when he used tea?",
+      "answer": "He was looking for a medicinal plant that would help him stay awake and alert for long periods of prayer and meditation[ 574]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How did Bodhidharma use the tea shrub?",
+      "answer": "He found that chewing leaves from the tea shrub acted as a stimulant and helped him stay awake[ 575]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How did tea seeds and leaves first reach Japan?",
+      "answer": "Japanese priests studying under Buddhist teachers in China carried tea seeds and leaves back to Japan with them[ 577]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What research did the 'tea minded' Emperor Hui Tsung set up?",
+      "answer": "He set up research into the best tea-whisking methods and hosted tea-making and tea-tasting tournaments in his court[ 579]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was the consequence of Emperor Hui Tsung's obsession with tea?",
+      "answer": "He was so obsessed with tea that he failed to notice Mongolia had actually taken over his empire[ 580]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Which Chinese character was originally used to describe tea in early inscriptions?",
+      "answer": "The Chinese character 't'u' was first used in early inscriptions to describe tea[ 593]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is the relation between the word 'ch'a' and the Hindi word 'chai'?",
+      "answer": "The modern Chinese character 'ch'a' is very close to the Hindi word 'chai', which is used across India to refer to tea[ 594, 596]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How was tea regarded in India before the British established plantations?",
+      "answer": "Historians believe tea had been known in India primarily as a medicinal plant since ancient times[ 597]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What did botanist Robert Bruce discover in 1823?",
+      "answer": "He discovered tea plants growing wild in the Upper Brahmaputra valley[ 599]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "When was the first Indian tea from Assam sent to England for sale?",
+      "answer": "The first Indian tea from Assam was sent to England for public sale in May 1838[ 600]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What health claims do tea lovers make regarding the beverage?",
+      "answer": "They claim tea can reduce the risk of cancer, control blood pressure, fight viruses, and help people live longer[ 602]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What are flavonoids?",
+      "answer": "Flavonoids are antioxidants found in tea that scientists believe help protect our body system against damage from free radicals [ 603-604]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Which countries have special tea ceremonies and traditions?",
+      "answer": "Japan, China, Russia, and Korea have special tea ceremonies and traditions where people relax and enjoy the tea [ 607-608]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is 'matcha' and how is it prepared?",
+      "answer": "Matcha is powdered green tea used in Japan, mixed with boiled water using a bamboo whisk and served in small bowls [ 619-620]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How is tea typically offered in Indian homes?",
+      "answer": "In India, tea is offered to any guest or visitor as a token of hospitality, even in the humblest of homes[ 621]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is ginger added to tea in the rainy season in India?",
+      "answer": "In India, tea is brewed with ginger during the rainy season to give it additional medicinal properties[ 623]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Name some spices Indians add to their tea.",
+      "answer": "Indians commonly add spices like cardamom, cloves, or mace to enhance the tea's taste and flavour[ 624]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is a 'samovar' in Russian culture?",
+      "answer": "In Russia, a samovar is a special metal tea kettle used to make and serve tea[ 617]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is an 'infinitive' in grammar?",
+      "answer": "An infinitive is a non-finite verb form that names an action but does not change according to tense, number, or person, often used with or without 'to' [ 667-668]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the ideal environmental conditions required for the growth of tea plants.",
+      "answer": "Tea plants, botanically known as Camellia sinensis, are evergreen and thrive in tropical and sub-tropical climates[ 548, 550]. They require a significant amount of moisture, specifically at least 100-125 cm of rainfall annually[ 551]. Furthermore, these plants prefer acidic soils to grow effectively and produce high-quality leaves[ 551]. Many of the world's most renowned tea estates are situated on hill slopes at elevations reaching up to 1500 metres[ 552]. At these heights, the plants grow more slowly, which is said to allow the leaves to acquire a much richer and more distinctive flavour[ 552]. Therefore, a combination of specific rainfall, soil acidity, and high altitude is essential for the best tea production."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the process of harvesting tea leaves and the importance of pruning.",
+      "answer": "The harvesting of tea begins once the plants have matured, and only the top 1-2 inches of the plant, known as flushes, are picked [ 553-554]. A new flush typically appears on the plant every seven to ten days during the peak growing season[ 554]. If left to grow naturally without intervention, a tea plant can actually grow into a small tree[ 555]. To prevent this and facilitate efficient harvesting, plants in tea gardens are regularly pruned[ 556]. They are maintained at a height of about three feet, which is roughly waist-high for most workers[ 556]. This specific height allows the workers to pluck the tender leaves easily and consistently throughout the season."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the classification of tea based on leaf size and the three distinct regions in India.",
+      "answer": "Teas are commonly classified in the market according to the size of their leaves, resulting in three main types: Assam, China, and Cambod [ 557-559]. The Assam type is known for having the largest leaves, while the China type is characterized by the smallest ones [ 558-559]. The Cambod type features leaves of an intermediate size between the other two[ 559]. In India, there are three famous and distinct tea-growing regions: Darjeeling, Assam, and the Nilgiris [ 560-564]. Each of these regions produces a special type of tea that is unique in its taste, aroma, strength, and overall flavour[ 561]. These differences in region and leaf type contribute to the wide variety of tea available to consumers."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Relate the legend of Emperor Shennong and how he discovered the beverage of tea.",
+      "answer": "According to Chinese legend, tea was discovered accidentally by Emperor Shennong, the father of Chinese agriculture and medicine [ 568-569]. While traveling, he asked a servant to boil some water for him to drink[ 569]. During this process, a few leaves from a nearby tree blew into the boiling water, causing it to change colour immediately[ 570]. Upon drinking the infusion, the emperor was amazed by its rich flavour and the refreshing quality it provided[ 571]. This experience prompted him to carry out further investigations into the plant's properties[ 572]. He eventually discovered that tea had many healing and restorative properties and could even serve as an antidote to certain poisons[ 572]."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe the legend of Bodhidharma and his contribution to the spread of tea.",
+      "answer": "Another popular legend attributes the first use of tea as a drink to a Buddhist monk named Bodhidharma[ 573]. He was searching for a medicinal plant or herb that would help him stay awake and alert during long sessions of prayer and meditation[ 574]. After extensive searching and trials, he discovered that chewing leaves from the tea shrub acted as a powerful stimulant[ 575]. This discovery allowed him to maintain his focus and alertness for extended periods[ 575]. Following his successful use of the plant, he introduced tea to his disciples in China[ 576]. This practice eventually spread as Japanese priests studying in China carried tea seeds and leaves back to their home country[ 577]."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Discuss the history of tea in India and how it transitioned from medicine to a popular drink.",
+      "answer": "Historians believe that tea was known in India primarily as a medicinal plant since ancient times[ 597]. However, it was not consumed for pleasure until the British began to establish large-scale plantations in the 19th century[ 597]. In the 1770s, the British East India Company made several unsuccessful attempts to grow tea in Bhutan and Assam using seeds from China[ 598]. A major breakthrough occurred in 1823 when botanist Robert Bruce discovered tea plants growing wild in the Upper Brahmaputra valley[ 599]. By May 1838, the first batch of Indian tea from Assam was sent to England for public sale[ 600]. Since that time, India has grown to become one of the leading global producers of tea[ 601]."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the scientific and health-related benefits of drinking tea.",
+      "answer": "Tea is considered a healthy drink because it contains no carbohydrates, fat, or proteins, making it a pure beverage[ 565]. It contains chemicals called theanine and caffeine, which provide the drink with its characteristic stimulating quality[ 566]. Additionally, tea is rich in antioxidants known as flavonoids, which are believed to protect the body against free radicals [ 603-604]. Scientists believe these antioxidants can help protect our biological systems from damage caused by harmful chemicals[ 604]. Many tea lovers claim that regular consumption can reduce cancer risk, control blood pressure, and fight viruses[ 602]. Some even believe that the healing properties of tea can help individuals live longer and healthier lives[ 602]."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe the cultural significance and traditions associated with tea ceremonies in various countries.",
+      "answer": "In many countries such as Japan, China, Russia, and Korea, tea drinking is treated as an important social and cultural occasion [ 606-607]. Special tea ceremonies and traditions exist to give people the time to relax and fully appreciate the taste and aroma of the tea[ 608]. For many people, these ceremonies are spiritual occasions that are closely linked to their religious beliefs[ 611]. In Japan, people often belong to 'tea clubs' where they meet weekly to participate in these ceremonies[ 609]. In Korea, tea ceremonies are still held for significant life events, including special birthdays and anniversaries[ 614]. These traditions highlight tea as more than just a beverage, portraying it as a symbol of comfort and community[ 613]."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Compare the different ways tea is prepared and served in China, Russia, and Japan.",
+      "answer": "Tea preparation varies significantly across different cultures, with each having unique tools and methods. In most areas of China, tea is traditionally brewed in small clay teapots and served in cups that are only half-filled[ 615]. In Russia, tea is made and served using a samovar, which is a special metal tea kettle[ 617]. Japan has a distinct tradition using powdered green tea called 'matcha,' which is mixed with boiled water using a bamboo whisk [ 619-620]. While the Chinese emphasize the space in the cup for friendship, the Japanese serve tea in small bowls after careful mixing[ 616, 620]. These different methods reflect the diverse cultural values and aesthetic preferences associated with the beverage."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "How is tea viewed and prepared as a token of hospitality in India?",
+      "answer": "In India, offering a cup of tea to a guest or visitor is considered a fundamental token of hospitality in every home[ 621]. Most Indians prefer their tea served hot and prepared with a generous amount of milk and sugar[ 622]. During the rainy season, it is often brewed with ginger to provide additional medicinal properties to the drinker[ 623]. Many people also add various spices like cardamom, cloves, or mace to enhance the taste and aroma of the brew[ 624]. It is common practice to have tea after consuming a plate of spicy snacks, particularly in the mornings and evenings[ 625]. This deep-rooted habit makes tea an integral part of the daily social fabric and domestic life in India."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the origin of the words 'tea', 'ch'a', and 'chai' according to the text.",
+      "answer": "The naming of the magical beverage has evolved through different characters and languages over time. Initially, the Chinese character 't'u' was used in early inscriptions to describe tea plants[ 593]. Later, a specific new character called 'ch'a' was developed to refer exclusively to tea[ 594]. In English, the word 'ch'a' is sometimes still used today to refer specifically to tea from China[ 595]. This word is very similar to the Hindi word 'chai,' which is used throughout India to identify the drink[ 596]. Similarly, the Marathi word 'chaha' is also derived from these ancient roots[ 588]. These linguistic connections show how the habit of tea drinking spread globally from its Chinese origins."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Discuss the difference between 'legends' and 'history' as presented in the context of tea.",
+      "answer": "The text presents both amusing legends and recorded historical facts to explain the origins of tea. Legends, like the stories of Emperor Shennong and Bodhidharma, are traditional stories that may not have documented evidence but carry cultural meaning[ 568, 573, 586]. In contrast, history is based on recorded events, such as the 19th-century establishment of plantations by the British[ 589, 597]. The text distinguishes between claims made by oral traditions and facts supported by historical figures like Robert Bruce[ 590, 599]. While legends provide an entertaining narrative about how tea was first tasted, history tracks its economic and global spread[ 568, 592]. Understanding both allows for a more complete picture of how tea became the world's most popular beverage."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Analyze the role of theanine and caffeine in tea and their effects on the human body.",
+      "answer": "Theanine and caffeine are the two most critical chemical components that define the experience of drinking tea[ 566]. These substances are responsible for giving tea its unique and distinctive flavour that many people enjoy[ 566]. Beyond taste, they provide the drink with its well-known stimulating quality, helping the drinker feel more alert[ 566]. This is why people like to begin their day with a fresh, aromatic brew to feel refreshed[ 547]. Historical figures like Bodhidharma specifically sought out tea because of these stimulating properties for meditation [ 574-575]. While they provide energy, tea remains a healthy choice as it lacks the fats and sugars found in many other beverages[ 565]. Thus, these chemicals make tea a functional and enjoyable part of daily life."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Describe the journey of tea from a wild plant to a packaged product sold in shops.",
+      "answer": "The journey of tea begins on plantations, where Camellia sinensis plants are carefully cultivated and pruned [ 556, 654-656]. Once the plants mature, only the top flushes are hand-picked to ensure the highest quality of leaves[ 553]. After plucking, the fresh leaves undergo a series of steps including drying, curing, and processing [ 549, 657-658]. These processes are essential to develop the tea's final flavour profile and preserve it for transport[ 549]. Once the processing is complete, the tea is sorted, graded, and finally packed into containers for distribution[ 549]. Finally, the finished product is sold to consumers in shops around the world to be enjoyed as a brew [ 549, 659-661]. This complex chain ensures that the natural qualities of the leaf are maintained."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What is the importance of 'word webs' and 'associations' when studying beverages like tea?",
+      "answer": "Using word webs is an effective way to explore the various associations and sensory experiences connected to beverages[ 507]. When creating a web for tea, students can think of describing words related to colour, quality, feel, aroma, and taste[ 520]. They can also include physical actions associated with drinking, such as 'sip', 'slurp', or 'gulp'[ 520]. Word webs help in expanding vocabulary by linking the main topic to related objects like spoons, straws, and ingredients [ 520-521]. Additionally, students can associate beverages with specific times of day, like 'morning', or settings like a 'beach' [ 522-523]. Comparing these webs with friends allows students to discover even more words and broaden their perspective[ 531]. It turns a simple drink into a rich subject for linguistic and creative study."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe the specific preparation of 'matcha' in a Japanese tea ceremony.",
+      "answer": "In Japan, a very special type of tea called 'matcha' is used during traditional tea ceremonies[ 619]. Unlike regular loose-leaf tea, matcha consists of finely powdered green tea leaves[ 619]. To prepare the drink, the powder is first added to a small bowl[ 620]. Then, boiled water is added, and the mixture is stirred vigorously using a traditional bamboo whisk[ 620]. This process creates a frothy and vibrant green beverage that is served directly in the bowl[ 620]. The ceremony itself is a spiritual occasion that provides participants with time to relax and reflect[ 608, 611]. Every step, from the whisking to the serving, is done with great care and respect for tradition."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "What are the common spices used in Indian tea and how do they impact the beverage?",
+      "answer": "Indian tea is renowned for its rich variety of flavors, often achieved by adding various kitchen spices[ 624, 630]. Common additions include ginger, which is particularly popular during the rainy season for its medicinal benefits[ 623]. Other widely used spices are cardamom, cloves, and mace, each adding its own unique aroma and taste[ 624]. These ingredients transform a simple cup of milk tea into a complex and stimulating aromatic brew[ 547, 622]. The use of these spices is often linked to the specific season or the health needs of the family[ 623]. This tradition of 'masala' tea reflects the diversity of Indian culinary habits and the medicinal value placed on herbs[ 597, 624]. It makes the Indian tea experience distinct from the simpler preparations found in other countries."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How does the text explain the economic importance of India in the global tea market?",
+      "answer": "The text highlights India as one of the most significant players in the global tea industry[ 601]. Since the first commercial sale of Assam tea in 1838, the country's production has grown tremendously[ 600]. Today, India is recognized as one of the leading producers of tea in the entire world[ 601]. The country boasts three famous growing regions—Darjeeling, Assam, and the Nilgiris—each producing world-class tea [ 560-564]. These regions contribute to a massive export market that serves tea lovers globally[ 561, 602]. The British establishment of plantations in the 19th century laid the groundwork for this massive economic sector[ 597]. Consequently, tea has become a major agricultural and economic pillar for the nation."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the Chinese tea tradition where cups are only half-filled.",
+      "answer": "In many areas of China, there is a beautiful tradition where tea cups are served only half-filled[ 615]. This practice is not due to a lack of tea, but rather carries a deep symbolic meaning[ 616]. The Chinese believe that while the bottom half of the cup is for the beverage, the top half must be filled with something else[ 616]. Specifically, they say the rest of the cup must be filled with friendship and affection for the guest[ 616]. This makes the act of serving tea a profound gesture of hospitality and social bonding[ 606]. It reminds both the host and the guest that the relationship is more important than the drink itself. This tradition perfectly illustrates how tea serves as a tool for connection in Chinese culture."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What is an 'infinitive' or 'non-finite' verb form, and how is it used in the passage?",
+      "answer": "The passage introduces the 'non-finite' or 'infinitive' form as a verb that names an action without changing its form [ 667-668]. Unlike finite verbs, an infinitive does not change based on the tense, number, or person of the subject[ 667]. It is most commonly used with the word 'to', such as in the phrase 'to drink tea' [ 668-669]. However, it can also appear without 'to', as seen in sentences like 'Can you name the beverage?' [ 668-669]. Examples found in the text include phrases like 'to read words' or 'to be or not to be' [ 671-672]. Understanding these forms helps students identify how actions are expressed generally in English grammar[ 662, 670]. It is a foundational concept for mastering more complex sentence structures."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic value of tea in Russian culture, focusing on the samovar.",
+      "answer": "In Russia, tea drinking is a central part of social life, characterized by the use of a unique tool called a samovar[ 607, 617]. A samovar is a special tea kettle traditionally made of metal and used for both making and serving the drink[ 617]. It often serves as a centerpiece during social gatherings, providing a constant supply of hot water for tea[ 606, 617]. The use of the samovar signifies the warmth and duration of Russian hospitality[ 608]. Drinking tea together around the samovar provides people with the time to relax and engage in long conversations[ 608]. This tradition makes the beverage a symbol of domestic comfort and community in a cold climate. It remains one of the most distinctive and recognizable tea traditions in the world."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How does the text describe the physical characteristics of the tea plant and its leaves?",
+      "answer": "The tea plant, Camellia sinensis, is described as an evergreen shrub that can grow into a small tree if left unpruned[ 550, 555]. It has different varieties characterized primarily by the size of their leaves[ 557]. The Assam type has the largest leaves, while the China type has the smallest ones [ 558-559]. The leaves are picked as 'flushes,' which are the tender top 1-2 inches of the plant including the buds [ 553-554]. These fresh leaves are aromatic and produce a brew with a refreshing, astringent flavour [ 547-548]. The variety in leaf size is a key factor in classifying the different teas sold to consumers[ 557]. This physical diversity leads to the wide range of tastes and aromas found in global tea regions."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Describe the medicinal history of tea in Korea and the occasions for its use.",
+      "answer": "In Korea, tea has a long history of being used for its health-giving and spiritual qualities[ 607, 612]. Koreans view tea as a healthy and stimulating drink that reduces loneliness and calms the heart [ 612-613]. Today, they still maintain traditional tea ceremonies for a variety of important life occasions[ 614]. These include celebrations for special birthdays, where honoring the elders is central to the tradition[ 614]. Tea is also a major part of anniversaries, serving as a comfort and a mark of respect in everyday life [ 613-614]. This shows that in Korean culture, tea is deeply intertwined with family values and the marking of time. It remains a respected and integral part of their cultural heritage."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "What role did Robert Bruce play in the history of Indian tea, and why was it significant?",
+      "answer": "Robert Bruce was a Scottish botanist who played a pivotal role in establishing the Indian tea industry[ 599]. In 1823, he made the groundbreaking discovery of tea plants growing wild in the Upper Brahmaputra valley of Assam[ 599]. This was significant because it proved that high-quality tea could be produced locally in India using indigenous plants[ 597]. Before this discovery, the British were unsuccessfully trying to grow tea using seeds imported from China[ 598]. His find paved the way for the first commercial sale of Indian tea in England in 1838[ 600]. This discovery effectively broke the Chinese monopoly on tea and led to India becoming a leading global producer[ 601]. Robert Bruce's work changed the economic history of the North-Eastern region of India forever."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'aromatic brew' and why it is used to describe tea at the start of the day.",
+      "answer": "The phrase 'aromatic brew' highlights the two most appealing sensory qualities of tea: its smell and its preparation[ 547]. 'Aromatic' refers to the pleasant, fragrant smell that greets the drinker even before the first sip[ 532, 547]. A 'brew' is a drink made by keeping the leaves in hot water for a period to extract their essence [ 533-537]. Many people like to begin their day with this drink because the refreshing aroma and stimulating caffeine help wake up the senses[ 547, 566]. It provides a comforting and invigorating ritual that sets a positive tone for the rest of the day[ 613]. The text suggests that after water, this aromatic experience is what people seek most globally [ 546-547]. Thus, tea is not just a liquid, but a sensory experience that millions rely on every morning."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'flushes' in the cultivation and quality of tea.",
+      "answer": "In tea cultivation, 'flushes' refer to the tender top 1-2 inches of the plant, consisting of buds and leaves, that are picked once the plant matures [ 553-554]. During the peak growing season, a new flush appears on the Camellia sinensis plant approximately every seven to ten days[ 554]. Plucking these specific parts is crucial because they contain the highest concentration of theanine and caffeine, which give the drink its stimulating quality[ 566]. These tender leaves are more aromatic and yield a much better flavour compared to older, larger leaves. The frequency of flushes determines the harvest cycles and the overall productivity of a tea estate. Therefore, understanding the timing of flushes is essential for maintaining the high quality of packaged tea sold to consumers."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "How does the elevation of a tea estate affect the characteristics of the tea produced?",
+      "answer": "The altitude at which a tea estate is located plays a vital role in determining the final taste and aroma of the beverage. Many of the world's finest tea estates are situated on hill slopes at elevations reaching up to 1500 metres[ 552]. At these high altitudes, the cooler climate and unique environmental conditions cause the tea plants to grow more slowly. This slower growth period is significant because it allows the plants to acquire a much richer and more complex flavour profile[ 552]. Consequently, high-altitude teas, such as those from Darjeeling, are often more prized by connoisseurs for their delicate and unique aromatic qualities [ 561-562]. Thus, elevation is a key geographical factor in the production of premium quality tea."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Compare the Assam, China, and Cambod types of tea based on their leaf characteristics.",
+      "answer": "Teas are commonly classified according to the size of their leaves into three distinct types: Assam, China, and Cambod[ 557]. The Assam type is easily identified by having the largest leaves among the three varieties[ 558]. In contrast, the China type is characterized by having the smallest leaves, which often results in a different flavour profile[ 559]. The Cambod type serves as an intermediate variety, featuring leaves that fall between the sizes of the Assam and China types[ 559]. These physical differences are not just aesthetic; they influence how the leaves are processed and the strength of the resulting brew. Each type is suited to different growing conditions and contributes to the wide variety of tea available in the global market."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Describe the stimulating qualities of tea and the components responsible for them.",
+      "answer": "Tea is widely appreciated as a refreshing drink primarily because of its stimulating properties that help alert the mind. These qualities are attributed to two main chemical components found in the leaves: theanine and caffeine[ 566]. Caffeine acts as a natural stimulant that helps reduce fatigue and increase focus, which is why many people begin their day with a fresh brew[ 547]. Theanine works alongside caffeine to provide a calming yet alert state, contributing to the unique 'refreshing' feeling associated with tea[ 566]. Interestingly, tea contains no carbohydrates, fats, or proteins, making it a pure source of these stimulating elements[ 565]. Legends of figures like Bodhidharma highlight that these properties have been valued for centuries to maintain alertness during meditation [ 574-575]. This makes tea a functional beverage that supports both mental clarity and relaxation."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Discuss the role of Turkish traders and Japanese priests in the global spread of tea.",
+      "answer": "The spread of tea from its origins in China to other parts of the world was facilitated by different groups of travelers and traders. Japanese priests who were studying under Buddhist teachers in China played a major role by carrying tea seeds and leaves back home to Japan[ 577]. This introduced the tea culture to Japan, where it eventually evolved into elaborate ceremonies[ 609]. Simultaneously, Turkish traders began to bargain for tea on the border of Mongolia, helping the beverage move toward the west[ 578]. Through these early interactions, the habit of tea drinking eventually reached Europe and England, where it became a fashionable and popular drink[ 592]. These historical exchanges show how religious and commercial routes were instrumental in making tea a global phenomenon. Each culture that adopted it added its own unique traditions and methods of preparation."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Analyze the 'tea-minded' nature of Emperor Hui Tsung and its historical consequence.",
+      "answer": "Emperor Hui Tsung is a fascinating figure in the history of tea due to his extreme obsession with the beverage. He was so deeply involved in tea culture that he personally conducted research into the best tea-whisking methods[ 579]. Furthermore, he turned his royal court into a hub for tea by hosting grand tea-making and tea-tasting tournaments[ 579]. However, this intense focus on the 'art of tea' had a significant political downside for his empire. The text describes him as being so 'tea-minded' that he completely failed to notice the growing threat from his neighbors[ 580]. Consequently, while he was occupied with his tea research, Mongolia actually took over his entire empire[ 580]. This legend serves as a cautionary tale about how an over-obsession with a hobby can lead to the neglect of important responsibilities."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the linguistic evolution of the characters and words used to describe tea.",
+      "answer": "The terminology used for tea has undergone a significant transformation through various Chinese inscriptions and global languages. Initially, the early Chinese inscriptions used the character 't'u' to describe the tea plant[ 593]. As the beverage became more distinct, a new specific character, 'ch'a,' was developed to refer exclusively to tea[ 594]. This word 'ch'a' is still occasionally used in the English language today when referring specifically to China tea[ 595]. In India, this root word is clearly visible in the Hindi word 'chai,' which is used across the country[ 596]. Similarly, the Marathi word 'chaha' also shares this ancient linguistic origin[ 588]. This shared vocabulary across different cultures highlights the deep historical roots of tea as it traveled along global trade routes."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Why did the British East India Company's initial attempts to grow tea in India fail?",
+      "answer": "During the 1770s, the British East India Company made several attempts to establish tea cultivation in Bhutan and Assam[ 598]. These initial efforts were largely unsuccessful because the company relied on seeds brought all the way from China[ 598]. These foreign seeds may not have been well-suited to the local soil or the specific environmental conditions of the Indian regions at the time. It was not until 1823 that a major breakthrough occurred when botanist Robert Bruce discovered indigenous tea plants growing wild in the Upper Brahmaputra valley[ 599]. This proved that the local variety of Camellia sinensis was naturally adapted to the Indian climate and could be successfully cultivated. Thus, the shift from importing foreign seeds to using native wild plants was the key to India's eventual success in tea production."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the significance of May 1838 in the context of the Indian tea industry.",
+      "answer": "The month of May 1838 represents a pivotal moment in the history of Indian agriculture and global trade. It was during this time that the very first batch of Indian tea produced in Assam was sent to England for public sale[ 600]. This event was significant because it marked the transition of India from a place where tea grew wild to a formal, commercial producer for the international market. The success of this first sale proved that Indian tea could compete with the long-established Chinese tea industry. Since that historic sale, India has gone on to become one of the leading producers of tea in the entire world[ 601]. It effectively launched the massive plantation system that continues to be a major part of the Indian economy today. Therefore, 1838 is seen as the birth year of the modern Indian tea trade."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the relationship between free radicals and flavonoids found in tea.",
+      "answer": "The human body naturally produces chemicals known as free radicals, which have the potential to damage our health and internal systems[ 603]. To counteract this, scientists have found that tea contains powerful antioxidants called flavonoids[ 603]. It is widely believed that these flavonoids play a protective role by shielding our biological systems from the harmful effects of free radicals[ 604]. This chemical interaction is one of the primary reasons why tea is claimed to have long-term health benefits, such as reducing cancer risk and helping people live longer[ 602]. By neutralising free radicals, the antioxidants in tea support the body's natural defense mechanisms. This scientific basis adds weight to the traditional view of tea as a 'restorative' and 'healing' beverage[ 572, 645]. Thus, tea serves as a simple, daily way to provide the body with essential protective chemicals."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe the importance of 'tea clubs' and social gatherings in Japanese tea culture.",
+      "answer": "In Japan, tea is much more than just a beverage; it is the center of a highly organized social and cultural tradition. Most people in Japan belong to a 'tea club,' which serves as a dedicated space for practicing the art of tea[ 609]. Members of these clubs gather every week to participate in formal tea ceremonies together[ 609]. These ceremonies provide individuals with the time to relax, escape daily stress, and enjoy the delicate taste and smell of the tea[ 608]. The social aspect of these clubs fosters a sense of community and shared respect for ancient traditions. For many Japanese people, these gatherings are spiritual occasions that align with their religious beliefs[ 611]. This structured social interaction ensures that the cultural heritage of tea is preserved and passed down through generations."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain the role and symbolic meaning of the bamboo whisk in a Japanese tea ceremony.",
+      "answer": "The bamboo whisk is an essential and symbolic tool used specifically in the preparation of Japanese powdered green tea, known as matcha [ 619-620]. During the ceremony, this whisk is used to vigorously mix the tea powder with boiled water in small bowls[ 620]. The goal of using the whisk is to create a smooth, frothy infusion that ensures the tea is perfectly blended. Beyond its practical use, the bamboo whisk represents the care, precision, and hand-crafted nature of the traditional tea ceremony. Every movement made with the whisk is performed with mindfulness, reflecting the spiritual qualities of the occasion[ 611]. It highlights the Japanese aesthetic preference for simple, natural materials like bamboo in their rituals. This unique method of preparation distinguishes the Japanese tea experience from the brewing methods of other countries."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How is tea specifically prepared and valued in India during the rainy season?",
+      "answer": "In India, the preparation of tea often changes to reflect the needs of the season, particularly during the monsoon or rainy season. During this time, it is common practice to brew tea with fresh ginger[ 623]. Adding ginger is not just for taste; it is believed to give the beverage additional medicinal properties to help fight seasonal illnesses[ 623]. The warmth of the tea combined with the 'astringent' and sharp flavour of ginger provides a sense of comfort and protection against the damp weather[ 548]. This tradition highlights the dual nature of tea in India as both a refreshing beverage and a home remedy. Most Indians continue to enjoy this hot brew with a good deal of milk and sugar, making it a hearty and soothing drink[ 622]. Thus, 'ginger tea' becomes a seasonal staple in Indian households for both health and enjoyment."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss the tradition of having tea with spicy snacks in Indian culture.",
+      "answer": "A deeply ingrained habit in Indian culture is the consumption of tea immediately after enjoying a plate of spicy snacks[ 625]. This combination is especially popular during the morning and evening hours when people gather for a break[ 625]. The hot, sweet, and milky tea provides a perfect balance to the sharp and 'astringent' flavours of common Indian snacks[ 548, 622]. This practice makes tea an essential part of the social and culinary routine in most Indian homes. Whether it is a formal guest or a casual family gathering, tea and snacks are almost always served together as a sign of hospitality[ 621]. It turns a simple drink into a complete and satisfying social experience. This cultural pairing is one of the most recognizable aspects of daily life across the country."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze the use of 'non-finite' or 'infinitive' forms in the sentences provided in the text.",
+      "answer": "The text explains that an infinitive is a non-finite form of a verb that names an action but does not change based on tense, number, or person [ 667-668]. These forms are typically used with 'to,' such as in 'How did people first begin *to drink* tea?'[ 669]. However, they can also appear without 'to,' as seen in the question 'Can you *name* the beverage?'[ 669]. Examples from the Language Study section include phrases like 'It was funny *to read* words' and 'To be or not *to be*' [ 671-672]. These verbs remain constant even if the subject of the sentence changes, providing a way to express a general action or idea. Understanding these forms is vital for students to correctly identify actions that aren't tied to a specific time or subject. It is a foundational concept for mastering English sentence structures."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain the concept of compound words using examples related to the story of tea.",
+      "answer": "A compound word is created when two separate words come together to form a new word with a new meaning[ 664]. The text provides several examples of such words, including 'evergreen,' 'blood pressure,' and 'everyday'[ 665]. These words can be written in three different ways: as a single word like 'teapot,' with a hyphen like 'tea-making,' or as two separate words like 'tea club'[ 666]. For instance, 'tea' and 'pot' are two distinct things, but as 'teapot,' they refer to a specific container for brewing tea[ 663]. Similarly, 'every' and 'day' combine to describe something that happens routinely. Learning to identify these combinations helps students expand their vocabulary and understand how the English language builds new concepts. It shows that many specialized terms in the tea industry are actually simple words joined together."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Trace the journey of tea from the plantation to the consumer's home as shown in the flow chart.",
+      "answer": "The journey of tea is a multi-step process that begins at the plantation, where the plants are carefully grown and nurtured [ 654-656]. Once the leaves are at the correct stage of maturity, they are picked as 'flushes' [ 553-554]. The next critical step involves the leaves being 'cured,' which prepares them for further refinement[ 657]. After curing, the leaves undergo 'processing,' where they are dried and their final flavour is developed[ 658]. Once the processing is complete, the tea is ready to be 'sold to us' through various markets and shops [ 659-661]. Finally, the consumer buys the packaged tea and brews it at home to enjoy the refreshing drink[ 549]. This flow chart illustrates the industrial and agricultural effort required to bring a simple cup of tea to our tables."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the psychological and emotional benefits of drinking tea as mentioned in the passage.",
+      "answer": "Beyond its physical and health-related properties, tea is described as having significant psychological benefits for the drinker. According to the text, tea is a drink that 'reduces loneliness and calms your heart'[ 613]. Many people find it to be a great comfort in their everyday lives, providing a quiet moment of peace in a busy day[ 613]. It is also highly valued as an 'enjoyable' drink that brings people together for social interaction[ 612]. Whether in a formal Japanese 'tea club' or a casual Indian household, the act of drinking tea serves as an important social occasion[ 606, 609]. These ceremonies and habits give people the necessary time to relax and focus on the present moment[ 608]. Therefore, tea supports mental well-being by fostering both personal tranquility and social connection."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "What are the special varieties of tea produced in Vietnam, and how do they differ?",
+      "answer": "Vietnam is highlighted in the text for producing unique and specialized varieties of tea that are distinct from standard black or green teas. Two specific examples mentioned are lotus tea and jasmine tea[ 618]. These varieties are created by scenting or infusing traditional tea leaves with the fragrant aromas of these specific flowers. This results in a 'delicately flavoured' brew that is often relished by connoisseurs who appreciate subtle tastes[ 626]. Unlike the strong 'Assam type' leaves, these Vietnamese teas focus more on the 'aromatic' and sensory experience of the smell[ 532, 558]. These floral teas represent the diversity of tea production in Southeast Asia. They show how different regions can adapt the basic Camellia sinensis leaf to create highly specialized cultural products."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Analyze the environmental preference of tea plants for acidic soil and its impact.",
+      "answer": "The Camellia sinensis plant has very specific biological requirements, one of the most important being its preference for acidic soils[ 551]. This soil type is essential for the plant to absorb the necessary nutrients and maintain its evergreen nature in tropical climates[ 550]. Growing in the correct soil ensures that the plant remains healthy and produces high-quality 'flushes' every seven to ten days[ 554]. If the soil were too alkaline, the plant would likely struggle to thrive or fail to produce the desired flavour profile. Farmers and botanists, like Robert Bruce, had to understand these soil needs to successfully establish plantations[ 599]. This environmental detail explains why tea cultivation is concentrated in specific geographic regions like Assam and the Nilgiris[ 564]. Thus, soil chemistry is a foundational factor in the global supply of tea."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Discuss the significance of 'theanine' in distinguishing tea from other beverages.",
+      "answer": "Theanine is one of the two unique components that give tea its special and distinctive flavour profile[ 566]. While caffeine is found in many drinks, theanine is more characteristic of the Camellia sinensis plant. It works in combination with caffeine to provide the 'stimulating quality' that tea drinkers value so highly[ 566]. Many people believe that theanine contributes to a state of 'calm alertness,' distinguishing the tea experience from the jittery energy of other caffeinated drinks. This is likely why the text describes tea as something that 'calms your heart' while also being refreshing[ 613]. Connoisseurs specifically look for the presence of this chemical to judge the quality and 'richness' of the brew[ 552, 626]. Therefore, theanine is a key biological reason for tea's enduring popularity as a healthy and enjoyable drink[ 612]."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How does the passage distinguish between oral legends and recorded history in tea's origin?",
+      "answer": "The text explicitly brings out the difference between 'history based on oral sources' and 'recorded history' through its storytelling[ 589]. Oral sources are represented by the 'amusing stories' and legends of Emperor Shennong and Bodhidharma, which have been passed down through generations[ 568, 573]. These stories often involve 'claims' that may not have documented evidence but are culturally significant[ 590]. In contrast, recorded history is based on documented 'facts,' such as botanist Robert Bruce's discovery of wild tea in 1823 or the first sale in 1838[ 590, 599, 600]. Historians use these recorded dates and names to build an accurate timeline of how tea plantations were established[ 597]. By presenting both, the author allows the reader to appreciate the folklore of tea while understanding its real-world industrial development. It highlights that while legends provide the 'flavour' of history, records provide the 'fact'."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "What defines a tea 'connoisseur' and what types of tea do they typically relish?",
+      "answer": "A tea 'connoisseur' is a person who has expert knowledge of tea and deeply appreciates its various subtle qualities. These individuals are not just casual drinkers; they 'relish' the delicate differences in taste, aroma, and flavour between varieties[ 626]. According to the text, connoisseurs often prefer delicately flavoured options like jasmine tea, green tea, and lemon tea[ 626]. They might even enjoy iced tea as a refreshing alternative[ 626]. Their refined taste allows them to appreciate the 'richer flavour' of high-altitude teas grown at elevations of 1500 metres[ 552]. Connoisseurs are likely the ones who would participate in formal tea ceremonies to fully relax and focus on the sensory experience[ 608]. For them, drinking tea is a specialized hobby that involves continuous learning and tasting."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain the practical necessity of pruning tea plants in a garden setting.",
+      "answer": "Pruning is a vital agricultural practice in all tea gardens that is done for very practical reasons. Naturally, a tea plant is capable of growing into a small tree if it is left on its own[ 555]. To prevent this, the plants are regularly pruned and maintained at a specific height of about three feet[ 556]. This 'waist-high' level is chosen specifically to enable the easy and efficient plucking of the leaves by workers[ 556]. Without pruning, the tender 'flushes' at the top of the plant would become too high to reach, making harvesting impossible[ 553]. Additionally, pruning encourages the plant to produce more of the young buds and shoots that are needed for high-quality tea. Thus, pruning is the key to transforming a wild shrub into a productive and manageable agricultural crop."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the overarching message of 'The Story of Tea' regarding its global impact.",
+      "answer": "The overarching message of the text is that tea is a 'magical beverage' that has evolved from an ancient medicinal plant into the world's most popular social drink[ 546, 593, 597]. It has traveled through legendary discoveries in China, across Mongol borders with Turkish traders, and into the massive plantations of India[ 569, 578, 601]. The story highlights tea as a bridge between cultures, appearing in formal Japanese ceremonies, Russian samovars, and Indian tokens of hospitality[ 609, 617, 621]. It is presented as a beverage that offers both physical health benefits and emotional comfort, calming the heart and reducing loneliness[ 602, 613]. Scientific facts about antioxidants and chemicals like theanine support the ancient claims of its 'restorative' powers[ 572, 603]. Ultimately, the 'Story of Tea' is a narrative of how a simple evergreen leaf became a fundamental part of the human social and spiritual fabric[ 550, 611]."
+    }
+  ]
+}

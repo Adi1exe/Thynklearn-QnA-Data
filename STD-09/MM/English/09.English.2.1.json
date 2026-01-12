@@ -1,0 +1,1511 @@
+{
+  "chapter metadata": {
+    "chapter id": "09.Marathi.2.1",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter name": "Comparisons"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the poem 'Comparisons', what is 'fast' compared to?",
+      "options": [
+        { "option id": 1, "text": "A snail", "is correct": false },
+        { "option id": 2, "text": "A spaceship", "is correct": true },
+        { "option id": 3, "text": "A tiger", "is correct": false },
+        { "option id": 4, "text": "The wind", "is correct": false }
+      ],
+      "answer": "A spaceship"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the poem, what is as 'slow' as a snail?",
+      "options": [
+        { "option id": 1, "text": "A pea", "is correct": false },
+        { "option id": 2, "text": "A ghost", "is correct": false },
+        { "option id": 3, "text": "A tortoise", "is correct": false },
+        { "option id": 4, "text": "A snail", "is correct": true }
+      ],
+      "answer": "A snail"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What common feature is being compared between a spaceship and a snail?",
+      "options": [
+        { "option id": 1, "text": "Size", "is correct": false },
+        { "option id": 2, "text": "Speed", "is correct": true },
+        { "option id": 3, "text": "Shape", "is correct": false },
+        { "option id": 4, "text": "Temperature", "is correct": false }
+      ],
+      "answer": "Speed"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is described as being as 'big as a dinosaur'?",
+      "options": [
+        { "option id": 1, "text": "A giant", "is correct": false },
+        { "option id": 2, "text": "A mountain", "is correct": false },
+        { "option id": 3, "text": "A dinosaur", "is correct": true },
+        { "option id": 4, "text": "An ox", "is correct": false }
+      ],
+      "answer": "A dinosaur"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'big as a dinosaur' in the poem?",
+      "options": [
+        { "option id": 1, "text": "Small as a nail", "is correct": true },
+        { "option id": 2, "text": "Weak as a kitten", "is correct": false },
+        { "option id": 3, "text": "Short as an elf", "is correct": false },
+        { "option id": 4, "text": "Soft as a mitten", "is correct": false }
+      ],
+      "answer": "Small as a nail"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the poem, 'fierce as a tiger' is paired with ________.",
+      "options": [
+        { "option id": 1, "text": "Gentle as a lamb", "is correct": true },
+        { "option id": 2, "text": "Strong as an ox", "is correct": false },
+        { "option id": 3, "text": "Quiet as a ghost", "is correct": false },
+        { "option id": 4, "text": "Cunning as a fox", "is correct": false }
+      ],
+      "answer": "Gentle as a lamb"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What object is compared to being 'sour'?",
+      "options": [
+        { "option id": 1, "text": "Jam", "is correct": false },
+        { "option id": 2, "text": "A lemon", "is correct": true },
+        { "option id": 3, "text": "A pea", "is correct": false },
+        { "option id": 4, "text": "Toast", "is correct": false }
+      ],
+      "answer": "A lemon"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In the poem, what is as 'sweet as jam'?",
+      "options": [
+        { "option id": 1, "text": "A lemon", "is correct": false },
+        { "option id": 2, "text": "Honey", "is correct": false },
+        { "option id": 3, "text": "Jam", "is correct": true },
+        { "option id": 4, "text": "Sugar", "is correct": false }
+      ],
+      "answer": "Jam"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is compared to the 'desert' to show dryness?",
+      "options": [
+        { "option id": 1, "text": "Land", "is correct": false },
+        { "option id": 2, "text": "Rock", "is correct": false },
+        { "option id": 3, "text": "A cave", "is correct": false },
+        { "option id": 4, "text": "The desert", "is correct": true }
+      ],
+      "answer": "The desert"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem compares 'wet' to which of the following?",
+      "options": [
+        { "option id": 1, "text": "A puddle", "is correct": false },
+        { "option id": 2, "text": "The sea", "is correct": true },
+        { "option id": 3, "text": "Rain", "is correct": false },
+        { "option id": 4, "text": "A river", "is correct": false }
+      ],
+      "answer": "The sea"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What shape is compared to a 'house'?",
+      "options": [
+        { "option id": 1, "text": "Round", "is correct": false },
+        { "option id": 2, "text": "Square", "is correct": true },
+        { "option id": 3, "text": "Crooked", "is correct": false },
+        { "option id": 4, "text": "Straight", "is correct": false }
+      ],
+      "answer": "Square"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is described as 'round as a pea'?",
+      "options": [
+        { "option id": 1, "text": "A pea", "is correct": true },
+        { "option id": 2, "text": "A ball", "is correct": false },
+        { "option id": 3, "text": "The moon", "is correct": false },
+        { "option id": 4, "text": "A house", "is correct": false }
+      ],
+      "answer": "A pea"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is as 'cool' as a cave?",
+      "options": [
+        { "option id": 1, "text": "Toast", "is correct": false },
+        { "option id": 2, "text": "A cave", "is correct": true },
+        { "option id": 3, "text": "Ice", "is correct": false },
+        { "option id": 4, "text": "The moon", "is correct": false }
+      ],
+      "answer": "A cave"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the opposite comparison for 'cool as a cave'?",
+      "options": [
+        { "option id": 1, "text": "Warm as toast", "is correct": true },
+        { "option id": 2, "text": "Noisy as a road drill", "is correct": false },
+        { "option id": 3, "text": "Hot as fire", "is correct": false },
+        { "option id": 4, "text": "Strong as an ox", "is correct": false }
+      ],
+      "answer": "Warm as toast"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is described as 'noisy'?",
+      "options": [
+        { "option id": 1, "text": "A ghost", "is correct": false },
+        { "option id": 2, "text": "A road drill", "is correct": true },
+        { "option id": 3, "text": "A tiger", "is correct": false },
+        { "option id": 4, "text": "A giant", "is correct": false }
+      ],
+      "answer": "A road drill"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is compared to a 'ghost' in the poem?",
+      "options": [
+        { "option id": 1, "text": "Softness", "is correct": false },
+        { "option id": 2, "text": "Quietness", "is correct": true },
+        { "option id": 3, "text": "Fear", "is correct": false },
+        { "option id": 4, "text": "Paleness", "is correct": false }
+      ],
+      "answer": "Quietness"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What animal is as 'strong' as an ox?",
+      "options": [
+        { "option id": 1, "text": "A tiger", "is correct": false },
+        { "option id": 2, "text": "An ox", "is correct": true },
+        { "option id": 3, "text": "A dinosaur", "is correct": false },
+        { "option id": 4, "text": "A stallion", "is correct": false }
+      ],
+      "answer": "An ox"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the comparison for being 'weak' in the poem?",
+      "options": [
+        { "option id": 1, "text": "Weak as a kitten", "is correct": true },
+        { "option id": 2, "text": "Weak as a lamb", "is correct": false },
+        { "option id": 3, "text": "Weak as a snail", "is correct": false },
+        { "option id": 4, "text": "Weak as an elf", "is correct": false }
+      ],
+      "answer": "Weak as a kitten"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is compared to a 'mitten'?",
+      "options": [
+        { "option id": 1, "text": "Hardness", "is correct": false },
+        { "option id": 2, "text": "Softness", "is correct": true },
+        { "option id": 3, "text": "Warmth", "is correct": false },
+        { "option id": 4, "text": "Smallness", "is correct": false }
+      ],
+      "answer": "Softness"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The comparison 'dark as a tunnel' is paired with 'light as the ________'.",
+      "options": [
+        { "option id": 1, "text": "Sun", "is correct": false },
+        { "option id": 2, "text": "Moon", "is correct": true },
+        { "option id": 3, "text": "Stars", "is correct": false },
+        { "option id": 4, "text": "Day", "is correct": false }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is 'tall as a giant' compared with?",
+      "options": [
+        { "option id": 1, "text": "Short as an elf", "is correct": true },
+        { "option id": 2, "text": "Small as a nail", "is correct": false },
+        { "option id": 3, "text": "Short as a snail", "is correct": false },
+        { "option id": 4, "text": "Straight as a shelf", "is correct": false }
+      ],
+      "answer": "Short as an elf"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is described as 'crooked' in the poem?",
+      "options": [
+        { "option id": 1, "text": "A mountain path", "is correct": true },
+        { "option id": 2, "text": "A road drill", "is correct": false },
+        { "option id": 3, "text": "A shelf", "is correct": false },
+        { "option id": 4, "text": "A tunnel", "is correct": false }
+      ],
+      "answer": "A mountain path"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is compared to a 'shelf' for being straight?",
+      "options": [
+        { "option id": 1, "text": "A mountain path", "is correct": false },
+        { "option id": 2, "text": "A house", "is correct": false },
+        { "option id": 3, "text": "A shelf", "is correct": true },
+        { "option id": 4, "text": "A tunnel", "is correct": false }
+      ],
+      "answer": "A shelf"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "According to the 'Language Study' in Chapter 1.5, what are words like 'a, an, the, my, this' called?",
+      "options": [
+        { "option id": 1, "text": "Verbs", "is correct": false },
+        { "option id": 2, "text": "Nouns", "is correct": false },
+        { "option id": 3, "text": "Determiners", "is correct": true },
+        { "option id": 4, "text": "Adjectives", "is correct": false }
+      ],
+      "answer": "Determiners"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the idiom 'Memory like a sieve'?",
+      "options": [
+        { "option id": 1, "text": "A very sharp memory", "is correct": false },
+        { "option id": 2, "text": "A memory that forgets things quickly", "is correct": true },
+        { "option id": 3, "text": "A memory full of water", "is correct": false },
+        { "option id": 4, "text": "A memory that stores delicate items", "is correct": false }
+      ],
+      "answer": "A memory that forgets things quickly"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'fierce as a tiger' according to the poem?",
+      "options": [
+        { "option id": 1, "text": "Gentle as a lamb", "is correct": true },
+        { "option id": 2, "text": "Weak as a kitten", "is correct": false },
+        { "option id": 3, "text": "Quiet as a ghost", "is correct": false },
+        { "option id": 4, "text": "Slow as a snail", "is correct": false }
+      ],
+      "answer": "Gentle as a lamb"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The poem compares 'sour' to which object?",
+      "options": [
+        { "option id": 1, "text": "Jam", "is correct": false },
+        { "option id": 2, "text": "A lemon", "is correct": true },
+        { "option id": 3, "text": "A pea", "is correct": false },
+        { "option id": 4, "text": "A mitten", "is correct": false }
+      ],
+      "answer": "A lemon"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In the comparison 'Sweet as jam', what is being described?",
+      "options": [
+        { "option id": 1, "text": "A lemon", "is correct": false },
+        { "option id": 2, "text": "The sea", "is correct": false },
+        { "option id": 3, "text": "Jam", "is correct": true },
+        { "option id": 4, "text": "Toast", "is correct": false }
+      ],
+      "answer": "Jam"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is described as being 'as wet as the sea'?",
+      "options": [
+        { "option id": 1, "text": "A puddle", "is correct": false },
+        { "option id": 2, "text": "The desert", "is correct": false },
+        { "option id": 3, "text": "The sea", "is correct": true },
+        { "option id": 4, "text": "A road drill", "is correct": false }
+      ],
+      "answer": "The sea"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "According to the poem, what shape is a 'pea'?",
+      "options": [
+        { "option id": 1, "text": "Square", "is correct": false },
+        { "option id": 2, "text": "Round", "is correct": true },
+        { "option id": 3, "text": "Crooked", "is correct": false },
+        { "option id": 4, "text": "Straight", "is correct": false }
+      ],
+      "answer": "Round"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What comparison is made for 'warm' in the poem?",
+      "options": [
+        { "option id": 1, "text": "Warm as toast", "is correct": true },
+        { "option id": 2, "text": "Warm as a cave", "is correct": false },
+        { "option id": 3, "text": "Warm as the moon", "is correct": false },
+        { "option id": 4, "text": "Warm as noon", "is correct": false }
+      ],
+      "answer": "Warm as toast"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is compared to a 'road drill' in the poem?",
+      "options": [
+        { "option id": 1, "text": "Quietness", "is correct": false },
+        { "option id": 2, "text": "Noisiness", "is correct": true },
+        { "option id": 3, "text": "Hardness", "is correct": false },
+        { "option id": 4, "text": "Strength", "is correct": false }
+      ],
+      "answer": "Noisiness"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of these is used as a comparison for 'quiet'?",
+      "options": [
+        { "option id": 1, "text": "A kitten", "is correct": false },
+        { "option id": 2, "text": "A ghost", "is correct": true },
+        { "option id": 3, "text": "An elf", "is correct": false },
+        { "option id": 4, "text": "A mitten", "is correct": false }
+      ],
+      "answer": "A ghost"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The comparison 'Strong as an ox' uses which animal?",
+      "options": [
+        { "option id": 1, "text": "Tiger", "is correct": false },
+        { "option id": 2, "text": "Dinosaur", "is correct": false },
+        { "option id": 3, "text": "Ox", "is correct": true },
+        { "option id": 4, "text": "Horse", "is correct": false }
+      ],
+      "answer": "Ox"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is described as being 'weak as a kitten'?",
+      "options": [
+        { "option id": 1, "text": "A lamb", "is correct": false },
+        { "option id": 2, "text": "A kitten", "is correct": true },
+        { "option id": 3, "text": "A snail", "is correct": false },
+        { "option id": 4, "text": "An elf", "is correct": false }
+      ],
+      "answer": "A kitten"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In the poem, what is 'soft' compared to?",
+      "options": [
+        { "option id": 1, "text": "A rock", "is correct": false },
+        { "option id": 2, "text": "A mitten", "is correct": true },
+        { "option id": 3, "text": "A ghost", "is correct": false },
+        { "option id": 4, "text": "A shelf", "is correct": false }
+      ],
+      "answer": "A mitten"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The comparison 'Light as the moon' is paired with ________.",
+      "options": [
+        { "option id": 1, "text": "Dark as a tunnel", "is correct": true },
+        { "option id": 2, "text": "Bright as a star", "is correct": false },
+        { "option id": 3, "text": "Cool as a cave", "is correct": false },
+        { "option id": 4, "text": "Straight as a shelf", "is correct": false }
+      ],
+      "answer": "Dark as a tunnel"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What time of day is 'noon' compared to in the poem?",
+      "options": [
+        { "option id": 1, "text": "Night time", "is correct": false },
+        { "option id": 2, "text": "Midnight", "is correct": false },
+        { "option id": 3, "text": "Day time", "is correct": true },
+        { "option id": 4, "text": "Morning", "is correct": false }
+      ],
+      "answer": "Day time"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these is used to describe 'short' in the poem?",
+      "options": [
+        { "option id": 1, "text": "A nail", "is correct": false },
+        { "option id": 2, "text": "A pea", "is correct": false },
+        { "option id": 3, "text": "An elf", "is correct": true },
+        { "option id": 4, "text": "A ghost", "is correct": false }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is described as 'crooked' in the poem?",
+      "options": [
+        { "option id": 1, "text": "A tunnel", "is correct": false },
+        { "option id": 2, "text": "A mountain path", "is correct": true },
+        { "option id": 3, "text": "A road drill", "is correct": false },
+        { "option id": 4, "text": "A kitten", "is correct": false }
+      ],
+      "answer": "A mountain path"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'crooked as a mountain path'?",
+      "options": [
+        { "option id": 1, "text": "Straight as a shelf", "is correct": true },
+        { "option id": 2, "text": "Round as a pea", "is correct": false },
+        { "option id": 3, "text": "Square as a house", "is correct": false },
+        { "option id": 4, "text": "Flat as land", "is correct": false }
+      ],
+      "answer": "Straight as a shelf"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Complete the idiom: 'As cunning as a ________'.",
+      "options": [
+        { "option id": 1, "text": "Tiger", "is correct": false },
+        { "option id": 2, "text": "Fox", "is correct": true },
+        { "option id": 3, "text": "Kitten", "is correct": false },
+        { "option id": 4, "text": "Lamb", "is correct": false }
+      ],
+      "answer": "Fox"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Complete the idiom: 'As black as ________'.",
+      "options": [
+        { "option id": 1, "text": "The moon", "is correct": false },
+        { "option id": 2, "text": "A ghost", "is correct": false },
+        { "option id": 3, "text": "Coal", "is correct": true },
+        { "option id": 4, "text": "A cave", "is correct": false }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the idiom 'Like a bull in a china shop'?",
+      "options": [
+        { "option id": 1, "text": "Very careful and precise", "is correct": false },
+        { "option id": 2, "text": "Very clumsy in a situation where care is needed", "is correct": true },
+        { "option id": 3, "text": "Strong and powerful like a bull", "is correct": false },
+        { "option id": 4, "text": "Interested in buying delicate porcelain", "is correct": false }
+      ],
+      "answer": "Very clumsy in a situation where care is needed"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "In the idiom 'Like a red rag to a bull', what does 'red rag' signify?",
+      "options": [
+        { "option id": 1, "text": "Something very beautiful", "is correct": false },
+        { "option id": 2, "text": "Something that causes extreme anger", "is correct": true },
+        { "option id": 3, "text": "A celebratory decoration", "is correct": false },
+        { "option id": 4, "text": "A signal to stop", "is correct": false }
+      ],
+      "answer": "Something that causes extreme anger"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does the expression 'Like water off a duck's back' mean?",
+      "options": [
+        { "option id": 1, "text": "Having a very wet surface", "is correct": false },
+        { "option id": 2, "text": "Criticism or advice that has no effect on someone", "is correct": true },
+        { "option id": 3, "text": "To be a very fast swimmer", "is correct": false },
+        { "option id": 4, "text": "To be very clean and smooth", "is correct": false }
+      ],
+      "answer": "Criticism or advice that has no effect on someone"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Based on the workshop, what is a comparison for 'white'?",
+      "options": [
+        { "option id": 1, "text": "As white as milk", "is correct": true },
+        { "option id": 2, "text": "As white as a ghost", "is correct": false },
+        { "option id": 3, "text": "As white as the moon", "is correct": false },
+        { "option id": 4, "text": "As white as a mitten", "is correct": false }
+      ],
+      "answer": "As white as milk"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the comparative form of the adjective 'fast'?",
+      "options": [
+        { "option id": 1, "text": "Fastest", "is correct": false },
+        { "option id": 2, "text": "Faster", "is correct": true },
+        { "option id": 3, "text": "More fast", "is correct": false },
+        { "option id": 4, "text": "Fastly", "is correct": false }
+      ],
+      "answer": "Faster"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What common feature is considered when comparing a spaceship and a snail in the poem?",
+      "options": [
+        { "option id": 1, "text": "Weight", "is correct": false },
+        { "option id": 2, "text": "Speed", "is correct": true },
+        { "option id": 3, "text": "Price", "is correct": false },
+        { "option id": 4, "text": "Color", "is correct": false }
+      ],
+      "answer": "Speed"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "According to the final lines, what is the world full of?",
+      "options": [
+        { "option id": 1, "text": "Animals", "is correct": false },
+        { "option id": 2, "text": "Opposites", "is correct": true },
+        { "option id": 3, "text": "Spaceships", "is correct": false },
+        { "option id": 4, "text": "Colors", "is correct": false }
+      ],
+      "answer": "Opposites"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main theme of the poem 'Comparisons'?",
+      "answer": "The main theme of the poem is that the world is full of opposites, which the poet illustrates through various similes comparing different objects and animals [cite: 718-719]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Mention the comparison used for 'speed' in the first two lines of the poem.",
+      "answer": "In the first two lines, speed is compared using the similes 'fast as a spaceship' and 'slow as a snail' [cite: 691-692]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What common feature is compared between a dinosaur and a nail?",
+      "answer": "A dinosaur and a nail are compared based on their 'size', with the dinosaur being 'big' and the nail being 'small' [cite: 693-694]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How is the tiger described in the poem, and what is its opposite?",
+      "answer": "The tiger is described as 'fierce', and its opposite is a 'lamb', which is described as 'gentle' [cite: 695-696]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two things compared in the poem based on their 'taste'.",
+      "answer": "The poet compares a lemon, which is 'sour', to jam, which is 'sweet' [cite: 697-698]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What example does the poet give to illustrate the quality of being 'dry'?",
+      "answer": "The poet uses the 'desert' as an example of being dry, specifically 'dry as the desert'[cite: 699]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "To what is 'wetness' compared in the poem?",
+      "answer": "Wetness is compared to the 'sea', using the phrase 'wet as the sea'[cite: 700]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are the two different shapes mentioned as opposites in the poem?",
+      "answer": "The two shapes mentioned are 'square', compared to a house, and 'round', compared to a pea [cite: 701-702]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which place is described as having a 'cool' temperature?",
+      "answer": "A 'cave' is described as having a cool temperature in the simile 'cool as a cave'[cite: 703]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What object does the poet compare to being 'warm'?",
+      "answer": "The poet compares being warm to 'toast', using the simile 'warm as toast'[cite: 704]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which two things are used to compare different levels of 'sound'?",
+      "answer": "A 'road drill' is used to compare 'noisy' sounds, while a 'ghost' is used to compare 'quiet' sounds [cite: 705-706]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What animal is chosen to represent 'strength' in the poem?",
+      "answer": "The 'ox' is chosen to represent strength in the simile 'strong as an ox'[cite: 707]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What comparison is used for the word 'weak'?",
+      "answer": "The word 'weak' is compared to a 'kitten' in the phrase 'weak as a kitten'[cite: 708]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name the object that is described as being 'hard as a rock'.",
+      "answer": "A 'rock' is the object used to describe the quality of being hard[cite: 709]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is described as being 'soft as a mitten'?",
+      "answer": "A 'mitten' is used as a comparison for the quality of being soft[cite: 710]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What comparison does the poet use for 'darkness'?",
+      "answer": "The poet compares darkness to a 'tunnel', using the simile 'dark as a tunnel'[cite: 711]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "To what is 'light' compared in the poem?",
+      "answer": "Light is compared to the 'moon' in the phrase 'light as the moon'[cite: 712]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which specific times of the day are mentioned as opposites?",
+      "answer": "The poet mentions 'midnight' as the representative of night time and 'noon' as the representative of day time [cite: 713-714]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is compared to a 'giant' in terms of height?",
+      "answer": "Being 'tall' is compared to a giant in the simile 'tall as a giant'[cite: 715]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Who or what is described as being 'short as an elf'?",
+      "answer": "An 'elf' is used as the standard comparison for being short[cite: 716]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How is a 'mountain path' described in the poem?",
+      "answer": "A mountain path is described as 'crooked'[cite: 717]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What object is compared to being 'straight'?",
+      "answer": "A 'shelf' is the object compared to being straight, as in 'straight as a shelf'[cite: 717]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the poet's final observation in the last two lines?",
+      "answer": "The poet concludes that the world is full of opposites and encourages the reader to think of some themselves [cite: 718-719]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "According to the poem, what must two things have in order to be compared?",
+      "answer": "When comparing two things, they must have at least one 'common feature', such as comparing a spaceship and a snail based only on speed [cite: 687-689]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Define the idiom 'Like a bull in a china shop' based on the workshop.",
+      "answer": "This idiom refers to someone who is very clumsy or rough in a situation that requires care and delicacy, where 'china' means delicate porcelain[cite: 760]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is a 'simile' as used in the poem?",
+      "answer": "A simile is a figure of speech that directly compares two different things using words such as 'as' or 'like' to highlight a common quality."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which adjectives in the poem are used to show 'shape'?",
+      "answer": "The adjectives used to show shape are 'square', which is compared to a house, and 'round', which is compared to a pea [cite: 701-702]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which adjectives in the poem describe 'size'?",
+      "answer": "The poem uses 'big' (dinosaur), 'small' (nail), 'tall' (giant), and 'short' (elf) to describe size [cite: 693-694, 715-716]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which words are used to show 'temperature' comparisons?",
+      "answer": "The poet uses the adjectives 'cool', compared to a cave, and 'warm', compared to toast, to show temperature [cite: 703-704]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Identify two objects compared based on their 'speed'.",
+      "answer": "A spaceship is compared for its 'fast' speed, while a snail is compared for its 'slow' speed [cite: 691-692]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does the term 'Anonymous' mean at the end of the poem?",
+      "answer": "'Anonymous' means that the name of the person who wrote the poem is unknown or not revealed[cite: 720]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How is a 'road drill' categorized in terms of comparison qualities?",
+      "answer": "A 'road drill' is used to represent the quality of being 'noisy'[cite: 705]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is a 'ghost' used in the poem's comparisons?",
+      "answer": "A 'ghost' is used as a simile for 'quiet' because ghosts are traditionally thought to move without making any sound[cite: 706]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "To which quality does the 'tunnel' relate in the poem?",
+      "answer": "The 'tunnel' relates to 'darkness', used in the simile 'dark as a tunnel'[cite: 711]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does the 'moon' represent in the poet's comparisons?",
+      "answer": "The 'moon' represents 'light', specifically in the comparison 'light as the moon'[cite: 712]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What shape does the poet associate with a 'pea'?",
+      "answer": "The poet associates the 'round' shape with a pea[cite: 702]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What shape is compared to a 'house' in the poem?",
+      "answer": "The poet compares the 'square' shape to a house[cite: 701]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What object represents 'hardness' in the similes?",
+      "answer": "A 'rock' is used to represent hardness in the simile 'hard as a rock'[cite: 709]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What item represents 'softness' in the poem?",
+      "answer": "A 'mitten' is used to represent softness in the comparison 'soft as a mitten'[cite: 710]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Name the two things compared based on 'taste'.",
+      "answer": "A lemon is compared for being 'sour', while jam is compared for being 'sweet' [cite: 697-698]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How does the poet compare 'fierce' and 'gentle' characters?",
+      "answer": "The poet uses a 'tiger' to represent a fierce character and a 'lamb' to represent a gentle one [cite: 695-696]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the comparison for the quality 'weak'?",
+      "answer": "The poet uses a 'kitten' to describe the quality of being 'weak'[cite: 708]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which objects are used to compare 'tall' and 'short'?",
+      "answer": "A 'giant' is used to represent 'tall' and an 'elf' is used to represent 'short' [cite: 715-716]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Describe the comparison for 'crooked' and 'straight'.",
+      "answer": "A 'mountain path' is described as 'crooked', while a 'shelf' is used as a simile for 'straight'[cite: 717]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Explain the difference between 'drive' and 'ride' as mentioned in the warming up section.",
+      "answer": "Generally, you 'drive' a four-wheeled vehicle like a car, and you 'ride' a two-wheeled vehicle like a bicycle or an animal like a horse [cite: 682-683]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Use the word 'drive' in a meaningful sentence.",
+      "answer": "Example: My father taught me how to drive a car safely on the highway[cite: 683]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Use the word 'ride' in a meaningful sentence.",
+      "answer": "Example: Children love to ride their bicycles in the park every evening[cite: 683]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Night time midnight' in the poem?",
+      "answer": "The opposite is 'day time noon' [cite: 713-714]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which animal represents 'strength' in the poem?",
+      "answer": "An 'ox' represents strength in the simile 'strong as an ox'[cite: 707]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the primary message of the last stanza?",
+      "answer": "The primary message is that the world is filled with opposites and the reader is invited to discover more of them [cite: 718-719]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Strong' mentioned in the poem?",
+      "answer": "The comparative form of 'Strong' is 'Stronger'."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Provide the comparative form of the adjective 'Hard'.",
+      "answer": "The comparative form of 'Hard' is 'Harder'."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Soft'?",
+      "answer": "The comparative form of 'Soft' is 'Softer'."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Write the comparative form of the adjective 'Tall'.",
+      "answer": "The comparative form of 'Tall' is 'Taller'."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Short'?",
+      "answer": "The comparative form of 'Short' is 'Shorter'."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Give the comparative form of the adjective 'Dark'.",
+      "answer": "The comparative form of 'Dark' is 'Darker'."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Light'?",
+      "answer": "The comparative form of 'Light' is 'Lighter'."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "State the comparative form of the adjective 'Round'.",
+      "answer": "The comparative form of 'Round' is 'Rounder'."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Square'?",
+      "answer": "The comparative form of 'Square' is 'More square'."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Provide the comparative form of the adjective 'Cool'.",
+      "answer": "The comparative form of 'Cool' is 'Cooler'."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is the comparative form of the adjective 'Warm'?",
+      "answer": "The comparative form of 'Warm' is 'Warmer'."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why does the poet compare a spaceship and a snail?",
+      "answer": "The poet compares them because they share the common feature of 'speed', representing opposite ends of the spectrum [cite: 689, 691-692]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which noun is used to describe the quality 'Sour' in the poem?",
+      "answer": "A 'lemon' is the noun used to describe the quality 'Sour'[cite: 697]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which noun is associated with being 'Sweet' in the poem?",
+      "answer": "The noun 'jam' is used to describe the quality 'Sweet'[cite: 698]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What noun represents the quality 'Noisy' in the poem's similes?",
+      "answer": "A 'road drill' is the noun used to represent being 'Noisy'[cite: 705]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Which noun represents 'Quiet' in the poem?",
+      "answer": "A 'ghost' is the noun used to represent the quality 'Quiet'[cite: 706]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What animal is used to illustrate being 'Fierce'?",
+      "answer": "A 'tiger' is used to illustrate being 'Fierce' in the poem[cite: 695]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Which animal is used to illustrate being 'Gentle'?",
+      "answer": "A 'lamb' is the animal used to illustrate being 'Gentle'[cite: 696]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What noun is used to show the quality of being 'Dry'?",
+      "answer": "The 'desert' is the noun used to show the quality of being 'Dry'[cite: 699]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Which noun is used to show the quality of being 'Wet'?",
+      "answer": "The 'sea' is the noun used to show the quality of being 'Wet'[cite: 700]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What animal represents 'Big' in the poem?",
+      "answer": "A 'dinosaur' represents the quality of being 'Big'[cite: 693]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What noun represents 'Small' in the poem?",
+      "answer": "A 'nail' represents the quality of being 'Small'[cite: 694]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Which noun is described as 'Square' in the poem?",
+      "answer": "A 'house' is the noun described as 'Square'[cite: 701]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which noun is described as 'Round' in the poem?",
+      "answer": "A 'pea' is the noun described as 'Round'[cite: 702]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What noun is described as 'Cool' in the poem?",
+      "answer": "A 'cave' is the noun described as 'Cool'[cite: 703]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What noun is described as 'Warm' in the poem?",
+      "answer": "The noun 'toast' is described as 'Warm' in the poem[cite: 704]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which animal represents 'Strong' in the poem?",
+      "answer": "An 'ox' is the animal that represents 'Strong'[cite: 707]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What animal represents 'Weak' in the poem?",
+      "answer": "A 'kitten' is the animal that represents 'Weak' in the poem[cite: 708]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Which noun is described as 'Hard' in the poem?",
+      "answer": "A 'rock' is the noun described as 'Hard'[cite: 709]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which noun is described as 'Soft' in the poem?",
+      "answer": "A 'mitten' is the noun described as 'Soft'[cite: 710]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What noun is described as 'Dark' in the poem?",
+      "answer": "A 'tunnel' is the noun described as 'Dark'[cite: 711]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What noun is described as 'Light' in the poem?",
+      "answer": "The 'moon' is the noun described as 'Light'[cite: 712]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What represents the 'Night time' counterpart in the poem?",
+      "answer": "'Midnight' represents the night time counterpart[cite: 713]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What represents the 'Day time' counterpart in the poem?",
+      "answer": "'Noon' represents the day time counterpart[cite: 714]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Which character is the opposite of a 'Giant' in the poem?",
+      "answer": "An 'elf' is the character that is the opposite of a giant [cite: 715-716]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Which noun represents 'Straight' in the poem?",
+      "answer": "A 'shelf' is the noun used to represent 'Straight'[cite: 717]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What quality is associated with a 'mountain path' in the poem?",
+      "answer": "A 'mountain path' is associated with the quality of being 'Crooked'[cite: 717]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "According to the poet, what is the world full of?",
+      "answer": "The world is full of opposites[cite: 718]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Complete the idiom: 'As white as ________'.",
+      "answer": "The idiom is typically completed as 'as white as snow' or 'as white as milk'[cite: 741]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Complete the idiom: 'As black as ________'.",
+      "answer": "The idiom can be 'as black as coal' or 'as black as night'[cite: 742, 756]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Complete the idiom: 'As blue as ________'.",
+      "answer": "The idiom is usually 'as blue as the sky' or 'as blue as the sea'[cite: 743]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Complete the idiom: 'As red as ________'.",
+      "answer": "The idiom is commonly 'as red as blood' or 'as red as a rose'[cite: 746]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Like a bull in a china shop'?",
+      "answer": "It means someone who is very clumsy or rough in a situation that requires care or delicacy[cite: 760]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Like a cat on a hot tin roof'?",
+      "answer": "It describes someone who is very nervous, restless, or anxious[cite: 761]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Like a red rag to a bull'?",
+      "answer": "It refers to something that is certain to make someone very angry[cite: 762]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Like a cat that stole the cream'?",
+      "answer": "It describes someone who looks very pleased with themselves, or sometimes looks guilty but satisfied[cite: 763]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Like water off a duck's back'?",
+      "answer": "It refers to criticism or warnings that have no effect on the person they are directed at[cite: 764]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Memory like a sieve'?",
+      "answer": "It describes someone who has a very poor memory and forgets things almost immediately[cite: 765]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Explain the difference between 'drive' and 'ride'.",
+      "answer": "Generally, you 'drive' four-wheeled vehicles like cars, and you 'ride' two-wheeled vehicles or animals like horses [cite: 682-683]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the group size suggested for the 'vehicles' activity?",
+      "answer": "The activity suggests forming pairs[cite: 654]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the poet's message regarding the diversity of the world as presented in the poem.",
+      "answer": "The poem 'Comparisons' primarily aims to show that the world is a vast place filled with diverse and opposing qualities. The poet uses a wide variety of animals, objects, and environmental features to illustrate how everything has a unique characteristic [cite: 516-542]. By placing opposites like 'fast as a spaceship' and 'slow as a snail' side-by-side, the poet emphasizes the balance in nature [cite: 516-517]. This approach encourages the reader to look at the world from different perspectives and appreciate the variety around them. The concluding lines explicitly state that the 'world is full of opposites,' inviting the reader to think of their own examples [cite: 543-544]. Ultimately, the poem teaches us that differences are what make the world an interesting and complete place to live in."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "How does the poet use 'Speed' and 'Size' to create a sense of contrast in the first stanza?",
+      "answer": "In the opening of the poem, the poet establishes contrast by comparing extreme ends of speed and physical size. Speed is highlighted through the imagery of a 'spaceship,' which represents the pinnacle of human technology and fast movement[cite: 516]. This is immediately contrasted with a 'snail,' an animal universally known for its extreme slowness[cite: 517]. Regarding size, the poet uses a 'dinosaur' to represent something massive and prehistoric[cite: 518]. This is then compared to a 'nail,' a tiny, everyday object that represents the smallest scale of things[cite: 519]. By using such starkly different examples, the poet immediately captures the reader's attention and sets the tone for the rest of the poem. These comparisons help us understand that qualities are relative and depend on what they are being compared against."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the comparison between a tiger and a lamb and what it signifies about temperament.",
+      "answer": "The comparison between a tiger and a lamb focuses on the internal qualities or 'temperaments' of living creatures. The poet describes the tiger as 'fierce,' representing strength, aggression, and the wild nature of a predator[cite: 520]. In contrast, the lamb is described as 'gentle,' signifying innocence, peace, and a mild nature[cite: 521]. This pairing shows that the world contains both dangerous forces and peaceful ones, and both are necessary for the balance of life. It also suggests that behavior can be categorized into opposites just as easily as physical traits. By using these two animals, the poet creates a vivid mental image that is easy for the reader to understand. This specific simile highlights the psychological variety found in the animal kingdom."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Analyze the importance of 'Common Features' in the process of making a comparison as explained in the text.",
+      "answer": "The textbook explains that when we compare two things, they must have at least one 'common feature' for the comparison to be meaningful [cite: 512-513]. For example, when comparing a spaceship and a snail, we do not consider their shape or color, but only their 'speed'[cite: 514]. Without a shared characteristic, a comparison would not make logical sense to the reader. This rule helps in identifying opposites effectively because it narrows the focus to a specific quality like size, temperature, or taste. Understanding common features is a fundamental part of learning literary devices like similes and metaphors. It teaches students how to observe the world carefully and find links between seemingly unrelated objects. Therefore, the common feature is the bridge that makes a comparison clear and effective."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How does the poet illustrate the concept of 'Temperature' and 'Taste' through similes?",
+      "answer": "The poet addresses the physical sensations of taste and temperature by using common objects that provide immediate sensory recognition. Taste is explored through the opposites of 'sour' and 'sweet,' represented by a 'lemon' and 'jam' respectively [cite: 522-523]. Temperature is illustrated through the contrast between 'cool' and 'warm,' with the poet using a 'cave' and 'toast' as examples [cite: 528-529]. A cave is naturally shielded from the sun, providing a cool environment, while toast is a warm, comforting food item. These choices show that comparisons do not always have to be grand; they can be found in our everyday meals and environments. By using such relatable items, the poet makes the abstract concepts of temperature and taste very concrete. This helps the reader to connect the poem's themes to their own daily experiences."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain the significance of comparing a 'road drill' to a 'ghost' in terms of sound levels.",
+      "answer": "The comparison between a road drill and a ghost is used to represent the extreme ends of the auditory or 'sound' spectrum. A road drill is characterized as 'noisy,' symbolizing the loud, industrial, and jarring sounds of the modern world[cite: 530]. Conversely, a ghost is characterized as 'quiet,' representing a silence so deep it feels supernatural[cite: 531]. This contrast is effective because a road drill is a very physical, modern machine, while a ghost is a silent, mythical entity. This pairing shows that the poet is willing to use both real-world objects and folklore to make a point. It highlights how sound can range from being overwhelmingly loud to completely non-existent. The use of 'ghost' adds a touch of mystery and imagination to the poem's otherwise physical list of opposites."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Describe how the poet uses 'Shapes' and 'Textures' to add variety to the poem.",
+      "answer": "The poet expands the variety of comparisons by including the physical properties of shape and texture. Shapes are represented by the contrast between a 'house,' described as 'square,' and a 'pea,' described as 'round' [cite: 526-527]. This shows that the poet looks at both large-scale human constructions and tiny natural seeds to find examples. Texture is illustrated through the opposites of 'hard' and 'soft,' using a 'rock' and a 'mitten' respectively [cite: 534-535]. A rock is a cold, unyielding part of the earth, while a mitten is a soft, protective piece of clothing made by humans. These comparisons require the reader to use their senses of sight and touch to understand the poem. By covering these diverse physical traits, the poet creates a comprehensive picture of the material world. It encourages the reader to pay attention to the different 'feels' and 'looks' of the objects around them."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What is the significance of the comparisons involving 'Time' and 'Brightness'?",
+      "answer": "The poet uses time and brightness to show how even the fundamental cycle of the day is full of opposites. Brightness is compared through 'dark as a tunnel' and 'light as the moon,' showing how light levels change in different spaces [cite: 536-537]. Time is explicitly compared by pairing 'Night time' with 'Day time,' and specifically 'midnight' with 'noon' [cite: 538-539]. Midnight represents the peak of darkness and rest, while noon represents the peak of light and activity. These pairs are important because they are universal experiences that every human can relate to, regardless of where they live. They show that the theme of 'opposites' is not just a poetic idea but a basic reality of how we experience time and space. These comparisons anchor the poem in the natural rhythm of the universe. It helps the reader realize that even the most basic parts of life are built on contrasts."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Discuss the use of 'Height' and 'Form' (crooked vs. straight) in the final stanzas.",
+      "answer": "In the final stanzas, the poet explores the dimensions of height and the direction of lines or forms. Height is compared using a 'giant,' who is 'tall,' and an 'elf,' who is 'short' [cite: 540-541]. These mythological characters help to emphasize the extremes of vertical size in a way that is imaginative and clear. The form or path of an object is illustrated by comparing a 'mountain path' to a 'shelf'[cite: 542]. The path is described as 'crooked' because it winds and turns up a hill, while the shelf is 'straight' to keep things balanced. This shows that nature (the path) often has complex, irregular forms, while human-made objects (the shelf) are often simple and direct. These comparisons round out the poem's exploration of physical characteristics. They remind the reader that the 'shape' of our journey and our 'standing' are also part of the world's variety."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Analyze the 'Warming up' activity on vehicles and how it prepares students for the poem.",
+      "answer": "The 'Warming up' activity asks students to list various vehicles and draw word webs for two different types [cite: 479-481]. They are encouraged to think about qualities like size, speed, origin, price, and sound [cite: 483-494]. This exercise is crucial because it trains students to identify the specific 'features' of an object before they start comparing them. For instance, comparing a 'black stallion' to a 'sleek car' requires looking at their power and speed [cite: 487-496]. This mirrors the poet's own method of selecting objects like a spaceship and a snail based on their speed. By describing their 'dream vehicle,' students also practice using adjectives and phrases effectively[cite: 493]. This practical exercise makes the literary concept of 'similes' much easier to grasp when they finally read the poem. It bridges the gap between everyday objects and poetic language."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What is the difference between 'Drive' and 'Ride', and why is this distinction important in English?",
+      "answer": "The 'Warming up' section notes a specific linguistic difference between the words 'drive' and 'ride' [cite: 507-508]. Generally, we 'drive' vehicles that have four or more wheels, like cars, buses, or trucks, where we are in control of the engine. On the other hand, we 'ride' vehicles with two wheels, like bicycles or motorcycles, or we 'ride' animals like horses. This distinction is important for students of English because it helps them use verbs accurately in a variety of contexts. Using these words correctly shows a better command over the nuances of the language. For example, a person 'rides' a horse but 'drives' a carriage pulled by that horse. This activity helps students to think critically about the specific 'actions' associated with different objects. It is a small but essential part of building strong communication skills."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain how the 'English Workshop' helps students practice 'Comparative Forms' of adjectives.",
+      "answer": "The 'English Workshop' asks students to list adjectives from the poem and then write their comparative forms[cite: 550]. They are given examples like 'Faster than the wind' and 'Slower than a tortoise' to guide them [cite: 552-554]. This activity is significant because it moves students beyond simple 'as...as' similes to the next level of grammar. Students must think of objects other than those in the poem, like a tortoise instead of a snail, to create new comparisons[cite: 558]. Practicing forms like 'bigger,' 'smaller,' and 'gentler' helps students understand how adjectives change to show a higher degree of a quality. This exercise reinforces their vocabulary and helps them build more complex sentences in English. It also encourages creativity by asking them to find their own examples from the world around them. This practical application ensures that the grammar lesson is both interesting and memorable."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Discuss the role of 'Idioms' in comparisons as explored in the workshop.",
+      "answer": "The workshop introduces idioms as a specialized way of making comparisons that are deeply rooted in cultural language. Students are asked to find and categorize idioms related to colors, animals, and objects [cite: 564-581]. For example, they look for phrases like 'as cunning as a fox' or 'as black as coal' [cite: 579-581]. These idioms often use animals or nature to describe human traits or physical qualities in a vivid way. Understanding idioms is a key step in moving from basic English to a more advanced, natural-sounding level. They also help students understand the imagery and history behind common expressions. By collecting these idioms, students build a 'vocabulary bank' that they can use in their own writing. This exercise shows that comparisons are not just for poems; they are a vital part of how we speak every day."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain the meanings of the idiomatic comparisons with 'like' mentioned in the text.",
+      "answer": "The text lists several advanced idiomatic comparisons that use the word 'like' to describe behavior or situations[cite: 582]. Phrases such as 'Like a bull in a china shop' describe a person who is clumsy in a delicate situation[cite: 585]. 'Like water off a duck's back' refers to criticism that has no effect on someone, while a 'memory like a sieve' describes a very poor memory [cite: 589-590]. Other examples like 'Like a cat on a hot tin roof' show extreme nervousness or restlessness[cite: 586]. These comparisons are idiomatic because their meaning cannot be understood just by looking at the individual words. Students are encouraged to use a dictionary to look up the main noun in the phrase to find the definition[cite: 584]. Learning these 'like' comparisons adds a layer of color and expressiveness to a student's language. It allows them to convey complex feelings or situations through simple, traditional imagery."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What is the educational value of the 'Group Simile Poem' activity in the workshop?",
+      "answer": "The workshop encourages students to work in groups to think of their own similes and then put them together into a rhyming poem [cite: 561-562]. This activity has high educational value because it combines creative thinking with teamwork and structural writing. Students must first brainstorm objects and their qualities, like 'dry as land' or 'wet as a puddle'[cite: 561]. Then, they must use their knowledge of rhyming words to create a cohesive structure [cite: 562-563]. This exercise helps them apply the literary techniques they learned from the original poem in a practical way. It also makes them active participants in the learning process rather than just passive readers. By creating their own work, students gain a sense of ownership and a deeper understanding of how poetry is constructed. It proves that anyone can find 'opposites' and 'comparisons' in the world if they look closely enough."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Analyze the comparison 'Noisy as a road drill, quiet as a ghost' in terms of modern vs. mythical imagery.",
+      "answer": "This specific comparison is striking because it pairs a very modern, industrial machine with an ancient, mythical figure. A 'road drill' is a loud, vibrating tool used in construction, which represents the noise of the physical, human-built world[cite: 530]. In contrast, a 'ghost' is a figure from folklore known for being completely silent and intangible[cite: 531]. This suggests that our world of opposites includes both things we can see and touch (machines) and things from our stories (ghosts). It shows that the poet's 'world' is one that includes technology, nature, and the human imagination. This mixture of imagery keeps the poem fresh and relatable for a wide audience. It also illustrates that 'quietness' can be so absolute that it feels like something from a different world. This contrast highlights the immense range of sensory experiences available in our lives."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "How does the poet use 'Animal Imagery' to describe different human traits in the poem?",
+      "answer": "The poet uses various animals throughout the poem to personify or represent different character traits and physical states. A 'tiger' and a 'lamb' are used to contrast the traits of being 'fierce' and 'gentle' [cite: 520-521]. An 'ox' represents physical 'strength,' while a 'kitten' represents 'weakness' [cite: 532-533]. The 'snail' is used for 'slowness,' and the 'dinosaur' for 'bigness' [cite: 517-518]. These animals are chosen because they are traditional symbols of these qualities, making the poem easy to understand. Using animal imagery helps to bridge the gap between abstract concepts and the physical world. It shows that humans often look at nature to find the words to describe themselves and their surroundings. This deepens the reader's connection to the poem and makes the comparisons feel more natural and intuitive."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Describe the structural pattern of the poem 'Comparisons' and why it is effective.",
+      "answer": "The poem follows a consistent structural pattern where each line or pair of lines presents a set of opposites through similes. For example, it pairs 'fast as a spaceship' with 'slow as a snail' immediately, followed by 'big as a dinosaur' and 'small as a nail' [cite: 516-519]. This rapid-fire list of contrasts creates a rhythmic and balanced feeling as the reader progresses through the poem. The use of simple, repetitive language like 'as...as' makes the similes easy to memorize and understand. This structure is effective because it mirrors the very theme of the poem—the balance of opposites in the world. Each line serves as a small, self-contained lesson in comparison, building up to the final conclusion [cite: 543-544]. The simplicity of the structure allows the vividness of the imagery to stand out. It makes a complex idea like 'universal opposites' accessible to students of all levels."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "What role does the 'Moon' and 'Noon' play in the poet's exploration of 'Light' and 'Time'?",
+      "answer": "The 'moon' and 'noon' are used as symbolic markers for the peak states of light and time within a twenty-four-hour cycle. The moon represents 'light' in the context of the night, providing a gentle contrast to the 'darkness' of a tunnel [cite: 536-537]. 'Noon' represents the peak of 'day time,' serving as the direct opposite of 'midnight' in the night [cite: 538-539]. These choices are significant because they use celestial bodies and specific times to show the order of the universe. They illustrate that even in the most basic parts of our existence, like the sun and the moon, opposites are always present. This adds a sense of cosmic scale to the poem's theme, suggesting that the world's variety is fundamental. It helps the reader to see that the pattern of 'contrasts' exists on both a tiny scale (a pea) and a massive scale (the moon)."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How can students use the 'Vehicles' word web activity to improve their descriptive writing?",
+      "answer": "The vehicles activity encourages students to look beyond the basic name of an object and identify its many specific qualities. By drawing a word web for a vehicle, they must consider its size, speed, brand, color, sound, and shape [cite: 483-494]. They are provided with descriptive words like 'terrific,' 'brand new,' 'sleek,' and 'luxurious' to use [cite: 495-501]. This practice teaches them that a single object can be described from many different angles, which is a key skill in descriptive writing. Instead of just saying 'I have a car,' a student learns to say 'I have a sleek, powerful, eco-friendly vehicle' [cite: 496-500]. This expansion of vocabulary allows them to create much more vivid and interesting descriptions in their own stories or essays. The activity effectively bridges the gap between simple identification and detailed creative expression. It turns a everyday object into a rich subject for linguistic exploration."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Analyze the comparison of 'Crooked as a mountain path, straight as a shelf'.",
+      "answer": "This comparison highlights the difference between the irregular, winding forms of nature and the precise, geometric lines of human creation. A 'mountain path' is 'crooked' because it must follow the natural curves and obstacles of the earth to reach the top[cite: 542]. In contrast, a 'shelf' is 'straight' because it is designed by humans to perform a specific function—holding things level[cite: 542]. This suggests that our lives are made up of both complex journeys and simple, organized structures. It encourages the reader to appreciate the 'beauty of the irregular' in nature while also seeing the value in the 'order' we create. The inclusion of this pair shows that 'opposites' are not just about physical traits like size, but also about how things move and exist. It adds a philosophical layer to the poem's final observations. This contrast between natural paths and human shelves is a perfect example of the world's functional variety."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Why is it important to consider 'Opposites' when looking at the world, according to the poem?",
+      "answer": "The poet concludes the poem by stating that 'The world is full of opposites,' which is a key lesson for the reader[cite: 543]. Considering opposites is important because it allows us to see the full range of possibilities and characteristics that exist around us. It teaches us that there is room for both the 'giant' and the 'elf,' the 'fierce tiger' and the 'gentle lamb' [cite: 540-541, 520-521]. By identifying these contrasts, we learn to appreciate the balance of nature and the diversity of our experiences. The poet’s final request to 'think of some yourself' turns the reader into an active observer of their own environment[cite: 544]. This practice builds critical thinking skills and helps individuals to develop a more nuanced understanding of their world. Ultimately, it suggests that recognizing opposites is the first step toward understanding the complexity of life."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How do the 'Rhyming Words' in the poem contribute to its impact?",
+      "answer": "The poem uses a simple rhyming scheme, pairing words like 'snail/nail,' 'lamb/jam,' 'sea/pea,' and 'toast/ghost' [cite: 517-531]. These rhymes are essential because they create a catchy, rhythmic flow that makes the poem easier to read and remember. They also help to tie the different stanzas together, giving the entire piece a cohesive and polished feel. For students, identifying these rhyming pairs is a key part of the 'English Workshop' activities[cite: 563]. This helps them understand the importance of sound and structure in poetry. Rhyming also makes the 'opposites' feel more connected, as if they naturally belong together in the same line. The simple rhymes mirror the accessibility of the concepts being presented. This makes the poem an excellent tool for teaching both literary devices and basic phonics."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "What can we learn from the category of 'Idioms with Colours' mentioned in the text?",
+      "answer": "The workshop encourages students to find idioms that use specific colors to describe physical or emotional states[cite: 565]. While the text gives 'as black as coal' as an example, it asks students to think of others like 'as white as,' 'as blue as,' and 'as red as' [cite: 566-581]. These color-based idioms show how humans use the visual world to express abstract ideas. For instance, being 'blue' often means being sad, while 'as white as a ghost' shows fear or illness. Learning these phrases helps students understand the symbolic power of colors in different cultures. It also expands their descriptive range, allowing them to use traditional imagery to convey feelings. This activity encourages them to look for patterns in how we use language to describe our observations. It turns the basic concept of 'color' into a sophisticated tool for communication."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Analyze the educational purpose of the 'Bilingual Glossary of Spices' activity from Chapter 1.4.",
+      "answer": "The activity in Chapter 1.4 asks students to make a bilingual glossary of various spices used in the kitchen[cite: 133]. This has immense educational value, especially for Marathi medium students, as it bridges their local cultural knowledge with the English language. They must find the English names for common spices like cardamom, cloves, and mace, which they already know in their mother tongue[cite: 127]. This exercise turns their everyday kitchen into a classroom for vocabulary building. It helps them realize that English is not just an academic subject but a language that describes their real life. Building a glossary also teaches research skills as they may need to look up terms in a dictionary. This practical application makes the learning process both relevant and interesting. It also highlights the global nature of something as simple as the spices in our tea."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 'Wait-High' pruning of tea plants mentioned in Chapter 1.4.",
+      "answer": "Chapter 1.4 explains that in tea gardens, the plants are regularly pruned and kept at a height of about three feet, or 'waist high'[cite: 59]. This practice is a key part of agricultural management and has a very practical purpose. By keeping the plants at this height, workers can easily reach and pluck the top 'flushes' of leaves without having to bend or reach too high[cite: 59]. This ensures that the harvesting process is efficient and less tiring for the laborers. Pruning also prevents the tea plant from growing into a small tree, which it would naturally do if left alone[cite: 58]. This controlled growth allows the garden to remain productive and organized for many years. It is a perfect example of how human intervention is used to manage nature for industry. This detail helps students understand the balance between biology and economics in agriculture."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe the journey of tea from the 'Plantation' to 'Our Homes' based on the flow chart.",
+      "answer": "The journey of tea is a multi-step industrial and agricultural process that ensures the product remains fresh and high-quality. It begins at the 'plantation,' where the Camellia sinensis plants are grown and their leaves are hand-picked as 'flushes' [cite: 159, 53-57]. The next step in the flow chart is that the 'leaves are cured,' which is an essential first stage of preparation[cite: 160]. Then, the 'leaves are processed' to develop their specific flavor and aroma[cite: 161]. After processing, the tea is graded and packed into the containers we see in shops. Finally, the finished product is 'sold to us,' and we bring it into our homes to enjoy as a brew [cite: 162-164]. This flow chart helps students visualize the complex chain of events that brings an everyday item to their table. It also highlights the various jobs and technologies involved in the tea industry."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Discuss the health benefits and 'Healing Properties' of tea as described in the legends and facts.",
+      "answer": "The text explores the healing properties of tea through both ancient legends and modern scientific facts. In the Chinese legend, Emperor Shennong discovered that the infusion had 'restorative properties' and could even be an antidote to some poisons[cite: 75]. The monk Bodhidharma found that chewing tea leaves acted as a 'stimulant' to keep him alert for meditation[cite: 78]. Modern science supports these early observations by identifying 'flavonoids' or antioxidants in tea that protect our body system [cite: 106-107]. Tea lovers today claim it can help reduce the risk of cancer and control blood pressure[cite: 105]. It is also celebrated as a 'stimulating drink' that contains theanine and caffeine to provide a distinctive flavor[cite: 69, 115]. These details show that tea has been valued for its impact on health for thousands of years. It connects ancient wisdom with modern research in a way that is interesting for students."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What is the difference between 'Legends' and 'History' as presented in the context of tea?",
+      "answer": "The text asks students to discuss the difference between history based on oral sources (legends) and 'recorded history' [cite: 88-89, 92]. Legends are traditional stories, like those of Emperor Shennong or Bodhidharma, that have been passed down for centuries but lack documented evidence[cite: 71, 76]. They are often amusing and focus on the 'claims' of historical figures. Recorded history, on the other hand, is based on 'facts' and documented events, such as the first Indian tea sent to England in 1838[cite: 103]. This distinction is important because it teaches students about the different ways we know about the past. While legends give us the cultural 'flavor' of tea's origins, recorded history gives us the 'fact' of its economic and industrial development. Understanding both allows for a more complete and balanced view of the world. This exercise builds critical thinking and historical research skills."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Analyze the cultural significance of the 'Chinese Tea Ceremony' where cups are only half-filled.",
+      "answer": "In many areas of China, tea ceremonies are conducted with a deep symbolic meaning behind every action. A key feature mentioned is that cups are only 'half-filled' at these occasions[cite: 118]. This is not because of a lack of tea, but because the Chinese believe that the other half of the cup must be filled with 'friendship and affection'[cite: 119]. This practice turns a simple act of drinking into a profound social gesture of hospitality and love. It shows that in Chinese culture, the relationship between the host and the guest is just as important as the beverage itself. These ceremonies give people time to relax and focus on these human connections away from the stress of everyday life[cite: 111]. This beautiful tradition teaches students that everyday actions can have deep emotional and philosophical meanings. It highlights the spiritual nature of tea in many parts of the world."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Compound Words' and provide examples related to the tea industry.",
+      "answer": "The 'Language Study' section explains that when two words come together to form a new word, it is called a compound word[cite: 167]. These words can be written in three ways: as one word like 'teapot,' with a hyphen like 'tea-making,' or as two separate words like 'tea club'[cite: 169]. The text provides examples like 'evergreen,' 'blood pressure,' and 'everyday' to show this variety[cite: 168]. In the context of the tea industry, words like 'tea-plantation' and 'tea-whisking' are also compound words[cite: 8, 82]. Learning to identify these compounds helps students expand their vocabulary and understand how the English language builds new terms. It shows that language is often made of simple blocks joined together to describe specific objects or actions. This foundational grammar lesson is made relevant through the chapter's main theme."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "What is an 'Infinitive' and how is it used in the context of the English Workshop?",
+      "answer": "An infinitive, or a 'non-finite form,' is a verb that names an action but does not change according to tense, number, or person [cite: 170-171]. It is often used with the word 'to,' such as 'to drink tea,' but can also appear without it, as in 'Can you name the beverage?' [cite: 171-172]. The 'English Workshop' asks students to identify these forms in sentences like 'It was funny to read words'[cite: 174]. Understanding infinitives is crucial because they are used to express general actions, goals, or desires without being tied to a specific subject. For students, mastering this form helps in building more complex and flexible sentences in English. It is a key part of moving beyond basic subject-verb-object structures. This grammar exercise ensures that students understand the 'tools' they are using when they write."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How does the poet's choice of 'Aromatic' and 'Astringent' describe the sensory experience of tea?",
+      "answer": "The poet uses the words 'aromatic' and 'astringent' to describe the complex sensory profile of tea in the opening stanza [cite: 35, 41, 50-51]. 'Aromatic' refers to the pleasant, fragrant smell that people enjoy as they begin their day with a fresh brew[cite: 35, 50]. 'Astringent' describes the sharp, slightly bitter flavor that makes the drink feel refreshing and stimulating[cite: 41, 51]. Together, these words capture both the 'smell' and 'taste' of the beverage in a very precise way. This choice of vocabulary teaches students that good writing requires using specific adjectives to convey a vivid experience. It encourages them to pay attention to their own sensory reactions to food and drink. By using these specialized terms, the poet elevates the simple act of drinking tea into a more sophisticated sensory event. This helps students to expand their descriptive vocabulary."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Describe the 'Stimulating Quality' of tea and the chemical components responsible for it.",
+      "answer": "Tea is widely celebrated as a stimulating drink that helps people to stay awake and alert, especially in the morning. This quality is primarily attributed to two chemical components found in the leaves: theanine and caffeine[cite: 69]. These components work together to provide tea with its 'special and distinctive flavour' while also giving the brain a gentle boost[cite: 69, 115]. The legend of Bodhidharma specifically mentions him seeking a plant that would provide this stimulant effect for meditation [cite: 77-78]. Unlike many other drinks, tea provides this energy without containing any carbohydrates, fat, or proteins[cite: 68]. This makes it a pure and healthy choice for people who need to focus or relax. Understanding these components helps students link the 'physical effect' of the drink with its chemical makeup. It bridges the gap between everyday experience and scientific knowledge."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "How did the 'Turkish Traders' and 'Japanese Priests' contribute to the global spread of tea?",
+      "answer": "The spread of tea from China to the rest of the world was facilitated by religious and commercial travelers. Japanese priests who were studying under Buddhist teachers in China are credited with carrying tea seeds and leaves back home with them[cite: 80]. This introduced tea to Japan, where it eventually became an essential part of their own social and spiritual culture. Turkish traders also played a role by 'bargaining for tea' on the border of Mongolia[cite: 81]. These early international exchanges allowed the habit of tea drinking to reach beyond East Asia into Central Asia and eventually Europe. This history shows that tea was a valuable 'global commodity' long before the modern era. It highlights how different cultures interact and share valuable discoveries through travel and trade. This helps students appreciate the interconnected history of the world."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Analyze the impact of 'Tea Mindedness' on the Chinese Emperor Hui Tsung.",
+      "answer": "Emperor Hui Tsung is presented in the text as a figure whose extreme passion for tea eventually led to political disaster. He was so 'tea minded' that he personally set up research into tea-whisking methods and hosted grand tournaments in his court [cite: 82-83]. While this passion helped to advance the 'art of tea,' it also caused him to neglect his duties as a ruler. The story says that he was so occupied with his tea competitions that he 'failed to notice' Mongolia taking over his empire[cite: 83]. This legend serves as a cautionary tale about the dangers of becoming too obsessed with a hobby at the expense of one's responsibilities. It also shows how deeply tea was embedded in the royal courts of ancient China. For students, this story provides an amusing but memorable link between culture and history. It makes the 'story of tea' more personal and dramatic."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "What is the origin of the word 'Chai' and how does it connect to the Chinese characters 't'u' and 'ch'a'?",
+      "answer": "The text explains the linguistic evolution of the word for tea, starting with early Chinese inscriptions. Initially, the character 't'u' was used to describe the plant[cite: 96]. Later, a specific new character called 'ch'a' was developed to refer exclusively to tea[cite: 97]. This modern Chinese word 'ch'a' is very similar to the English word 'ch'a' and the Hindi word 'chai' used across India [cite: 98-99]. The Marathi word 'chaha' also shares this common root[cite: 91]. This linguistic connection proves that the beverage and its name traveled together from China through trade and cultural exchange. It shows students that words often have a shared history across different countries. This discovery helps them to see the links between their own local language and global history. It makes the study of 'tea' a lesson in both geography and linguistics."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How did the discovery by 'Robert Bruce' in 1823 change the history of tea in India?",
+      "answer": "Before 1823, the British were unsuccessfully trying to grow tea in India using seeds from China[cite: 101]. This changed when the botanist Robert Bruce discovered tea plants growing wild in the Upper Brahmaputra valley of Assam[cite: 102]. This discovery was a major turning point because it proved that high-quality tea was already a native plant of India. It allowed the British to establish formal plantations using these local wild plants instead of struggling with foreign seeds. By 1838, the first Indian tea from Assam was sent to England for sale, marking the start of a massive new industry[cite: 103]. Today, India is one of the leading global producers of tea thanks to this discovery[cite: 104]. Robert Bruce's find effectively broke the Chinese monopoly on tea and changed India's economic history forever. For students, this story highlights the importance of observation and scientific discovery."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the role of 'Flavonoids' and 'Free Radicals' in our body's health according to the text.",
+      "answer": "The text provides a scientific explanation for why tea is considered a healthy drink by linking chemistry to biology. It explains that our body produces harmful chemicals called 'free radicals' that can damage our health[cite: 106, 156]. To counteract this damage, tea contains special antioxidants called 'flavonoids'[cite: 106]. Scientists believe these flavonoids help to protect our system against the negative effects of free radicals[cite: 107]. This is why many people believe that drinking tea can help fight viruses and even help us live longer[cite: 105]. This explanation helps students understand that food and drink are made of complex chemicals that interact with our bodies. It bridges the gap between the 'legend' of tea as medicine and the 'fact' of its chemical properties. This makes the chapter a valuable lesson in health education."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic value of a 'Cup of Tea' in Indian households as a token of hospitality.",
+      "answer": "In India, tea is far more than just a drink; it is a fundamental symbol of hospitality and welcome. A cup of tea is offered to any guest or visitor, regardless of their status, even in the 'humblest of homes'[cite: 124]. This tradition shows that serving tea is a way to honor a guest and make them feel at home. Most Indians enjoy their tea hot with milk and sugar, often adding ginger or other spices to enhance the flavor [cite: 125-127]. This shared drink creates a moment of connection and social interaction between the host and the visitor. It is often served alongside spicy snacks, making it a central part of morning and evening routines[cite: 128]. For students, this tradition highlights the core values of their own culture, such as generosity and warmth. It turns a daily habit into a subject of cultural pride."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is the significance of 'Matcha' and the 'Bamboo Whisk' in Japanese tea ceremonies?",
+      "answer": "The Japanese tea ceremony is a unique and highly ritualized way of preparing and serving tea. In Japan, they use a special powdered green tea called 'matcha'[cite: 122]. Unlike standard loose leaves, this powder is mixed directly with boiled water using a traditional 'bamboo whisk'[cite: 123]. This process creates a frothy, vibrant green beverage that is served in small bowls. Every step of the process is done with great care to allow people to relax and enjoy the sensory experience[cite: 111]. Many Japanese people belong to 'tea clubs' to practice this art every week[cite: 112]. The use of the whisk and the bowls shows the importance of tradition and aesthetic beauty in Japanese culture. It teaches students that the 'way' something is prepared can be just as important as the thing itself. This ceremony is a perfect example of tea as a 'spiritual occasion'."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How can students use 'Word Webs' to expand their descriptive vocabulary for different beverages?",
+      "answer": "The 'Warming up' section encourages students to draw word webs to show their associations with different drinks[cite: 10]. When drawing these webs, students are asked to think of describing words or 'adjectives' for color, quality, aroma, and taste[cite: 23]. For example, a web for 'milk' might include words like 'cream,' 'babies,' and 'morning' [cite: 30-32]. They also think of 'actions' like sip, slurp, gulp, and heat, which helps them describe how a drink is consumed[cite: 23]. By comparing their webs with friends, students can discover new words and add them to their vocabulary[cite: 34]. This visual and collaborative method makes learning adjectives and verbs much more engaging than just reading a list. It encourages students to think creatively about the objects they use every day. This practice is a foundational step in building strong descriptive writing skills."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Describe the 'Step-by-Step Process' of making tea in a domestic setting.",
+      "answer": "The 'Warming up' activity asks students to work in pairs and write the step-by-step process of making tea[cite: 22]. This domestic process typically involves several key actions mentioned in the text: boiling, infusing, and filtering[cite: 51, 23]. First, water is 'heated' or 'boiled' in a pot. Then, tea leaves are added to the 'boiling water' to 'infuse' or 'brew,' which releases the flavor and aroma[cite: 51, 23]. After a few minutes, the mixture is 'filtered' or strained to remove the leaves before it is 'poured' into cups[cite: 23]. Many people then add milk and sugar to their own taste[cite: 125]. This exercise helps students to practice using 'imperative' verbs and logical sequencing in their writing. It turns a simple everyday task into a lesson in technical communication. By writing down the steps, they learn the importance of clarity and order."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze the comparison 'Big as a dinosaur, small as a nail' in terms of relative scale.",
+      "answer": "This comparison in the poem 'Comparisons' uses two very different objects to illustrate the extreme ends of the 'size' spectrum. A 'dinosaur' represents the massive, prehistoric scale of life that is far larger than any modern human[cite: 518]. In contrast, a 'nail' is a tiny, everyday object that can be held easily between two fingers[cite: 519]. This stark difference helps the reader to immediately understand the concept of 'big' and 'small.' It shows that size is a relative quality that depends on the objects being compared. By using a creature from the past and a tool from the present, the poet also adds a sense of time and history to the list. This pairing is effective because both objects are very distinct and easy for students to visualize. It is a perfect example of how similes use concrete images to explain abstract ideas."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What is the symbolic meaning of 'Jam' and 'Lemon' in the poet's comparison of taste?",
+      "answer": "The poet uses a 'lemon' and 'jam' to represent the fundamental opposites of 'sour' and 'sweet' [cite: 522-523]. These two items are chosen because they are familiar to everyone and provide a very strong sensory reaction. A lemon's sharp acidity is the perfect symbol for sourness, while jam represents the pure sweetness of preserved fruit and sugar. This comparison is effective because it moves beyond visual traits and asks the reader to use their sense of 'taste.' It shows that 'opposites' are not just about what we see, but also about how we feel and what we consume. These simple items help to make the abstract concept of 'flavor' very clear for students. They illustrate that even in the kitchen, the world is full of contrasting qualities. This helps students to relate the poem's themes to their own senses."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the significance of the simile 'Fierce as a tiger, gentle as a lamb'.",
+      "answer": "This comparison in the poem focuses on the internal 'temperament' or personality of living creatures. The 'tiger' is a traditional symbol of strength, aggression, and wild power, perfectly representing the quality of being 'fierce'[cite: 520]. The 'lamb,' on the other hand, is a universal symbol of peace, innocence, and mildness, representing the quality of being 'gentle'[cite: 521]. By placing these two animals together, the poet shows that the world contains both dangerous forces and peaceful ones. This pairing encourages the reader to consider the different behaviors and roles of animals in nature. It also provides a way for students to describe human characters using animal-based similes. This is a common technique in literature that makes character descriptions more vivid and meaningful. The contrast between these two animals is one of the most recognizable in the entire poem."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How does the poet use the 'Cave' and 'Toast' to illustrate the sense of touch?",
+      "answer": "The poet uses a 'cave' and 'toast' as similes for the temperature qualities of 'cool' and 'warm' [cite: 528-529]. These examples are very effective because they evoke a strong sense of touch and environmental feel. A 'cave' is naturally sheltered and damp, providing a 'cool' sensation that is very different from the heat of the sun outside. 'Toast' is a warm, comforting food item that provides 'warmth' both to the touch and when eaten. These choices show that the poet is looking for examples in both the natural landscape and the domestic kitchen. This mix of imagery keeps the poem grounded and relatable. By using these similes, the poet helps the reader to 'feel' the poem as they read it. This multi-sensory approach is what makes the list of opposites so impactful for students."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Describe the 'Language Study' section on 'Comparisons with like' and its idioms.",
+      "answer": "The 'Language Study' section in Chapter 2.1 introduces students to more advanced idiomatic comparisons that use the word 'like'[cite: 582]. These are common English expressions whose meaning cannot be understood just by looking at the individual words. Examples include 'Like a bull in a china shop,' which describes clumsiness, and 'Like water off a duck's back,' which describes having no effect[cite: 585, 589]. Students are encouraged to use a dictionary and look up the main 'noun' in these phrases to find their true meaning [cite: 583-584]. This activity teaches students that language can be very creative and symbolic. It moves them beyond literal descriptions to a more expressive way of speaking. Learning these idioms is a key part of building a 'natural' sounding vocabulary in English. It also helps them understand the cultural stories and images behind many common phrases."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What is the educational value of listing 'Rhyming Words' and 'Idioms' from the poem?",
+      "answer": "Listing rhyming words and idioms is a foundational activity that helps students understand the structure and flavor of English literature. The poet uses rhymes like 'snail/nail' and 'jam/lamb' to create a rhythmic and memorable flow [cite: 517-523, 563]. Identifying these pairs helps students develop their 'ear' for the language and understand poetic structure. Collecting idioms like 'as cunning as a fox' or 'as black as coal' expands their vocabulary and teaches them about common cultural symbols[cite: 579, 581]. These activities in the 'English Workshop' turn the poem into a practical toolkit for language learning[cite: 549, 564]. They encourage students to look for patterns and creative expressions in everything they read. This makes the study of a simple poem a gateway to a much deeper understanding of the English language. It builds both analytical and creative skills."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the final message of the poem 'Comparisons' and why it matters.",
+      "answer": "The poem 'Comparisons' concludes with the powerful message that 'The world is full of opposites,' and it invites the reader to 'think of some yourself' [cite: 543-544]. This message matters because it encourages curiosity and a deeper observation of the diverse world we live in. By listing contrasts like 'spaceship and snail' or 'giant and elf,' the poet shows that differences are what make the world complete [cite: 516-517, 540-541]. This theme of universal variety helps students to appreciate diversity and understand that everything has its own unique quality. The final request for the reader to think of their own examples turns the poem into an ongoing lesson in creative thinking. It teaches that anyone can be a poet if they simply pay attention to the world around them. Ultimately, the poem is a celebration of the endless variety and balance found in nature and life."
+    }
+  ]
+}

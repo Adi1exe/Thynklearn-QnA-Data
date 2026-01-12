@@ -1,0 +1,2304 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.3.2",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "The Fall of Troy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What epic is the story of Troy taken from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Iliad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Iliad"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who caused the war by taking Helen to Troy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paris",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "How long did the siege of Troy last?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten years",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who killed Hector?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Achilles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achilles"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who planned the wooden horse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Odysseus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Menelaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Odysseus"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Where was the city of Troy located?",
+      "answer": "Troy was a rich trading city located in Asia Minor, near the narrow sea that leads from the Aegean to the Black Sea[cite: 704]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was Troy well-situated for agriculture?",
+      "answer": "The city was situated in well-watered, fertile valleys where corn grew in fields and cattle fed on rich meadow grass[cite: 707]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the primary cause of the ten-year war between the Greeks and Trojans?",
+      "answer": "The war began because Paris, a prince of Troy, persuaded Helen, the wife of Greek King Menelaus, to elope with him to Troy[cite: 714]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How broad was the wall built around the city of Troy?",
+      "answer": "The wall was so broad that people could stand, sit, and walk on top of it[cite: 709]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How long did the siege of Troy continue before the city fell?",
+      "answer": "The siege of the city continued for ten long years[cite: 717]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who was the brave Trojan hero who led the defense of the city for nine years?",
+      "answer": "The brave Hector led the defense of his city for nine years before he was killed[cite: 732]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the only part of Achilles' body where he could be wounded?",
+      "answer": "Achilles could only be wounded in his heel; he was eventually killed by a poisoned arrow entering that spot[cite: 733]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Whose cunning plan finally led to the defeat of Troy?",
+      "answer": "It was the cunning Odysseus who thought of the plan to use a wooden horse to obtain victory[cite: 806]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who was responsible for building the great wooden horse?",
+      "answer": "A skillful engineer made the great horse of wood, and the architect himself was the last man to enter it[cite: 809]."
+    },
+    { "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What deceptive action did the Greeks take to make the Trojans believe they had left?",
+      "answer": "The Greeks burned their tents and sailed away in their ships, though they only went as far as a nearby island[cite: 810, 836]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did the Trojans come out onto the plain in large numbers the next day?",
+      "answer": "They believed the long siege was over because the shore was deserted and the Greek ships had gone, making them glad to be free [cite: 814-816]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who did the Trojans find lying under the wooden horse?",
+      "answer": "The Trojans found a Greek man with his hands tied together who pretended to be very frightened of them [cite: 819-820]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What false story did the Greek man tell about the purpose of the horse?",
+      "answer": "He claimed the Greeks had made the horse as an offering to the sea-god to ensure a safe voyage home[cite: 825]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did the Trojans pay no attention to their wise priest's warning?",
+      "answer": "The Trojans were so excited by the prospect of peace and the 'luck' the horse might bring that they ignored the warning of disaster[cite: 831]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What reckless step did the Trojans take to bring the horse into their city?",
+      "answer": "They broke down part of their strong wall in order to drag the huge wooden horse inside[cite: 832]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How did the Greek ships remain hidden from the Trojans during the day?",
+      "answer": "As soon as the ships were hidden by a nearby island, they lowered their sails and dropped anchor to wait for nightfall[cite: 836]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What signal did the leading Greek ship bear to guide the fleet back to Troy?",
+      "answer": "Agamemnon’s ship, the leading ship of the fleet, bore a red light high on its mast as a signal in the darkness[cite: 837]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who opened the city gates to let the whole Greek army enter?",
+      "answer": "The Greek soldiers who were hidden inside the wooden horse climbed out and opened the gates[cite: 839]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Describe the distressing sounds heard in Troy on the night of its fall.",
+      "answer": "The city was filled with the sound of shouting, the noise of weapons, and the cries of weeping women[cite: 850]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What happened to King Priam and his sons during the attack?",
+      "answer": "Old King Priam was killed along with all of his brave sons[cite: 855]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why did King Menelaus forgive Helen after the city was taken?",
+      "answer": "He forgave her because it was believed that the goddess Aphrodite had turned her heart away from her home and family[cite: 860]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is a 'gerund' according to the Language Study section?",
+      "answer": "A gerund is the '-ing' form of a verb that is used to do the work of a noun, also known as a verbal noun[cite: 791]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Give an example of a gerund used as a subject in a sentence from the text.",
+      "answer": "An example from the text is 'The fighting went on,' where 'fighting' acts as the subject [cite: 789-790]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Define a 'phrase' as explained in the textbook.",
+      "answer": "A phrase is a meaningful group of words that is part of a sentence but does not form a complete sentence by itself [cite: 929-940]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the difference between a main clause and a subordinate clause?",
+      "answer": "A main clause can stand by itself as a complete sentence, while a subordinate (dependent) clause depends on the main clause and is incomplete without it [cite: 958-959]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What did the Greek fleet do while hidden behind the island?",
+      "answer": "They lowered their sails, dropped anchor, and waited for the night to return to Troy[cite: 836]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Where exactly was the signal light placed on Agamemnon's ship?",
+      "answer": "The red signal light was borne high on the mast of Agamemnon's ship[cite: 837]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who gave the signal to the Greek fleet to return to the shores of Troy?",
+      "answer": "The Greek man who had been left behind crept to the wooden horse and gave the signal to the waiting fleet[cite: 838]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What 'false tale' did the Greek man tell the Trojans about the Greeks' departure?",
+      "answer": "He told them the Greeks were tired of the war and had sailed away, leaving the horse as an offering to the sea-god [cite: 823-825]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why did the cunning Greek claim the horse was built too large for the city gates?",
+      "answer": "He claimed it was made big so the Trojans could not take it inside, which would have brought good luck to Troy instead of Greece[cite: 827]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was the Trojans' opinion of their city walls once they believed the Greeks had left?",
+      "answer": "The Trojans excitedly believed that their strong walls were no longer necessary for protection[cite: 828]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How did the Trojans spend the day after dragging the horse into the city?",
+      "answer": "They spent the day feasting, drinking, and celebrating what they thought was the end of the war[cite: 833]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Describe how the Trojans slept after their day of rejoicing.",
+      "answer": "After their heavy celebrations, the Trojans went to sleep and slept soundly, unaware of the coming danger[cite: 834]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What lit up the night sky during the final attack on Troy?",
+      "answer": "The night sky was lit by the bright light of palaces, temples, towers, and houses going up in flames[cite: 853]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which female members of the Trojan royal family were carried off as slaves?",
+      "answer": "Hector's wife, his old mother, and his sister were all carried off as slaves by the Greek conquerors[cite: 856]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How did Helen behave when she finally faced her former husband, Menelaus?",
+      "answer": "She hung her head in shame and sorrow, and her voice was so choked with emotion that she could not speak [cite: 858-859]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What remained of the city of Troy by the morning after the attack?",
+      "answer": "By morning, nothing was left of the proud, rich city that had resisted attack for ten long years[cite: 861]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name two verbs used as gerunds in the Language Study examples, other than 'fighting'.",
+      "answer": "Two other examples of gerunds provided in the text are 'Gardening' and 'Cooking'[cite: 793, 795]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "In the sentence 'I enjoy reading poems', which word is the gerund?",
+      "answer": "In that sentence, the word 'reading' is the gerund or verbal noun[cite: 794]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "According to the Language Study, what are the two essential parts of a complete sentence?",
+      "answer": "A complete sentence must have a subject and a predicate[cite: 941]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the minimum requirement for a group of words to be considered a sentence in terms of verbs?",
+      "answer": "A group of words must have at least one finite verb to be considered a sentence[cite: 942]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Classify 'in the darkness' as a phrase or a clause.",
+      "answer": "The expression 'in the darkness' is a phrase because it is a group of words without a subject and a finite verb[cite: 938, 940]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is 'When the Trojans dragged him out' considered a subordinate clause?",
+      "answer": "It is a subordinate clause because it has a subject and verb but does not make complete sense by itself[cite: 956, 959]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "True or False: A sentence can exist without a main clause.",
+      "answer": "False. The text states that we cannot have a sentence without a main clause[cite: 960]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Identify an antonym for 'peace' used in the text.",
+      "answer": "An antonym for 'peace' found in the text is 'war'[cite: 711, 747]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Identify an antonym for 'exposed' as provided in the English Workshop.",
+      "answer": "An antonym for 'exposed' is 'protected' or 'hidden'[cite: 712, 752, 836]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Give an example of a word related to 'war' from the text that starts with 'S'.",
+      "answer": "Words related to war from the text starting with 'S' include 'siege', 'soldier', and 'sacrifice'[cite: 716, 713, 825]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which prince of Troy was responsible for the elopement with Helen?",
+      "answer": "Paris, a prince of Troy, persuaded Helen to elope with him[cite: 714]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the name of the mountain from which rivers flowed behind Troy?",
+      "answer": "The high peak behind the city was Mount Ida[cite: 706]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Where were the Greek tents located before the Greeks burned them?",
+      "answer": "The Greek tents were located on the plain and seashore outside the city walls[cite: 720, 807, 814]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does the 'Iliad' tell the story of?",
+      "answer": "The Iliad tells the story of Ilium or Troy, a rich trading city[cite: 704]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "From which mountain did rivers and streams flow behind Troy?",
+      "answer": "They flowed from the high peak of Mount Ida[cite: 706]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What crops were grown in the fertile valleys of Troy?",
+      "answer": "Corn was grown in the fertile fields among the hills[cite: 707]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why did the Trojans build a strong wall around their city?",
+      "answer": "The wall was built so that no enemy should attack them from the sea[cite: 708]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What were the city gates of Troy like during peacetime?",
+      "answer": "The great gates stood open, and people could come and go as they pleased[cite: 710]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did Troy become like a strong fortress during wartime?",
+      "answer": "The gates were closed, and the city was protected by its surrounding walls and the hills behind [cite: 711-712]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who was the wife of the Greek King Menelaus?",
+      "answer": "Helen was the wife of King Menelaus[cite: 714]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What did Paris persuade Helen to do?",
+      "answer": "Paris persuaded Helen to elope with him to Troy [cite: 714-715]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How long did the Greeks lay siege to the city of Troy?",
+      "answer": "The siege of Troy continued for ten long years [cite: 716-717]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Where did the Greek soldiers live during the long siege?",
+      "answer": "The Greeks lived in tents and ships outside the city[cite: 720]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who killed the Trojan hero Hector?",
+      "answer": "The brave Hector was killed by Achilles[cite: 732]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How was the Greek hero Achilles finally killed?",
+      "answer": "He was killed by a poisoned arrow that entered his heel[cite: 733]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why was Achilles' heel significant to his death?",
+      "answer": "The heel was the only part of his body where he could be wounded[cite: 733]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What was the final fate of Paris?",
+      "answer": "Paris was also killed by a poisoned arrow later in the war[cite: 734]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How was Troy eventually taken by the Greeks?",
+      "answer": "Troy was taken not by force, but by a cunning trick involving a wooden horse[cite: 805]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Who came up with the plan for the wooden horse?",
+      "answer": "The cunning Odysseus thought of the plan to obtain victory[cite: 806]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Who were some of the heroes who hid inside the wooden horse?",
+      "answer": "Menelaus and Odysseus were among the heroes who hid inside[cite: 809]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why did the Greeks burn their tents?",
+      "answer": "They burnt their tents to pretend they were sailing away and ending the war[cite: 807, 810]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What did the Trojans find on the sands the day after the Greeks 'left'?",
+      "answer": "They found a huge, wooden horse and a Greek man with his hands tied[cite: 817, 819]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What did the Greek man Sinon claim the horse was?",
+      "answer": "He claimed it was an offering to the sea-god to ensure a safe voyage home[cite: 825]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What did the wise Trojan priest warn the people about?",
+      "answer": "He warned that the horse might be a trick that would ruin the city[cite: 829]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What did the Trojans do to get the horse inside the city?",
+      "answer": "They broke down part of their strong wall to drag the horse in[cite: 832]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How did the Trojans spend their last day before the city fell?",
+      "answer": "They feasted, drank, and celebrated their supposed peace[cite: 833]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Where did the Greek fleet wait before returning at night?",
+      "answer": "They lowered their sails and dropped anchor behind a nearby island[cite: 836]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What signal did Sinon give to the Greek fleet?",
+      "answer": "He gave a signal from the shore once the city was asleep[cite: 838]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What was the signal shown by Agamemnon's ship?",
+      "answer": "The ship bore a red light high on its mast[cite: 837]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did the Greek army enter the city of Troy?",
+      "answer": "The heroes inside the horse opened the gates for the army that had returned by ship [cite: 839-840]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What sights could be seen in Troy during the final attack?",
+      "answer": "Leaping flames from burning palaces and houses lit up the night sky[cite: 850, 853]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What happened to King Priam during the night of terror?",
+      "answer": "Old King Priam was killed along with all his brave sons[cite: 855]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What was the fate of Hector's wife and mother?",
+      "answer": "They were carried off as slaves by the Greek conquerors[cite: 856]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How did Menelaus treat Helen when he found her?",
+      "answer": "Menelaus forgave her and took her back with him[cite: 860]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Define a 'gerund'.",
+      "answer": "A gerund is the '-ing' form of a verb that is used as a noun[cite: 791]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Identify the gerund in the sentence: 'Gardening is an art'.",
+      "answer": "The gerund is 'Gardening'[cite: 793]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Identify the gerund in the sentence: 'I enjoy reading poems'.",
+      "answer": "The gerund is 'reading'[cite: 794]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is a 'phrase'?",
+      "answer": "A phrase is a meaningful group of words that is part of a sentence[cite: 929, 940]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Give an example of a phrase from the story.",
+      "answer": "Examples include 'the wise Odysseus' or 'in the darkness'[cite: 930, 938]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the difference between a phrase and a sentence?",
+      "answer": "A phrase does not form a complete sentence, while a sentence expresses a complete idea [cite: 940-941]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is a 'clause'?",
+      "answer": "A clause is a part of a sentence that has a subject and a verb[cite: 952, 958]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is a 'main clause'?",
+      "answer": "A main clause is one that can stand by itself as a complete sentence[cite: 958]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is a 'subordinate clause'?",
+      "answer": "A subordinate or dependent clause depends on the main clause and is incomplete without it[cite: 959]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Identify the subordinate clause: 'When the Trojans dragged him out, the man pretended to be frightened'.",
+      "answer": "The subordinate clause is 'When the Trojans dragged him out'[cite: 956]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Identify the main clause in the sentence from question 141.",
+      "answer": "The main clause is 'the man pretended to be frightened of them'[cite: 954]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'barren' found in the text?",
+      "answer": "The antonym of barren is 'fertile' [cite: 740-741, 707]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'cowardly' found in the text?",
+      "answer": "The antonym of cowardly is 'brave'[cite: 745, 713]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'peace' found in the text?",
+      "answer": "The antonym of peace is 'war'[cite: 747, 711]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'exposed' in the story?",
+      "answer": "The antonym of exposed is 'protected' or 'safe'[cite: 752, 712]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'defenceless'?",
+      "answer": "The antonym of defenceless is 'strong' or 'protected'[cite: 753, 713]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Underline the subject in: 'Paris had brought her to Troy'.",
+      "answer": "The subject is 'Paris'[cite: 785]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Underline the subject in: 'The Greek armies sailed to Troy'.",
+      "answer": "The subject is 'The Greek armies'[cite: 787]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the geographic and economic significance of the location of Troy as explained in Part I.",
+      "answer": "Troy, also known as Ilium, was a rich trading city in Asia Minor situated near the narrow sea leading from the Aegean to the Black Sea[cite: 704]. Its location was highly strategic for both commerce and agriculture because ships carrying goods and grain sailed right in front of the city[cite: 705]. Behind the city rose the high peak of Mount Ida, which provided a constant supply of water through many rivers and streams[cite: 706]. The surrounding valleys were well-watered and fertile, allowing corn to grow in abundance while cattle and sheep grazed on rich grass[cite: 707]. This combination of sea-based trade and productive land made Troy a very prosperous and desirable city. Its natural surroundings provided both the wealth of the market and the sustenance of the farm."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the defensive features of the city of Troy and how it functioned during wartime.",
+      "answer": "The Trojans protected their city by building a massive, strong wall to prevent enemies from attacking from the sea[cite: 708]. This wall was uniquely broad, allowing enough space for people to stand, sit, and even walk on top of it[cite: 709]. During times of peace, the great gates of the city stood open so citizens could visit the seashore freely[cite: 710]. However, in times of war, these gates were closed, effectively turning the city into a strong, safe fortress [cite: 711-712]. The city was further protected by the natural barrier of the high hills rising behind it[cite: 712]. These features, combined with the bravery of its soldiers, made Troy a city that was almost impossible to conquer by force."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the primary cause of the ten-year war between the Greeks and the Trojans.",
+      "answer": "The war was triggered by a personal conflict involving the royal families of both Greece and Troy. Paris, a prince of Troy, had persuaded Helen, the beautiful wife of the Greek King Menelaus, to elope with him to his home city[cite: 714]. This act was seen as a grave insult and a wrong done to Menelaus and all of Greece. In response, the kings and heroes of Greece declared war to take revenge and bring Helen back[cite: 715]. They sailed a massive fleet to Troy and laid siege to the city, a conflict that lasted for ten long years [cite: 716-717]. This story illustrates how a single act of passion could lead to a decade of suffering and the eventual destruction of a great civilization."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Describe the nature of the ten-year siege and the daily struggle between the two armies.",
+      "answer": "The siege of Troy was a long and exhausting conflict where neither side could gain a definitive advantage for ten years [cite: 717-718]. Daily life involved the Trojans coming out of their gates to fight, while the Greeks emerged from their tents and ships on the plain[cite: 720]. Some days saw massive battles between the two entire armies, while other days featured single duels between great heroes[cite: 729]. There were times when the Trojans seemed to have the upper hand, and other times when the Greeks were superior[cite: 730]. Despite the constant fighting, the Greeks could not break into the city, and the Trojans could not force the Greeks to sail away[cite: 719]. This prolonged stalemate led to great weariness and the loss of many legendary lives on both sides."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Compare the deaths of the great heroes Hector and Achilles as described in the narrative.",
+      "answer": "The narrative highlights the tragic deaths of the greatest warriors from both sides of the conflict. The brave Hector, who led the defense of Troy for nine years, was eventually killed in battle by Achilles[cite: 732]. Achilles himself, whom none could resist in normal combat, met his end through a specific vulnerability [cite: 732-733]. He was killed by a poisoned arrow that struck his heel, which was the only part of his body where he could be wounded[cite: 733]. Both deaths show that even the most powerful heroes were subject to fate and unexpected weaknesses. These losses deeply affected their respective armies and contributed to the overall sense of exhaustion and tragedy in the war."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Analyze the cunning plan devised by Odysseus to finally take the city of Troy.",
+      "answer": "Odysseus realized that Troy could not be taken by force, so he proposed a plan based on a clever trick [cite: 805-806]. He suggested building a massive wooden horse big enough to hide a group of their best fighters inside[cite: 807]. The rest of the Greek army would then burn their tents and pretend to sail away in their ships to make the Trojans believe the war was over[cite: 807]. However, the ships would only hide behind a nearby island and return under the cover of darkness[cite: 807, 836]. Once the Trojans were asleep after celebrating their 'victory,' the hidden soldiers would climb out and open the city gates[cite: 807]. This plan relied entirely on psychological manipulation and the element of surprise rather than military strength."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Detail the construction of the wooden horse and the heroes who took the risk of hiding inside it.",
+      "answer": "The great wooden horse was built by a skillful engineer according to the advice of the wise Odysseus[cite: 809]. It was designed with a secret entrance that could only be opened and shut by the architect himself[cite: 809]. Inside the hollow belly of the horse, some of the greatest Greek heroes hid, including Menelaus and Odysseus[cite: 809]. The architect was the last man to enter, ensuring the secret was safe until the right moment[cite: 809]. This construction was not just a statue but a dangerous military vessel hidden in plain sight on the seashore. The heroes inside faced the extreme risk of being discovered and killed if the Trojans decided to burn or destroy the horse instead of bringing it in."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How did the Greeks use deception to convince the Trojans that they had finally given up and left?",
+      "answer": "To make their departure look real, the Greeks performed several visible actions to trick the Trojan scouts. They set fire to all their tents on the plain, leaving behind a scene of a deserted camp[cite: 810, 814]. They boarded their ships and sailed away in full view, though they only went as far as a nearby island to wait for nightfall[cite: 810, 836]. They left only one man behind, Sinon, to tell a carefully crafted false story to the Trojans[cite: 811]. When the Trojans woke up the next morning, they saw no ships and no tents, leading them to cry out that it was 'peace at last' [cite: 815-816]. This elaborate ruse exploited the Trojans' deep desire for the ten-year conflict to end."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Describe the character of the Greek man left behind and his role in Sinon's false tale.",
+      "answer": "The Greeks left behind a cunning individual named Sinon, who was found by the Trojans hiding under the wooden horse with his hands tied[cite: 819]. He played his part perfectly, pretending to be terrified and trembling when the Trojans dragged him out[cite: 820, 823]. When threatened with death, he told a 'false tale' claiming the Greeks had tried to offer him as a sacrifice to the sea-god [cite: 823-825]. He lied that he had escaped and that the Greeks had built the horse as an offering to ensure their own safe voyage home[cite: 825]. His story was designed to gain the Trojans' sympathy and trust while explaining the presence of the horse. By making himself appear as a victim of the Greeks, he became the perfect tool for their deception."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain how Sinon persuaded the Trojans to break their own walls to bring the horse inside.",
+      "answer": "Sinon used a clever psychological trick to make the Trojans want to bring the massive horse into the city. When asked why the horse was so large, he claimed that if it were smaller, the Trojans might have taken it inside easily[cite: 827]. He stated that if the horse entered Troy, the 'luck' of the offering would go to the Trojans instead of the Greeks[cite: 827]. He told them the Greeks intentionally made it too big for the city gates so that the Trojans *couldn't* benefit from it[cite: 827]. This made the Trojans so eager to steal the 'luck' that they decided to break down a part of their own strong wall to drag the horse in[cite: 828, 832]. Their greed for good fortune led them to destroy the very defenses that had kept them safe for a decade."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Why did the Trojans ignore the warning of their wise priest, and what were the consequences?",
+      "answer": "As the Trojans prepared to break the wall, their wise priest warned them that the horse might be a trick that would ruin the city[cite: 829]. He explicitly stated that breaking the walls would bring disaster upon them[cite: 830]. However, the people were so excited by the prospect of peace and 'luck' that they paid no attention to his words[cite: 831]. They chose to believe the comforting lies of Sinon over the rational warning of their own priest. As a result, they physically destroyed their own protection, creating a gap that the Greek army would later use to enter. This blind excitement directly led to the massacre and burning of the city that very night."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Contrast the Trojans' day of rejoicing with the 'night of terror and death' that followed.",
+      "answer": "The day of the horse's arrival was filled with feasting, drinking, and grand celebrations as the Trojans believed the war was over[cite: 833]. They felt a sense of delight and freedom, believing they were finally safe from the Greek ships[cite: 813, 816]. However, this day of joy was followed by a night of extreme terror when the hidden Greeks emerged[cite: 835]. The city was suddenly filled with leaping flames, the sound of shouting, and the cries of weeping women as the Greeks began to burn and kill[cite: 850]. Many Trojans were killed in their beds before they could even find their weapons or armor [cite: 851-852]. The contrast shows how quickly a city's fortune can change when it falls victim to a clever deception."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the strategic movements and signals used by the Greek fleet on the final night of the war.",
+      "answer": "On the final night, the Greek fleet carried out a coordinated return to the shores of Troy. The ships had been waiting behind an island, hidden from view during the day[cite: 836]. Under the cover of darkness, they sailed back toward the city, led by Agamemnon's ship[cite: 837]. To guide the other ships, a red light was borne high on the mast of the leading vessel[cite: 837]. Meanwhile, Sinon, who was watching from the shore, gave the signal to the fleet that the city was asleep[cite: 838]. Once the fleet arrived, the heroes inside the horse opened the city gates to let the entire army in [cite: 839-840]. This precise timing and use of signals ensured that the Greeks could attack the sleeping city with maximum force."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Describe the scene inside Troy as the Greek army began its final attack.",
+      "answer": "The final attack turned the proud city into a scene of chaos and destruction. Palaces, houses, temples, and towers were set on fire, lighting up the entire night sky[cite: 849, 853]. The silence of the night was replaced by the noise of weapons, the shouting of soldiers, and the cries of women[cite: 850]. The Trojans were taken completely by surprise, with many jumping out of bed only to be killed before they could put on their armor [cite: 851-852]. Although they fought as well as they could, their efforts were in vain because the enemy was already inside their walls[cite: 852, 854]. By morning, nothing remained of the rich city but ruins and smoke[cite: 861]."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What was the tragic destiny of the Trojan royal family at the end of the story?",
+      "answer": "The fall of Troy resulted in the total destruction of its royal family. Old King Priam was killed along with all of his remaining brave sons during the night of the attack[cite: 855]. The women of the family faced a different but equally harsh fate; Hector's wife, his old mother, and his sister were all carried off as slaves by the Greek conquerors[cite: 856]. Their status changed instantly from royalty to property of their enemies. This outcome emphasizes the total defeat of Troy, as its leadership was wiped out and its noble families were humiliated. Only Helen, who was originally Greek, avoided this fate by being reconciled with her former husband."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Analyze the reunion of Menelaus and Helen and the explanation given for her actions.",
+      "answer": "King Menelaus rushed through the burning city specifically looking for Helen and eventually found her in her palace[cite: 857]. Helen faced her former husband with deep shame and sorrow, unable to speak because her voice was choked with emotion [cite: 858-859]. Surprisingly, Menelaus forgave her for her elopement and took her back to Greece with him[cite: 860]. The story explains that Helen was not entirely responsible for her actions, as the goddess Aphrodite had 'turned her heart away' from her home[cite: 860]. This divine intervention provided a reason for her husband to show mercy despite the ten years of war she had caused. Their reunion is a rare moment of forgiveness amidst the widespread death and destruction of the city."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain the concept of a 'Gerund' and provide examples of how it is used in the text.",
+      "answer": "A gerund is a grammatical form where the '-ing' ending is added to a verb so that it can function as a noun[cite: 791]. It is also known as a 'verbal noun' because it names an action rather than showing it being performed by a subject. For example, in the sentence 'The fighting went on,' the word 'fighting' acts as the subject of the sentence [cite: 789-790]. Other examples provided in the Language Study include 'Gardening is an art' and 'Cooking is a science'[cite: 793, 795]. Students are encouraged to use gerunds like 'reading' or 'writing' to express their likes and hobbies[cite: 794, 796]. Understanding gerunds helps students identify when an action is being discussed as a general concept or a subject of interest."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Distinguish between a 'Phrase' and a 'Sentence' as explained in the Language Study.",
+      "answer": "The textbook clarifies that a phrase is a meaningful group of words that forms part of a sentence but cannot stand alone[cite: 929, 940]. Phrases like 'the wise Odysseus' or 'in the darkness' do not express a complete idea[cite: 930, 938]. In contrast, a sentence expresses a complete idea and must contain both a subject and a predicate[cite: 941]. A sentence also requires at least one finite verb to be grammatically complete[cite: 942]. Examples of complete sentences from the text include 'The tents had been burnt' and 'The shore was deserted'[cite: 943, 945]. Learning this distinction helps students build better writing habits by avoiding fragments and ensuring every sentence they write is clear and complete."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Define 'Clauses' and explain the difference between a Main Clause and a Subordinate Clause.",
+      "answer": "A clause is a part of a sentence that contains its own subject and verb[cite: 952]. There are two main types: the 'Main Clause' and the 'Subordinate Clause'. A main clause is independent and can stand by itself as a complete sentence, such as 'The man pretended to be frightened'[cite: 954, 958]. A subordinate or dependent clause relies on the main clause to make sense and is incomplete on its own[cite: 959]. An example is 'When the Trojans dragged him out,' which leaves the reader waiting for more information[cite: 956]. Every complete sentence must have at least one main clause, but it can also contain multiple subordinate clauses linked together to express complex ideas[cite: 960]."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How does the story of Troy illustrate the theme of 'Cunning vs. Strength' in warfare?",
+      "answer": "For ten long years, the Greeks tried to take Troy through physical strength and military power, but they were unable to break through the city's walls [cite: 717-718]. The Trojans were equally strong in their defense, leading to a decade-long stalemate[cite: 719]. Eventually, it was not strength but the 'cunning' of Odysseus that won the war through the trick of the wooden horse [cite: 805-806]. The Greeks used psychology and deception to make the Trojans destroy their own defenses[cite: 832]. This shift from force to fraud shows that in this epic story, intelligence and strategy are portrayed as more effective than raw power. The fall of Troy serves as a legendary example of how a clever mind can overcome the strongest fortress."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the 'Building a Story' activity from the Warming up section and its educational purpose.",
+      "answer": "The 'Building a Story' activity is a group game where students work together to create a narrative using specific sentence starters [cite: 685-686]. Each group member is given a slip with a prompt like 'Once there was a...' or 'He/She ate...' and must complete it without showing the others[cite: 688, 691, 693]. The group leader then collects and reads the sentences aloud as one continuous passage to see if it makes sense [cite: 689-690]. The group must then work together to edit the story and make it more meaningful and interesting[cite: 690]. This exercise teaches students about story structure, logical flow, and the importance of collaboration in creative writing. It prepares them for the complex, multi-part narrative of the Trojan War they are about to read."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Analyze the visual and sensory details used to describe the night Troy was destroyed.",
+      "answer": "The author uses intense visual and auditory imagery to convey the horror of Troy's final night. The night sky is 'lit up' by the bright light of palaces, temples, and towers going up in 'leaping flames'[cite: 850, 853]. The soundscape is filled with the 'shouting' of soldiers, the 'noise of weapons,' and the heart-wrenching 'cries of weeping women'[cite: 850]. These details emphasize that the destruction was total, affecting both the physical city and the emotional lives of its people. The mention of Trojans being killed before they could even 'seize their weapons' adds a sense of desperate vulnerability[cite: 852]. By morning, the once 'proud, rich city' is described as having nothing left, highlighting the absolute nature of the fall[cite: 861]. These sensory details help the reader experience the tragic climax of the ten-year war."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the 'English Workshop' activity on antonyms and provide three examples from the text.",
+      "answer": "The English Workshop asks students to find antonyms (opposites) for specific words within the story of Troy[cite: 740]. For example, the opposite of 'barren' is 'fertile,' which describes the productive valleys of Troy[cite: 741, 707]. The opposite of 'cowardly' is 'brave,' a quality attributed to both the Greek heroes and the Trojan defenders[cite: 745, 713]. Another example is 'exposed,' whose opposite is 'protected' or 'safe,' describing the city behind its walls[cite: 752, 712]. This activity helps students expand their vocabulary and understand the contrasting themes of the story, such as war versus peace. By searching the text for these opposites, students engage more deeply with the descriptive language used by the author."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'Achilles' Heel' and how it has become a modern idiom.",
+      "answer": "In the story, Achilles is portrayed as a hero whom 'none could resist' in battle, yet he had one fatal vulnerability[cite: 732]. He was eventually killed by a poisoned arrow that entered his heel, which was the 'only part of his body where he could be wounded'[cite: 733]. This specific detail has led to the modern idiom 'Achilles' heel,' which refers to a person's principal weakness despite their overall strength. In the context of the war, it shows that even the most legendary warriors could be defeated by a small, hidden flaw. The story uses this event to emphasize the role of chance and vulnerability in the lives of even the greatest heroes. It serves as a reminder that no one is completely invincible."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How did the Trojans' pride and excitement contribute to their ultimate downfall?",
+      "answer": "The downfall of Troy was caused as much by the Trojans' internal emotional state as by the Greeks' trickery. When they saw the empty shore, they were so 'delighted' and 'excited' that they ignored the wise warnings of their priest[cite: 828, 831]. Their pride in their city led them to believe they had finally won, and they were eager to bring in the horse as a trophy of 'luck' [cite: 827-828]. This excitement blinded them to the danger of breaking down their own protective walls[cite: 832]. Their desire to celebrate the end of the war through feasting and drinking left them vulnerable and 'sleeping soundly' when the Greeks attacked [cite: 833-834]. Ultimately, their overconfidence and lack of caution allowed the enemy to destroy them from within."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe the 'English Workshop' activity on chronological order and its role in comprehension.",
+      "answer": "The workshop includes an activity that asks students to number a list of events in the order they occurred in the story[cite: 888]. These events include Odysseus thinking of the plan, the building of the horse, the Greeks pretending to sail away, and the final burning of Troy[cite: 893, 895, 897, 899]. This exercise is essential for checking students' comprehension of the plot's complex sequence, especially in a two-part narrative. It forces students to reflect on the logical progression of the Greeks' trickery and the Trojans' mistakes. By organizing these key moments, students develop a clearer mental map of the entire epic story. This skill is fundamental for summarizing long texts and understanding cause-and-effect relationships in literature."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Analyze the irony of the Trojans breaking their own walls to bring in the wooden horse.",
+      "answer": "One of the most ironic moments in the story is when the Trojans physically destroy their own defenses to admit the instrument of their destruction. For ten years, those same walls had kept the entire Greek army at bay and protected the citizens[cite: 717]. However, after hearing Sinon's lie, the Trojans excitedly declared that 'the walls are no longer necessary'[cite: 828]. They broke down a part of their 'strong wall' just to drag in a wooden statue that they believed brought luck[cite: 832]. This act of self-sabotage is deeply ironic because the very thing they did to celebrate their 'safety' was what made them completely vulnerable. It illustrates the theme that a city can only be destroyed when its own people abandon their vigilance."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain the role of the goddess Aphrodite in the story of Helen and Menelaus.",
+      "answer": "The narrative mentions the Greek goddess Aphrodite as the supernatural force behind the conflict's origin. It states that it was 'only Aphrodite who had turned her [Helen's] heart away from her home and her husband' to elope with Paris[cite: 860]. This divine intervention serves to explain why Menelaus was able to forgive Helen after the city fell[cite: 860]. By blaming a goddess, the story suggests that Helen was not acting entirely of her own free will, making her a victim of fate rather than a simple traitor. This inclusion of mythology is common in epics like the Iliad, where gods frequently influence human emotions and historical events. It adds a layer of cosmic destiny to the personal tragedy of the royal couple."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the interdisciplinary link between the 'Fall of Troy' and Indian epics mentioned in the workshop.",
+      "answer": "The workshop encourages students to find parallels between the Trojan War and battles in Indian epics[cite: 776]. Students are asked to research which Indian war lasted the longest and note its cause, enemy armies, heroes, and final outcome [cite: 776-782]. This activity helps students realize that the themes of 'The Fall of Troy'—such as honor, revenge, long sieges, and legendary heroes—are universal in world literature. By comparing the Iliad to epics like the Ramayana or Mahabharata, students can see how different cultures tell stories of great historical conflicts. This interdisciplinary approach makes the study of Greek mythology more relatable and connected to the students' own cultural heritage. It highlights that the 'epic' is a shared human way of remembering the past."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How does the story introduce the 'Iliad' and what does it say about the city of Ilium?",
+      "answer": "The story begins by explaining that the 'Iliad' is the specific name of the epic that tells the story of Ilium, which is another name for Troy [cite: 703-704]. It introduces Troy as a 'rich trading city' located in Asia Minor, emphasizing its wealth and commercial importance[cite: 704]. The text provides a detailed setting of the city near the sea and Mount Ida to help the reader visualize its grandeur before the war [cite: 704-706]. By starting with the book's title, the author anchors the story in world literature and historical legend. This introduction sets the stage for a narrative that is both a geographical account and a legendary tale of a fallen civilization. It establishes that Troy was once a proud and prosperous city that exists now only in stories."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the construction 'enough to' as used in the context of the wooden horse.",
+      "answer": "The textbook highlights the grammatical construction 'enough to' using the example: 'A horse big enough to hold men inside it' [cite: 868-869]. This construction is used to express that a specific quality (bigness) has reached the necessary level for a particular purpose (holding men). In the story, it emphasizes that the wooden horse was not just a statue, but was built to a specific functional scale for Odysseus's trick. Students are encouraged to use this construction to express their own ideas, such as 'The bag is small enough to carry' or 'The water is warm enough to drink'. Learning this pattern allows students to describe the suitability of objects for specific tasks in English. It links a practical descriptive skill to a key plot point in the narrative."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Analyze the use of the construction 'too... to' in describing the Trojans' fate.",
+      "answer": "The construction 'too... to' is used in the text to show that a quality is in excess, preventing a certain action. An example from the story is Sinon's claim that the Greeks made the horse 'too big to go inside your city' [cite: 881-883]. This was a deliberate part of his lie, meant to make the Trojans feel they were missing out on something valuable. The 'too... to' structure creates a sense of limitation that Sinon used to manipulate the Trojans' psychology. Students practice this by creating sentences like 'He was too tired to walk' or 'The box was too heavy to lift'. In the story, this grammatical structure is the 'hook' that Sinon used to trick the Trojans into breaking their own walls. It demonstrates how language can be used to set a trap."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain the construction 'so... that' and its use in conveying the Trojans' excitement.",
+      "answer": "The text uses the 'so... that' construction to show the result of an intense emotion or state. A key example is: 'They were so excited that they paid no attention to his words' [cite: 884-886]. Here, 'so' intensifies the excitement, and the 'that' clause provides the consequence: ignoring the priest's life-saving warning. This construction helps the reader understand the intensity of the Trojans' feelings and why they made such a fatal mistake. Students are encouraged to use this to show cause-and-effect, such as 'The sun was so bright that I had to close my eyes'. In literature, this structure is effective for characterizing a group's mindset and explaining their irrational behavior. It highlights the link between their overwhelming joy and their subsequent tragedy."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the architect of the wooden horse being the 'last man to go in'.",
+      "answer": "The narrative notes that the engineer who built the horse was the final person to enter its hollow belly[cite: 809]. This was a crucial detail because only he 'knew the secret of opening and shutting the entrance' from the inside[cite: 809]. This ensured that the heroes could remain completely sealed and hidden until the moment was right to attack. It also meant that if the architect had been left outside, the men inside might have been trapped if the entrance failed to open. This detail adds to the sense of meticulous planning and high stakes involved in Odysseus's strategy. It shows that the Greeks left nothing to chance in their final attempt to conquer the city. The architect's presence inside was the literal key to the city's eventual fall."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What was the role of Agamemnon's ship and the 'red light' in the Greeks' victory?",
+      "answer": "Agamemnon's ship served as the lead vessel for the returning Greek fleet under the cover of night[cite: 837]. To ensure the other ships could follow in the darkness, it 'bore a red light high on its mast'[cite: 837]. This light was the essential visual signal that coordinated the entire navy's return to the Trojan shore. Without this light, the fleet might have been scattered or lost in the dark, failing to arrive in time to support the heroes inside the city. The red light also signaled to the spy Sinon and the hidden soldiers that the main army was close at hand. This simple signal was the final step in the synchronization of the land and sea forces. It represents the careful communication that made the 'impossible' victory possible."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'leaping flames' and other sensory details used to describe the night of the attack.",
+      "answer": "The author uses the phrase 'leaping flames' to describe the palaces and houses of Troy being set on fire[cite: 850]. This imagery suggests that the fire was not just burning but was active and spreading rapidly across the city. Along with the flames, the night sky was filled with the 'sound of shouting' and the 'noise of weapons'[cite: 850]. The 'cries of weeping women' add a human and tragic dimension to the sensory experience of the city's fall[cite: 850]. These details contrast sharply with the 'peace' the Trojans thought they had achieved just hours earlier. By using such vivid sensory language, the text makes the legendary fall of Troy feel immediate and terrifying for the reader. It captures the total sensory overload of a city under siege."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "What happened to the walls of Troy by the end of the story, and what did this symbolize?",
+      "answer": "By the end of the story, the walls of Troy—which had stood for ten years—were no longer able to protect the city. The Trojans themselves had already 'broken down part of their strong wall' to bring in the wooden horse[cite: 832]. On the night of the attack, the Greeks entered through the gates and the gaps created by the Trojans, and by morning, the city was in ruins[cite: 839, 861]. The broken walls symbolize the Trojans' loss of vigilance and their own role in their destruction. What was once a 'strong fortress' became an open target because of their own hands[cite: 712]. This transformation of the city's physical boundary represents the total collapse of Trojan power and security. It shows that even the strongest defenses are useless if the people inside are deceived."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain the difference between 'Main' and 'Subordinate' clauses using examples from page 74.",
+      "answer": "The Language Study section asks students to identify clause types from the final page of the story[cite: 961]. A 'Main Clause' is a group of words that can stand alone as a complete sentence, such as 'Menelaus forgave her'[cite: 860]. In contrast, a 'Subordinate Clause' depends on the main clause to make sense, such as 'When morning came'[cite: 861]. Without the main clause ('nothing was left of the city'), the subordinate clause 'When morning came' is incomplete and leaves the reader wondering what happened[cite: 861]. Learning to identify these helps students understand how complex sentences are built to show relationships like time and cause. Every sentence in the story's climax uses these links to build tension and provide a complete picture of the fall."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Describe the 'counter plan' activity and what it teaches students about the story of Troy.",
+      "answer": "The workshop asks students to imagine they are a pair of Trojans who have discovered Odysseus's plan and to 'make a counter plan to defeat the Greeks' [cite: 923-924]. This activity requires students to put themselves in the position of the characters and think critically about the story's events. By writing their own plan, they must consider the strategic importance of the walls, the wooden horse, and the hidden soldiers[cite: 925]. This teaches them that the fall of Troy was not inevitable, but was the result of specific choices and deceptions. It encourages creative problem-solving and a deeper understanding of the 'cunning' that won the war. This exercise turns a passive reading experience into an active lesson in strategy and historical fiction writing."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Summarize the final outcome of the city of Troy by the morning after the attack.",
+      "answer": "By the morning after the night of terror, the transformation of Troy was complete and tragic. The city that had once been a 'proud, rich trading city' and a 'strong fortress' was completely destroyed[cite: 704, 712, 861]. The textbook states that 'nothing was left' of the city that had resisted attack for ten long years[cite: 861]. Its king and his sons were dead, and its noble women were carried off as slaves [cite: 855-856]. The only person to return to their former life was Helen, who went back to Greece with Menelaus[cite: 860]. This conclusion emphasizes the finality of the Greeks' victory and the absolute loss suffered by the Trojans. It marks the end of an era and the close of the legendary story of the Iliad."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Analyze the character of Odysseus based on his role in the Greeks' victory.",
+      "answer": "Odysseus is presented as the 'cunning' and 'wise' leader who eventually brought an end to the ten-year war[cite: 806, 808]. Unlike other heroes who relied on physical strength, Odysseus specialized in strategy and psychological manipulation. He was the one who thought of the plan for the wooden horse, realizing that only a 'trick' could take the city [cite: 805-806]. He was also brave enough to hide inside the horse himself, facing the danger of being discovered[cite: 809]. His intelligence allowed the Greeks to overcome a fortress that had withstood a decade of direct attacks. Odysseus represents the power of the mind in warfare, showing that ingenuity can be a more effective weapon than any sword. His character provides the turning point that leads from a stalemate to a complete Greek victory."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How does the author use the '-ing' form of verbs (Gerunds) to describe actions as subjects?",
+      "answer": "In the Language Study section, the author explains that the '-ing' form of a verb can be used as a noun, which is called a 'gerund'[cite: 791]. The narrative provides the example 'The fighting went on,' where 'fighting' is the subject of the sentence [cite: 789-790]. This use of the gerund allows the author to discuss the war's activities as a single, continuous concept rather than just a series of individual acts. By using gerunds like 'Gardening' or 'Cooking' in other examples, the text shows how actions become subjects of general statements[cite: 793, 795]. This grammatical technique is essential for creating a narrative style that can summarize long periods of time or complex events. It helps Standard 9 students understand how verbs can transform into nouns to serve different functions in English sentences."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What does the text tell us about the city of Troy being 'well situated' for agriculture?",
+      "answer": "The text explains that Troy was 'well situated' for agriculture due to its natural surroundings and water supply[cite: 705]. Behind the city was Mount Ida, a high peak from which many 'rivers and streams' flowed down into the valleys[cite: 706]. These valleys were 'well-watered and fertile,' providing the perfect conditions for growing corn[cite: 707]. The 'rich grass of the meadows' supported cattle, while sheep fed on the slopes of the hills[cite: 707]. This natural abundance meant that Troy was self-sufficient and could withstand a long siege because it had its own food sources. It illustrates that the city's wealth was built on a strong agricultural foundation as well as its sea-based trade. This prosperity made it a valuable prize for the invading Greeks."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Discuss the 'counter action' for major events in the story as listed in the workshop.",
+      "answer": "The workshop asks students to identify the 'counter action' (response) for specific events in the Trojan War[cite: 763]. For example, when Helen eloped with Paris (action), the counter action was the Greek kings declaring war to take revenge[cite: 764, 715]. When the Greeks sailed to Troy and attacked it (action), the counter action was the Trojans fighting hard and continuing the siege for ten years[cite: 766, 717]. Another example is Achilles killing Hector, which was later countered by Achilles himself being killed by a poisoned arrow[cite: 768, 733]. This activity teaches students about the reciprocal nature of conflict and the chain of events that makes up an epic story. It shows that every major move in the war led to a corresponding reaction that kept the story moving forward."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "How did the Greeks ensure they were not seen by the Trojans after they 'left' the shore?",
+      "answer": "The Greeks took careful measures to remain invisible to the Trojan scouts during their deceptive departure. After burning their tents and sailing away, they did not head home but instead 'lowered their sails and dropped anchor' behind a nearby island[cite: 836]. By hiding behind the island, they remained out of the line of sight from the Trojan walls. They waited there patiently for the cover of night to return to the shore[cite: 836]. This strategic use of the local geography was essential for the success of Odysseus's plan. It ensured that when the Trojans looked out at the seashore, they saw only a 'deserted' beach and assumed their enemies were gone for good[cite: 814]. This invisibility was the key to catching the city completely by surprise."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the significance of the phrase 'The great gates stood open' in terms of peace and war.",
+      "answer": "In the story of Troy, the state of the city's gates is a direct symbol of its security and status. In times of peace, 'The great gates stood open,' and citizens could come and go to the seashore as they pleased[cite: 710]. This openness represents a life of freedom, trade, and lack of fear. However, the text notes that 'in time of war the gates would be closed,' transforming the city into a fortress [cite: 711-712]. The closing of the gates marks the transition from a prosperous trading hub to a city under siege. Ironically, the Trojans were finally destroyed when they 'opened wide their gates' to celebrate a peace that turned out to be a trap[cite: 816]. The movement of these gates tracks the city's journey from prosperity to defense and finally to its total destruction."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "What were the 'irregularities in English Spelling' that Twain mocked in Chapter 2.3 and how do they relate to the story of Troy?",
+      "answer": "Although the 'Fall of Troy' is a traditional narrative, the previous chapter on Mark Twain introduces students to the idea of spelling reform to fix 'anomalies' in English[cite: 277, 286]. Twain mocked the irregular use of letters like 'c' and 'x' by proposing they be used phonetically[cite: 287]. In the story of Troy, students encounter names like 'Achilles,' 'Odysseus,' and 'Agamemnon,' which follow traditional Greek spelling rather than a modern logical system[cite: 809, 837]. These names themselves are examples of the rich, complex history of the English language that includes many loanwords and foreign names. While Twain joked about simplifying spelling, the epic story of Troy demonstrates the importance of maintaining traditional names and literary terms. Both chapters encourage students to look closely at how words are written and why they remain part of our shared cultural memory."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Describe the scene inside the Trojan Horse as the heroes waited for nightfall.",
+      "answer": "The text tells us that 'some of our best fighters' and 'greatest heroes,' including Menelaus and Odysseus, hid inside the great wooden horse[cite: 807, 809]. They sat inside the hollow body of the horse while it was dragged into the city by the unsuspecting Trojans[cite: 832]. They had to remain absolutely silent and still while the Trojans 'feasted and drank and celebrated' all around them[cite: 833]. The architect was with them, ready to use the 'secret of opening and shutting the entrance' at the right time[cite: 809]. They waited until they were sure the city was 'sleeping soundly' before they dared to climb out[cite: 834, 839]. This shows the immense patience and nerve required of the Greek heroes, who were trapped in a wooden cage in the middle of their enemy's city."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "How does the 'Building a Story' game help students understand the logical flow of a narrative?",
+      "answer": "The 'Building a Story' game from the Warming up section focuses on the 'logical flow' and making a story 'meaningful and interesting'[cite: 690]. Each student contributes one piece of the narrative puzzle, which might initially seem disconnected or absurd when read together [cite: 689-690]. The group must then work on the sentences to create a story that follows a sensible sequence of events[cite: 690]. This mirrors the work of epic poets who had to weave together many different legends into a coherent whole like the 'Iliad'. It teaches students that every action in a story, like Sinon being left behind or the Greeks burning their tents, must serve a purpose in the larger plot. By playing this game, students learn that a good story is more than just a list of facts; it is a carefully structured web of cause and effect."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the major lessons taught in Chapter 3.2 'The Fall of Troy' regarding strategy and vigilance.",
+      "answer": "Chapter 3.2 provides a legendary lesson on the importance of strategy and the dangers of losing one's vigilance. It shows that even a 'strong city' with 'brave soldiers' and 'massive walls' can be defeated if it relies only on physical strength[cite: 713]. The Greeks' victory demonstrates that 'cunning' and a well-coordinated 'plan' are often more powerful than raw force [cite: 805-806]. On the other hand, the Trojans' fate proves that excitement and a desire for 'luck' can lead people to ignore 'wise warnings' and destroy their own defenses [cite: 829, 831-832]. Their ultimate downfall occurred during a time of 'rejoicing' when they felt most safe, showing that true safety requires constant caution[cite: 835]. Overall, the story teaches that intelligence wins wars, and internal foolishness is a city's greatest enemy."
+    }
+  ]
+}

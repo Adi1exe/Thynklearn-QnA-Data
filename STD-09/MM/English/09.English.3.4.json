@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.3.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Think Before You Speak!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who said that man has two ears and one mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Benjamin Disraeli",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Benjamin Disraeli"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What should we do before speaking according to the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think twice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think twice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What happens to spoken words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They cannot be taken back",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "They cannot be taken back"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What was torn into pieces by the young man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sheet of paper",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "A sheet of paper"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who advised asking three questions before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Socrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aristotle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Socrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What did Benjamin Disraeli say about the number of ears and mouths nature gave to man?",
+      "answer": "Benjamin Disraeli remarked that nature gave man two ears and one mouth so that he would listen more and talk less[cite: 727]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How are human ears described differently from the mouth in the text?",
+      "answer": "The ears are like funnels that are open all the time with no door to close them, whereas the mouth has two fences—teeth and lips—that a word must pass through [cite: 729-732]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are the 'two fences' a word must pierce through before being spoken?",
+      "answer": "A word must first pass through the fence of the two rows of teeth and secondly through the fence of the two lips [cite: 732-733]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'master of the unspoken word'.",
+      "answer": "Being a master of the unspoken word means that as long as a thought remains unsaid in your mind, you have full control and power over it[cite: 735, 739]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did the young man seek advice from his spiritual teacher?",
+      "answer": "He had spoken harsh and unkind words to his friend and was afraid he had lost the friendship forever[cite: 741]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the first thing the teacher asked the young man to do?",
+      "answer": "The teacher asked him to write down all the harsh things he had said on a fresh sheet of blank paper [cite: 742-743]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happened to the bits of paper after they were thrown out of the window?",
+      "answer": "Because it was a windy day, the tiny bits of paper were scattered far and wide as soon as they were thrown[cite: 765]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why was the young man unable to collect any bits of paper from the street?",
+      "answer": "The wind had scattered them so far that even after half an hour of searching, he could not find a single torn bit [cite: 769-770]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What lesson did the teacher give regarding spoken words using the paper activity?",
+      "answer": "He taught that just like the scattered paper, once words are spoken aloud, it is very difficult to take them back [cite: 771-772]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who was Socrates and what advice did he give his disciples?",
+      "answer": "Socrates was a wise man of the ancient world who counselled his disciples to speak only when absolutely necessary[cite: 776, 779]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What were the three questions Socrates suggested asking before speaking?",
+      "answer": "Socrates advised asking: 'Is it true?', 'Is it pleasant?', and 'Is it useful?'[cite: 783, 786, 788]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the first question 'Is it true?' protect us from?",
+      "answer": "It ensures that if we are not sure of the truth, we do not utter the word and avoid becoming 'transmitters of untruth' [cite: 784-785]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should we ask 'Is it pleasant?' before we speak?",
+      "answer": "We should ask this because many statements made in idleness are empty and can hurt others; such unpleasant words should remain unspoken [cite: 786-787]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the importance of the third question 'Is it useful?'",
+      "answer": "It forces us to consider if our words will benefit the listener, bring comfort, or help someone before we go ahead and speak [cite: 788-790]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Define the literary device 'Antithesis'.",
+      "answer": "Antithesis is a literary device where opposite or contrasting ideas are put together in a single sentence to make it more effective [cite: 830-831]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Give an example of antithesis from the textbook.",
+      "answer": "An example provided is: 'Speech is silver, but silence is gold'[cite: 835]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How can you identify if a dependent clause is a noun clause?",
+      "answer": "A clause is a noun clause if it can be replaced by a single noun in the sentence [cite: 848, 850-851]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How can you identify an adjective clause?",
+      "answer": "A dependent clause is an adjective clause if it can be replaced by an adjective within the sentence [cite: 848, 852-853]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What information should a 'vigilant consumer' read on a food packet?",
+      "answer": "A consumer should read the name of the item, ingredients, manufacturing and expiry dates, and the sign for veg/non-veg [cite: 919-933]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does the green dot or brown dot symbol on a food wrapper indicate?",
+      "answer": "The sign indicates whether the food item is Vegetarian (green dot) or Non-vegetarian (brown/red dot) [cite: 927-929]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why is it important to check the 'expiry date' on food products?",
+      "answer": "Checking the expiry date ensures that the food is safe to consume and has not spoiled since its date of manufacturing [cite: 931-933]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "List three adverbs from the 'Warming up' section that show a positive manner of speaking.",
+      "answer": "Three positive adverbs are 'politely', 'sweetly', and 'kindly'[cite: 660, 662, 665]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "List three adverbs from the 'Warming up' section that show an unpleasant manner of speaking.",
+      "answer": "Three unpleasant adverbs are 'angrily', 'rudely', and 'nastily' [cite: 713-715]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is meant by the word 'veracity' in the context of Socrates' questions?",
+      "answer": "In the text, 'veracity' means the truth or accuracy of what is being said[cite: 784, 794]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "According to the Language Study, what is the 'affirmative' answer?",
+      "answer": "An affirmative answer is simply the answer 'Yes' [cite: 792-793]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What did Benjamin Disraeli imply about the human mouth and ears?",
+      "answer": "He implied that since nature gave man two ears but only one mouth, we are meant to listen more and talk less[cite: 727]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why does the author state that the ears have 'no door'?",
+      "answer": "The ears are described as being like funnels that are open all the time, meaning we cannot close them to stop hearing [cite: 729-730]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Identify the 'two walls' a word must cross before it is spoken.",
+      "answer": "A word must first pass through the fence of the two rows of teeth and then through the fence of the two lips [cite: 732-733]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the difference between being a 'master' and a 'slave' of words?",
+      "answer": "You are a master of an unspoken word that remains in your mind, but you become a slave to a spoken word once it is released[cite: 735]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why did the young man feel he might have lost his friendship?",
+      "answer": "He was afraid because he had spoken very harsh and unkind words that deeply hurt his friend[cite: 741]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the teacher asking the young man to throw paper bits out the window?",
+      "answer": "The exercise was designed to show how easily words are scattered and how impossible they are to retrieve once released [cite: 764-765]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does the word 'stammered' indicate about the young man's state of mind?",
+      "answer": "It shows he was hesitant and taken aback because he realized how difficult it would be to collect the scattered bits of paper[cite: 754, 767]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why was the young man 'exhausted' after half an hour?",
+      "answer": "He was exhausted from the failed attempt to find even a single bit of the paper that the wind had carried away [cite: 769-770]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the final piece of advice the teacher gave about anger?",
+      "answer": "The teacher told him to learn to think carefully before ever speaking in a state of anger[cite: 772]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How did Socrates influence the youths of the ancient world?",
+      "answer": "He influenced many youths for the better by counseling them on wisdom and the right time to speak [cite: 776-777]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What requirement did Socrates set before one should open their mouth to speak?",
+      "answer": "He required that one must ask themselves three specific questions and receive a 'Yes' (affirmative) for each one [cite: 781-782, 792-793]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the danger of uttering words when one is not sure of their veracity?",
+      "answer": "If we speak without being sure of the truth, we risk becoming 'transmitters' who spread untruth to others [cite: 784-785, 795]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "According to Socrates, why should unpleasant words remain unspoken?",
+      "answer": "Unpleasant words are often empty remarks or vain statements made in idleness that only serve to hurt others [cite: 786-787]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What makes a statement 'useful' according to the third Socratic question?",
+      "answer": "A statement is useful if it benefits the listener, brings comfort, or is likely to help someone [cite: 788-789]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Under what exact condition did Socrates say it is right to speak?",
+      "answer": "One should only go ahead and speak if the intended words are true, pleasant, and useful [cite: 783, 786, 788-790]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Define the literary device 'Antithesis' using the textbook's explanation.",
+      "answer": "Antithesis is the practice of putting together opposite or contrasting ideas in one sentence to make it more effective [cite: 830-831]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Explain the antithesis in the phrase 'Speech is silver, but silence is gold'.",
+      "answer": "It contrasts the value of speaking (silver) with the much higher value of knowing when to be silent (gold)[cite: 835]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How can you distinguish a noun clause from other dependent clauses?",
+      "answer": "A noun clause is one that can be replaced by a single noun while still allowing the sentence to function [cite: 848, 850-851]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the 'simple rule' to identify an adjective clause?",
+      "answer": "A clause is an adjective clause if it can be replaced by a simple adjective within the sentence [cite: 848, 852-853]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does the 'Veg/Non-veg' sign on a food packet look like?",
+      "answer": "It is a symbol (typically a green dot for veg or a brown/red dot for non-veg) that indicates the nature of the ingredients [cite: 927-929]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is the 'Date of packing' important for a vigilant consumer?",
+      "answer": "It helps the consumer determine the freshness of the product and calculate the correct expiry date [cite: 930-933]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should a consumer check to verify if a food item is safe to eat?",
+      "answer": "A consumer should check the ingredients, the manufacturing date, the expiry date, and the nutrition facts [cite: 942-951]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why do food packets often include a website address?",
+      "answer": "The website is provided so consumers can find more information or discover delicious recipes for the product[cite: 910, 937, 950]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What information does the 'Nutrition Facts' panel provide?",
+      "answer": "It provides data on total fat, calories, sodium, vitamins, and minerals per serving of the food item [cite: 879-900]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What does 'M.R.P.' stand for, as mentioned in the food packet activity?",
+      "answer": "It stands for Maximum Retail Price, which is the highest price that can be legally charged for the product[cite: 912, 948]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Give an example of a sentence where 'change' is used as a noun.",
+      "answer": "An example would be: 'We must accept the change in the weather,' where 'change' acts as the object of the sentence[cite: 807]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Give an example of a sentence where 'change' is used as a verb.",
+      "answer": "A sentence like 'You cannot change the words once spoken' uses 'change' as an action word[cite: 807]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Use the word 'return' as a noun in a sentence.",
+      "answer": "In the sentence 'He was watching for the return of the fleet,' the word 'return' functions as a noun[cite: 810]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Use the word 'return' as a verb in a sentence.",
+      "answer": "The sentence 'He returned half an hour later' uses 'return' in its verb form to show action[cite: 769, 810]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How can you identify an adverb clause in a sentence?",
+      "answer": "An adverb clause can be identified by the simple rule that it can be replaced by a single adverb within the sentence[cite: 848]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Identify the noun clause in the sentence: 'But I don't know what they want.'",
+      "answer": "The noun clause in this sentence is 'what they want'[cite: 851]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the adjective clause in the sentence: 'He told us a story that was funny'?",
+      "answer": "The adjective clause is 'that was funny' because it describes the noun 'story'[cite: 853]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the adverb clause in: 'They went when you were talking to your friend'?",
+      "answer": "The adverb clause is 'when you were talking to your friend'[cite: 855]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Name two types of processed food items mentioned in the workshop.",
+      "answer": "The workshop mentions 'ready to eat' and 'ready to cook' food items[cite: 860]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What are the main ingredients of the 'Ooodles' noodles mentioned on the packet?",
+      "answer": "The main ingredients are wheat flour, vegetable oil (palm oil, green tea extract), salt, and stabilizers[cite: 870]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What seasoning ingredients are listed on the Ooodles packet?",
+      "answer": "The seasoning includes coconut oil, dehydrated vegetables (carrots & chives), spices, onion & garlic powder, and caramel colour[cite: 871]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How much water is needed to boil Ooodles according to Step 1?",
+      "answer": "Step 1 instructs the consumer to boil one cup of water[cite: 876]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How long should Ooodles be cooked after adding the masala?",
+      "answer": "According to Step 4, they should be cooked for three minutes[cite: 903]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the M.R.P. of the imaginary Ooodles packet?",
+      "answer": "The Maximum Retail Price (M.R.P.) listed is Rs. 32[cite: 912]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the net weight of the food item in the Ooodles packet?",
+      "answer": "The net weight of the product is 70g[cite: 913]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "According to the packet, how should the product be stored?",
+      "answer": "It should be stored in a cool dry place[cite: 916]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the contact email for the manufacturer of Monnie Ooodles?",
+      "answer": "The contact email provided is export@monniefoods.com[cite: 909]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How many calories are there per serving of Ooodles?",
+      "answer": "There are 270 calories per serving[cite: 888]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Which vitamin is listed as being 4% of the daily value in the Ooodles packet?",
+      "answer": "Vitamin C is listed as providing 4% of the Daily Value (%DV)[cite: 897]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What does the text say about 'empty remarks' and 'vain statements'?",
+      "answer": "It says they are often made in idleness and can hurt others, so they should remain unspoken [cite: 786-787]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What happens if we utter words carelessly without checking their truth?",
+      "answer": "We ourselves become 'transmitters of untruth' who spread false information to others[cite: 785]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the antithesis: 'Speech is silver, but silence is gold'?",
+      "answer": "It suggests that while speaking has value (silver), knowing when to remain silent is far more valuable (gold)[cite: 835]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain the antithesis: 'Man proposes, God disposes.'",
+      "answer": "This contrasting idea means that while humans make plans, the final outcome is determined by a higher power[cite: 834]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is the antithesis example regarding 'Patience'?",
+      "answer": "The text says, 'Patience is bitter, but it has a sweet fruit'[cite: 836]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why does a food packet tell consumers to visit the company's website?",
+      "answer": "It is done so that consumers can find more information and access more delicious recipes for the product[cite: 910, 937]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the location of the manufacturer of 'Monnie Ooodles'?",
+      "answer": "The product is manufactured by Monnie Foods Corporation Ltd. located at Mahatma Phule Road, New MIDC, Pune [cite: 904-908]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What lesson did the scattering of paper bits teach the young man about spoken words?",
+      "answer": "It taught him that just as paper bits scatter in the wind, once words are spoken aloud, it is very difficult to take them back [cite: 771-772]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why was the young man unable to retrieve the paper bits from the street?",
+      "answer": "The wind had scattered the tiny bits so far and wide that he could not find even a single piece after half an hour of searching [cite: 765-770]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did the young man feel when he returned to his teacher after searching for the paper bits?",
+      "answer": "The young man returned to his spiritual teacher feeling completely exhausted and unsuccessful [cite: 769-770]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What specific advice did the teacher give regarding anger at the end of his lesson?",
+      "answer": "The teacher advised the young man to learn to think carefully before he ever speaks in anger[cite: 772]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Who was Socrates and how did he influence the people of his time?",
+      "answer": "Socrates was one of the wisest men of the ancient world who influenced many youths for the better through his counsel [cite: 776-777]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What primary advice did Socrates give his disciples about talking?",
+      "answer": "Socrates counseled his disciples to keep their mouths shut and to speak only when it was absolutely necessary[cite: 779]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Define an 'affirmative' answer as explained in the Language Study.",
+      "answer": "An affirmative answer is simply the answer 'Yes' [cite: 792-793]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "According to Socrates, what is the first question one must ask before speaking?",
+      "answer": "The first question we must ask ourselves before speaking is 'Is it true?'[cite: 783]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is 'veracity' crucial when considering whether to speak?",
+      "answer": "Veracity, or truth, is crucial because if we are not sure about the truth of our words, it is better not to utter them[cite: 784, 794]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What happens when people utter words carelessly without checking the truth?",
+      "answer": "When words are uttered carelessly, we ourselves become transmitters who spread untruth to others[cite: 785, 795]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the second question Socrates suggests we ask ourselves?",
+      "answer": "The second question to ask is 'Is it pleasant?'[cite: 786]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What should a person do with unpleasant words according to the text?",
+      "answer": "The text states that it is better that unpleasant words, which may hurt others, remain unspoken [cite: 786-787]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the third question in Socrates' test for speech?",
+      "answer": "The third question according to Socrates is 'Is it useful?'[cite: 788]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Under what condition did Socrates say a person should finally go ahead and speak?",
+      "answer": "A person should speak only if their words are true, pleasant, and will benefit or comfort the listener [cite: 788-790]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is 'antithesis' as explained in the Language Study section?",
+      "answer": "Antithesis is a literary device where opposite or contrasting ideas are put together in one sentence to make it more effective [cite: 830-831]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Provide the antithesis involving silver and gold mentioned in the book.",
+      "answer": "The example given is: 'Speech is silver, but silence is gold'[cite: 835]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How long should the imaginary product 'Ooodles' be cooked?",
+      "answer": "According to the recipe on the packet, Ooodles should be cooked for three minutes[cite: 903]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the 'simple rule' mentioned for identifying types of subordinate clauses?",
+      "answer": "The rule is to see if the clause can be replaced by a single noun, adjective, or adverb to determine its type[cite: 848]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the Batch Number printed on the Ooodles imaginary food packet?",
+      "answer": "The Batch Number printed on the packet is 24895[cite: 913]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the manufacturing date of the Ooodles packet?",
+      "answer": "The manufacturing date listed on the wrapper is 27-06-2017[cite: 913]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the net weight of the noodles in the Ooodles packet?",
+      "answer": "The net weight of the product is 70g[cite: 913]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How should the Ooodles product be stored according to the package instructions?",
+      "answer": "The instructions state that the product should be stored in a cool dry place[cite: 916]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the expiry duration for Ooodles from its manufacturing date?",
+      "answer": "The packet states the product is 'Best before 8 months from manufacture'[cite: 917]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Which specific vegetables are listed in the Ooodles seasoning ingredients?",
+      "answer": "The seasoning includes dehydrated vegetables, specifically carrots and chives[cite: 871]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Elaborate on Benjamin Disraeli's logic regarding why nature gave humans two ears and only one mouth.",
+      "answer": "The great British statesman Benjamin Disraeli remarked that man was fundamentally meant to listen more and talk less[cite: 727]. He used a lighthearted yet effective biological argument, stating that if we were meant to talk more, nature would have endowed us with two mouths and only one ear[cite: 727]. This structural imbalance emphasizes the importance of receptive communication over active utterance. It suggests that humans should spend twice as much time processing information as they do producing it. Disraeli’s message encourages modesty in speech and a heightened focus on understanding others. Ultimately, this logical comparison serves as a reminder to respect the natural design that prioritizes listening."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Contrast the physical structure of the ears and the mouth as described in the first two paragraphs.",
+      "answer": "The text describes the human ears as being like funnels that are permanently open, with no doors to close them [cite: 729-730]. This physical design suggests that we are constantly in a state of receiving sound and information. In sharp contrast, if a person wishes to speak even a single word, that word must pass through 'two walls' or 'two fences'[cite: 731]. These fences are the two rows of teeth and the two lips, which act as barriers [cite: 732-733]. A word must literally pierce through these physical structures before it can be uttered aloud. This contrast illustrates that while hearing is passive and constant, speaking should be a deliberate and difficult process."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Analyze the meaning and significance of the 'two fences' a word must pierce through.",
+      "answer": "The author uses the physical anatomy of the human mouth to create a metaphor for self-restraint. The 'two fences' refer to the teeth and the lips, which a word must pass through before leaving the body [cite: 732-733]. This double barrier signifies that speaking is not meant to be effortless or immediate. By describing words as 'piercing' through these walls, the text emphasizes the power and permanence of speech[cite: 733]. The existence of these obstacles suggests that we must think at least twice before we utter a word[cite: 734]. It teaches that our biology itself warns us to be careful and guarded with our communication. Therefore, the fences serve as nature's internal checkpoint for wisdom."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the wisdom behind the quote: 'of the unspoken word you are a master, of the spoken word, you are a slave'.",
+      "answer": "This remark by a wise man highlights the total control an individual has over their thoughts before they are vocalized[cite: 735]. As long as words remain 'unspoken' in your mind, you are the master because you can still change, refine, or even delete them [cite: 739-740]. However, the moment a word leaves your lips, you lose all control over it and effectively become its 'slave'[cite: 735]. You are then responsible for its consequences, whether it causes joy or deep hurt to others. Once spoken, you cannot take the word back, no matter how much you wish to do so [cite: 736-738]. This masters/slave dynamic emphasizes that the only way to retain your freedom and integrity is through careful silence."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe the initial problem faced by the young man and his teacher's first instruction.",
+      "answer": "A young man went to his spiritual teacher because he was deeply troubled after speaking harsh and unkind words to a friend[cite: 741]. He realized that his friend was hurt and feared that the friendship might be lost forever[cite: 741]. Seeking a way to 'make amends,' he asked the teacher for guidance on how to fix the situation. Instead of giving verbal advice, the teacher handed him a fresh sheet of blank paper and a pen[cite: 742]. He instructed the young man to write down every harsh thing he had said to his friend[cite: 743]. This physical act forced the young man to confront the exact nature and quantity of his unkindness. It was the first step in a visual lesson about the weight of spoken words."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "How did the teacher use a sheet of paper to demonstrate the scattering of words?",
+      "answer": "After the young man wrote down his harsh words, the teacher told him to tear the paper into as many small bits as possible[cite: 762]. Once the sheet was in a hundred tiny pieces, the teacher ordered him to throw them out of the window [cite: 763-764]. Because it was a windy day, the bits of paper were immediately scattered far and wide as the young man watched[cite: 765]. This activity served as a powerful visual metaphor for how words leave a person's control the moment they are uttered. The wind represented the unpredictable way society carries and spreads our statements. It showed that once a message is 'thrown out,' the speaker no longer has power over its path. This lesson prepared the young man for the impossible task that followed."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain why the young man was 'taken aback' and 'exhausted' during the paper activity.",
+      "answer": "The young man was taken aback when the teacher ordered him to go back out into the street and collect all the tiny bits of paper [cite: 766-767]. He stammered in disbelief because he knew that retrieving hundreds of scattered pieces from the windy street would be nearly impossible[cite: 767]. Despite his doubts, the teacher encouraged him to try, so the young man spent half an hour searching [cite: 768-769]. He returned home completely exhausted because he had failed to find even a single torn bit of the original paper [cite: 769-770]. This physical exhaustion mirrored the mental frustration of realizing that his harsh words were likewise gone beyond retrieval. The experience made the teacher's final moral lesson undeniable and memorable."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What was the final moral lesson given by the spiritual teacher regarding anger?",
+      "answer": "The teacher used the failure of the paper retrieval to deliver a profound warning about human speech. He explained that just as the young man could not get back the torn bits of paper, it is equally difficult to take back words once they are spoken aloud [cite: 771-772]. He specifically emphasized the danger of speaking in a state of 'anger,' where people often lose their sense of judgment[cite: 772]. The teacher's lesson was that we must learn to think carefully and weigh our thoughts before letting them escape our lips. He showed that apologies, while necessary, cannot truly erase the initial impact of a spoken word. This story teaches students that self-control is easier than damage control. It encourages the habit of pausing before reacting emotionally."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Describe the character of Socrates and his general counsel to his disciples.",
+      "answer": "Socrates is described as one of the wisest men of the ancient world who significantly influenced the lives of countless youths for the better [cite: 776-777]. He was known for his philosophical depth and his focus on ethical living and clear thinking. One of his primary teachings to his disciples was to keep their mouths shut and speak only when it was absolutely necessary[cite: 779]. When his followers asked how they would know when it was 'right' to speak, he provided a structured method of self-reflection [cite: 780-781]. He believed that speech was a responsibility that required careful vetting rather than a casual habit. His counsel aimed to prevent the spread of untruth, hurt, and useless noise in society. Socrates' wisdom remains a standard for thoughtful communication today."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Detail the first Socratic question, 'Is it true?', and the consequences of ignoring it.",
+      "answer": "Socrates taught that the first and most basic question to ask before speaking is 'Is it true?'[cite: 783]. He argued that if we are not entirely sure of the 'veracity' (truth) of our statement, it is far better to remain silent[cite: 784]. When people utter words carelessly without verification, they transform themselves into 'transmitters of untruth'[cite: 785]. This means they become responsible for spreading lies or misinformation that can damage reputations or mislead others. By passing on rumors or unverified facts, we lose our own integrity and contribute to a dishonest social environment. Therefore, truth is the first essential filter that preserves both personal character and social trust. Silence is the safest option when the truth is even slightly in doubt."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Analyze the second Socratic question, 'Is it pleasant?', and why unpleasant words should be unspoken.",
+      "answer": "The second filter Socrates proposed for our speech is to ask ourselves, 'Is it pleasant?'[cite: 786]. He observed that people often make empty remarks or vain statements in moments of idleness that serve no purpose other than to hurt others[cite: 786]. Even if a statement contains a grain of truth, it may not be appropriate to say it if it is unnecessarily cruel or unkind. Socrates advised that such unpleasant words should remain unspoken because they create negativity without any constructive benefit[cite: 787]. Choosing to be pleasant does not mean being dishonest, but rather being considerate of the emotional impact of our words. This question encourages empathy and prevents the casual wounding of friends and family members. It reminds us that kindness is as important as accuracy in human interaction."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Discuss the third Socratic question, 'Is it useful?', and its focus on the benefit to the listener.",
+      "answer": "The final question in Socrates' test for speech is 'Is it useful?'[cite: 788]. This requires the speaker to consider if their statement is going to provide any actual benefit to the person hearing it[cite: 788]. We must ask if our words will bring comfort to someone in distress or if we are likely to help them with what we say[cite: 789]. If a statement is true and pleasant but ultimately useless or distracting, it may still be better to stay silent. This filter ensures that our communication is purposeful and adds value to the lives of others rather than just filling the air with noise. Socrates concluded that only if the answer to all three—true, pleasant, and useful—is 'Yes,' should we go ahead and speak[cite: 790]. This high standard promotes a society where every spoken word has a meaningful and positive intent."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Antithesis' using the literary example from the text about the wise man.",
+      "answer": "Antithesis is a literary device that involves putting together opposite or contrasting ideas in a single sentence to make it more effective [cite: 830-831]. The text provides a primary example from a wise man who said: 'of the unspoken word you are a master, of the spoken word, you are a slave'[cite: 828]. This sentence contains two pairs of opposites: 'spoken' versus 'unspoken,' and 'master' versus 'slave'[cite: 829]. By placing these stark contrasts next to each other, the author creates a memorable and sharp point about the loss of control. The balance of the opposites emphasizes the dramatic shift that occurs the moment we choose to talk. Antithesis helps the reader visualize the two extremes of a situation simultaneously, making the moral lesson more impactful. It is a powerful tool for defining boundaries and consequences in literature."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Analyze four additional examples of antithesis provided in the Language Study section.",
+      "answer": "The Language Study section lists four classic examples of antithesis to help students identify the device. Firstly, 'Give every man thy ear, but few thy voice' contrasts listening ('ear') with talking ('voice')[cite: 833]. Secondly, 'Man proposes, God disposes' highlights the gap between human plans ('proposes') and divine outcomes ('disposes')[cite: 834]. Thirdly, 'Speech is silver, but silence is gold' uses precious metals to contrast the value of talking versus the higher value of quiet[cite: 835]. Finally, 'Patience is bitter, but it has a sweet fruit' contrasts the unpleasant process ('bitter') with the positive result ('sweet fruit')[cite: 836]. In each case, the use of opposites clarifies a complex life lesson. These examples show how antithesis is used in proverbs and idioms to convey deep wisdom in a short, rhythmic format."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How do we decide if a subordinate clause is a 'Noun Clause'? Provide an example from the text.",
+      "answer": "A 'Noun Clause' is a dependent clause that does the work of a noun within a sentence[cite: 844]. The 'simple rule' for identifying it is to see if the entire clause can be replaced by a single noun while the sentence remains logical[cite: 848]. For example, in the sentence 'But I don't know the answer,' the word 'answer' is a simple noun[cite: 850]. In the sentence 'But I don't know what they want,' the group of words 'what they want' acts as a noun and is therefore a noun clause[cite: 851]. It answers the question 'What?' in relation to the verb 'know.' Understanding this helps students see how complex ideas can function as single subjects or objects. This grammatical classification is essential for analyzing the structure of sophisticated English prose."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the difference between an 'Adjective Clause' and an 'Adverb Clause' with examples.",
+      "answer": "The textbook uses comparative examples to show the difference between these two types of dependent clauses. An 'Adjective Clause' works like an adjective to describe a noun; for example, 'He told us a story that was funny' uses the clause 'that was funny' to describe the 'story'[cite: 853]. An 'Adverb Clause' works like an adverb to modify a verb, often telling us *when* or *where* something happened[cite: 846]. For example, 'They went when you were talking to your friend' uses the clause starting with 'when' to tell us the time they 'went'[cite: 855]. The rule for both is to see if the clause can be replaced by a single adjective or adverb[cite: 848]. While adjective clauses target nouns, adverb clauses focus on the action or the entire circumstance of the sentence. Mastering these allows students to build more descriptive and context-rich sentences."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "What information does the 'Ingredients' list on a food packet provide to a vigilant consumer?",
+      "answer": "A vigilant consumer should read the 'Ingredients' list to know exactly what they are putting into their body[cite: 919]. On the imaginary 'Ooodles' packet, the list includes basic components like wheat flour and vegetable oil (palm oil, green tea extract), salt, and chemical additives like stabilizers and carbonates [cite: 869-870]. It also provides a separate 'Seasoning' list containing items like coconut oil, dehydrated vegetables (carrots & chives), and spices[cite: 871]. Importantly, the list mentions allergens such as 'Wheat' and 'Soyabean' and notes if the product was produced on shared equipment with shrimp or milk [cite: 871-872]. This transparency is vital for people with dietary restrictions or allergies. Reading the ingredients helps a consumer verify the quality and nature of the food. It prevents the 'untruth' of marketing from hiding the reality of the product."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Discuss the importance of checking 'Nutrition Facts' and 'M.R.P.' on product wrappers.",
+      "answer": "The 'Nutrition Facts' panel provides a detailed breakdown of the product's nutritional value per serving [cite: 879-881]. It lists calories (270 for Ooodles), total fat, cholesterol, sodium, total carbohydrates, and vitamins like Vitamin C [cite: 882-900]. This data is essential for consumers who are monitoring their weight, heart health, or salt intake. Along with health data, the consumer must check the 'M.R.P.' (Maximum Retail Price), which is Rs. 32 on the sample packet[cite: 912]. This ensures that the shopkeeper does not overcharge the customer. Together, these two pieces of information allow a consumer to make both a healthy and an economical choice. Being vigilant about these facts is a practical application of 'Thinking Before You Buy'[cite: 860]. It empowers the consumer to act with knowledge rather than impulse."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of symbols like the 'Green/Brown Dot' and 'Storage Instructions' on packets.",
+      "answer": "Modern food packaging uses symbols and specific text to communicate safety and dietary information quickly. The 'Veg/Non-veg' sign (typically a green dot for veg or a brown dot for non-veg) is crucial for Indian consumers to identify the nature of the food [cite: 927-929]. Additionally, instructions such as 'Store in a cool dry place' are printed to ensure the product remains safe for consumption[cite: 916]. If these instructions are ignored, the food may spoil even before the official expiry date. Consumers are also told to check the 'Best before 8 months from manufacture' warning to avoid eating stale food[cite: 917]. These elements are designed to protect the health of the consumer. A 'vigilant consumer' treats these symbols as 'fences' for their safety, much like the lips and teeth protect the mouth. They are essential for navigating the modern processed food market."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Why do manufacturers provide their address, email, and website on food packaging?",
+      "answer": "The 'Live English' section shows that the manufacturer 'Monnie Foods Corporation Ltd.' provides their full address in Pune, an email for exports, and a website [cite: 904-910]. This information is provided for accountability and customer support. The website is often included so consumers can find 'more delicious recipes' using the product[cite: 910, 937]. Having a direct email and physical address allows a customer to lodge a complaint or seek clarification about ingredients[cite: 909]. This transparency builds trust between the brand and the consumer. It also satisfies legal requirements for commercial products to be traceable. In the context of the unit, this information serves as the 'veracity' check for the product. It allows the consumer to verify the truth behind the marketing claims."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 'Batch Number' and 'Manufacturing Date' for a consumer.",
+      "answer": "The 'Batch No.' (24895) and 'Mfg-27-06-2017' are critical identifiers printed on the Ooodles imaginary food packet[cite: 913]. The manufacturing date is the starting point for calculating the product's shelf life based on the 'Best before' instruction[cite: 931]. The Batch Number is used by the company and health authorities to track a specific group of products in case of a contamination or quality issue. If a problem is found with the food, the company can use this number to recall that specific 'batch' from all stores. For the consumer, these details are the only way to ensure the food is fresh and safe. Checking these dates is the most important habit for a 'vigilant consumer'[cite: 919]. It is a practical life skill that prevents illness and food waste."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How does the 'Warming up' activity regarding adverbs relate to the main theme of the chapter?",
+      "answer": "The 'Warming up' section provides lists of adverbs that describe the 'manner' of speaking, such as 'politely', 'sweetly', 'angrily', or 'rudely' [cite: 660-665, 713-715]. This activity forces students to realize that *how* we say something is as important as *what* we say. If we speak 'angrily' or 'nastily,' we are likely to hurt others and regret our words later, like the young man in the story[cite: 713, 715, 741]. By identifying words with 'positive meanings' versus those in an 'unpleasant context,' students develop emotional vocabulary [cite: 722-723]. This prepares them for the core message: that we must 'Think Before You Speak!' to ensure our manner is constructive. The adverbs serve as a guide for choosing the right tone in different social situations. It bridges grammar with social intelligence."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the 'Think before you use!' activity and its group discussion points about processed food.",
+      "answer": "The workshop asks students to name 'ready to eat' and 'ready to cook' food items and discuss them in groups [cite: 860-861]. The discussion points include whether it is actually 'necessary' to use such items and the reasons why they are sold so widely[cite: 862]. Students must also consider the 'possible adverse effects' of these food items on their health[cite: 863]. This activity encourages critical thinking about consumerism and nutrition. It challenges the 'attractiveness' of modern packaging by looking at the reality of processed ingredients [cite: 938-939]. By discussing this in a group, students learn to weigh the convenience of fast food against long-term health risks. This exercise applies the 'useful' and 'true' principles of Socrates to our daily eating habits. It turns students into active, thinking consumers."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Describe the recipe steps for 'Yummy Noodles' and the purpose of providing a recipe on the pack.",
+      "answer": "The imaginary 'Ooodles' packet provides a six-step recipe: boil water, break and add noodles, add masala, cook for three minutes, remove from heat, and mix well [cite: 875-915]. Step 4 specifically mentions cooking for 'three minutes,' which is a key instruction for the best result[cite: 903]. Providing a 'recipe' on the packet is a common marketing and practical strategy[cite: 936]. It ensures that the consumer prepares the food correctly so they enjoy the taste and become a repeat customer. It also serves as a helpful guide for people who may not know how to cook the specific item. In the 'Live English' context, 'reading the recipe' is part of being a vigilant consumer[cite: 919]. It helps the buyer understand the 'usefulness' of the product for their lifestyle."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How can students practice 'Live English' by creating their own product wrappers and advertisements?",
+      "answer": "The workshop encourages students to work in groups to prepare an 'attractive wrapper or packet' for a product of their choice[cite: 952]. They are also tasked with creating an 'advertisement' to convince customers to buy it [cite: 953-954]. This activity combines creative writing, graphic design, and persuasive speaking. Students must include all the 'vigilant consumer' details they learned, such as ingredients, Mfg date, and nutrition facts [cite: 942-951]. They then prepare a 'conversation' between themselves and a potential customer to practice their 'manner of saying' things[cite: 955]. Finally, they may even explain a 'recipe' to a family member in a dialogue [cite: 956-957]. This comprehensive project turns the lesson's theory into a realistic, hands-on business and communication experience."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the role of 'adaptation' in science as it relates to the biological reasons for our ears and mouth.",
+      "answer": "The textbook makes a cross-curricular link to science by mentioning 'adaptation in living things'[cite: 748]. It asks students to find biological reasons why man's ears and mouth have developed their current forms[cite: 749]. In science, adaptation refers to how body parts evolve to better serve a creature's survival. The two ears are placed on the sides of the head to provide 'binaural' hearing, allowing us to locate the direction of sounds precisely. The single mouth, protected by teeth and lips, is adapted for eating, breathing, and complex speech while being protected from injury. Disraeli's 'message' uses this scientific reality to create a philosophical lesson about listening and talking[cite: 747]. By studying the 'how' and 'why' of our anatomy, students see that nature itself supports the idea of careful communication. It shows that English lessons can incorporate biological truths."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "What does the text mean by 'transmitters of untruth' and how can we avoid becoming one?",
+      "answer": "In the text, 'transmitters' are defined as persons who spread something, in this case, 'untruth'[cite: 795]. Socrates warned that when we utter words carelessly without being sure of their veracity, we ourselves become these transmitters[cite: 785]. To avoid this, we must strictly apply the first question: 'Is it true?'[cite: 783]. If we are not sure about the truth of a rumor, a news item, or a statement, it is better that we do not utter a single word[cite: 784]. This requires resisting the urge to gossip or pass on exciting but unverified information. Being a transmitter of untruth damages the society's trust and our own character. Therefore, silence is the best defense against spreading lies. This lesson is particularly relevant in the modern era of fast-spreading digital information."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Analyze the instruction: 'Draw comic diagrams to represent the content of the first two paragraphs'.",
+      "answer": "The textbook suggests drawing 'comic diagrams' to illustrate the points made by Disraeli and the author[cite: 750]. A student might draw a person with two large mouths and only one ear in the center to show how 'strange' we would look according to Disraeli's inverse logic[cite: 728]. Another diagram could show the ears as 'funnels' with sound flowing in constantly[cite: 729]. A third sketch could depict a word trying to 'pierce through' two literal fences representing teeth and lips[cite: 733]. These visual aids help students internalize the metaphors and make the abstract concepts of 'listening more' and 'talking less' more concrete. Visual learning through 'comics' makes the serious moral lesson engaging and humorous. It encourages students to think creatively about how to communicate complex ideas through art."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the 'unspoken words' and why they are safer than thoughts put into words.",
+      "answer": "Unspoken words are defined as the things you 'want to say,' but which remain 'unsaid, as thoughts in your mind'[cite: 739]. The text explains that once you have put these thoughts into words and they have 'left your lips,' you can no longer change or control them[cite: 740]. In the privacy of your mind, a thought is flexible and harmless to others. However, once spoken, it becomes an independent force that can hurt friends or ruin reputations. This is why the wise man claimed we are 'masters' of the unspoken word[cite: 735]. By keeping a harsh thought inside, we prevent potential damage and give ourselves time to reconsider. The lesson is that internal silence is a powerful tool for maintaining social peace. It protects both the speaker and the listener from unnecessary conflict."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section about packets promote 'Vigilant Consumer' awareness?",
+      "answer": "The 'Live English' section provides a picture of an 'imaginary food item's packet' to teach students how to 'read' a wrapper properly [cite: 918-919]. It uses a series of completion exercises, asking students to identify the name of the item, the manufacturer, and whether it is Veg or Non-veg [cite: 922-926]. Students are also prompted to check the 'expiry date' and 'date of packing' to verify freshness [cite: 930-932]. The activity encourages them to 'obtain more information' about various symbols and discuss why a 'recipe' or 'website' is included [cite: 934-937]. This lesson is designed to prevent consumers from being deceived by 'attractive' ideas used on the packet[cite: 938]. By learning to verify the facts for themselves, students become less vulnerable to marketing tricks. It turns a simple shopping trip into an exercise in critical thinking and safety. Ultimately, it teaches that being 'vigilant' is the best way to protect one's health and money."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'Step 6: Mix well and enjoy' in the noodle recipe and its psychological effect.",
+      "answer": "Step 6 is the final instruction on the imaginary 'Ooodles' packet, encouraging the consumer to 'Mix well and enjoy'[cite: 915]. This step is designed to create a positive emotional association with the product. By using the word 'enjoy,' the manufacturer is promising a delightful experience after the effort of cooking. It transitions the consumer from the 'work' of Step 1 to Step 5 into the reward of eating. Psychologically, this makes the product more 'attractive' and satisfying[cite: 938]. In the context of the unit, this final step represents the 'pleasant' aspect of communication—where a successful process leads to a happy outcome. For a consumer, it signals the completion of the task. It is the 'sweet fruit' of the 'bitter' patience of cooking[cite: 836]."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Discuss the 'Brief Summary' activity where the young man narrates his experience with the teacher.",
+      "answer": "The workshop asks students to write a brief summary of the story, making the 'young man the narrator'[cite: 818]. This change in 'point of view' forces students to empathize with the character's internal struggle and regret. They must imagine starting with, 'I went quickly to my spiritual teacher for advice because I had...' and then describing their harsh words [cite: 819-820]. The summary must include the teacher's 'paper and pen' test and the narrator's exhaustion after searching the streets[cite: 742, 769]. By retelling the story in the first person, students internalize the moral lesson about thinking before speaking in anger[cite: 772]. It turns a third-person observation into a personal reflection. This activity develops narrative skills while reinforcing the chapter's core ethical values."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How does the text link 'Socrates' to the idea of 'affirmative' answers?",
+      "answer": "The text explains that Socrates required a person to ask themselves three questions before speaking[cite: 781]. He insisted that one should only open their mouth if they received an 'affirmative' answer to each of the three[cite: 781]. The Language Study clarifying note defines 'affirmative' as simply the answer 'Yes' [cite: 792-793]. This means that the words must be *simultaneously* true, pleasant, and useful. If the answer to even one question is 'No,' the standard is not met, and silence is the better path. This strict logical 'gatekeeping' ensures that communication is of the highest quality. It shows that Socrates didn't just value truth, but also the social utility and kindness of speech. The 'affirmative' requirement is the ultimate test for a wise communicator."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'vain statements that people make in idleness' and its impact.",
+      "answer": "Socrates identified that many people make 'vain statements' and 'empty remarks' specifically during times of 'idleness'[cite: 786]. This suggests that gossip and unkindness are often the result of having too much free time or not being focused on productive thoughts. These statements are called 'vain' because they serve no purpose other than to 'hurt others'[cite: 786]. The impact of such words is purely negative, as they create emotional pain without offering any solution or benefit. Socrates' advice to keep these words 'unspoken' highlights that being quiet is more productive than being idle and cruel[cite: 787]. This lesson encourages students to use their time and their words for 'useful' and 'pleasant' purposes instead [cite: 788-789]. It connects the habit of industry with the habit of wise speech."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Summarize the importance of 'veracity' in Socrates' first question.",
+      "answer": "The first question Socrates poses is 'is it true?', which directly relates to the concept of 'veracity'[cite: 783, 794]. He teaches that we must be absolutely sure of the truth before we utter a single word[cite: 784]. Without this certainty, we risk becoming 'transmitters of untruth' who spread misinformation[cite: 785]. Veracity is the foundation of all honest communication and personal integrity. If a statement lacks truth, its pleasantness or usefulness is irrelevant. By prioritizing veracity, Socrates ensures that words are treated with respect and that the speaker remains trustworthy. This lesson teaches students to value accuracy over speed in their communication. It is the first 'fence' that every thought must pass through."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section teach students to identify 'Allergens' and 'Additives'?",
+      "answer": "In the 'Live English' activity, students are directed to read the 'Ingredients' list on the imaginary 'Ooodles' packet[cite: 919]. The list explicitly states 'Contains: Wheat, soyabean,' which are common allergens that can be dangerous to some people[cite: 871]. It also lists chemical additives like 'stabilizer (guar gum)' and 'carbonates (sodium and potassium)'[cite: 870]. By completing the sentence 'The ingredients are...', students practice identifying these components[cite: 928]. They are also prompted to discuss whether it is 'necessary' to use such processed items and their 'possible adverse effects' [cite: 862-863]. This exercise teaches students that a 'vigilant consumer' looks past the 'Yummy' label to see the actual chemicals and allergens inside[cite: 873]. It turns a grammar exercise into a vital health and safety lesson. It empowers students to make informed decisions about what they consume."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' section on 'Words used as both Noun and Verb'. Provide three examples.",
+      "answer": "The Language Study section explains that 'the same word can be used as a noun in some sentences and as a verb in others'[cite: 800]. It provides the example of 'remark,' where 'Many are the empty remarks' uses it as a noun, but 'A wise man once remarked' uses it as a verb [cite: 802-804]. Students are then asked to make their own sentences for words like 'change', 'return', and 'benefit' [cite: 807, 810-811]. For instance, 'I have no change (Noun)' versus 'I will change (Verb) my habits.' Another pair could be 'I hope for your return (Noun)' and 'Please return (Verb) the book.' This exercise helps students understand the flexibility of the English language and how word function depends on context. It strengthens their overall vocabulary and grammatical accuracy. It shows that even a single word can have multiple roles in communication."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Analyze the instruction: 'Translate these words into your mother tongue to show the different shades of meaning'.",
+      "answer": "In the 'Warming up' section, students are given a long list of words related to 'speak,' such as 'utter', 'tell', 'declare', 'plead', and 'gossip' [cite: 674-685]. They are instructed to translate these into their mother tongue (Marathi) to appreciate the 'different shades of meaning'[cite: 724]. For example, the Marathi word for 'gossip' (चर्चा) has a different tone than 'declare' (जाहीर करणे) or 'plead' (आर्जव करणे). This cross-linguistic exercise helps students realize that synonyms are not always interchangeable; each word carries a specific emotional weight or social context. By finding the Marathi equivalent, students can more easily identify which English words suggest an 'unpleasant context'[cite: 723]. This builds sophisticated communication skills and a deeper understanding of 'Thinking Before You Speak.' It connects their native language wisdom with their second language learning."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section explain the 'expiry date' calculation?",
+      "answer": "The 'imaginary food item's packet' uses a common format to communicate when a product is no longer safe to eat. Instead of a single final date, it provides the 'Mfg-27-06-2017' and the instruction 'Best before 8 months from manufacture'[cite: 913, 917]. Students are then asked to complete the sentence: 'It should be consumed before...'[cite: 933]. To answer this, they must calculate 8 months from June 2017, which leads them to February 2018. This teaches students that a 'vigilant consumer' must often perform a simple mental calculation to determine safety[cite: 919]. It also prompts them to look for the 'date of packing' and understand that 'Best before' is different from a hard 'expiry date' [cite: 930-932]. This practical math and reading skill prevents the consumption of stale or dangerous food. It shows that being an informed citizen requires constant attention to detail."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Describe the 'Think before you speak in anger' lesson and provide a real-life example of its importance.",
+      "answer": "The spiritual teacher specifically warned the young man to 'learn to think before you speak in anger'[cite: 772]. This is because anger often acts like the 'wind' in the paper activity, scattering our words uncontrollably before we can judge their truth or kindness[cite: 765, 771]. In a real-life argument with a friend or family member, an angry person might say something like 'I never want to see you again!' without truly meaning it. Once spoken, that word pierces through the 'fences' of teeth and lips and cannot be taken back, causing lasting hurt[cite: 733, 738]. Even after apologizing, the memory of that harsh statement remains, becoming a 'slave' to the spoken word[cite: 735]. By pausing to apply Socrates' three questions, the person can avoid a lifelong regret[cite: 781]. This lesson teaches that emotional intelligence is the key to maintaining healthy relationships. Thinking first preserves the 'mastery' of our own thoughts."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section handle 'Email and Website' for imaginary products?",
+      "answer": "The sample 'Ooodles' packet includes the contact email 'export@monniefoods.com' and the website 'www.monniefoods.com' [cite: 909-910]. The text asks students to discuss 'Why the packet tells us to visit the website of the company'[cite: 937]. This is primarily so that consumers can access 'more delicious recipes' or find additional product information[cite: 910]. For the manufacturer, a website is a way to engage with the customer after the purchase. For the 'vigilant consumer,' these contact details are the 'transmitters' of truth about the product's origin and safety[cite: 795, 919]. If a consumer finds a problem, the email provides a direct line for feedback or complaints[cite: 909]. This transparency is a key feature of modern, responsible business. It shows students that every commercial product comes with a digital 'trail' for accountability."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Analyze the instruction: 'Draw comic diagrams to represent... the first two paragraphs'. Provide three specific ideas.",
+      "answer": "The textbook suggests using 'comic diagrams' to visually represent the metaphors in the text[cite: 750]. Idea one: A student could draw a humorous caricature of a person with two large mouths on the sides of their head and only one tiny ear in the center to illustrate Disraeli's point[cite: 728]. Idea two: A diagram showing the ears as literal 'funnels' that are open all the time with sound waves pouring in, having 'no door' [cite: 729-730]. Idea three: A drawing of a word represented as a person trying to climb over two literal fences labeled 'teeth' and 'lips' to leave the mouth [cite: 732-733]. These drawings help students move from reading text to visualizing the underlying logic. It makes the 'biological reasons' for careful speech much easier to understand[cite: 749]. This creative activity ensures that the lesson about 'Thinking Before You Speak!' is both fun and memorable."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the 'Nutrition Facts' per serving for 'Monnie Ooodles' as listed on the packet.",
+      "answer": "The 'Nutrition Facts' panel on the sample packet provides a detailed scientific look at what the food contains[cite: 879]. It states that 'Serving 1' provides 270 'Calories' and 110 'Fat Cal' [cite: 884, 888-889]. The 'Total Fat' is 12g, which is 18% of the 'Daily Value' (%DV), and 'Sodium' is 70g, which is a significant 27% [cite: 882-883, 892-893]. It also mentions that the food contains no 'Cholesterol' but provides 4% of the daily required 'Vitamin C' [cite: 890, 896-897]. This information is crucial for a health-conscious consumer to decide if the 'Yummy Noodles' are suitable for their diet[cite: 873, 939]. By identifying these 'facts,' students learn to differentiate between advertising and reality[cite: 919]. It turns the 'Is it true?' question of Socrates into a practical health verification. This vigilance is the key to healthy living in a world of processed food."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section help students 'verify whether something is good for you to eat'?",
+      "answer": "The workshop specifically asks students 'How you will verify whether something is good for you to eat' using a product wrapper[cite: 939]. To do this, a 'vigilant consumer' must cross-reference several parts of the packet[cite: 919]. First, they check the 'Ingredients' list for additives and allergens like soyabean[cite: 869, 871]. Second, they look at the 'Nutrition Facts' to see the fat and sodium percentages[cite: 879, 882, 892]. Third, they must verify the 'expiry date' by calculating the months from the 'Mfg' date[cite: 913, 917, 931]. Finally, they might check for the 'Veg/Non-veg' sign to match their personal dietary choices [cite: 927-929]. This multi-step verification process ensures that the consumer is making a choice based on truth rather than just an 'attractive' package[cite: 938]. It empowers students to take control of their own health through information."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Describe the 'Live English' activity of collecting 'outer coverings of fast food items'. What should students observe?",
+      "answer": "The workshop instructs students to 'Collect the outer coverings of fast food items' and discuss specific points in groups[cite: 940]. They are to observe and write down the 'Ingredients', who the product is 'Manufactured by', and its 'Net weight' [cite: 942-944]. They must also look for 'Veg or Non-veg' signs, 'Nutrition facts', and the 'MRP' to see if they are being charged correctly [cite: 945, 947-948]. Other important observations include the 'Recipe' provided, the 'Mfg date', the 'Website', and any 'other instructions' like storage [cite: 946, 949-951]. This activity turns the whole world into a classroom where students apply their 'vigilant consumer' skills to real products they buy[cite: 919]. By comparing different wrappers, they can see which companies provide more 'true' and 'useful' information. This habit of observation is the practical side of 'Thinking Before You Speak!' applied to commerce. It builds life-long skills in consumer safety and awareness."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What is the meaning and purpose of the 'Best before 8 months from manufacture' instruction?",
+      "answer": "This instruction is a safety and quality warning printed on the imaginary 'Ooodles' packet[cite: 917]. It tells the consumer that the product will remain at its best quality for exactly '8 months' after the 'Mfg' date[cite: 913, 931]. If a consumer eats the food after this period, it may be stale, lose its nutritional value, or even become harmful to their health. The phrase 'from manufacture' is key, as it forces the consumer to look for the specific 'Mfg-27-06-2017' date on the wrapper[cite: 913]. By calculating this duration, the 'vigilant consumer' determines the final 'expiry date' for themselves [cite: 919, 930-933]. This transparency is meant to protect the customer from eating spoiled goods. It is a vital 'transmitter' of truth about the product's life span[cite: 795]. Understanding this prevents food poisoning and ensures that the buyer gets what they paid for."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain how 'Attractive ideas' are used on food packets to influence consumers. Provide an example from the text.",
+      "answer": "The workshop asks students to discuss 'What ideas are used to make the packet attractive'[cite: 938]. On the sample packet, the name 'Ooodles' and the description 'Yummy Noodles' are used to create a fun and appetizing image[cite: 868, 873]. The use of a bright pink background and a clear bowl of prepared noodles is a visual trick to make the consumer hungry. Furthermore, the label promises a 'delicious' experience and invites you to 'Mix well and enjoy'[cite: 874, 915]. These 'attractive ideas' are designed to make the consumer focus on the pleasure of eating rather than the list of 'stabilizers' or 'carbonates' inside[cite: 870]. By acknowledging these marketing tactics, the 'vigilant consumer' learns to look past the 'Yummy' label to the actual 'Ingredients'[cite: 869, 873, 919]. This critical awareness helps students make choices based on truth rather than just a pretty wrapper. It is the commercial equivalent of 'Thinking Before You Speak!'"
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section about packets relate to the earlier 'Socrates' three questions'?",
+      "answer": "The 'Live English' section is essentially a modern, practical application of the 'Socrates' three questions'[cite: 782, 865]. When looking at a food packet, a consumer asks 'Is it true?' by checking the ingredients and Mfg date against the marketing claims[cite: 783, 919]. They ask 'Is it pleasant?' by considering if the taste (like 'Yummy Noodles') will actually be enjoyable[cite: 786, 873]. Finally, they ask 'Is it useful?' by reading the 'Nutrition Facts' to see if the food will benefit their body or just provide empty calories[cite: 788, 879]. If a product fails any of these checks—for example, if it is stale (not true) or has harmful additives (not useful)—the vigilant consumer should not 'consume' it. Just as Socrates wanted us to filter our speech, the 'Live English' section wants us to filter our consumption. Both lessons promote a life of awareness, integrity, and careful choices. They show that wisdom is a tool for every part of our lives, from speaking to shopping."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the importance of 'M.R.P. Rs. 32' and the 'Batch Number' on the Ooodles packet.",
+      "answer": "The 'M.R.P. Rs. 32' is the Maximum Retail Price, which acts as a 'fence' to protect the consumer from being overcharged by a shopkeeper[cite: 912]. It is a legal requirement that ensures transparency in pricing. The 'Batch No.-24895' is equally important as it identifies the specific production run of that packet[cite: 913]. If a consumer finds a problem with the food, they can report this number to the manufacturer at their Pune address [cite: 904-908]. The company can then use this number to recall other potentially dangerous packets from the same batch. These two details are the 'transmitters' of veracity and accountability in the marketplace[cite: 795, 919]. A 'vigilant consumer' always checks these numbers before making a purchase. They ensure that the commercial transaction is both fair and safe. These small numbers are the silent guardians of consumer rights."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the overarching theme of Chapter 3.4 'Think Before You Speak!' and its lifelong value.",
+      "answer": "The overarching theme of the chapter is the necessity of self-restraint and mindfulness in every form of human output, whether it is speech or consumerism. Through Disraeli's biological metaphors, the text teaches that we are physically designed to listen more than we talk [cite: 727, 729-733]. The story of the young man proves that once words are spoken, they are scattered beyond our control, like paper bits in the wind [cite: 771-772]. Socrates provides the ultimate practical test, requiring words to be true, pleasant, and useful before they are vocalized [cite: 781-790]. Finally, the 'Live English' section applies this same vigilance to reading food packets, ensuring we know the 'truth' behind what we consume[cite: 919]. These lessons together build a character that is thoughtful, honest, and protective of both themselves and others. The lifelong value of this chapter is the habit of 'Thinking First,' which leads to fewer regrets and a healthier, more peaceful life. It turns students from impulsive actors into wise, vigilant citizens."
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.17",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Reading Works of Art"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Sayed Haider Raza was famous as a _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "sculptor",
+          "is_correct": false
+        }
+      ],
+      "answer": "painter"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Raza’s paintings belong to which style of art?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Realistic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Folk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abstract",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Traditional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abstract"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which colours are commonly found in Raza’s paintings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red and green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Blue and orange",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Black and white",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Yellow and pink",
+          "is_correct": false
+        }
+      ],
+      "answer": "Blue and orange"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Raza’s paintings do NOT depict _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "geometric shapes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "abstract ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lifelike human figures",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "inner thoughts",
+          "is_correct": false
+        }
+      ],
+      "answer": "lifelike human figures"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Raza studied art at Chitrakala Mahavidyalaya in _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pune",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Indore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Later, Raza went to _____ to study art.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "England",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "France",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Italy",
+          "is_correct": false
+        }
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which symbol became the core of Raza’s paintings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bindu",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Line",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bindu"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Raza was honoured with how many Padma awards?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Gond art is mainly found in which part of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Northern India",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Central India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Western India",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Central India"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Gond art is a form of _____ art.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abstract",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tribal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Classical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tribal"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Originally, Gond art was drawn on _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "earthen walls",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "canvas",
+          "is_correct": false
+        }
+      ],
+      "answer": "earthen walls"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Colours in Gond art were prepared using _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chemical paints",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "factory dyes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "natural materials",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "oil paints",
+          "is_correct": false
+        }
+      ],
+      "answer": "natural materials"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is used in Gond art designs?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Curvy lines",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Circles",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Gond art is transferred from generation to generation through _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "schools",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "family tradition",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "exhibitions",
+          "is_correct": false
+        }
+      ],
+      "answer": "family tradition"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who preserved Gond art over the years?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tribal people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Painters only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tribal people"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Raza’s paintings are inspired by his _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "surroundings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "inner mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "photographs",
+          "is_correct": false
+        }
+      ],
+      "answer": "inner mind"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which award is NOT mentioned in Raza’s honours?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Padma Shri",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Padma Bhushan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Padma Vibhushan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bharat Ratna",
+          "is_correct": true
+        }
+      ],
+      "answer": "Bharat Ratna"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Gond art mainly reflects _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "modern life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "nature and daily life",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "city culture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "technology",
+          "is_correct": false
+        }
+      ],
+      "answer": "nature and daily life"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Gondi language is similar to _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Telugu",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tamil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Telugu"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Folk art gives a sense of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "simplicity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "simplicity"
+    },
+    {
+  "question_id": 21,
+  "question_type": "SHORT",
+  "question": "Who was Sayed Haider Raza?",
+  "answer": "Sayed Haider Raza was a renowned Indian painter known for his abstract style of painting."
+},
+{
+  "question_id": 22,
+  "question_type": "SHORT",
+  "question": "What type of shapes are used in Raza’s paintings?",
+  "answer": "Raza used simple geometric shapes like circles, triangles, squares, rectangles, lines and dots."
+},
+{
+  "question_id": 23,
+  "question_type": "SHORT",
+  "question": "What makes Raza’s paintings abstract?",
+  "answer": "His paintings do not show real-life scenes but express inner thoughts using shapes and colours."
+},
+{
+  "question_id": 24,
+  "question_type": "SHORT",
+  "question": "Why are Raza’s paintings not lifelike?",
+  "answer": "They do not depict human figures or real environments but focus on abstract forms."
+},
+{
+  "question_id": 25,
+  "question_type": "SHORT",
+  "question": "What does Raza try to express through his paintings?",
+  "answer": "He expresses his inner experiences and thoughts through colour, space and form."
+},
+{
+  "question_id": 26,
+  "question_type": "SHORT",
+  "question": "Where was Raza born?",
+  "answer": "Raza was born in a small village in Madhya Pradesh."
+},
+{
+  "question_id": 27,
+  "question_type": "SHORT",
+  "question": "At what age did Raza begin painting?",
+  "answer": "He began painting at the age of twelve."
+},
+{
+  "question_id": 28,
+  "question_type": "SHORT",
+  "question": "Which institutions did Raza study art at in India?",
+  "answer": "He studied at Chitrakala Mahavidyalaya, Nagpur and the J. J. School of Art, Mumbai."
+},
+{
+  "question_id": 29,
+  "question_type": "SHORT",
+  "question": "Why did Raza settle in France?",
+  "answer": "He went to France for further studies and later decided to settle there."
+},
+{
+  "question_id": 30,
+  "question_type": "SHORT",
+  "question": "What does the ‘bindu’ represent in Raza’s art?",
+  "answer": "The ‘bindu’ became the central element and core symbol in his paintings."
+},
+{
+  "question_id": 31,
+  "question_type": "SHORT",
+  "question": "How does Raza describe his own work?",
+  "answer": "He described his work as an expression of his inner experience and involvement with nature."
+},
+{
+  "question_id": 32,
+  "question_type": "SHORT",
+  "question": "Why are Raza’s paintings considered expressive?",
+  "answer": "They communicate deep thoughts and emotions through colours and composition."
+},
+{
+  "question_id": 33,
+  "question_type": "SHORT",
+  "question": "What is Gond art?",
+  "answer": "Gond art is a tribal folk art developed by the Gond tribal community of India."
+},
+{
+  "question_id": 34,
+  "question_type": "SHORT",
+  "question": "Which tribes developed Gond art?",
+  "answer": "Gond art was developed and preserved by the Gond tribal people."
+},
+{
+  "question_id": 35,
+  "question_type": "SHORT",
+  "question": "Where is Gond art mainly practised?",
+  "answer": "It is mainly practised in Central India."
+},
+{
+  "question_id": 36,
+  "question_type": "SHORT",
+  "question": "What surfaces were originally used for Gond art?",
+  "answer": "Originally, pictures were drawn on the earthen walls of houses."
+},
+{
+  "question_id": 37,
+  "question_type": "SHORT",
+  "question": "How were colours prepared in folk art?",
+  "answer": "Colours were prepared using natural materials like soil, leaves, bark, flowers and coal."
+},
+{
+  "question_id": 38,
+  "question_type": "SHORT",
+  "question": "Why is folk art called an enriching experience?",
+  "answer": "Artists prepare their own canvas and colours, making the process creative and meaningful."
+},
+{
+  "question_id": 39,
+  "question_type": "SHORT",
+  "question": "What kind of designs are seen in Gond art?",
+  "answer": "Designs include dots, straight lines, curved shapes and circles."
+},
+{
+  "question_id": 40,
+  "question_type": "SHORT",
+  "question": "How do textures enhance Gond art?",
+  "answer": "Textures make the paintings lively, detailed and visually attractive."
+},
+{
+  "question_id": 41,
+  "question_type": "SHORT",
+  "question": "Why do Gond paintings look lively?",
+  "answer": "They use vibrant colours, patterns and rhythmic designs."
+},
+{
+  "question_id": 42,
+  "question_type": "SHORT",
+  "question": "What role do women play in folk art traditions?",
+  "answer": "Women preserved folk art through daily activities like decorating houses."
+},
+{
+  "question_id": 43,
+  "question_type": "SHORT",
+  "question": "Why is Gond art considered simple yet deep?",
+  "answer": "It conveys deep thoughts using simple forms and natural colours."
+},
+{
+  "question_id": 44,
+  "question_type": "SHORT",
+  "question": "What materials were used to make colours in the past?",
+  "answer": "Soil, plant juice, leaves, bark, flowers, fruits, coal and cow-dung were used."
+},
+{
+  "question_id": 45,
+  "question_type": "SHORT",
+  "question": "How is art a medium of recording life?",
+  "answer": "Art preserves daily experiences, nature and cultural traditions visually."
+},
+{
+  "question_id": 46,
+  "question_type": "SHORT",
+  "question": "What makes Raza’s paintings unique?",
+  "answer": "Their abstract style, use of geometry and spiritual depth make them unique."
+},
+{
+  "question_id": 47,
+  "question_type": "SHORT",
+  "question": "Why is balance important in abstract art?",
+  "answer": "Balance creates harmony and visual appeal in abstract compositions."
+},
+{
+  "question_id": 48,
+  "question_type": "SHORT",
+  "question": "What effect do Raza’s paintings have on viewers?",
+  "answer": "They create a sense of peace and deep reflection."
+},
+{
+  "question_id": 49,
+  "question_type": "SHORT",
+  "question": "Why are folk arts passed down generations?",
+  "answer": "They preserve culture and traditions through continuous practice."
+},
+{
+  "question_id": 50,
+  "question_type": "SHORT",
+  "question": "How does Gond art reflect daily life?",
+  "answer": "It depicts nature, animals and everyday experiences of tribal life."
+}
+
+  ]
+}

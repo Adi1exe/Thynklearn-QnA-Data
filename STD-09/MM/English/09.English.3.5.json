@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.3.5",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Great Scientists"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the main scientist discussed in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Michael Faraday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What defect did Faraday suffer from as a child?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speech defect",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speech defect"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who was Faraday’s mentor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humphry Davy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humphry Davy"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which invention made Faraday famous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Induction motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction motor"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who translated Faraday’s ideas into equations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "James Maxwell",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thomas Edison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Maxwell"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What were the difficult circumstances of Michael Faraday's birth and childhood?",
+      "answer": "Michael Faraday was born into a poverty-stricken family living in a dirty London suburb, which made his early life very challenging[cite: 998]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Describe the speech defect Michael Faraday suffered from as a child.",
+      "answer": "He had a speech defect where he could not pronounce the letter 'r' correctly, calling himself 'Fawaday' and saying 'wabbit' instead of 'rabbit' [cite: 999-1000]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Faraday's formal education come to an end when he was twelve?",
+      "answer": "His mother was forced to take him out of school because of his speech defect and the lack of help from teachers, effectively ending his formal schooling [cite: 1001-1002]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What job did Faraday start at age thirteen, and how did it affect him?",
+      "answer": "He began working for a bookbinder, where he spent his days binding hundreds of books and his nights staying up to read them[cite: 1003]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which specific book first introduced Faraday to the subject of electricity?",
+      "answer": "He became 'completely hooked' after reading a book on electricity that had been sent to his master for binding [cite: 1004-1005]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did Faraday get the opportunity to attend a lecture by Humphry Davy?",
+      "answer": "When he was twenty-one, a friend gave him a free ticket to a public lecture and demonstration by the renowned chemist at the Royal Institution[cite: 1006]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the subject of Humphry Davy's work during that era?",
+      "answer": "Davy's work primarily focused on chemicals and electrical lighting, which were popular topics among scientists at the time[cite: 1007]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did Davy's work eventually impact the career of Thomas Edison?",
+      "answer": "Seventy years later, Davy’s work enabled Thomas Edison to produce the first consistent light bulb in the USA[cite: 1024]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How did Faraday show he was spellbound during Davy's 1812 lecture?",
+      "answer": "Faraday was so engrossed that he forgot to applaud with the crowd and instead focused entirely on taking comprehensive notes [cite: 1025-1027]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What did Faraday do with the notes he took during Davy's lecture?",
+      "answer": "He bound his comprehensive notes into a book, intending to gift it to Davy one day as a sign of his interest in science[cite: 1028]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What were the major obstacles preventing Faraday from pursuing science initially?",
+      "answer": "Faraday lacked the social status, money, and formal education required to enter the scientific community of his time[cite: 1031]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What 'strange plan' did destiny have in store for Faraday at Davy's lab?",
+      "answer": "A chemical explosion in the lab temporarily blinded Davy, creating a sudden need for an assistant with an excellent memory [cite: 1034-1035]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did Humphry Davy eventually choose to hire Faraday as his secretary?",
+      "answer": "Davy was reminded of Faraday's excellent memory and notes and needed help while he was recovering from his eye injury [cite: 1035-1036]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did Faraday's scientific career officially begin at the Royal Institution?",
+      "answer": "He was promoted from secretary to lab assistant, which gave him the chance to witness Davy’s leading experiments [cite: 1040-1041]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What problem was Davy unable to solve during his electromagnetism experiment?",
+      "answer": "Davy could not figure out how to make a wire behave like a magnet continuously when an electric current was applied[cite: 1043, 1046]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Describe the invention that resulted from Davy's 'mockery' of Faraday.",
+      "answer": "Faraday solved the electromagnetism problem and created the first induction motor, which converted electricity into continuous mechanical motion[cite: 1050]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "List four modern devices that were made possible by the invention of the induction motor.",
+      "answer": "Devices like fans, air conditioning, sewing machines, and power tools all grew out of Faraday's simple motor[cite: 1051]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did Davy's jealousy toward Faraday manifest after his success?",
+      "answer": "Davy gave Faraday an impossible task of reverse-engineering Bavarian glass just to keep him out of the way [cite: 1056-1057]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was Bavarian glass, and why was it significant in the story?",
+      "answer": "It was a material used for lenses in telescopes and microscopes, manufactured by a secret and complicated process [cite: 1057-1058]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why was the task of reverse-engineering Bavarian glass considered 'impossible' for Faraday?",
+      "answer": "Davy knew that Faraday did not have the proper equipment in the lab to successfully replicate the secret manufacturing process[cite: 1058]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How long did Faraday work on the Bavarian glass assignment, and what was the outcome?",
+      "answer": "He toiled for four years with no help from Davy and ultimately failed to learn the secret process [cite: 1076-1077]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did Faraday keep as a souvenir of his first scientific failure?",
+      "answer": "He kept a single glass brick on his shelf to inspire himself during future difficult times [cite: 1078-1079]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What major change occurred for Faraday in 1829 following Davy's death?",
+      "answer": "Faraday succeeded Davy as the head of the laboratory, giving him the freedom to pursue his own discoveries [cite: 1080-1081]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What revolutionary discovery led to the birth of the electrical generator?",
+      "answer": "Faraday noticed that moving a magnet could produce electrical current, allowing him to convert motion into electricity [cite: 1082-1083]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What health challenge did Michael Faraday face starting in 1840?",
+      "answer": "He developed memory loss, which continued for the rest of his life but did not stop his scientific work [cite: 1084-1085]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What scientific concept did Faraday prove using the piece of Bavarian glass?",
+      "answer": "He used the glass to prove 'polarization,' showing that in the presence of a magnet, light could be isolated into a single wave[cite: 1089]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How did Faraday explain the circular patterns made by iron filings near a magnet?",
+      "answer": "He proved the patterns were caused by invisible magnetic fields filling the empty space around the magnet, which disturbed the filings[cite: 1092]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why were Faraday's drawings of magnetic patterns initially not accepted by the scientific community?",
+      "answer": "They were not accepted because Faraday, lacking formal education, could not explain them in the form of mathematical equations [cite: 1095-1096]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who was the wealthy and educated physicist who helped Faraday with mathematics?",
+      "answer": "James Maxwell was the physicist well-versed in mathematics who was willing to work with Faraday [cite: 1098-1099]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are 'Maxwell's equations' as described in the text?",
+      "answer": "They are a set of equations that James Maxwell created by translating Faraday’s ideas into mathematical form[cite: 1099]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which modern systems are designed around the combined discoveries of Faraday and Maxwell?",
+      "answer": "Modern electronics and communication systems are designed around their groundbreaking discoveries[cite: 1100]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What potential future communication is mentioned at the end of the passage?",
+      "answer": "The text suggests that one day we might communicate with aliens across galaxies using products derived from these discoveries[cite: 1101]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How did Faraday approach the 'impossible tasks' given to him during his life?",
+      "answer": "He undertook them as challenges and opportunities, meeting each difficulty with perseverance and conviction [cite: 1102-1103]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which Walt Disney character's quote is used to summarize Faraday's life?",
+      "answer": "The character Pinocchio is quoted to illustrate that 'It does not matter who you are' when you wish upon a star [cite: 1104-1106]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Define 'epitomises' according to the passage glossary.",
+      "answer": "It means to be a perfect example of something[cite: 1108]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who are the authors of the introduction from which this story is taken?",
+      "answer": "The story is taken from the introduction to 'Reignited' by A.P.J. Abdul Kalam and Srijan Pal Singh[cite: 1109]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does the text imply by saying Faraday’s life was about 'fighting against the odds'?",
+      "answer": "It implies he succeeded despite being born poor, having a speech defect, and having no formal education [cite: 997-1002]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "List three modern gadgets mentioned in the passage that use induction motors.",
+      "answer": "Examples provided include fans, air conditioning, and sewing machines[cite: 1051]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'Electricity became a lifelong fascination' mean?",
+      "answer": "It means that once Faraday was introduced to electricity, he remained deeply interested in it for the rest of his life[cite: 1005]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why did people tell Davy that Faraday was his 'best discovery'?",
+      "answer": "They said this because Faraday’s brilliance and contributions eventually overshadowed Davy's own scientific work[cite: 1116]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was Faraday's role model according to the text?",
+      "answer": "Humphry Davy became Faraday's role model after he attended Davy's spellbinding lecture in 1812 [cite: 1025-1030]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the 'souvenir' Faraday kept to inspire himself during difficult times?",
+      "answer": "He kept a single brick of Bavarian glass as a souvenir of his first major scientific failure [cite: 1078-1079]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Name the four scientists mentioned in the English Workshop for further research.",
+      "answer": "The scientists are Michael Faraday, Humphry Davy, Thomas Edison, and James Maxwell [cite: 1127-1131]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Identify the machine that converted motion into electricity in Faraday's experiments.",
+      "answer": "The electrical generator was the machine born from Faraday's discovery that moving a magnet produces current[cite: 1083]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How did Faraday's mother contribute to the end of his formal education?",
+      "answer": "She was forced to take him out of school when he was twelve due to his speech defect and the lack of help from teachers[cite: 1002]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "In the Language Study sentence completion, what did Faraday decide he wanted to be?",
+      "answer": "He decided that he wanted to be a great scientist good enough to write his own books[cite: 1029, 1136]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What instrument was Bavarian glass used for?",
+      "answer": "Bavarian glass was used in lenses for telescopes and microscopes[cite: 1057]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did Faraday's memory loss affect his scientific work?",
+      "answer": "Though he developed memory loss in 1840, the disease did not stop him; he persevered with complicated experiments [cite: 1084-1085]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Define 'relentless' as used to describe Faraday's work ethic.",
+      "answer": "It describes Faraday as someone who never gave up and worked day and night despite discouragement from others [cite: 1038-1039]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What was the result of Davy's 'mockery' directed at Faraday?",
+      "answer": "The result was the invention of the first induction motor, which created a technological revolution [cite: 1050-1051]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does it mean that reading became Faraday's 'obsession'?",
+      "answer": "It means he spent all his days binding books and his nights staying up to read them, making reading his primary focus [cite: 1003-1004]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How did Faraday react when children laughed at his speech defect?",
+      "answer": "He did not let their mockery stop him and continued to work toward his goals despite the lack of help from teachers [cite: 1001-1002]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was Faraday 'completely hooked' by the book on electricity?",
+      "answer": "The book introduced him to a subject that fascinated him so deeply it became a lifelong passion[cite: 1005]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What was the significance of the year 1812 in Faraday's life?",
+      "answer": "In 1812, Faraday attended a spellbinding lecture by Humphry Davy that inspired him to become a scientist[cite: 1006, 1025]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did Faraday forget to applaud at the end of Davy's lecture?",
+      "answer": "He was so engrossed in the subject and focused on taking comprehensive notes that he forgot to join the crowd in applauding[cite: 1027]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was the 'mysterious force of electric fluid' mentioned in Faraday's notes?",
+      "answer": "This was the term used at the time to describe the phenomenon of electricity[cite: 1026]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did Faraday bind his lecture notes into a book for Davy?",
+      "answer": "He intended to gift the book to Davy one day to show his deep interest and dedication to science[cite: 1028]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What major social problems did Faraday face when deciding to pursue science?",
+      "answer": "Faraday lacked the necessary social status, money, and formal education required to enter the scientific world[cite: 1031]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How did Faraday show he was not 'dejected' when Davy initially refused him?",
+      "answer": "He did not lose heart after the initial rejection and simply kept trying to find a way into the field of science[cite: 1033]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did a 'strange plan' of destiny help Faraday enter Davy's lab?",
+      "answer": "A lab explosion temporarily blinded Davy, creating an urgent need for an assistant with a good memory [cite: 1034-1035]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What quality made Faraday a suitable secretary for the blinded Davy?",
+      "answer": "Faraday had an excellent memory, which Davy required to help him continue his work while injured [cite: 1035-1036]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why did Davy initially advise Faraday to stick to bookbinding?",
+      "answer": "Davy did not believe Faraday could succeed in science due to his low social status and lack of formal education [cite: 1037-1038]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What were Faraday's primary duties as a newly promoted lab assistant?",
+      "answer": "While his job involved cleaning labs, it also gave him the chance to witness Davy's leading experiments[cite: 1041]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What phenomenon were Davy and Wollaston exploring during their experiment?",
+      "answer": "They were exploring why a wire behaves like a magnet when an electric current is applied to it[cite: 1043]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does 'mechanical motion' refer to in the context of the induction motor?",
+      "answer": "It refers to the physical movement, such as rotation, that Faraday successfully produced using electrical current[cite: 1050]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did Faraday's induction motor spur a technological revolution?",
+      "answer": "It led to the development of many modern devices like fans, air conditioning, and sewing machines[cite: 1051]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why did Humphry Davy become 'jealous' of his own pupil?",
+      "answer": "Davy became jealous because people began telling him that Faraday was his greatest discovery [cite: 1054-1055]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why did people consider Faraday to be Davy's 'best discovery'?",
+      "answer": "They believed Faraday's brilliance and contributions eventually overshadowed Davy's own scientific work [cite: 1054-1055]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What was Davy's hidden intention in giving Faraday the Bavarian glass task?",
+      "answer": "Davy wanted to give Faraday an impossible task simply to keep him out of his way[cite: 1056]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why was the process of making Bavarian glass kept a 'secret'?",
+      "answer": "It was a complicated manufacturing process known only to the makers of high-quality lenses for telescopes[cite: 1058]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What does 'reverse engineer' mean in the context of Faraday's assignment?",
+      "answer": "It means breaking down the product to understand its secret process so that it can be replicated[cite: 1057, 1067]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How did Faraday demonstrate his 'never-give-up attitude' with the glass assignment?",
+      "answer": "He accepted the assignment despite knowing its difficulty and worked on it for four years without any help[cite: 1060, 1076]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why did Faraday's work on the glass brick result in failure for four years?",
+      "answer": "He failed because he lacked both the secret manufacturing process and the proper lab equipment[cite: 1058, 1076]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How did becoming the Head of the Laboratory in 1829 help Faraday's research?",
+      "answer": "The position gave him the complete freedom to pursue his own scientific interests without Davy's interference [cite: 1080-1081]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Contrast a motor and a generator based on Faraday's work.",
+      "answer": "A motor converts electricity into motion, while a generator converts motion into electricity [cite: 1050, 1082-1083]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What are 'dynamos' as mentioned in the text?",
+      "answer": "They are devices that use Faraday's principle of converting motion into electricity to generate power[cite: 1083]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did Faraday's perseverance show after he developed memory loss in 1840?",
+      "answer": "The disease did not stop him; he continued with complicated experiments to prove the link between light and magnetism [cite: 1084-1085]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What novel thought did Faraday have regarding light and magnetism?",
+      "answer": "He hypothesized that light was closely related to the forces of electricity and magnetism[cite: 1085]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did the glass brick eventually become an 'instrument of great success'?",
+      "answer": "Faraday used the souvenir of his earlier failure to prove the scientific concept of polarization [cite: 1088-1089]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Define 'polarization' as explained in the passage.",
+      "answer": "Polarization is the concept that light can be isolated into a single wave in the presence of a magnet[cite: 1089]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What are 'iron filings' used for in scientific experiments?",
+      "answer": "They are tiny particles of iron used to visualize the invisible patterns created by magnetic fields[cite: 1090]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What discovery did Faraday make about the space around a magnet?",
+      "answer": "He proved that empty space around a magnet is filled with invisible magnetic fields that disturb iron filings[cite: 1092]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why did Faraday have to 'copy iron filing patterns with his hand'?",
+      "answer": "He lacked formal education and did not know enough advanced mathematics to explain them through equations [cite: 1093-1094]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why were Faraday's drawings of magnetic patterns initially not accepted?",
+      "answer": "Scientific acceptance required mathematical equations to back the visual observations, which Faraday couldn't provide [cite: 1095-1096]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What made James Maxwell an ideal collaborator for Michael Faraday?",
+      "answer": "Maxwell was a wealthy and educated physicist who was exceptionally well-versed in mathematics[cite: 1098]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What did James Maxwell do with Faraday's physical ideas?",
+      "answer": "Maxwell translated Faraday's physical observations into a set of mathematical formulas now called Maxwell's equations[cite: 1099]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How do Faraday and Maxwell's combined discoveries affect communication today?",
+      "answer": "Our modern electronics and communication systems are entirely designed around their groundbreaking discoveries[cite: 1100]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What does 'fortune favoured the brave' mean in Faraday's context?",
+      "answer": "It means his bravery in facing difficulties eventually led him to meet Maxwell and achieve world-wide success[cite: 1098, 1102]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How is Faraday a perfect example of the Pinocchio quote mentioned?",
+      "answer": "He proved that 'It does not matter who you are' or where you come from if you have conviction [cite: 1104-1106]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the primary source of this biographical account of Faraday?",
+      "answer": "It is taken from the introduction to the book 'Reignited' by A.P.J. Abdul Kalam and Srijan Pal Singh[cite: 1109]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What are some gadgets mentioned in the passage that run on electricity?",
+      "answer": "The text mentions fans, sewing machines, photographs, and power tools as examples[cite: 1051, 1124]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Name three complex machines mentioned that evolved from Faraday's motor.",
+      "answer": "The passage lists cars, trains, and even aeroplane engines as products of this evolution[cite: 1051]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the implied meaning of 'Davy did not have much hope for Faraday'?",
+      "answer": "This suggests that Davy seriously underestimated Faraday's potential and intellectual brilliance [cite: 1114-1115]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'fighting against the odds' tell you about Faraday's life?",
+      "answer": "It indicates that his life was a constant struggle against poverty, disability, and social prejudice[cite: 997, 1112]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What does 'indispensable' mean in the phrase 'Faraday became indispensable to Davy'?",
+      "answer": "It means Faraday became so essential that Davy could not conduct his lab work effectively without him[cite: 1040]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How did Thomas Edison benefit from the work of Davy and Faraday?",
+      "answer": "Davy’s work on electrical lighting provided the foundation that Edison used to create the light bulb[cite: 1007, 1024]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What exactly are 'Maxwell's equations'?",
+      "answer": "They are a set of mathematical formulas that translate Faraday's physical ideas into accepted scientific law[cite: 1099]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What valuable lesson can we learn from Faraday's souvenir of failure?",
+      "answer": "We should use our failures as inspiration and a source of strength to keep trying during tough times [cite: 1078-1079]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why did the author include the quote 'It does not matter who you are'?",
+      "answer": "The quote shows that personal background or difficulties should not stop anyone from achieving great things[cite: 1106]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "According to the workshop, what is an example of a hand-operated simple machine?",
+      "answer": "A simple machine operated by hand would be something like a pulley or a manual lever[cite: 985]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the specific 'odds' Michael Faraday had to fight against during his childhood.",
+      "answer": "Michael Faraday was born into a poverty-stricken family living in a dirty suburb of London, which immediately limited his social opportunities[cite: 998]. As a child, he suffered from a severe speech defect, making it impossible for him to pronounce his own name or simple words like 'rabbit' [cite: 999-1000]. This condition led other children to laugh at him, and unfortunately, his teachers did not provide the help he needed[cite: 1001]. Due to these difficulties, his mother was forced to take him out of school when he was only twelve years old[cite: 1002]. This effectively ended his formal education, leaving him with no academic foundation for a scientific career. Despite being poor, having a disability, and lacking schooling, he eventually became a world-renowned scientist."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "How did Faraday's job as a bookbinder's apprentice lead to his interest in science?",
+      "answer": "At the age of thirteen, Faraday began working for a bookbinder, which gave him access to a vast variety of written knowledge[cite: 1003]. He worked diligently during the day binding hundreds of books and spent his entire nights staying up to read them[cite: 1003]. This intense habit turned reading into an obsession and allowed him to self-educate on many topics. One day, a master sent a book on electricity to be bound, which Faraday happened to read[cite: 1004]. He was immediately 'hooked' by the content, and it sparked a lifelong fascination with the subject[cite: 1005]. This accidental encounter transformed his perspective and set him on the path to becoming an inventor."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Analyze Faraday's behavior during Humphry Davy’s lecture in 1812.",
+      "answer": "Faraday received a free ticket to a lecture by the famous chemist Humphry Davy and attended the Royal Institution at age twenty-one[cite: 1006]. During the demonstration, Faraday was completely spellbound and engrossed in the 'mysterious force' being discussed [cite: 1025-1026]. He was so intensely focused that he even forgot to applaud when the rest of the crowd did[cite: 1027]. Instead of just watching, he took extremely comprehensive notes on everything Davy said. After returning home, he meticulously bound these notes into a book, intending to gift it to the scientist[cite: 1028]. This behavior showed that he was not just a curious spectator but a dedicated student of science."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the 'strange plan' of destiny that allowed Faraday to enter Davy's laboratory.",
+      "answer": "Initially, Faraday lacked the money, social status, and education to join the scientific community, and Davy had even refused to be his mentor [cite: 1031-1032]. However, a sudden chemical explosion occurred in Davy's lab, which left the famous chemist temporarily blinded[cite: 1034]. Davy now required an assistant with a reliable memory to help him record his work and manage the lab. He was reminded of the young man who had sent him the bound lecture notes and decided to hire Faraday as his secretary [cite: 1035-1036]. This accident provided Faraday with the 'foot in the door' he desperately needed to escape bookbinding. It shows how Faraday’s previous preparation and perseverance met a rare moment of opportunity."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Discuss the invention of the first induction motor and the role of 'mockery' in its creation.",
+      "answer": "Davy and William Wollaston were struggling to solve an electromagnetism problem regarding why an electric current makes a wire behave like a magnet[cite: 1043]. Frustrated by his own inability to solve it, Davy teased Faraday and mockingly asked him to try his hand at the problem[cite: 1049]. Faraday accepted the challenge and, within just a few days, successfully solved the puzzle[cite: 1050]. He went even further to create the first induction motor, which converted electrical current into continuous mechanical motion[cite: 1050]. This breakthrough was revolutionary and eventually led to the development of modern fans, cars, and airplane engines[cite: 1051]. Ironically, one of the greatest inventions in history was born out of a mentor’s attempt to belittle his pupil."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Analyze Humphry Davy's complex and jealous relationship with Michael Faraday.",
+      "answer": "Although Davy was Faraday's role model, he was not a supportive mentor after Faraday began to succeed[cite: 1030]. Davy never truly believed in Faraday because of his low social class and lack of formal education[cite: 1037]. When Faraday became a celebrity scientist overnight, Davy became deeply jealous of his pupil's achievements[cite: 1054]. This jealousy was fueled by people telling Davy that Faraday was his 'best discovery'[cite: 1055]. To keep Faraday out of the way, Davy assigned him the nearly impossible task of reverse-engineering secret Bavarian glass[cite: 1056]. This toxic dynamic shows that even great men can be blinded by insecurity when their status is threatened."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How did Faraday use his 'failure' with the Bavarian glass as a source of future inspiration?",
+      "answer": "Davy assigned Faraday to discover the secret of Bavarian glass, a material used for high-quality lenses[cite: 1057]. Faraday toiled for four long years without any help from Davy, but he eventually failed to learn the process[cite: 1076]. This remained his first major failure as a scientist, but he did not let it discourage him permanently. Instead, he kept a single glass brick from the experiment on his shelf as a 'souvenir' of the difficult times[cite: 1078]. He used this object as a reminder to persevere and stay motivated whenever he faced new challenges[cite: 1079]. Years later, he would actually use that same glass to make a major breakthrough in the study of light [cite: 1088-1089]."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe Faraday’s revolutionary discovery involving the magnet and electrical current.",
+      "answer": "After Davy’s death in 1829, Faraday took over the laboratory and was free to explore his own ideas [cite: 1080-1081]. He made a groundbreaking observation that moving a magnet could produce an electrical current[cite: 1082]. This discovery meant that motion could be converted directly into electricity, which was a completely new concept at the time[cite: 1083]. This principle led to the birth of the electrical generator, an invention that remains essential for generating power today[cite: 1083]. It enabled the creation of dynamos and provided the foundation for our modern electrical grid. This work established Faraday as a legend in the history of science."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "How did Faraday's lack of mathematical knowledge affect the acceptance of his work on magnetic fields?",
+      "answer": "Faraday conducted a famous experiment sprinkling iron filings near a magnet to show circular patterns, proving the existence of magnetic fields [cite: 1090-1092]. However, because of his interrupted schooling, he did not know much about advanced mathematics [cite: 1093-1094]. He was able to draw these circular patterns by hand, but he could not explain them through mathematical equations [cite: 1094-1095]. In the scientific community of that time, observations without mathematical proof were often not accepted[cite: 1096]. This obstacle threatened to bury one of his most important discoveries simply because he lacked formal credentials. It highlights the bias that can exist in academia against self-taught innovators."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the collaboration between Michael Faraday and James Maxwell.",
+      "answer": "Faraday’s inability to express his ideas mathematically was solved when he met the wealthy and highly educated physicist James Maxwell[cite: 1098]. Maxwell was willing to work with Faraday and translated his physical observations into a set of formal equations[cite: 1099]. These are now famously known as 'Maxwell's equations' and form the backbone of electromagnetic theory[cite: 1099]. Their combined work paved the way for modern electronics and our entire global communication system[cite: 1100]. This partnership proves that great progress often requires a balance of practical experimentation and theoretical mathematics. It was a perfect union between a self-taught genius and an academic scholar."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What does the text suggest about the future potential of Faraday and Maxwell's discoveries?",
+      "answer": "The text states that modern electronics and communication systems are designed entirely around the discoveries of Faraday and Maxwell[cite: 1100]. These breakthroughs have already changed the way humans live and connect with each other. However, the author suggests that their impact is not yet finished. In the future, we might even be able to communicate with aliens across different galaxies using the products of these discoveries[cite: 1101]. This implies that Faraday’s work provided a universal foundation for understanding the laws of physics. His legacy continues to push the boundaries of what is possible for the human race."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "How does Faraday's life exemplify the quote by the Pinocchio character?",
+      "answer": "The Walt Disney character Pinocchio once said, 'When you wish upon a star / It does not matter who you are' [cite: 1105-1106]. Faraday epitomizes this message because he started life as a poor boy with a speech defect and no formal education [cite: 998-1002]. Despite his humble beginnings, he had a deep 'wish' to become a great scientist[cite: 1029]. He met every difficulty with perseverance and conviction, turning impossible tasks into opportunities [cite: 1102-1103]. He proved that talent and hard work are more important than social class or academic titles. His life serves as a universal inspiration that anyone can achieve greatness regardless of their background."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'polarization' as discovered by Faraday using the Bavarian glass.",
+      "answer": "Faraday had kept a piece of Bavarian glass on his shelf for years as a reminder of his first scientific failure [cite: 1087-1088]. Later in his career, he used that very glass to prove a novel theory relating light to electricity and magnetism[cite: 1085]. He demonstrated that in the presence of a magnet, light could be isolated into a single wave rather than spreading randomly [cite: 1089]. this scientific concept is known as 'polarization'[cite: 1089]. By converting his souvenir of failure into an instrument of success, he proved that no effort is ever truly wasted. This discovery helped bridge the gap between optics and electromagnetism."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Describe the educational value of the 'Inventions' table in the Warming up section.",
+      "answer": "The 'Warming up' section includes a table where students must categorize machines based on how they are operated[cite: 984]. They must list simple machines operated by hand, machines that run on electricity, and electronic devices[cite: 985]. This activity is designed to make students observe the technology in their daily environment. It helps them understand the difference between basic mechanical tools and complex powered machines. By doing this before reading about Faraday, students gain a better appreciation for his work on electricity. It grounds the historical story in modern, relatable examples of 'Expanding Horizons'."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How does the text define a 'Great Scientist' based on Faraday's life story?",
+      "answer": "The opening sentence of the passage states that great scientists are persevering and never deterred by difficulties[cite: 995]. Faraday's life is used as the primary example to prove this definition. He faced 'odds' such as extreme poverty, a physical disability, and the lack of a formal education [cite: 998-1002]. A great scientist, according to the text, is someone who sees impossible tasks as 'challenges and opportunities'[cite: 1103]. They possess a 'never-give-up attitude' and a desire for success that is greater than their fear of failure[cite: 1060, 1072]. Ultimately, greatness is defined by the conviction to keep trying despite every social and personal barrier."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Analyze the role of Faraday’s mother in his early life and education.",
+      "answer": "Faraday's mother lived in a poverty-stricken environment but was observant of her son's struggles. When Faraday was twelve, she noticed that he was suffering from a speech defect and that teachers were not helping him[cite: 1001]. Fearing for his well-being, she was 'forced' to take him out of school entirely[cite: 1002]. While this ended his formal schooling, it protected him from the laughter of other children and the neglect of his teachers. This decision indirectly led to him becoming an apprentice bookbinder, which gave him his true education[cite: 1003]. Her protective action, though born of difficult circumstances, placed him in a world of books where he could finally thrive."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' activity regarding copying and completing sentences from the passage.",
+      "answer": "The Language Study section asks students to find specific sentences in the passage and copy the missing words correctly[cite: 1133]. For example, they must complete phrases about Faraday at age twelve, his discovery of the book on electricity, and his decision to become a scientist [cite: 1133-1137]. Following this, they must write their own sentences starting with the same prompts[cite: 1148]. This two-step process first ensures reading comprehension and accuracy. Then, it encourages creative writing by having students use these sentence structures in their own words. This exercise helps students internalize the grammar and vocabulary used in biographical writing."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain why Faraday was described as being 'hooked' and 'spellbound' by science.",
+      "answer": "The text uses powerful adjectives to describe Faraday's emotional reaction to scientific discovery. He was 'completely hooked' after reading a book on electricity, which suggests a sudden and unbreakable attraction to the subject[cite: 1005]. Later, at Davy’s lecture, he was 'spellbound,' meaning he was so fascinated that he could not look away or even applaud[cite: 1025, 1027]. These words indicate that his interest in science was not just a career choice but a deep, overwhelming passion. This 'lifelong fascination' gave him the energy to work all night reading or bind notes into books[cite: 1005, 1028]. It was this intense emotional connection that drove him to persevere through poverty and jealousy."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of Faraday’s quote: 'In order to succeed, your desire for success should be greater than your fear of failure'.",
+      "answer": "This quote summarizes Faraday's entire life philosophy and his approach to scientific inquiry[cite: 1073]. It suggests that fear of failure is a natural human emotion that can stop someone from trying new things. However, to achieve 'success,' one must find a passion or 'desire' that is even more powerful than that fear. Faraday lived this by accepting impossible tasks from Davy and toiling for four years even when failure seemed certain[cite: 1056, 1076]. Even when he failed with the glass brick, he kept it as a souvenir to fuel his next attempt[cite: 1078]. The quote encourages people to focus on their goals rather than their anxieties. It teaches that mental strength is the most important factor in overcoming external obstacles."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What gadgets and instruments are mentioned in the passage, and why are they significant?",
+      "answer": "The passage mentions several technological milestones, including the 'induction motor' and the 'electrical generator'[cite: 1050, 1083]. It also refers to everyday gadgets like 'fans, air conditioning, sewing machines,' and 'power tools' that exist because of Faraday[cite: 1051]. Higher-level scientific instruments mentioned include 'telescopes and microscopes,' which required secret Bavarian glass[cite: 1057]. These items are significant because they show the direct link between abstract scientific experiments and practical human progress. They prove that Faraday’s work was not just theoretical but has a tangible impact on the 'Expanding Horizons' of our daily lives. Each gadget is a physical reminder of his perseverance and genius."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain the significance of Faraday being promote to 'lab assistant'.",
+      "answer": "Faraday started as Davy's secretary, a role focused on clerical work and memory[cite: 1036]. When he was promoted to 'lab assistant,' it marked a crucial transition in his career[cite: 1040]. Although much of his new job involved menial tasks like 'cleaning labs,' it gave him direct access to the world of experimentation[cite: 1041]. He was no longer just writing down thoughts; he was physically present where 'leading experiments' were happening[cite: 1041]. This was his first real step toward a scientific career and provided the training he missed by not attending university. It shows that even a small opportunity can be a bridge to a great destiny if one is 'relentless'."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How did the 'mockery directed at Faraday' result in a technological revolution?",
+      "answer": "Humphry Davy teased Faraday by asking him to try a difficult electromagnetism problem after he finished cleaning the lab[cite: 1049]. This was a form of mockery because Davy assumed Faraday would fail where he had been frustrated [cite: 1048-1049]. Instead of being insulted, Faraday used the challenge as an opportunity and solved the problem in a few days[cite: 1050]. His solution resulted in the first induction motor, a device that converts electricity into mechanical motion[cite: 1050]. This motor became the basis for countless modern technologies, from fans to train engines[cite: 1051]. This story proves that brilliance can overcome even the most discouraging environments."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the 'Chit-Chat' activity regarding experiments and Science periods.",
+      "answer": "The 'Chit-Chat' section asks students what they would like to learn about in their Science period[cite: 965]. It also prompts them to share if they have ever tried to do an 'experiment' on their own and to explain why or why not [cite: 966-969]. This pre-reading activity is designed to spark interest in scientific inquiry and self-driven learning. It bridges the gap between school subjects and the life of a real scientist like Faraday. By reflecting on their own curiosity, students can better identify with Faraday’s 'lifelong fascination' with electricity[cite: 1005]. It encourages them to see science as a world of exploration rather than just a textbook subject. This personal connection makes the biographical story much more impactful."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "What is the educational purpose of the 'Inventions' Warming up activity?",
+      "answer": "This activity asks students to think of as many examples of machines as they can within five minutes[cite: 984]. They must classify them into three categories: hand-operated, electrical, and electronic[cite: 985]. This helps students understand the evolution of technology and the different ways we power our world. It specifically prepares them for the text's discussion on the 'induction motor' and the 'electrical generator'[cite: 1050, 1083]. By categorizing devices, students practice analytical thinking and vocabulary organization. It turns the 'Expanding Horizons' of the unit into a practical lesson on human ingenuity. This exercise builds the necessary context to appreciate Michael Faraday’s massive contributions."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Analyze Faraday's 'relentless' nature during his time as lab assistant.",
+      "answer": "Even though Faraday was promoted, his mentor Davy dismissed his aspirations and advised him to stick to bookbinding [cite: 1037-1038]. Faraday responded by being 'relentless,' working day and night to learn everything possible about Davy’s experiments [cite: 1038-1039]. He did not let Davy's lack of hope or the menial cleaning tasks stop him from studying [cite: 1041-1042]. His perseverance made him 'indispensable' to the lab, as he gained more knowledge through observation than most students do in classrooms[cite: 1040]. This relentless work ethic is what allowed him to eventually solve the problems that frustrated his own teacher. It shows that internal drive is more powerful than external discouragement. He was a student who became a master through pure effort."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the difference between Faraday’s initial failure and his later success with the glass brick.",
+      "answer": "Faraday’s initial attempt to reverse-engineer Bavarian glass was a failure because he lacked the secret process and proper equipment [cite: 1076-1077]. He kept a brick of this glass as a reminder of those difficult times[cite: 1078]. Years later, he returned to this material with a new scientific question about the relationship between light and magnetism[cite: 1085]. He was 'determined' to turn the reminder of failure into an 'instrument of great success'[cite: 1088]. This time, he used the glass to prove 'polarization,' showing how magnets could isolate light waves[cite: 1089]. The object that once represented his limitations became the proof of his legacy. This transformation serves as a powerful metaphor for his entire career."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe the experiment with iron filings and what Faraday proved with it.",
+      "answer": "Faraday took an 'age-old experiment' where iron filings were sprinkled on paper near a magnet to make circular patterns[cite: 1090]. Before Faraday, people thought these patterns were just a property of the filings themselves[cite: 1091]. He went further to prove that the empty space around a magnet is actually filled with 'invisible magnetic fields'[cite: 1092]. He showed that it was these fields that 'disturbed the filings' to create the patterns[cite: 1092]. This was a massive discovery that changed the way science understands forces and energy. Even without the advanced math to prove it, his physical experimentation was brilliant. It proved that there is much more to the world than what we can see with our eyes."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Analyze the role of A.P.J. Abdul Kalam in the context of this passage.",
+      "answer": "This account of Michael Faraday is taken from the introduction to the book 'Reignited' by A.P.J. Abdul Kalam and Srijan Pal Singh[cite: 1109]. As a great scientist himself, Kalam uses Faraday's story to inspire younger generations. He highlights Faraday's 'perseverance and conviction' as the key traits for any aspiring innovator[cite: 1102]. The choice of this story reflects Kalam’s own belief that 'It does not matter who you are' if you have a dream[cite: 1106]. By connecting Faraday's 19th-century struggle to modern readers, Kalam keeps the 'Great Scientist' tradition alive. This source adds a layer of modern authority and encouragement to the historical biography. It makes the lesson part of a larger global message about scientific courage."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the potential for future scientific breakthroughs as mentioned in the conclusion.",
+      "answer": "The passage ends by looking forward to a future where humans might communicate with aliens across different galaxies[cite: 1101]. This ambitious goal is presented as a possible result of the foundational discoveries made by Faraday and Maxwell[cite: 1101]. It emphasizes that science is an ongoing journey where one man’s discovery becomes the building block for the next generation's revolution. By starting with 'difficulties' and ending with 'galaxies,' the text shows the infinite scale of scientific potential[cite: 1102]. It encourages students to see themselves as part of this grand historical timeline. Faraday’s life proved that we can reach for the stars no matter where we start. The conclusion expands the 'horizons' of the reader to a cosmic level."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How did Faraday's work enable the invention of the light bulb?",
+      "answer": "Humphry Davy’s work on chemicals and 'electrical lighting' was the subject of conversation among scientists in the early 1800s[cite: 1007]. Faraday studied under Davy and contributed his own discoveries regarding electricity and motion[cite: 1040, 1083]. Seventy years later, this collective body of work enabled Thomas Edison to produce the first 'consistent light bulb' in the USA[cite: 1024]. Without the foundational laws of electricity established by Faraday and his mentors, Edison would not have had the theory needed for his invention. This shows how scientific progress is a long chain of shared ideas across time and oceans. Faraday was a critical link in the chain that brought light to the world. It illustrates that every scientific effort contributes to a 'brighter' future."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe the 'Live English' activity involving a labelled diagram and short note.",
+      "answer": "The 'Warming up' section instructs students to choose any one machine or device and prepare a short note about it[cite: 974]. This note must include the structure of the device, how it works (functions), and a 'labelled diagram' [cite: 977-981]. Additionally, students should include a few lines about the device’s history and evolution[cite: 982]. This activity turns students into 'scientists' by requiring them to analyze and explain technology. It builds technical writing skills and visual communication through diagramming. By focusing on a device like a 'fan' or a 'light bulb,' students can see the legacy of scientists like Faraday and Edison. This task makes the 'Expanding Horizons' of science personal and practical."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Analyze the importance of memory in Faraday's early scientific career.",
+      "answer": "Faraday’s 'excellent memory' was the key factor that allowed him to enter Humphry Davy's laboratory [cite: 1035-1036]. Because Davy was blinded in a lab explosion, he specifically needed an assistant who could remember complex details and record them accurately[cite: 1035]. Faraday had already proven this ability by binding his detailed lecture notes into a book from memory and observation[cite: 1028]. This mental skill compensated for his lack of formal education and status. It shows that innate mental capacity can be just as valuable as a university degree in certain situations. His memory served as the bridge that connected his desire for science to the physical world of the lab. Ironically, he would eventually suffer from 'memory loss' later in his life[cite: 1084]."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What lessons can be learned from the way Faraday handled 'impossible tasks'?",
+      "answer": "Throughout his life, Faraday was given tasks that were intended to make him fail or keep him out of the way[cite: 1056]. For example, Davy gave him the electromagnetism problem to mock him and the Bavarian glass task to frustrate him [cite: 1049, 1056-1058]. Faraday undertook each of these as 'challenges and opportunities' rather than burdens[cite: 1103]. He met each difficulty with 'perseverance and conviction,' showing that a positive attitude can change a trap into a breakthrough[cite: 1102]. Even when he didn't solve the glass secret initially, he used it as an 'instrument of great success' later[cite: 1088]. This teaches students that our response to a difficult task is what determines our ultimate success. He proves that greatness is born from the way we face 'impossible' odds."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the 'Inventions' activity regarding the uses of everyday items.",
+      "answer": "The workshop asks students to write as many uses as they can for items like a 'cloth bag,' a 'glass jar,' or a 'thick rope' [cite: 986-992]. They are encouraged to form groups and compare their lists to make one long, collective list [cite: 986-987]. This exercise develops creative thinking and problem-solving skills by looking at objects in new ways. It mirrors the scientific mindset of Faraday, who looked at a simple 'wire' or 'magnet' and saw an induction motor or a generator[cite: 1050, 1083]. By collaborating in groups, students also learn that 'combined work' leads to more ideas, just as Faraday combined with Maxwell[cite: 1100]. This activity shows that expanding our horizons starts with observing the potential in common things. It makes students active participants in the world of innovation."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the 'mysterious force of electric fluid' and how Faraday’s understanding evolved.",
+      "answer": "In 1812, Faraday took notes on what was then called the 'mysterious force of electric fluid' during Davy's lecture[cite: 1026]. At that time, electricity was poorly understood and seemed like a magical liquid to many people. Faraday dedicated his life to uncovering the logic behind this mystery[cite: 1005]. He moved from taking notes on Davy's thoughts to creating his own physical models like the 'induction motor'[cite: 1050]. Later, he discovered that motion creates current, proving that electricity is a dynamic force related to magnetism[cite: 1082]. Finally, he proved the existence of 'invisible magnetic fields' filling empty space[cite: 1092]. This evolution shows a journey from curiosity about a 'mystery' to creating the foundational laws of modern physics."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'Faraday succeeded him [Davy] as head of the laboratory'.",
+      "answer": "In 1829, Michael Faraday became the head of the laboratory at the Royal Institution after Humphry Davy passed away [cite: 1080]. this was a monumental achievement for someone who started as a 'secretary' and 'lab assistant' who cleaned the rooms [cite: 1036, 1040-1041]. As the leader, he was finally 'free to pursue whatever he liked' without the interference or jealousy of a mentor[cite: 1081]. This freedom led him to his most revolutionary discovery: the electrical generator [cite: 1081-1083]. It shows that the end of his relationship with Davy was actually the beginning of his greatest era of independence. This transition symbolizes his total triumph over the social barriers and discouragement of his early life. He was no longer a pupil but a master of his own destiny."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "How did Faraday's 'interrupted schooling' affect his later scientific career?",
+      "answer": "Faraday was forced to leave school at age twelve, which ended his formal training in mathematics and academic writing[cite: 1002]. In his later career, this lack of mathematical education went against him when he tried to explain his discoveries[cite: 1093]. For example, he could visualize 'magnetic fields' but could not write the equations to prove them, leading to his work being initially rejected [cite: 1095-1096]. However, this also forced him to become one of the greatest practical 'experimenters' in history. He relied on physical observation and intuition where others relied on books. Ultimately, his career was a mix of this unique practical genius and a later collaboration to provide the missing math [cite: 1098-1099]. It shows that a different path to knowledge can still lead to the highest level of success."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Describe the 'souvenir' Faraday kept and what it taught him about failure.",
+      "answer": "Faraday kept a single 'glass brick' on his shelf to remind himself of his first major scientific failure with Bavarian glass[cite: 1078]. This souvenir was meant to inspire him during future 'difficult times' by showing that he had survived four years of toiling and failing[cite: 1079]. It taught him that failure is not the end of a career but a part of the process of a great scientist[cite: 1077]. By keeping it in sight, he ensured that he stayed humble and motivated to keep trying. Eventually, he used that very same failure as a tool to prove 'polarization' [cite: 1088-1089]. This teaches students that we should not hide our mistakes, but use them as building blocks for our future successes."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss the 'English Workshop' activity regarding the implied meaning of sentences.",
+      "answer": "The workshop asks students to write what is 'implied' in specific sentences from the text[cite: 1111]. For example, they must analyze the phrase 'fighting against the odds' and explain what it reveals about Faraday's difficult life [cite: 1112-1113]. They also look at the phrase 'even then' to understand Davy's deep skepticism toward his pupil [cite: 1114-1115]. Another task is to explain the implication of Faraday being Davy's 'best discovery' [cite: 1116-1117]. This activity goes beyond literal reading and teaches students 'inferential' comprehension. It helps them understand the subtext of social class, jealousy, and the struggle for recognition. This skill is essential for a deeper appreciation of literature and complex biographies."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain how Faraday's life started with 'difficulties' and ended as a 'legend'.",
+      "answer": "The story begins by describing Faraday's 'poverty-stricken' family, his speech defect, and his lack of schooling [cite: 998-1002]. He was mocked by children and neglected by teachers, yet he never gave up[cite: 1001, 1102]. Through a series of roles as a bookbinder, secretary, and lab assistant, he continuously learned through observation and reading[cite: 1003, 1041]. His genius led to the creation of the induction motor and the electrical generator, changing the world forever[cite: 1050, 1083]. By the time he reached his later years, he was regarded as a 'legend' whose work on electricity is still studied as 'Faraday's Laws'[cite: 996, 1084]. His life arc shows that greatness is a journey of meeting difficulties with 'perseverance and conviction'. He moved from a dirty London suburb to the heights of human achievement."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the year 1840 in Michael Faraday's life.",
+      "answer": "In 1840, Faraday developed a serious disease that caused 'memory loss' for the rest of his life[cite: 1084]. This was a major obstacle for a scientist who relied on his excellent memory for detailed experiments[cite: 1035]. However, the text emphasizes that 'the disease did not stop him'[cite: 1085]. He persevered and actually started his most complicated experiments during this period, including proving the link between light and magnetism[cite: 1085]. This shows that his mental drive and 'perseverance' were stronger than his physical health[cite: 1102]. It adds a final layer to his definition as a 'Great Scientist' who is never deterred by any difficulty. His most 'novel' thoughts occurred even when his mind was failing him."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How does the passage link the induction motor to the cars and planes of today?",
+      "answer": "Faraday invented the first 'induction motor' to convert electricity into continuous motion[cite: 1050]. The text explains that this 'simple device' spurred a total technological revolution[cite: 1051]. It notes that cars, trains, and even 'aeroplane engines' grew out of this invention[cite: 1051]. While Faraday’s motor was basic, the principle he discovered is what allows modern engines to function. This shows that the 'Expanding Horizons' of the transport industry are built on the foundations of 19th-century physics. It helps students realize that every time they travel in a car or a plane, they are benefiting from Faraday’s genius. It connects the 'celebrity scientist' of the past to the everyday technology of the present."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' activity regarding completing sentences with your own words.",
+      "answer": "After copying sentences from the passage, students are asked to complete the same sentence starters using 'your own words'[cite: 1148]. For example, they might start with 'When he was twelve...' or 'He decided that...' and create original narratives[cite: 1149, 1151]. This activity transitions students from 'comprehension' to 'creation'. It allows them to apply the biographical vocabulary they learned to their own lives or imaginary stories. By following the 'which' and 'who' connectors, they also practice using relative clauses in complex sentences[cite: 1155, 1159]. This grammar exercise is a practical way to develop fluency and variety in their English writing. It encourages them to think like the 'scientists' of their own language learning."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze the phrase: 'Fortune favoured the brave Faraday once again'.",
+      "answer": "This phrase is used to describe the moment when Faraday met James Maxwell, who helped him with the math needed for his theories[cite: 1098]. It uses a famous proverb to suggest that Faraday’s success was not just luck, but a reward for his 'bravery' in facing obstacles[cite: 1102]. Despite the rejection of his drawings, he kept trying until he found the right partner [cite: 1096-1098]. 'Fortune' here represents the perfect timing of meeting a wealthy, educated physicist who was 'willing to work' with him [cite: 1098-1099]. This moment was the final turning point that ensured his ideas would become permanent 'Maxwell's equations'[cite: 1099]. It teaches that when you act with conviction, the universe often provides the help you need."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "How does the 'Great Scientists' passage conclude with a message of universal inspiration?",
+      "answer": "The passage concludes by summarizing Faraday's life as one that started with 'difficulties' but succeeded through 'perseverance and conviction'[cite: 1102]. It notes that heundertook impossible tasks as 'challenges and opportunities'[cite: 1103]. To broaden this message, it quotes the Disney character Pinocchio saying that 'It does not matter who you are' if you wish upon a star [cite: 1105-1106]. This connects the life of a 19th-century physicist to a modern childhood icon, making the message timeless. It encourages every reader, regardless of their background, to pursue their own 'Expanded Horizons'. The final tone is one of hope and empowerment. It leaves the student with the idea that they too can become a 'Great Scientist' if they never give up."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the significance of Faraday's notes being 'comprehensive'.",
+      "answer": "When Faraday attended Davy’s lecture, he didn't just listen; he took notes that were 'so comprehensive that he bound them into a book'[cite: 1028]. Being comprehensive means he captured every detail of the demonstration and theory of the 'electric fluid'[cite: 1026]. This book became the proof of his dedication and intellectual ability, which he eventually gifted to Davy[cite: 1028]. It was this physical evidence of his 'excellent memory' that later saved his career after Davy’s accident [cite: 1035-1036]. His comprehensive nature showed that he was a 'good pupil' who respected the subject enough to record it perfectly[cite: 1065]. It proves that being thorough is a key trait for success in any field, especially science."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Discuss the 'Inventions' Warming up activity regarding hand-operated simple machines.",
+      "answer": "The activity asks students to think of as many examples of 'simple machines that are operated by hand' as they can[cite: 985]. These might include items like a pulley, a pair of scissors, or a manual lever. This exercise helps students understand the foundation of technology before electricity was even discovered. It shows that human ingenuity started with the use of hands and basic tools to expand our horizons. By listing these, students see the massive jump in capability that occurred with Faraday's invention of the motor[cite: 1050]. It provides a historical perspective on how far science has come. This activity builds a logical progression from hand power to the electric age discussed in the passage."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the word 'mentor' in the context of Davy and Faraday.",
+      "answer": "The passage asks students to 'Guess the meaning of: mentor'[cite: 1020]. A mentor is an experienced and trusted advisor who guides someone less experienced, which is exactly what Faraday wanted Davy to be[cite: 1032]. Initially, Faraday thought it would be 'wonderful' to have Davy as his mentor, but Davy did not agree and was even jealous[cite: 1032, 1054]. This highlights that a relationship between a teacher and a pupil is not always perfect or supportive. In this case, Davy was not a 'good mentor' because he tried to sabotage Faraday's progress with impossible tasks[cite: 1066]. This teaches students that while we should respect our role models, our own 'never-give-up attitude' is what matters most."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Describe how Faraday converted his 'first failure' into a major scientific discovery.",
+      "answer": "Faraday's first major failure was failing to reverse-engineer secret Bavarian glass after four years of toil [cite: 1076-1077]. Instead of forgetting this failure, he kept a glass brick on his shelf as a source of inspiration[cite: 1070, 1078]. Later in his career, he used that very glass to show how magnets can isolate light waves into a single wave[cite: 1089]. This discovery of 'polarization' proved that light is related to electricity and magnetism[cite: 1085, 1089]. He literally took the object that represented his defeat and made it the tool for his victory[cite: 1088]. This provides a beautiful lesson that no effort is ever wasted if you keep a brick of failure as a 'souvenir' for future success."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the overarching theme of Chapter 3.5 'Great Scientists' as a story of 'fighting against the odds'.",
+      "answer": "The overarching theme of the chapter is that greatness is achieved through perseverance in the face of immense obstacles. Michael Faraday’s life is the perfect example, as he fought against 'odds' like poverty, a speech defect, and lack of education[cite: 997, 1009]. He used every small opportunity—like binding a book or cleaning a lab—to expand his knowledge and horizons[cite: 1003, 1041]. He faced discouragement and jealousy from his own role model but remained 'relentless' in his pursuit of truth[cite: 1038, 1054]. His story teaches that success comes to those whose 'desire' is greater than their 'fear'[cite: 1072]. Ultimately, the chapter proves that it does not matter where you come from; what matters is your 'perseverance and conviction' to solve life's 'impossible tasks' [cite: 1102-1103, 1106]."
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.English.10",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Play – Andher Nagari"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where does the opening scene of the play take place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In the king’s court",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the king’s court"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the name of the kingdom in the play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ujjain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Andher Nagari",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ghangor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Amalner",
+          "is_correct": false
+        }
+      ],
+      "answer": "Andher Nagari"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the name of the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "King Vikram",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "King Chaupat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "King Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "King Ram",
+          "is_correct": false
+        }
+      ],
+      "answer": "King Chaupat"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is special about the market in Andher Nagari?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everything is free",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everything is very costly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All items are sold at the same price",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only food is sold",
+          "is_correct": false
+        }
+      ],
+      "answer": "All items are sold at the same price"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who dies when the wall collapses?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The bricklayer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief’s friend",
+          "is_correct": true
+        }
+      ],
+      "answer": "The thief’s friend"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Whom does the king first order to be punished?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is blamed by the bricklayer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who is blamed by the potter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The money-lender’s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "The money-lender’s daughter"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "On whose neck does the noose finally fit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The disciple",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The sage",
+          "is_correct": false
+        }
+      ],
+      "answer": "The disciple"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who decides to go to the gallows at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The disciple",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The sage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The goldsmith",
+          "is_correct": false
+        }
+      ],
+      "answer": "The king"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "Why does the disciple come to Andher Nagari?",
+      "answer": "He comes to see the king’s court and learn about the kingdom."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What rule makes Andher Nagari famous?",
+      "answer": "All goods in the market are sold at the same price."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Why does the thief approach the king?",
+      "answer": "He seeks justice for the death of his friend."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Why is the merchant blamed for the death?",
+      "answer": "The wall of his house collapses and kills a man."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "How does the bricklayer defend himself?",
+      "answer": "He says the mortar was of poor quality."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What excuse does the mortar-maker give?",
+      "answer": "He blames the pot made by the potter."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Why is the potter blamed?",
+      "answer": "He made a pot with an unusually wide mouth."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Whom does the potter blame?",
+      "answer": "He blames the money-lender’s daughter."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Why does the daughter blame the goldsmith?",
+      "answer": "Her jewellery was not ready on time."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What excuse does the goldsmith give?",
+      "answer": "He says he was following the king’s orders."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why is the goldsmith not hanged?",
+      "answer": "The noose does not fit his neck."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Why is the disciple chosen for hanging?",
+      "answer": "The noose fits his neck perfectly."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why does the sage ask to be hanged?",
+      "answer": "He wants to become the next king."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What prophecy does the sage mention?",
+      "answer": "The person hanged that day will become king."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "How does the king react to the prophecy?",
+      "answer": "He wants the benefit for himself."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What kind of justice does the king believe in?",
+      "answer": "He believes in quick but careless justice."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does the play mock?",
+      "answer": "It mocks foolish rulers and illogical justice."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Is the disciple guilty of any crime?",
+      "answer": "No, he is completely innocent."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the tone of the play?",
+      "answer": "The play is humorous and satirical."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What message does the play convey?",
+      "answer": "Careless justice leads to injustice."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "Describe the system of justice in Andher Nagari.",
+      "answer": "The system of justice in Andher Nagari is foolish and unfair. The king gives decisions without proper thinking. Punishment is passed from one person to another without proof. Logic and truth are completely ignored. Innocent people suffer due to such justice. The play criticizes this careless system."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "Explain the character of King Chaupat.",
+      "answer": "King Chaupat is foolish, greedy, and irresponsible. He gives orders without understanding the situation. He is more interested in his own benefit than justice. The prophecy makes him selfish. His actions show his lack of wisdom."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "Narrate the chain of blame from the thief to the goldsmith.",
+      "answer": "The thief blames the merchant for his friend’s death. The merchant blames the bricklayer. The bricklayer blames the mortar-maker. The mortar-maker blames the potter. The potter blames the money-lender’s daughter. The daughter finally blames the goldsmith."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "Explain the role of the sage in the play.",
+      "answer": "The sage appears to save his disciple. However, he is tempted by the prophecy. He wants to become king in the next life. His request reveals human greed. Thus, his role is clever but selfish."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "How does humour arise from the play?",
+      "answer": "Humour arises from illogical decisions of the king. Each character avoids blame in a funny way. The repeated shifting of punishment is comic. The noose fitting only the disciple adds humour. The humour highlights serious issues."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "Explain the proverb ‘Andher Nagari, Chaupat Raja’.",
+      "answer": "The proverb means a land ruled without sense. The king makes foolish decisions. Justice is unfair and careless. The proverb perfectly suits the play. It warns against irresponsible rulers."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "What social message does the play convey?",
+      "answer": "The play warns society against blind authority. It shows the dangers of foolish leadership. Justice must be logical and fair. Innocent people should be protected. The play teaches responsibility in power."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "Why is the disciple an innocent victim?",
+      "answer": "The disciple has no role in the crime. He is only a visitor in the kingdom. The noose fits him by chance. The king ignores his innocence. Thus, he becomes a victim of injustice."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "Is the king’s final decision justified? Give reasons.",
+      "answer": "The king’s decision is not justified. He acts out of greed for power. He ignores his duty as a ruler. The decision is selfish and foolish. It reflects his poor character."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "What lessons can students learn from this play?",
+      "answer": "Students learn the value of logical thinking. They understand the importance of fair justice. The play teaches responsibility in leadership. It warns against blind obedience. It promotes moral awareness."
+    }
+  ]
+}

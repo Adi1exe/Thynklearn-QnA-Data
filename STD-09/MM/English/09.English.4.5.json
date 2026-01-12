@@ -1,0 +1,1871 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.4.5",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "The Last Lesson"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Franz",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franz"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who was Franz’s teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "M. Hamel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "M. Hamel"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which topic was Franz afraid of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Participles",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Participles"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who ordered that only German be taught in schools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Prussian government",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Prussian government"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What words did M. Hamel write on the blackboard at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vive La France",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alphonse Daudet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gonzalo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Watcher",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vive La France"
+    },
+  {
+    "question_id": 51,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "Franz was afraid to go to school because he had not prepared his lesson on participles and expected to be scolded by M. Hamel for not knowing anything about them. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question_id": 52,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "The villagers were sitting in the classroom to show respect to M. Hamel for his forty years of service and to express regret for not valuing education earlier. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question_id": 53,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The classroom was unusually quiet because it was M. Hamel’s last lesson and the presence of villagers made the atmosphere solemn and serious. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question_id": 54,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "M. Hamel announced that it was the last French lesson because orders from Berlin required schools in Alsace and Lorraine to teach only German. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question_id": 55,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "Franz regretted wasting time because he realized he would never get another chance to learn French properly after hearing it was the last lesson. :contentReference[oaicite:4]{index=4}"
+  },
+
+  {
+    "question_id": 56,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "He feared punishment from M. Hamel as he had not learned the lesson on participles at all. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question_id": 57,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They came to honour M. Hamel and to show their respect for the French language that was being taken away from them. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question_id": 58,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "There was no usual noise of desks and lessons because everyone was emotionally affected by the last French lesson. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question_id": 59,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He declared that French would no longer be taught in the school and that a new German teacher would arrive the next day. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question_id": 60,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He realized the importance of learning his language only when it was being taken away from him forever. :contentReference[oaicite:9]{index=9}"
+  },
+
+  {
+    "question_id": 61,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "Franz had not studied and was scared of M. Hamel’s strict discipline and iron ruler. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question_id": 62,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They wanted to thank M. Hamel for his faithful teaching and express sorrow for neglecting education. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question_id": 63,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The seriousness of the last lesson created a silent and respectful atmosphere in the classroom. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question_id": 64,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He informed the students that the French language would be replaced by German in schools. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question_id": 65,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He felt guilty for neglecting his studies when he understood he was losing his chance to learn French. :contentReference[oaicite:14]{index=14}"
+  },
+
+  {
+    "question_id": 66,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "Because he was unprepared for the participles lesson and expected harsh punishment. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question_id": 67,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They attended the class to show solidarity and respect for the French language and their teacher. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question_id": 68,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The silence reflected the sadness and seriousness of losing their language and teacher. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question_id": 69,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He announced that it was the final French lesson due to new orders from Berlin. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question_id": 70,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He realized too late that education and language were valuable and irreplaceable. :contentReference[oaicite:19]{index=19}"
+  },
+
+  {
+    "question_id": 71,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "His fear came from being late and completely unprepared for his lesson. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question_id": 72,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They came to pay tribute to M. Hamel and to the French language on its last day in school. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question_id": 73,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The emotional weight of the last lesson made everyone attentive and silent. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question_id": 74,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He said that French would no longer be taught and urged students to be attentive. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question_id": 75,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He felt deep sorrow for ignoring his lessons and preferring outdoor activities instead. :contentReference[oaicite:24]{index=24}"
+  },
+
+  {
+    "question_id": 76,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "He had not studied and feared M. Hamel’s reaction. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question_id": 77,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They wanted to show respect for their teacher and regret for neglecting education. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question_id": 78,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The last lesson created a respectful and mournful silence. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "question_id": 79,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He announced the end of French teaching in Alsace and Lorraine schools. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "question_id": 80,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He realized learning his mother tongue was more important than he had thought. :contentReference[oaicite:29]{index=29}"
+  },
+
+  {
+    "question_id": 81,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "Because he had not prepared and feared embarrassment in front of the class. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "question_id": 82,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They attended to honour M. Hamel’s last lesson and express respect for French culture. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "question_id": 83,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "Everyone was deeply moved by the significance of the last French lesson. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "question_id": 84,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He announced that this would be the final French lesson due to German orders. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "question_id": 85,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He realized that he had taken his education lightly until it was too late. :contentReference[oaicite:34]{index=34}"
+  },
+
+  {
+    "question_id": 86,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "He feared punishment for being unprepared and late. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "question_id": 87,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They wanted to express their sorrow and gratitude towards M. Hamel. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "question_id": 88,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The seriousness of the last lesson made everyone silent and attentive. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "question_id": 89,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He announced that French would no longer be taught after that day. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "question_id": 90,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He felt regret for not valuing his lessons when he had the chance. :contentReference[oaicite:39]{index=39}"
+  },
+
+  {
+    "question_id": 91,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "He had not learned his lesson and expected to be scolded. :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "question_id": 92,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They were present to honour their teacher and their language. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "question_id": 93,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The classroom atmosphere was solemn due to the importance of the day. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "question_id": 94,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He declared it was the last French lesson for the students. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "question_id": 95,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He realized he had wasted precious time that could never be recovered. :contentReference[oaicite:44]{index=44}"
+  },
+
+  {
+    "question_id": 96,
+    "question_type": "SHORT",
+    "question": "Why was Franz afraid to go to school?",
+    "answer": "He was afraid because he was unprepared and late for class. :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "question_id": 97,
+    "question_type": "SHORT",
+    "question": "Why were villagers sitting in the classroom?",
+    "answer": "They attended as a mark of respect for M. Hamel and French language. :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "question_id": 98,
+    "question_type": "SHORT",
+    "question": "Why was the classroom unusually quiet?",
+    "answer": "The silence showed the seriousness and sadness of the last lesson. :contentReference[oaicite:47]{index=47}"
+  },
+  {
+    "question_id": 99,
+    "question_type": "SHORT",
+    "question": "What announcement did M. Hamel make?",
+    "answer": "He announced the end of French teaching in the school. :contentReference[oaicite:48]{index=48}"
+  },
+  {
+    "question_id": 100,
+    "question_type": "SHORT",
+    "question": "Why did Franz regret wasting time earlier?",
+    "answer": "He understood too late that learning his language was essential and valuable. :contentReference[oaicite:49]{index=49}"
+  },
+
+  {
+    "question_id": 101,
+    "question_type": "LONG",
+    "question": "Describe the character of Franz in the story 'The Last Lesson'.",
+    "answer": "Franz is a young schoolboy who initially lacks seriousness towards his studies. At the beginning of the story, he is afraid to go to school because he has not prepared his lesson. He prefers outdoor activities over studying and often neglects his education. However, the announcement of the last French lesson deeply affects him. Franz realizes the importance of education and his mother tongue too late. By the end, he shows emotional maturity and regret, which marks his inner transformation."
+  },
+  {
+    "question_id": 102,
+    "question_type": "LONG",
+    "question": "Describe the character of M. Hamel.",
+    "answer": "M. Hamel is a dedicated and sincere French teacher who has served the school for forty years. He is strict but deeply committed to his profession and his language. On the last day, he wears special clothes, showing the importance of the occasion. M. Hamel teaches his final lesson with patience, dignity, and emotion. He strongly believes in the value of the French language and culture. His character represents devotion, patriotism, and respect for education."
+  },
+  {
+    "question_id": 103,
+    "question_type": "LONG",
+    "question": "Why is the classroom atmosphere different on the day of the last lesson?",
+    "answer": "The classroom atmosphere is unusually quiet and serious on the day of the last lesson. Villagers are sitting on the back benches, which is uncommon. Everyone is aware that this is the final French lesson due to the German order. The silence reflects sadness, regret, and respect for the language and teacher. Students listen attentively, unlike on normal days. The atmosphere highlights the emotional impact of losing their mother tongue."
+  },
+  {
+    "question_id": 104,
+    "question_type": "LONG",
+    "question": "Explain the significance of the villagers sitting in the classroom.",
+    "answer": "The villagers sitting in the classroom symbolize respect and repentance. They regret not having valued education when they had the opportunity. Their presence shows solidarity with M. Hamel and the French language. It also represents collective loss felt by the community. By attending the lesson, they honor the teacher’s long service. This scene highlights the importance of education beyond childhood."
+  },
+  {
+    "question_id": 105,
+    "question_type": "LONG",
+    "question": "What announcement did M. Hamel make and how did it affect the students?",
+    "answer": "M. Hamel announced that it was the last French lesson as per the orders from Berlin. German would replace French in schools of Alsace and Lorraine. This announcement shocked the students, especially Franz. They suddenly realized the value of their language and education. The news created a sense of regret and sadness. It changed the students’ attitude towards learning."
+  },
+  {
+    "question_id": 106,
+    "question_type": "LONG",
+    "question": "Why does Franz regret his past behavior?",
+    "answer": "Franz regrets his past behavior because he realizes he wasted valuable time. He often avoided studying and preferred playing outside. When French is taken away from him, he understands its importance. He feels guilty for not listening attentively in class. Franz also regrets not appreciating M. Hamel’s efforts. This regret marks his emotional growth."
+  },
+  {
+    "question_id": 107,
+    "question_type": "LONG",
+    "question": "Explain the importance of language as shown in 'The Last Lesson'.",
+    "answer": "The story highlights language as a symbol of identity and culture. Losing the French language means losing freedom and heritage. M. Hamel emphasizes that as long as people hold on to their language, they cannot be enslaved. Language connects people to their history and traditions. The story shows that language should be respected and preserved. It teaches readers to value their mother tongue."
+  },
+  {
+    "question_id": 108,
+    "question_type": "LONG",
+    "question": "How does Franz’s attitude towards school change in the story?",
+    "answer": "At the beginning, Franz dislikes school and fears punishment. He is careless about his studies and avoids responsibility. After hearing the announcement, his attitude changes completely. He listens attentively and understands lessons easily. Franz develops respect for his teacher and language. This change reflects his growing maturity."
+  },
+  {
+    "question_id": 109,
+    "question_type": "LONG",
+    "question": "Why is M. Hamel’s last lesson important?",
+    "answer": "M. Hamel’s last lesson is important because it represents the end of French education in the region. It is filled with emotion, dignity, and pride. He teaches with dedication till the very end. The lesson makes students and villagers realize the value of education. It becomes a lesson of patriotism and respect for language. The final words written by M. Hamel leave a deep impact."
+  },
+  {
+    "question_id": 110,
+    "question_type": "LONG",
+    "question": "Describe the theme of patriotism in 'The Last Lesson'.",
+    "answer": "Patriotism is a strong theme in the story. Love for the French language represents love for the nation. M. Hamel’s dedication shows his patriotic spirit. The villagers’ presence reflects collective national pride. The story shows that protecting one’s language is an act of patriotism. It teaches silent resistance through cultural preservation."
+  },
+  {
+    "question_id": 111,
+    "question_type": "LONG",
+    "question": "How does the story show the importance of education?",
+    "answer": "The story shows that education should never be taken lightly. Franz realizes its importance only when it is taken away. The villagers regret not learning when they had the chance. M. Hamel’s lifelong dedication emphasizes education’s value. Education shapes identity and awareness. The story warns against neglecting learning."
+  },
+  {
+    "question_id": 112,
+    "question_type": "LONG",
+    "question": "What role does regret play in the story?",
+    "answer": "Regret plays a significant emotional role in the story. Franz regrets wasting his school days. The villagers regret neglecting education. M. Hamel regrets that people did not value learning earlier. This shared regret unites everyone emotionally. It teaches that lost opportunities cannot be recovered."
+  },
+  {
+    "question_id": 113,
+    "question_type": "LONG",
+    "question": "Why can M. Hamel be called an ideal teacher?",
+    "answer": "M. Hamel is devoted, disciplined, and passionate about teaching. He serves the school faithfully for forty years. Even on his last day, he teaches sincerely. He respects his profession and his students. His love for language and education makes him an ideal teacher. He leaves a lasting impression on everyone."
+  },
+  {
+    "question_id": 114,
+    "question_type": "LONG",
+    "question": "Explain the symbolic meaning of 'Vive La France' in the story.",
+    "answer": "'Vive La France' symbolizes freedom, identity, and resistance. It is written on the blackboard by M. Hamel at the end. These words express love for the nation and language. They show silent protest against cultural suppression. The phrase captures the story’s central message. It leaves a powerful emotional impact."
+  },
+  {
+    "question_id": 115,
+    "question_type": "LONG",
+    "question": "How does the story reflect the impact of political decisions on common people?",
+    "answer": "The story shows how political orders affect ordinary lives. The decision from Berlin ends French education abruptly. Students, teachers, and villagers suffer emotionally. Cultural identity is threatened without their consent. The story highlights helplessness of common people. It shows education as a victim of politics."
+  },
+  {
+    "question_id": 116,
+    "question_type": "LONG",
+    "question": "What message does 'The Last Lesson' convey to students?",
+    "answer": "The story teaches students to value education and language. It warns against procrastination and carelessness. Learning should not be postponed. Students should respect teachers and schooling. The message encourages responsibility and awareness. It remains relevant even today."
+  },
+  {
+    "question_id": 117,
+    "question_type": "LONG",
+    "question": "Describe Franz’s emotional journey in the story.",
+    "answer": "Franz begins the story with fear and indifference. He is careless about school and studies. The announcement shocks him deeply. He feels regret, sadness, and respect. By the end, he becomes emotionally mature. His journey reflects personal growth."
+  },
+  {
+    "question_id": 118,
+    "question_type": "LONG",
+    "question": "Why do the villagers feel guilty in the story?",
+    "answer": "The villagers feel guilty for not attending school earlier. They prioritized work over education. Sitting in the classroom reflects their repentance. They realize education’s importance too late. Their guilt adds emotional depth to the story. It serves as a lesson for future generations."
+  },
+  {
+    "question_id": 119,
+    "question_type": "LONG",
+    "question": "Explain how silence is used effectively in the story.",
+    "answer": "Silence in the classroom reflects emotional tension. It replaces the usual noise of students. Silence shows respect, sadness, and realization. It emphasizes the seriousness of the moment. The quiet classroom highlights the impact of loss. Silence becomes more powerful than words."
+  },
+  {
+    "question_id": 120,
+    "question_type": "LONG",
+    "question": "How does the story emphasize cultural identity?",
+    "answer": "Cultural identity is represented through language. French is more than a subject; it is heritage. Losing it means losing identity. M. Hamel stresses preserving language. The story promotes cultural pride. Identity is shown as deeply tied to language."
+  },
+  {
+    "question_id": 121,
+    "question_type": "LONG",
+    "question": "What makes 'The Last Lesson' an emotional story?",
+    "answer": "The story is emotional due to regret, loss, and realization. Franz’s transformation touches the reader. M. Hamel’s dedication evokes respect. Villagers’ silent presence adds sadness. The loss of language is deeply moving. All elements together create strong emotions."
+  },
+  {
+    "question_id": 122,
+    "question_type": "LONG",
+    "question": "How does M. Hamel inspire respect for teachers?",
+    "answer": "M. Hamel’s dedication earns deep respect. He teaches sincerely until the end. His love for language inspires students. His dignity and discipline set an example. The story encourages respect for teachers. His character leaves a lasting lesson."
+  },
+  {
+    "question_id": 123,
+    "question_type": "LONG",
+    "question": "Why is the title 'The Last Lesson' appropriate?",
+    "answer": "The title reflects the final French lesson taught in the school. It symbolizes an ending and realization. The lesson is not just academic but moral. It marks loss, awareness, and transformation. The title captures the story’s essence perfectly."
+  },
+  {
+    "question_id": 124,
+    "question_type": "LONG",
+    "question": "What lesson does the story teach about time?",
+    "answer": "The story teaches that time once lost cannot be regained. Franz realizes this too late. Opportunities must be used wisely. Education should not be delayed. The story warns against wasting time. It encourages timely action."
+  },
+  {
+    "question_id": 125,
+    "question_type": "LONG",
+    "question": "Summarize the central idea of 'The Last Lesson'.",
+    "answer": "The central idea of the story is the importance of language and education. It highlights regret, patriotism, and awareness. The loss of French represents loss of identity. The story urges people to value learning before it is taken away. It delivers a strong moral message."
+  }
+  ]
+}

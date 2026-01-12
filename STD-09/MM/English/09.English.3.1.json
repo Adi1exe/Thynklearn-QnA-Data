@@ -1,0 +1,2311 @@
+{
+ "chapter_metadata": {
+ "chapter_id": "09.English.3.1",
+ "standard": "9",
+ "subject": "English",
+ "medium": "Marathi",
+ "chapter_name": "Coromandel Fishers"
+ },
+ "questions": [
+ {
+ "question_id": 1,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 2,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 3,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 4,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 5,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 6,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 7,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 8,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 9,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 10,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 11,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 12,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 13,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 14,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 15,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 16,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 17,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 18,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 19,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 20,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 21,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 22,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 23,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 24,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 25,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 26,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 27,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 28,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 29,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 30,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 31,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 32,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 33,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 34,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 35,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 36,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 37,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 38,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 39,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 40,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 41,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 42,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 43,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 44,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 45,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 46,
+ "question_type": "MCQ",
+ "question": "Who is the poet of 'Coromandel Fishers'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Sarojini Naidu",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Sarojini Naidu"
+ },
+ {
+ "question_id": 47,
+ "question_type": "MCQ",
+ "question": "What time of the day is described at the beginning of the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Early morning",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Early morning"
+ },
+ {
+ "question_id": 48,
+ "question_type": "MCQ",
+ "question": "What type of boats do the fishermen use?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Catamarans",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Catamarans"
+ },
+ {
+ "question_id": 49,
+ "question_type": "MCQ",
+ "question": "Who are called the 'kings of the sea'?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "Fishermen",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "Fishermen"
+ },
+ {
+ "question_id": 50,
+ "question_type": "MCQ",
+ "question": "Who holds the storm by the hair according to the poem?",
+ "options": [
+ {
+ "option_id": 1,
+ "text": "The sea-god",
+ "is_correct": true
+ },
+ {
+ "option_id": 2,
+ "text": "Sailors",
+ "is_correct": false
+ },
+ {
+ "option_id": 3,
+ "text": "Merchants",
+ "is_correct": false
+ },
+ {
+ "option_id": 4,
+ "text": "Villagers",
+ "is_correct": false
+ }
+ ],
+ "answer": "The sea-god"
+ },
+ {
+ "question_id": 51,
+ "question_type": "SHORT",
+ "question": "What time of day is described in the first stanza of the poem?",
+ "answer": "The first stanza describes early morning or dawn, as the fishermen are called to rise and the skies pray to the morning light."
+ },
+ {
+ "question_id": 52,
+ "question_type": "SHORT",
+ "question": "Why does the poet address the fishermen as 'brothers'?",
+ "answer": "The poet addresses them as 'brothers' to show the deep bond of camaraderie and shared purpose among the fishermen."
+ },
+ {
+ "question_id": 53,
+ "question_type": "SHORT",
+ "question": "To what does the poet compare the wind in the morning?",
+ "answer": "The wind is compared to a 'child that has cried all night' now lying asleep in the arms of the dawn."
+ },
+ {
+ "question_id": 54,
+ "question_type": "SHORT",
+ "question": "What must the fishermen do before setting their catamarans free?",
+ "answer": "The fishermen must first gather their nets from the shore."
+ },
+ {
+ "question_id": 55,
+ "question_type": "SHORT",
+ "question": "What are 'catamarans' mentioned in the poem?",
+ "answer": "Catamarans are a specific type of boat that the fishermen use for their work at sea."
+ },
+ {
+ "question_id": 56,
+ "question_type": "SHORT",
+ "question": "Explain the phrase 'leaping wealth of the tide'.",
+ "answer": "This phrase refers to the fish that the fishermen aim to capture, which represent their livelihood and wealth."
+ },
+ {
+ "question_id": 57,
+ "question_type": "SHORT",
+ "question": "Why do the fishermen consider themselves the 'kings of the sea'?",
+ "answer": "They call themselves kings because they have mastery and authority over the sea where they perform their heroic labor."
+ },
+ {
+ "question_id": 58,
+ "question_type": "SHORT",
+ "question": "Whose call serves as a guide for the fishermen to start their journey?",
+ "answer": "The call of the sea gull serves as a guide, and the fishermen hasten away in its track."
+ },
+ {
+ "question_id": 59,
+ "question_type": "SHORT",
+ "question": "How is the Sea personified in relation to the fishermen?",
+ "answer": "The Sea is personified as their 'mother,' showing a nurturing and foundational relationship."
+ },
+ {
+ "question_id": 60,
+ "question_type": "SHORT",
+ "question": "Who is described as the 'brother' of the fishermen?",
+ "answer": "The 'cloud' is described as the brother of the fishermen in the poem."
+ },
+ {
+ "question_id": 61,
+ "question_type": "SHORT",
+ "question": "What roles do the 'waves' play in the fishermen's lives according to the poet?",
+ "answer": "The waves are described as their 'comrades all,' highlighting the close partnership between nature and the fishers."
+ },
+ {
+ "question_id": 62,
+ "question_type": "SHORT",
+ "question": "What is the 'fall of the sun' referring to?",
+ "answer": "The 'fall of the sun' refers to the time of evening or sunset."
+ },
+ {
+ "question_id": 63,
+ "question_type": "SHORT",
+ "question": "Who controls the storm and protects the fishermen's lives?",
+ "answer": "The sea-god, who 'holds the storm by the hair,' is the one who protects and hides their lives in his breast."
+ },
+ {
+ "question_id": 64,
+ "question_type": "SHORT",
+ "question": "Mention two pleasant things found on the land (landscape) according to the third stanza.",
+ "answer": "Two pleasant things are the 'shade of the coconut glade' and the 'scent of the mango grove'."
+ },
+ {
+ "question_id": 65,
+ "question_type": "SHORT",
+ "question": "How are the sands described at the 'full o’ the moon'?",
+ "answer": "The sands are described as 'sweet' during the full moon light."
+ },
+ {
+ "question_id": 66,
+ "question_type": "SHORT",
+ "question": "What is 'sweeter' to the fishermen than the comforts of the land?",
+ "answer": "To the fishermen, the 'kiss of the spray' and the 'dance of the wild foam's glee' are sweeter than land-based comforts."
+ },
+ {
+ "question_id": 67,
+ "question_type": "SHORT",
+ "question": "Where is the 'edge of the verge' mentioned in the poem?",
+ "answer": "The 'edge of the verge' refers to the horizon, the extreme limit where the low sky meets the sea."
+ },
+ {
+ "question_id": 68,
+ "question_type": "SHORT",
+ "question": "Who is the author of the poem 'Coromandel Fishers'?",
+ "answer": "The poem was written by the famous Indian poet Sarojini Naidu."
+ },
+ {
+ "question_id": 69,
+ "question_type": "SHORT",
+ "question": "Define the term 'verge' as used in the poem.",
+ "answer": "'Verge' means the edge, border, or extreme limit of a place."
+ },
+ {
+ "question_id": 70,
+ "question_type": "SHORT",
+ "question": "What is the rhyme scheme of each stanza in this poem?",
+ "answer": "The rhyme scheme of each stanza in 'Coromandel Fishers' is aabb."
+ },
+ {
+ "question_id": 71,
+ "question_type": "SHORT",
+ "question": "Give an example of a word related to the 'sea' from the warming up activity.",
+ "answer": "Examples include words like 'tide,' 'waves,' 'shore,' and 'catamarans'."
+ },
+ {
+ "question_id": 72,
+ "question_type": "SHORT",
+ "question": "Give an example of a word related to the 'wind'.",
+ "answer": "Examples include 'dawn,' 'storm,' and 'spray'."
+ },
+ {
+ "question_id": 73,
+ "question_type": "SHORT",
+ "question": "Give an example of a word related to the 'sky'.",
+ "answer": "Words like 'morning light,' 'moon,' and 'horizon' are related to the sky."
+ },
+ {
+ "question_id": 74,
+ "question_type": "SHORT",
+ "question": "Give an example of a word related to 'land'.",
+ "answer": "Words like 'coconut glade,' 'mango grove,' and 'sands' are related to the land."
+ },
+ {
+ "question_id": 75,
+ "question_type": "SHORT",
+ "question": "In what way can a bilingual glossary be useful according to the workshop?",
+ "answer": "A bilingual glossary is useful for understanding concepts in both English and one's mother tongue, aiding better vocabulary building."
+ },
+ {
+ "question_id": 76,
+ "question_type": "SHORT",
+ "question": "What is the meaning of the expression 'wakening skies'?",
+ "answer": "The expression refers to the sky at dawn when it seems to wake up as the sun rises."
+ },
+ {
+ "question_id": 77,
+ "question_type": "SHORT",
+ "question": "What are 'catamarans' according to the poem?",
+ "answer": "Catamarans are a specific type of boat consisting of two hulls or a raft-like structure used by fishermen."
+ },
+ {
+ "question_id": 78,
+ "question_type": "SHORT",
+ "question": "Define the word 'track' as used in the context of the fishermen's journey.",
+ "answer": "In the poem, 'track' refers to the path or direction shown by the sea gull's call."
+ },
+ {
+ "question_id": 79,
+ "question_type": "SHORT",
+ "question": "To where does the 'track' or way shown by the sea gull lead the fishermen?",
+ "answer": "The way leads to the middle of the sea where the fish are found, following the 'sea gull's call'."
+ },
+ {
+ "question_id": 80,
+ "question_type": "SHORT",
+ "question": "In the poet's imagery, who 'holds the storm by the hair'?",
+ "answer": "The 'sea-god' is the one who holds the storm by the hair, signifying his control over nature's forces."
+ },
+ {
+ "question_id": 81,
+ "question_type": "SHORT",
+ "question": "What is the total number of stanzas in the poem 'Coromandel Fishers'?",
+ "answer": "The poem consists of three stanzas in total."
+ },
+ {
+ "question_id": 82,
+ "question_type": "SHORT",
+ "question": "How many lines are there in the entire poem?",
+ "answer": "There are twelve lines in the poem, with four lines per stanza."
+ },
+ {
+ "question_id": 83,
+ "question_type": "SHORT",
+ "question": "Identify the rhyming words in the first stanza.",
+ "answer": "The rhyming words in the first stanza are 'light' and 'night', and 'free' and 'sea'."
+ },
+ {
+ "question_id": 84,
+ "question_type": "SHORT",
+ "question": "Identify the rhyming words in the second stanza.",
+ "answer": "The rhyming words in the second stanza are 'call' and 'all', and 'drives' and 'lives'."
+ },
+ {
+ "question_id": 85,
+ "question_type": "SHORT",
+ "question": "Identify the rhyming words in the third stanza.",
+ "answer": "The rhyming words in the third stanza are 'grove' and 'love', and 'glee' and 'sea'."
+ },
+ {
+ "question_id": 86,
+ "question_type": "SHORT",
+ "question": "What is the rhyme scheme of each stanza in this poem?",
+ "answer": "The rhyme scheme of each stanza in the poem is 'aabb'."
+ },
+ {
+ "question_id": 87,
+ "question_type": "SHORT",
+ "question": "What does the expression 'leaping wealth of the tide' refer to?",
+ "answer": "It refers to the fish that jump in the water, which represent the livelihood and wealth for the fishermen."
+ },
+ {
+ "question_id": 88,
+ "question_type": "SHORT",
+ "question": "Who are referred to as the 'kings of the sea'?",
+ "answer": "The fishermen themselves are referred to as the 'kings of the sea' because they master and harvest it."
+ },
+ {
+ "question_id": 89,
+ "question_type": "SHORT",
+ "question": "What point in time is meant by 'at the fall of the sun'?",
+ "answer": "It refers to sunset or the evening time when the sun goes down."
+ },
+ {
+ "question_id": 90,
+ "question_type": "SHORT",
+ "question": "What does 'the edge of the verge' signify in the poem?",
+ "answer": "It signifies the horizon, where the sea appears to meet the sky at the extreme limit."
+ },
+ {
+ "question_id": 91,
+ "question_type": "SHORT",
+ "question": "According to the matching activity, what is 'the wind' compared to?",
+ "answer": "The wind is compared to a 'child' that has cried all night."
+ },
+ {
+ "question_id": 92,
+ "question_type": "SHORT",
+ "question": "How is 'dawn' matched in the comparison table?",
+ "answer": "Dawn is described as a 'mother holding her child'."
+ },
+ {
+ "question_id": 93,
+ "question_type": "SHORT",
+ "question": "What role does the 'Sea' play in the matching activity comparisons?",
+ "answer": "The Sea is compared to a 'mother' for the fishermen."
+ },
+ {
+ "question_id": 94,
+ "question_type": "SHORT",
+ "question": "To whom is the 'cloud' compared in the poem's relational imagery?",
+ "answer": "The cloud is compared to a 'brother'."
+ },
+ {
+ "question_id": 95,
+ "question_type": "SHORT",
+ "question": "How are the 'waves' categorized in the matching table?",
+ "answer": "The waves are categorized as 'comrades' or friends of the fishermen."
+ },
+ {
+ "question_id": 96,
+ "question_type": "SHORT",
+ "question": "Write the line that refers to the early morning time.",
+ "answer": "The line is: 'the wakening skies pray to the morning light'."
+ },
+ {
+ "question_id": 97,
+ "question_type": "SHORT",
+ "question": "Write the line that refers to the evening time.",
+ "answer": "The line is: 'What though we toss at the fall of the sun'."
+ },
+ {
+ "question_id": 98,
+ "question_type": "SHORT",
+ "question": "Write the line that refers to full moon light.",
+ "answer": "The line is: 'sweet are the sands at the full o’ the moon'."
+ },
+ {
+ "question_id": 99,
+ "question_type": "SHORT",
+ "question": "Which line shows that the fishermen are not afraid of the sea or drowning?",
+ "answer": "The line is: 'He who holds the storm by the hair, will hide in his breast our lives'."
+ },
+ {
+ "question_id": 100,
+ "question_type": "SHORT",
+ "question": "Define 'mates' as used in the final line of the poem.",
+ "answer": "In the poem, 'mates' means to meet or join together, referring to where the sky and sea meet at the horizon."
+ },
+ {
+ "question_id": 101,
+ "question_type": "SHORT",
+ "question": "What is the rhyme scheme of each stanza in 'Coromandel Fishers'?",
+ "answer": "The rhyme scheme of each stanza in this poem is 'aabb'."
+ },
+ {
+ "question_id": 102,
+ "question_type": "SHORT",
+ "question": "To what does the expression 'leaping wealth of the tide' refer?",
+ "answer": "This expression refers to the fish in the sea which represent the wealth and livelihood of the fishermen."
+ },
+ {
+ "question_id": 103,
+ "question_type": "SHORT",
+ "question": "Who are referred to as the 'kings of sea' in the poem?",
+ "answer": "The 'kings of sea' are the fishermen who master the ocean and harvest its resources."
+ },
+ {
+ "question_id": 104,
+ "question_type": "SHORT",
+ "question": "What is the meaning of the phrase 'at the fall of the sun'?",
+ "answer": "The phrase 'at the fall of the sun' refers to the time of sunset or evening."
+ },
+ {
+ "question_id": 105,
+ "question_type": "SHORT",
+ "question": "What does 'the edge of the verge' refer to?",
+ "answer": "It refers to the horizon, the distant line where the sky appears to meet the sea."
+ },
+ {
+ "question_id": 106,
+ "question_type": "SHORT",
+ "question": "According to the matching activity, what is the 'wind' compared to?",
+ "answer": "The wind is compared to a 'child' that has cried all night and is now asleep."
+ },
+ {
+ "question_id": 107,
+ "question_type": "SHORT",
+ "question": "How is 'dawn' described in the relational imagery of the workshop?",
+ "answer": "Dawn is described as a 'mother holding her child'."
+ },
+ {
+ "question_id": 108,
+ "question_type": "SHORT",
+ "question": "What role does the 'Sea' play in the lives of the fishermen?",
+ "answer": "The Sea is personified as their 'mother' who nurtures and provides for them."
+ },
+ {
+ "question_id": 109,
+ "question_type": "SHORT",
+ "question": "To whom is the 'cloud' compared in the poem?",
+ "answer": "The cloud is compared to a 'brother' of the fishermen."
+ },
+ {
+ "question_id": 110,
+ "question_type": "SHORT",
+ "question": "What are the 'waves' called in the poem's relational imagery?",
+ "answer": "The waves are called the 'comrades' or friends of the fishermen."
+ },
+ {
+ "question_id": 111,
+ "question_type": "SHORT",
+ "question": "Write the line that specifically refers to the early morning.",
+ "answer": "The line is: 'the wakening skies pray to the morning light'."
+ },
+ {
+ "question_id": 112,
+ "question_type": "SHORT",
+ "question": "Identify the line in the poem that refers to the evening.",
+ "answer": "The line is: 'What though we toss at the fall of the sun where the hand of the sea-god drives?'."
+ },
+ {
+ "question_id": 113,
+ "question_type": "SHORT",
+ "question": "Identify the line that refers to the full moon light.",
+ "answer": "The line is: 'And sweet are the sands at the full o’ the moon with the sound of the voices we love'."
+ },
+ {
+ "question_id": 114,
+ "question_type": "SHORT",
+ "question": "Which lines show that the fishermen are not afraid of the sea or of drowning?",
+ "answer": "The line is: 'He who holds the storm by the hair, will hide in his breast our lives'."
+ },
+ {
+ "question_id": 115,
+ "question_type": "SHORT",
+ "question": "Provide a line from the poem that describes a 'landscape'.",
+ "answer": "A landscape line is: 'Sweet is the shade of the coconut glade, and the scent of the mango grove'."
+ },
+ {
+ "question_id": 116,
+ "question_type": "SHORT",
+ "question": "Provide another line from the poem that refers to the landscape.",
+ "answer": "Another landscape line is: 'And sweet are the sands at the full o’ the moon with the sound of the voices we love'."
+ },
+ {
+ "question_id": 117,
+ "question_type": "SHORT",
+ "question": "Provide a line from the poem that describes a 'seascape'.",
+ "answer": "A seascape line is: 'But sweeter, O brothers, the kiss of the spray and the dance of the wild foam's glee'."
+ },
+ {
+ "question_id": 118,
+ "question_type": "SHORT",
+ "question": "Provide another line from the poem that refers to the seascape.",
+ "answer": "Another seascape line is: 'Row, brothers, row to the edge of the verge, where the low sky mates with the sea'."
+ },
+ {
+ "question_id": 119,
+ "question_type": "SHORT",
+ "question": "What adventures are mentioned in the 'Chit-Chat' section of the warming up?",
+ "answer": "Adventures mentioned include boating, trekking, scuba diving, and mountaineering."
+ },
+ {
+ "question_id": 120,
+ "question_type": "SHORT",
+ "question": "What is meant by 'coconut glade' in the landscape description?",
+ "answer": "A 'coconut glade' refers to an open space or a small forest area primarily filled with coconut trees."
+ },
+ {
+ "question_id": 121,
+ "question_type": "SHORT",
+ "question": "Explain the term 'mango grove' as used in the poem.",
+ "answer": "A 'mango grove' is a small group or plantation of mango trees planted close together."
+ },
+ {
+ "question_id": 122,
+ "question_type": "SHORT",
+ "question": "According to the first line, what do the 'wakening skies' do?",
+ "answer": "The wakening skies 'pray to the morning light' at the start of the day."
+ },
+ {
+ "question_id": 123,
+ "question_type": "SHORT",
+ "question": "Where does the one who 'holds the storm by the hair' hide the fishermen's lives?",
+ "answer": "He will hide their lives 'in his breast' to protect them from danger."
+ },
+ {
+ "question_id": 124,
+ "question_type": "SHORT",
+ "question": "What is the 'kiss of the spray' mentioned in the seascape?",
+ "answer": "It refers to the gentle touch of the sea water droplets that spray into the air as the waves crash or as the boat moves."
+ },
+ {
+ "question_id": 125,
+ "question_type": "SHORT",
+ "question": "What is the 'dance of the wild foam's glee'?",
+ "answer": "It is a personification of the sea foam, describing its lively and joyful movement on the surface of the waves."
+ },
+ {
+ "question_id": 126,
+ "question_type": "SHORT",
+ "question": "Why do the fishermen need to gather their nets from the shore?",
+ "answer": "They gather their nets to prepare for their fishing journey and to capture the fish, which they call the 'leaping wealth of the tide'."
+ },
+ {
+ "question_id": 127,
+ "question_type": "SHORT",
+ "question": "What is the meaning of the phrase 'set our catamarans free'?",
+ "answer": "It means untying the boats and pushing them into the sea to start their day's work."
+ },
+ {
+ "question_id": 128,
+ "question_type": "SHORT",
+ "question": "Describe the sea gull's call in the context of the fishermen's journey.",
+ "answer": "The sea gull's call acts as a guide or signal for the fishermen to follow as they head out into the sea."
+ },
+ {
+ "question_id": 129,
+ "question_type": "SHORT",
+ "question": "How does the sea-god protect the fishermen during a storm?",
+ "answer": "The sea-god, who 'holds the storm by the hair,' is believed to protect the fishermen by hiding their lives in his breast."
+ },
+ {
+ "question_id": 130,
+ "question_type": "SHORT",
+ "question": "What is the significance of the phrase 'hide in his breast our lives'?",
+ "answer": "It signifies the divine protection offered by the sea-god, ensuring the fishermen are safe from drowning during rough weather."
+ },
+ {
+ "question_id": 131,
+ "question_type": "SHORT",
+ "question": "Contrast the 'shade of the coconut glade' with the 'kiss of the spray'.",
+ "answer": "While the shade of the coconut glade is described as 'sweet,' the 'kiss of the spray' from the sea is considered 'sweeter' by the fishermen."
+ },
+ {
+ "question_id": 132,
+ "question_type": "SHORT",
+ "question": "What makes the sands 'sweet' in the third stanza?",
+ "answer": "The sands are described as sweet during the full moon when they are accompanied by the sound of the voices of loved ones."
+ },
+ {
+ "question_id": 133,
+ "question_type": "SHORT",
+ "question": "Where exactly are the fishermen rowing to in the final stanza?",
+ "answer": "They are rowing toward the 'edge of the verge,' which is the horizon where the sky and sea meet."
+ },
+ {
+ "question_id": 134,
+ "question_type": "SHORT",
+ "question": "What does the expression 'low sky mates with the sea' describe?",
+ "answer": "It describes the horizon line where the sky appears to touch or join with the ocean surface."
+ },
+ {
+ "question_id": 135,
+ "question_type": "SHORT",
+ "question": "Find a word from the poem that means 'extreme limit'.",
+ "answer": "The word is 'verge,' as seen in the phrase 'edge of the verge'."
+ },
+ {
+ "question_id": 136,
+ "question_type": "SHORT",
+ "question": "Which line tells us that the wind was active and stormy during the night?",
+ "answer": "The line is: 'The wind lies asleep in the arms of the dawn like a child that has cried all night'."
+ },
+ {
+ "question_id": 137,
+ "question_type": "SHORT",
+ "question": "How many stanzas are there in the poem 'Coromandel Fishers'?",
+ "answer": "There are three stanzas in the poem."
+ },
+ {
+ "question_id": 138,
+ "question_type": "SHORT",
+ "question": "What is the total number of lines in the poem?",
+ "answer": "The poem contains a total of twelve lines."
+ },
+ {
+ "question_id": 139,
+ "question_type": "SHORT",
+ "question": "List one rhyming pair from the second stanza.",
+ "answer": "A rhyming pair from the second stanza is 'call' and 'all'."
+ },
+ {
+ "question_id": 140,
+ "question_type": "SHORT",
+ "question": "What is the rhyme scheme followed in the stanzas of this poem?",
+ "answer": "The rhyme scheme followed in each stanza is 'aabb'."
+ },
+ {
+ "question_id": 141,
+ "question_type": "SHORT",
+ "question": "Give the meaning of the metaphorical phrase 'leaping wealth of the tide'.",
+ "answer": "It refers to the fish in the sea, which are the source of wealth and livelihood for the fishers."
+ },
+ {
+ "question_id": 142,
+ "question_type": "SHORT",
+ "question": "Who is referred to as the 'mother' in the fishermen's world?",
+ "answer": "The sea is referred to as their mother."
+ },
+ {
+ "question_id": 143,
+ "question_type": "SHORT",
+ "question": "Who is referred to as the 'brother' of the fishers?",
+ "answer": "The cloud is referred to as their brother."
+ },
+ {
+ "question_id": 144,
+ "question_type": "SHORT",
+ "question": "Who are considered the 'comrades' of the fishers in the poem?",
+ "answer": "The waves are considered the comrades of the fishermen."
+ },
+ {
+ "question_id": 145,
+ "question_type": "SHORT",
+ "question": "What time of day is represented by the expression 'at the fall of the sun'?",
+ "answer": "It represents sunset or the evening time."
+ },
+ {
+ "question_id": 146,
+ "question_type": "SHORT",
+ "question": "Identify the line that indicates the fishermen's lack of fear regarding their lives.",
+ "answer": "The line is: 'He who holds the storm by the hair, will hide in his breast our lives'."
+ },
+ {
+ "question_id": 147,
+ "question_type": "SHORT",
+ "question": "Identify a line from the poem that describes a 'landscape'.",
+ "answer": "A landscape line is: 'Sweet is the shade of the coconut glade, and the scent of the mango grove'."
+ },
+ {
+ "question_id": 148,
+ "question_type": "SHORT",
+ "question": "Identify a line from the poem that describes a 'seascape'.",
+ "answer": "A seascape line is: 'But sweeter, O brothers, the kiss of the spray and the dance of the wild foam's glee'."
+ },
+ {
+ "question_id": 149,
+ "question_type": "SHORT",
+ "question": "In the poem's imagery, who holds the storm 'by the hair'?",
+ "answer": "The sea-god is described as holding the storm by the hair."
+ },
+ {
+ "question_id": 150,
+ "question_type": "SHORT",
+ "question": "What is the 'morning light' associated with in the very first line of the poem?",
+ "answer": "The 'wakening skies' are said to be praying to the morning light."
+ },
+ {
+ "question_id": 151,
+ "question_type": "LONG",
+ "question": "Describe the atmosphere of the early morning as depicted in the first stanza of the poem.",
+ "answer": "In the first stanza, Sarojini Naidu creates a vivid picture of the dawn as the fishermen prepare for their day. The 'wakening skies' are described as praying to the morning light, suggesting a sacred and peaceful beginning to the day. The wind is personified as a child that has 'cried all night' and is now asleep in the arms of the dawn, indicating that a storm has passed. This calm atmosphere is the signal for the fishermen to rise and begin their work. They are encouraged to gather their nets and set their catamarans free to catch the 'leaping wealth of the tide'. The stanza establishes a sense of urgency and brotherhood among the men. It portrays the sea not just as a workplace, but as a kingdom where they are the masters."
+ },
+ {
+ "question_id": 152,
+ "question_type": "LONG",
+ "question": "Explain the metaphorical significance of 'leaping wealth of the tide' and 'kings of the sea'.",
+ "answer": "The phrase 'leaping wealth of the tide' is a beautiful metaphor for the fish that the fishermen hunt. By calling the fish 'wealth,' the poet emphasizes that the sea is the source of their livelihood and prosperity. The word 'leaping' captures the physical movement of the fish in the water, adding a sense of life and abundance to the scene. Furthermore, by calling the fishermen 'kings of the sea,' the poet instills a sense of pride and mastery in their difficult profession. Even though they lead humble lives, in the vast expanse of the ocean, they are the ones in control. This imagery transforms a daily chore into a heroic and noble quest. It reflects the deep respect the poet has for the fishing community's connection to nature."
+ },
+ {
+ "question_id": 153,
+ "question_type": "LONG",
+ "question": "How does the poet personify nature to show the fishermen's relationship with their environment?",
+ "answer": "Sarojini Naidu uses personification extensively in the second stanza to depict nature as a family for the fishermen. The sea is called their 'mother,' indicating that it provides for them and nurtures their lives. The cloud is addressed as a 'brother,' and the waves are seen as 'comrades' or friends who accompany them on their journey. This familial imagery suggests that the fishermen do not see the ocean as a hostile force, but as a home. Even the wind is personified as a sleeping child, making the environment feel more relatable and less threatening. This personification helps the reader understand the spiritual and emotional bond the fishers share with the natural world. It portrays a life of harmony and mutual respect between man and the elements."
+ },
+ {
+ "question_id": 154,
+ "question_type": "LONG",
+ "question": "Discuss the role of the 'Sea-God' in protecting the lives of the fishermen as described in the poem.",
+ "answer": "The fishermen acknowledge the dangers of the sea, yet they remain fearless because of their faith in the sea-god. The poet describes the sea-god as the one who 'holds the storm by the hair,' a powerful image of divine control over nature. This suggests that no matter how violent the storm becomes, the god has the power to restrain it. The fishermen believe that this same deity will 'hide in his breast our lives,' offering them ultimate protection and refuge. This religious sentiment provides the men with the courage to 'toss at the fall of the sun' wherever the sea-god drives them. It shows that their bravery is rooted in a deep spiritual conviction. The sea-god acts as a father figure who ensures their safety amidst the unpredictable tides."
+ },
+ {
+ "question_id": 155,
+ "question_type": "LONG",
+ "question": "Compare and contrast the 'landscape' and 'seascape' descriptions in the final stanza.",
+ "answer": "The final stanza presents a choice between the comforts of the land (landscape) and the thrill of the ocean (seascape). The landscape is described through sensory details like the 'shade of the coconut glade,' the 'scent of the mango grove,' and the 'sweet sands' under a full moon. These images represent peace, domesticity, and the warmth of loved ones' voices. In contrast, the seascape is defined by the 'kiss of the spray' and the 'dance of the wild foam's glee'. While the land is 'sweet,' the poet declares that the sea is 'sweeter' for the fishermen. This contrast highlights that the fishermen’s true home and passion lie in the adventurous life on the water. It emphasizes that the call of duty and the beauty of the wild ocean surpass the easy comforts of the shore."
+ },
+ {
+ "question_id": 156,
+ "question_type": "LONG",
+ "question": "What is the significance of the sea gull's call in the fishermen's journey?",
+ "answer": "The sea gull's call serves as a natural compass and a guide for the fishermen as they head out to sea. The poet urges the brothers to 'hasten away in the track of the sea gull's call,' suggesting that the bird knows where the fish are. In many coastal cultures, the movement of birds is a reliable indicator of the presence of 'leaping wealth' beneath the surface. Following the gull represents a sense of purpose and direction, moving away from the safety of the shore toward the deep waters. It also reinforces the theme of the fishermen being in sync with the natural world. The bird is not just a creature, but a messenger that signals the start of their royal work. This detail adds to the authentic 'Coromandel' flavor of the poem."
+ },
+ {
+ "question_id": 157,
+ "question_type": "LONG",
+ "question": "Analyze the rhyme scheme and rhythm of the poem 'Coromandel Fishers'.",
+ "answer": "The poem follows a very structured and rhythmic pattern that mimics the rowing of a boat or the movement of waves. Each of the three stanzas follows a consistent 'aabb' rhyme scheme, such as 'light/night' and 'free/sea' in the first stanza. This internal symmetry makes the poem highly musical and easy to chant or sing, which is appropriate for a poem about a group of workers. The rhythm is fast-paced, reflecting the urgency and energy of the fishermen as they 'rise' and 'hasten away'. This structure helps to build the communal spirit and the sense of exment found in the text. By using these traditional poetic techniques, Sarojini Naidu elevates the subject matter of daily labor into a grand, lyrical experience. The repetitive rhyme scheme reinforces the cycle of the fishermen's daily lives."
+ },
+ {
+ "question_id": 158,
+ "question_type": "LONG",
+ "question": "Explain the concept of the horizon as described in the final lines: 'where the low sky mates with the sea'.",
+ "answer": "The final lines of the poem point the fishermen toward the horizon, described as 'the edge of the verge'. The horizon is the metaphorical and literal goal of their journey, where the 'low sky mates with the sea'. This personification of the sky and sea 'mating' or joining together creates an image of a vast, infinite world where the elements meet. It represents the furthest limit of their kingdom and the place where their adventure truly begins. By rowing to this point, the fishermen are pushing the boundaries of their existence and embracing the mystery of the deep. This ending leaves the reader with a sense of expansive beauty and the unending nature of the fishermen's work. It ties the sea and sky together into one grand, unified environment. This horizon symbolizes the intersection of the earthly labor of the men and the cosmic beauty of nature."
+ },
+ {
+ "question_id": 159,
+ "question_type": "LONG",
+ "question": "Discuss the 'Warming up' activity on bilingual glossaries and why it is important for vocabulary building.",
+ "answer": "The 'Warming up' section asks students to write at least twenty words related to sea, wind, sky, and land, and then find their English equivalents. This activity is crucial because it helps students bridge the gap between their mother tongue and English. By creating a 'bilingual glossary,' students can see the nuances of language and how different cultures describe the same natural features. Arranging these words in alphabetical order in both languages also develops organizational and reference skills. This exercise encourages students to use their geography textbooks and other sources, making their learning interdisciplinary. It ensures that when they read the poem, they have the necessary 'Expanding Horizons' of vocabulary to appreciate the imagery. Ultimately, it empowers students to express their own experiences of nature in a second language."
+ },
+ {
+ "question_id": 160,
+ "question_type": "LONG",
+ "question": "What does the 'Chit-Chat' section reveal about the adventurous nature expected of the students?",
+ "answer": "The 'Chit-Chat' questions probe into the students' daily routines and their personal interests in nature and adventure. By asking about wake-up times and holiday locations, it grounds the academic lesson in the students' real lives. The section specifically asks which adventures they like, such as 'boating, trekking, scuba diving, or mountaineering'. This prepares them to understand the 'adventurous' spirit of the Coromandel fishers who face the storm and the deep sea. Furthermore, asking if they would like to 'work close to nature' after their education encourages them to think about careers in harmony with the environment. This reflects the poem's theme of finding joy and livelihood in the wild elements. It turns a literary study into a personal exploration of the students' own relationship with the outdoors."
+ },
+ {
+ "question_id": 161,
+ "question_type": "LONG",
+ "question": "Analyze the sense of community and brotherhood presented in the poem.",
+ "answer": "The poem is a call to collective action, emphasizing the strength found in unity. The repeated use of 'brothers' and 'let us' highlights that the fishing journey is a group effort, not an individual one. This sense of community is also extended to nature, where the cloud and waves are called 'brother' and 'comrades'. This suggests that the fishermen see themselves as part of a larger, interconnected family of life. Their survival and success depend on their ability to work together and trust one another, especially when they 'toss at the fall of the sun'. The poem celebrates the shared labor and the shared joys, like the 'sound of the voices we love'. This communal spirit makes their difficult life feel rich and fulfilling. It teaches the reader that working together in harmony is a noble and rewarding way to live."
+ },
+ {
+ "question_id": 162,
+ "question_type": "LONG",
+ "question": "How does the poet use sensory imagery (sight, sound, and smell) to bring the scene to life?",
+ "answer": "Sarojini Naidu employs a rich array of sensory details to make the poem's world feel tangible. Visual imagery is seen in the 'wakening skies,' the 'morning light,' and the 'wild foam's glee'. Sound is represented by the 'sea gull's call' and the 'sound of the voices we love' on the sands. The sense of smell is invoked through the 'scent of the mango grove'. Even the sense of touch is present in the 'kiss of the spray' and the 'wind asleep in the arms of the dawn'. These details allow the reader to fully imagine the coastal environment and the physical sensations of being on a boat. This multi-sensory approach is what makes the poem so vivid and memorable. It allows the reader to experience the 'sweetness' and 'wealth' of the Coromandel coast."
+ },
+ {
+ "question_id": 163,
+ "question_type": "LONG",
+ "question": "Explain the significance of the phrase 'the low sky mates with the sea' in terms of the horizon.",
+ "answer": "This phrase serves as a poetic description of the horizon, the place where the earth and sky seem to become one. By using the word 'mates,' the poet suggests a harmonious union or meeting between the elements. For the fishermen, this point represents the furthest limit of their journey and the target of their rowing. It adds a sense of cosmic scale to their daily work, suggesting that they are reaching for the very edges of the world. This image helps to define the 'seascape' as a place of infinite possibility and beauty. It creates a powerful visual ending for the poem, leaving the reader with a sense of the vastness of the ocean. The horizon becomes a symbol of the intersection between the human and the divine. It suggests that the fishermen's journey is both a physical task and a pursuit of natural wonder."
+ },
+ {
+ "question_id": 164,
+ "question_type": "LONG",
+ "question": "Discuss the fishermen's attitude toward danger and the unpredictable nature of the sea.",
+ "answer": "The fishermen exhibit a brave and resilient attitude toward the dangers they face. They acknowledge that they might 'toss at the fall of the sun,' showing they are aware of the risks of storms and high tides. However, they do not let fear stop them because they believe in the protection of the sea-god. This indicates a philosophy of life that accepts risk as a natural part of existence. They are 'kings of the sea' precisely because they can navigate these dangers with skill and faith. Their lack of fear is also shown by their preference for the 'wild foam's glee' over the safe 'shade of the coconut glade'. This shows a spirit that thrives on challenge and adventure. Ultimately, their attitude is one of respect for the sea's power and confidence in their own place within it."
+ },
+ {
+ "question_id": 165,
+ "question_type": "LONG",
+ "question": "How does the 'English Workshop' encourage students to connect the poem with their mother tongue?",
+ "answer": "The workshop includes an activity asking students to translate a few lines from their favorite nature poem in their mother tongue into English. This is an excellent way to practice translation and to see how poetic concepts travel between languages. It also encourages students to value the literary traditions of their own culture while learning a new one. By finding similar themes of nature, sea, or land in their own language, they can better appreciate Sarojini Naidu's work. This exercise builds a 'bilingual' literary awareness, helping students to express deep emotions in English. It also reinforces the 'bilingual glossary' work from the warming-up section. This holistic approach makes the English subject feel more integrated with the students' personal and cultural lives. It promotes a love for poetry in any language."
+ },
+ {
+ "question_id": 166,
+ "question_type": "LONG",
+ "question": "Analyze the importance of the 'Dawn' and 'Morning Light' in the first stanza.",
+ "answer": "Dawn is presented as a sacred moment of awakening and transition. The 'wakening skies pray to the morning light,' setting a reverent tone for the start of the fishermen's labor. This light is the signal that ends the 'night' where the wind was crying like a child. It represents hope, clarity, and the beginning of a new opportunity to harvest the 'leaping wealth of the tide'. The light also serves a practical purpose, allowing the fishermen to gather their nets and 'set our catamarans free' safely. By focusing on this moment, the poet emphasizes that every day is a fresh start in the life of a fisherman. The dawn is the catalyst that transforms the sleeping world into a kingdom of activity. It symbolizes the divine blessing on the day's upcoming work."
+ },
+ {
+ "question_id": 167,
+ "question_type": "LONG",
+ "question": "What does the phrase 'hide in his breast our lives' suggest about the fishermen's faith?",
+ "answer": "This phrase suggests a very intimate and protective relationship between the fishermen and the sea-god. To be hidden in someone's 'breast' implies a place of absolute safety, close to the heart. This shows that the fishermen's faith is not abstract, but very personal and comforting. They trust that even in the most violent storms, they are being held and protected by a divine force. This faith allows them to go where the 'hand of the sea-god drives' without hesitation or worry. It transforms the vast, potentially terrifying ocean into a space where they are looked after. This deep spiritual anchor is what gives them the strength to lead such a challenging life. It suggests that their physical labor is supported by a strong emotional and religious foundation."
+ },
+ {
+ "question_id": 168,
+ "question_type": "LONG",
+ "question": "Discuss the use of color and light imagery throughout the poem.",
+ "answer": "The poem is filled with contrasting images of light that define the different times of the day. It starts with the 'morning light' and 'wakening skies,' creating a bright and hopeful opening. The third stanza brings in the 'full o’ the moon,' which provides a 'sweet' and silvery glow to the sands. This contrast between the golden morning and the cool moonlight covers the entire cycle of the fishermen's lives. The 'leaping wealth' and the 'wild foam's glee' also suggest a bright, sparkling sea surface. Even the 'fall of the sun' implies the rich, warm colors of a sunset. This imagery helps to create a visually stunning 'seascape' that captures the beauty of the Coromandel coast. The shifts in light mirror the shifts in the fishermen's activities and moods."
+ },
+ {
+ "question_id": 169,
+ "question_type": "LONG",
+ "question": "How does the poet contrast 'shade' and 'spray' to emphasize the fishermen's preference?",
+ "answer": "The poet uses the images of 'shade' and 'spray' to represent the two different worlds the fishermen live in. The 'shade of the coconut glade' is an image of land-based comfort, coolness, and rest. In contrast, the 'kiss of the spray' represents the wet, salty, and energetic reality of being out on the waves. While the shade is called 'sweet,' the poet explicitly states that the spray is 'sweeter'. This choice is significant because it defines the fishermen's identity. They are not people of the land who occasionally go to sea; they are people of the sea who belong to the spray and the foam. This preference shows their dedication to their work and their love for the 'wild foam's glee'. It reinforces their status as the 'kings of the sea'."
+ },
+ {
+ "question_id": 170,
+ "question_type": "LONG",
+ "question": "What is the educational value of the 'Landscape/Seascape' classification activity in the workshop?",
+ "answer": "The activity asks students to identify and copy lines that refer to a landscape and a seascape. This exercise is valuable because it teaches students to distinguish between different environments and the specific vocabulary used to describe them. It forces them to look closely at the 'shade of coconut glade' (land) versus the 'wild foam's glee' (sea). This builds categorization and analytical skills in literature. It also helps them appreciate the dual setting of the poem—the home on the shore and the workplace on the water. By copying the lines correctly, they also practice attention to detail and accurate transcription. This practical application of the poem's imagery makes the abstract concepts of 'landscape' and 'seascape' much more concrete. It encourages students to visualize the scene as they read."
+ },
+ {
+ "question_id": 171,
+ "question_type": "LONG",
+ "question": "Analyze the 'Wind lies asleep' simile and what it tells us about the weather.",
+ "answer": "The poet uses a simile to compare the wind to a 'child that has cried all night,' now lying asleep in the arms of the dawn. This suggests that there was a heavy storm or strong winds during the night, as 'crying' indicates turbulence and noise. The fact that the wind is now 'asleep' tells us that the weather has become calm and safe for fishing. The 'arms of the dawn' represents the gentle, nurturing arrival of the morning that has quieted the storm. This image is important because it justifies why the fishermen can now 'set our catamarans free'. It captures the relief and peace that follows a difficult night at sea. This personification makes the elements feel like living characters in the fishermen's lives. It sets a peaceful tone for the poem's beginning."
+ },
+ {
+ "question_id": 172,
+ "question_type": "LONG",
+ "question": "What is the significance of the sound of 'voices we love' on the sands?",
+ "answer": "The 'sound of the voices we love' represents the human and domestic side of the fishermen's lives. Even though they are 'kings of the sea,' they are also family men who have loved ones waiting for them on the shore. This detail is placed in the context of the 'sweet sands' at the full moon, creating a very emotional and comforting image. It suggests that their hard labor at sea is ultimately for the sake of these people at home. However, the poem quickly moves back to the 'kiss of the spray,' showing that their duty to the sea is their primary call. The mention of these voices adds a touch of tenderness to the poem. It shows that the fishermen's world is balanced between the love on the land and the labor on the sea. This human element makes the poem more relatable and touching."
+ },
+ {
+ "question_id": 173,
+ "question_type": "LONG",
+ "question": "Discuss the 'Hand of the Sea-God' as a force of nature and destiny.",
+ "answer": "The 'hand of the sea-god' is used to represent the power that 'drives' the fishermen's boats and their lives. This suggests that the fishermen see themselves as being directed by a higher, natural force rather than just their own will. Whether the sea is calm or they 'toss' in a storm, they believe it is the sea-god's hand at work. This image combines the idea of a personal deity with the impersonal forces of nature. It gives the fishermen a sense of destiny and purpose, even when they are in danger. They do not fight against the sea, but follow where its 'god' leads them. This total surrender to the elements is a key part of their brave character. It shows a profound acceptance of the power of nature over human life."
+ },
+ {
+ "question_id": 174,
+ "question_type": "LONG",
+ "question": "How does the poem illustrate the idea of 'Mastery' over the ocean?",
+ "answer": "The poem presents the fishermen as the 'kings of the sea,' an image of ultimate mastery and authority. This mastery is shown through their ability to 'capture' the wealth of the tide and to 'set our catamarans free' at will. They are not victims of the sea, but its masters who know its 'tracks' and follow the 'sea gull's call'. Even when the sea is rough, they are confident because they have a spiritual connection with the sea-god. Their 'mastery' is also seen in their preference for the 'wild foam's glee' over the easy life on land. This shows they are at home in the most challenging parts of the ocean. The poem portrays their work not as a struggle for survival, but as a royal duty they perform with pride."
+ },
+ {
+ "question_id": 175,
+ "question_type": "LONG",
+ "question": "Analyze the importance of alphabetical order in the 'Bilingual Glossary' activity.",
+ "answer": "The activity asks students to arrange their bilingual glossary in two ways: by the mother tongue's alphabet and by the 'a-z' English alphabet. This is important because it trains students to think across two different linguistic structures. Arranging words like 'sea,' 'wind,' 'sky,' and 'land' alphabetically helps in developing organized research habits. It also makes the glossary a more useful reference tool, as students can look up a word starting from either language. This exercise strengthens their 'alphabetical order' skills, which are essential for using dictionaries and indexes. It also helps them see the patterns and commonalities between the two languages. This organized approach to vocabulary building ensures that the information is easily accessible. It turns a simple list of words into a professional-grade linguistic resource."
+ },
+ {
+ "question_id": 176,
+ "question_type": "LONG",
+ "question": "What does the phrase 'low sky mates with the sea' tell us about the fishermen's goal?",
+ "answer": "This phrase describes the horizon, which is the final destination or 'goal' of the fishermen's rowing in the final stanza. They are encouraged to 'row to the edge of the verge,' where this meeting of sky and sea occurs. This suggests that their goal is not just a physical location, but a point of infinite expansion and beauty. It represents the furthest limit they can reach, symbolizing their ambition and their 'royal' status. The word 'mates' suggests a harmonious and complete joining of the world's most massive elements. For the fishermen, reaching this point is the ultimate fulfillment of their day's work. It reflects their desire to be at one with the vastest parts of nature. This cosmic goal elevates their daily labor to a higher, more spiritual level."
+ },
+ {
+ "question_id": 177,
+ "question_type": "LONG",
+ "question": "How does Sarojini Naidu use 'Mother, Brother, Comrades' to define the fishermen's world?",
+ "answer": "By using family terms like 'mother,' 'brother,' and 'comrades' for the sea, cloud, and waves, the poet creates a sense of belonging. The sea as 'mother' implies protection and sustenance, while the cloud as 'brother' and waves as 'comrades' imply a shared journey. This shows that the fishermen do not feel isolated or alone on the vast ocean; they are surrounded by 'family'. This imagery is important because it explains why they are so fearless and at home in a potentially dangerous environment. It also shows that their relationship with nature is one of love and equality, not exploitation. These terms turn the impersonal natural world into a warm, supportive community. It makes the 'kings of the sea' feel like they are ruling a kingdom of their own kin."
+ },
+ {
+ "question_id": 178,
+ "question_type": "LONG",
+ "question": "Discuss the significance of 'Sweet sands at the full o’ the moon' in the poem's structure.",
+ "answer": "This image appears in the third stanza as part of the description of the 'sweet' land that the fishermen are leaving behind. The full moon provides a beautiful, serene light that makes the sands and the voices of loved ones feel magical. This represents the peak of land-based happiness and comfort for the fishermen. However, it is immediately followed by the contrast of the 'sweeter' sea, showing that their hearts belong elsewhere. This placement in the final stanza is crucial because it reinforces the theme of choice and passion. The fishermen acknowledge the beauty of their home but choose the 'wild foam's glee' instead. This image adds a layer of emotional richness and visual beauty to the poem's conclusion. It highlights that they are choosing adventure over even the most perfect peace."
+ },
+ {
+ "question_id": 179,
+ "question_type": "LONG",
+ "question": "Analyze the 'Wakening skies pray to the morning light' metaphor in the opening line.",
+ "answer": "This opening metaphor establishes a religious and reverent tone for the entire poem. By saying the skies 'pray,' the poet suggests that nature itself is in a state of worship at the start of the day. The 'morning light' is the object of this prayer, representing hope, guidance, and a divine blessing on the day ahead. This image creates a peaceful and auspicious beginning for the fishermen's work. It suggests that their labor is part of a larger, sacred cycle of nature. This personification of the sky also makes the environment feel alive and conscious from the very first word. It encourages the reader to see the dawn not just as a time of day, but as a spiritual event. This opening anchors the poem in the beauty and holiness of the natural world."
+ },
+ {
+ "question_id": 180,
+ "question_type": "LONG",
+ "question": "What role does 'scent' play in the contrast between land and sea?",
+ "answer": "The 'scent of the mango grove' is a key sensory detail used to describe the sweetness of the land. Smell is a powerful sense that often triggers memories and feelings of home and comfort. By including this scent, the poet makes the 'landscape' feel very attractive and inviting to the fishermen. However, this sweet smell is contrasted with the physical sensation of the 'kiss of the spray' from the sea. While the land has its pleasant scents, the sea has its refreshing and 'sweeter' actions. This use of scent helps to build a complete sensory world for the reader, contrasting the fragrant gardens of the shore with the salty foam of the waves. It shows that the fishermen are being pulled by their senses toward two different worlds. Ultimately, they choose the active feeling of the sea over the passive scent of the land."
+ },
+ {
+ "question_id": 181,
+ "question_type": "LONG",
+ "question": "Explain the significance of 'catamarans' as a cultural and practical detail in the poem.",
+ "answer": "The mention of 'catamarans' gives the poem a specific cultural and regional flavor, as these boats are traditional to the Coromandel coast. Practically, these boats represent the fishermen's primary tool for their 'royal' work. The act of 'setting our catamarans free' symbolizes the transition from the constraints of the land to the freedom of the ocean. These boats are also what allow the fishermen to be the 'kings of the sea'. By using this specific term, Sarojini Naidu anchors the poem in a real-world setting, making the imagery more authentic. For the fishermen, the catamaran is not just a boat; it is their vehicle for adventure and livelihood. It is the bridge between their home on the shore and their kingdom on the tides."
+ },
+ {
+ "question_id": 182,
+ "question_type": "LONG",
+ "question": "How does the 'Bilingual Glossary' activity help students understand 'mother tongue' nuances?",
+ "answer": "The glossary activity asks students to first list words in their mother tongue related to nature and then find English equivalents. This process forces students to think about how their own language captures the beauty of the 'sea' or 'wind'. They might find that their mother tongue has specific words for different types of tides or winds that don't have a direct single-word equivalent in English. This discovery helps them appreciate the richness of their own language while expanding their English vocabulary. It also makes them 'translators' who bridge two different worlds of thought. This exercise builds a deeper understanding of 'synonyms' and the 'advantage of arranging words according to two alphabetical orders'. It turns a simple vocabulary list into a sophisticated lesson in comparative linguistics."
+ },
+ {
+ "question_id": 183,
+ "question_type": "LONG",
+ "question": "Analyze the importance of 'Morning Light' and 'Fall of the Sun' as temporal markers in the poem.",
+ "answer": "These two expressions serve as the start and end points of the fishermen's daily cycle. 'Morning light' represents the beginning of their labor, when they are called to rise and gather their nets. It is a time of prayer and hope. In contrast, the 'fall of the sun' marks the evening and the potential dangers of the night. It is a time when they might be 'tossed' by waves far from home. These markers show that the fishermen's lives are dictated by the sun's movement. They work during the day and face the ocean's challenges at nightfall. This cycle highlights their resilience and their total dependence on the rhythms of nature. It also creates a sense of time passing within the poem's structure. These markers help the reader visualize the long and difficult hours the fishermen spend at sea."
+ },
+ {
+ "question_id": 184,
+ "question_type": "LONG",
+ "question": "What is the metaphorical meaning of 'The wind lies asleep in the arms of the dawn'?",
+ "answer": "This metaphor personifies the dawn as a nurturing mother and the wind as her child. It suggests that the dawn has the power to calm the turbulent and 'crying' winds of the night. This creates an image of perfect peace and safety at the start of the fishermen's journey. It tells the reader that the dangerous weather has passed and the sea is now 'asleep' or calm enough for the catamarans to be set free. This image also adds a touch of tenderness to the poem, showing that even the wild elements have a soft, quiet side. It establishes the theme of nature as a family where every element has its place and its moment of rest. This metaphor makes the environmental conditions feel like a part of a larger, caring cycle."
+ },
+ {
+ "question_id": 185,
+ "question_type": "LONG",
+ "question": "Discuss the educational impact of finding 'photographs/pictures of landscapes/seascapes' as suggested in the workshop.",
+ "answer": "The workshop encourages students to find visual aids like photographs to illustrate the poem's images. This is an excellent way to engage visual learners and to make the poetic imagery more concrete. Seeing a real 'coconut glade' or 'wild foam' on a wave helps students understand the sensory details of the text. It bridges the gap between the 'Landscape' and 'Seascape' descriptions in the final stanza. This activity also encourages students to use the 'internet' for research, building digital literacy alongside literary analysis. By matching the poet's words with real-world pictures, they can see the accuracy of Sarojini Naidu's descriptions. This multi-modal approach makes the English subject more interactive and visually rich. It helps students 'see' the Coromandel coast through both words and images."
+ },
+ {
+ "question_id": 186,
+ "question_type": "LONG",
+ "question": "How does the 'kings of the sea' imagery empower the character of the fishermen?",
+ "answer": "By calling the fishermen 'kings,' the poet transforms their difficult, low-income labor into a royal and powerful occupation. It suggests that they have a natural right to the sea's 'wealth' and that they rule over the waves. This imagery empowers the fishermen by giving them a sense of dignity, pride, and mastery. They are not just workers; they are the 'sovereigns' of the ocean kingdom. This helps to counteract any idea that their lives are small or unimportant. It also explains their bravery, as 'kings' must be courageous in their own territory. This royal status is not given by men, but by their skill and their relationship with the 'sea-god'. Ultimately, it teaches the reader to respect the strength and nobility found in traditional labor."
+ },
+ {
+ "question_id": 187,
+ "question_type": "LONG",
+ "question": "Analyze the role of the 'Sea-God's Hand' and 'Breast' in providing safety.",
+ "answer": "The poet uses two physical images—the 'hand' and the 'breast'—to describe the sea-god's protective role. The 'hand' is the force that 'drives' the fishermen's boats, suggesting direction and guidance even in difficult times. The 'breast' is the place where the god will 'hide' their lives, a metaphorical space of ultimate safety and warmth. These images turn a potentially terrifying and impersonal god into a very tangible and caring protector. It suggests that the fishermen are literally 'in god's hands' as they work. This belief is what allows them to face the 'storm' without fear. These details show that the fishermen's survival is not just a matter of skill, but of divine favor. It adds a deep layer of religious and emotional security to the poem's theme."
+ },
+ {
+ "question_id": 188,
+ "question_type": "LONG",
+ "question": "Discuss the significance of the rhyme scheme 'aabb' in the poem's flow.",
+ "answer": "The 'aabb' rhyme scheme creates a very simple, repetitive, and song-like rhythm that makes the poem feel unified. This pattern is effective because it mirrors the repetitive and rhythmic nature of rowing and the breaking of waves. It also makes the 'rhyming words' like 'free/sea' or 'glee/sea' stand out, reinforcing the central theme of the ocean. For students, identifying this 'rhyme scheme' is a key part of the English Workshop activities. It helps them understand the basic building blocks of poetry and how sound can enhance meaning. The simplicity of the rhyme scheme also reflects the direct and honest nature of the fishermen's lives. It turns the poem into a 'chant' that builds the communal spirit of the men as they rise and row together."
+ },
+ {
+ "question_id": 189,
+ "question_type": "LONG",
+ "question": "How does the 'Track of the sea gull's call' illustrate the fishermen's expertise?",
+ "answer": "To follow the 'track of the sea gull's call' requires a deep knowledge of animal behavior and coastal geography. A sea gull's call is not a physical track, but an auditory signal that the fishermen must be skilled enough to interpret and follow. This shows that their 'mastery' of the sea is based on careful observation and expert knowledge of their environment. By following the bird, they are using nature's own signals to find their way to the fish. This illustrates that they are in harmony with the ocean's ecosystem. It also adds a sense of movement and speed to the second stanza, as they 'hasten away' in this track. This detail proves that the fishermen are not just lucky; they are highly trained specialists who know the secrets of the sea."
+ },
+ {
+ "question_id": 190,
+ "question_type": "LONG",
+ "question": "What is the emotional value of the 'voices we love' in the third stanza?",
+ "answer": "The 'sound of the voices we love' on the sands serves as a warm, domestic anchor for the fishermen. It reminds the reader that these brave 'kings' have families and a home waiting for them after their dangerous work. This adds a layer of emotional vulnerability to the poem, making the fishermen more relatable as human beings. The mention of these voices in the context of the 'sweet sands' creates a very peaceful and touching image of homecoming. However, the poet's immediate shift to the 'kiss of the spray' shows that the sea's call is even stronger. These voices provide a contrast to the 'wild foam's glee,' highlighting the two sides of a fisherman's life. It shows that their work is not just an adventure, but a labor of love for those on the shore."
+ },
+ {
+ "question_id": 191,
+ "question_type": "LONG",
+ "question": "Analyze the significance of 'row to the edge of the verge' as the poem's concluding command.",
+ "answer": "The command 'Row, brothers, row to the edge of the verge' is a powerful and expansive way to end the poem. It directs the fishermen—and the reader's imagination—toward the absolute limit of the horizon. This concluding action suggests that their journey is never truly over, as they are always rowing toward the infinite meeting of sky and sea. It reinforces the theme of courage and the pursuit of adventure beyond the safe 'shade of the coconut glade'. By ending on a high note of action ('Row!'), the poem leaves the reader with a sense of the fishermen's unending energy and spirit. This final command turns the poem into a permanent call to adventure. It suggests that for the 'kings of the sea,' the horizon is not a boundary, but a destination to be reached again and again."
+ },
+ {
+ "question_id": 192,
+ "question_type": "LONG",
+ "question": "How does the 'Chit-Chat' section prepare students for the 'work close to nature' theme?",
+ "answer": "The Chit-Chat section specifically asks students if they would like to 'work close to nature' and what they would like to do. This question is placed right before the poem about fishermen, who are the perfect example of people whose entire livelihood is tied to nature. This prepares students to think about the poem not just as a piece of literature, but as a description of a real, viable career path. It encourages them to consider the pros and cons of such a life, like the adventures of 'boating' or 'scuba diving'. This pre-reading exercise helps them to identify with the fishermen's choice of the 'wild foam's glee' over the land. It turns the lesson into a career-focused and personal reflection on the environment. This makes the poem's themes of labor and passion much more relevant to their own future goals."
+ },
+ {
+ "question_id": 193,
+ "question_type": "LONG",
+ "question": "Analyze the personification 'The waves are our comrades all'.",
+ "answer": "By calling the waves 'comrades,' the poet turns a potentially dangerous part of the ocean into a group of friendly partners. A comrade is someone who works alongside you and shares your struggles, which is exactly what the waves do for the fishermen's boats. This suggests that the fishermen do not fight against the water; they move with it as if they are part of the same team. This personification is key to showing the fishermen's total lack of fear. They feel supported by the ocean rather than threatened by it. This image helps the reader understand the deep, harmonious bond between the men and the sea. It transforms the vast, moving water into a familiar and supportive social circle. This comrade-like relationship is what makes them the true 'kings of the sea'."
+ },
+ {
+ "question_id": 194,
+ "question_type": "LONG",
+ "question": "Discuss the visual contrast between the 'wake of the sea gull' and the 'dance of the wild foam'.",
+ "answer": "These two images represent different parts of the fishermen's visual experience on the water. The 'track of the sea gull's call' is a directional, goal-oriented image that leads them toward the fish. It represents the purpose and expertise of their journey. In contrast, the 'dance of the wild foam's glee' is a more aesthetic and joyful image that describes the beauty of the water surface. One is about the 'work' of fishing, and the other is about the 'joy' of being at sea. Together, they show that the fishermen's life is a mix of practical skill and sensory appreciation. These images help the reader visualize both the path of the boat and the lively texture of the waves. It builds a complete 'seascape' that is both functional and beautiful. This contrast highlights that the fishermen are both professionals and lovers of nature."
+ },
+ {
+ "question_id": 195,
+ "question_type": "LONG",
+ "question": "What does the phrase 'hide in his breast our lives' suggest about the sea-god's character?",
+ "answer": "This phrase suggests that the sea-god is a caring, parental, and deeply protective figure in the fishermen's world. To hide something in one's 'breast' is an act of deep intimacy and shielding, often done by a mother for her child. This personification turns the powerful god who 'holds the storm' into a gentle savior. It tells the reader that the sea-god is not a distant or vengeful deity, but one who is actively involved in the safety of the fishers. This creates a sense of profound spiritual security for the men as they 'toss' on the tides. It shows that their relationship with the divine is one of total trust and closeness. This characterization of the sea-god is essential for the poem's theme of fearlessness. It makes the dangerous ocean feel like a safe, protected sanctuary."
+ },
+ {
+ "question_id": 196,
+ "question_type": "LONG",
+ "question": "Explain the significance of the phrase 'leaping wealth of the tide' in the context of the fishermen's livelihood.",
+ "answer": "This metaphor turns the simple act of catching fish into a harvest of 'wealth' from the ocean. The word 'leaping' captures the physical vitality of the fish and the abundance of the tide. It suggests that the sea is not just empty water, but a vast reservoir of riches waiting to be collected by its 'kings'. This image elevates the status of the fish, making them seem like precious gems or gold. It also justifies the hard work of 'gathering our nets' and 'setting our catamarans free'. The phrase highlights that the fishermen's prosperity is directly tied to the health and movement of the sea. It turns their daily work into a noble pursuit of nature's bounty. This wealth is 'leaping' and alive, making their livelihood feel dynamic and exciting."
+ },
+ {
+ "question_id": 197,
+ "question_type": "LONG",
+ "question": "Discuss the 'Bilingual Glossary' activity and its role in 'Expanding Horizons' as mentioned in the unit heading.",
+ "answer": "The bilingual glossary activity asks students to list words related to nature in their mother tongue and find English equivalents. This directly relates to the unit heading 'Expanding Horizons' by helping students move beyond the linguistic boundaries of a single language. It encourages them to see how their own cultural knowledge of 'land' and 'sea' can be expressed in the global language of English. By arranging words alphabetically in both languages, they are expanding their cognitive and organizational 'horizons'. This exercise makes them more versatile communicators who can navigate two different ways of seeing the world. It turns the academic task of 'vocabulary building' into a personal journey of cultural expansion. This activity prepares them to appreciate the global literary heritage of poets like Sarojini Naidu. It makes their world feel larger and more connected."
+ },
+ {
+ "question_id": 198,
+ "question_type": "LONG",
+ "question": "Analyze the contrast between 'shade of the coconut glade' and 'kiss of the spray'.",
+ "answer": "This contrast represents the choice between the easy comforts of the land and the challenging joys of the sea. The 'shade of the coconut glade' is an image of static, cool, and safe relaxation on the shore. In contrast, the 'kiss of the spray' is a dynamic, physical, and refreshing sensation of being in motion on the waves. While the land provides a 'sweet' shade, the fishermen find the sea's spray to be 'sweeter'. This choice defines their heroic character; they prefer the 'wild foam's glee' over the 'scent of the mango grove'. This contrast highlights that true fulfillment for them is found in labor and adventure, not in idle rest. It reinforces their identity as people who truly belong to the water. This sensory comparison makes the fishermen's passion for their work very clear to the reader."
+ },
+ {
+ "question_id": 199,
+ "question_type": "LONG",
+ "question": "How does the poem use 'Morning Light' and 'Moon' to cover the whole cycle of a fisherman's life?",
+ "answer": "The poet uses the 'morning light' in the first stanza and the 'full o’ the moon' in the third to show the passing of time. The 'morning light' represents the beginning of the journey, where they rise and pray for a good day's work. The 'moon' represents the end of the day or the night-time on the sands where they hear the 'voices we love'. This cycle shows that a fisherman's life is one of constant movement between light and darkness, work and home. It suggests that their labor is unending, as they row to the horizon even as the day fades. These temporal markers help to build a complete world for the reader, showing both the bright energy of the day and the sweet peace of the night. This cycle reinforces the idea that the sea is their permanent home throughout all hours. It adds a sense of timelessness and rhythm to the poem's structure."
+ },
+ {
+ "question_id": 200,
+ "question_type": "LONG",
+ "question": "Summarize the overarching theme of 'Coromandel Fishers' as a celebration of traditional labor.",
+ "answer": "The poem 'Coromandel Fishers' is a grand celebration of the brave and noble life of traditional fishermen. It portrays their difficult labor not as a struggle, but as a royal duty performed by 'kings of the sea'. The poet uses personification to show that they are in a deep, familial harmony with nature, seeing the sea as their 'mother' and the waves as 'comrades'. Their work is presented as an adventure, following the 'sea gull's call' toward the 'edge of the verge'. Despite the dangers of the 'storm,' they have an unshakable faith in the protective power of the sea-god. The poem emphasizes that the joys of the sea, like the 'kiss of the spray,' are far 'sweeter' than the comforts of the land. Ultimately, the poem turns a daily occupation into a beautiful, rhythmic, and spiritually rich quest. It teaches the reader to find pride and passion in one's vocation, no matter how humble it may seem."
+ }
+ ]
+}

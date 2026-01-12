@@ -1,0 +1,1511 @@
+{
+  "chapter metadata": {
+    "chapter id": "09.Marathi.1.5",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter name": "The Necklace"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Mathilde was born into a family of ________.",
+      "options": [
+        { "option id": 1, "text": "Aristocrats", "is correct": false },
+        { "option id": 2, "text": "Clerks", "is correct": true },
+        { "option id": 3, "text": "Farmers", "is correct": false },
+        { "option id": 4, "text": "Merchants", "is correct": false }
+      ],
+      "answer": "Clerks"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the occupation of Mathilde's husband?",
+      "options": [
+        { "option id": 1, "text": "A rich merchant", "is correct": false },
+        { "option id": 2, "text": "An aristocrat", "is correct": false },
+        { "option id": 3, "text": "A minor official at the Ministry of Education", "is correct": true },
+        { "option id": 4, "text": "A school teacher", "is correct": false }
+      ],
+      "answer": "A minor official at the Ministry of Education"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Mathilde suffered because her house was ________.",
+      "options": [
+        { "option id": 1, "text": "Too large to clean", "is correct": false },
+        { "option id": 2, "text": "Shabby and poorly furnished", "is correct": true },
+        { "option id": 3, "text": "In a noisy neighborhood", "is correct": false },
+        { "option id": 4, "text": "Far from her friends", "is correct": false }
+      ],
+      "answer": "Shabby and poorly furnished"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why did Mathilde avoid visiting her rich friend, Madame Forestier?",
+      "options": [
+        { "option id": 1, "text": "They had a quarrel", "is correct": false },
+        { "option id": 2, "text": "She was too busy with housework", "is correct": false },
+        { "option id": 3, "text": "She would weep with regret and misery afterward", "is correct": true },
+        { "option id": 4, "text": "Madame Forestier was unkind to her", "is correct": false }
+      ],
+      "answer": "She would weep with regret and misery afterward"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "On which evening were the Loisels invited to the Ministry?",
+      "options": [
+        { "option id": 1, "text": "Monday, January 18th", "is correct": true },
+        { "option id": 2, "text": "Sunday, February 14th", "is correct": false },
+        { "option id": 3, "text": "Friday, January 20th", "is correct": false },
+        { "option id": 4, "text": "Saturday, December 31st", "is correct": false }
+      ],
+      "answer": "Monday, January 18th"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How did Mathilde react to the invitation?",
+      "options": [
+        { "option id": 1, "text": "She was delighted and joyful", "is correct": false },
+        { "option id": 2, "text": "She threw it on the table resentfully", "is correct": true },
+        { "option id": 3, "text": "She immediately called her friend", "is correct": false },
+        { "option id": 4, "text": "She tore it into pieces", "is correct": false }
+      ],
+      "answer": "She threw it on the table resentfully"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How much money did Mathilde ask for a suitable dress?",
+      "options": [
+        { "option id": 1, "text": "Five hundred francs", "is correct": false },
+        { "option id": 2, "text": "Two hundred francs", "is correct": false },
+        { "option id": 3, "text": "Four hundred francs", "is correct": true },
+        { "option id": 4, "text": "One thousand francs", "is correct": false }
+      ],
+      "answer": "Four hundred francs"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What had Mathilde's husband been saving four hundred francs for?",
+      "options": [
+        { "option id": 1, "text": "To buy a new carriage", "is correct": false },
+        { "option id": 2, "text": "To buy a gun for a hunting summer", "is correct": true },
+        { "option id": 3, "text": "To pay off their house debt", "is correct": false },
+        { "option id": 4, "text": "To go on a vacation to Italy", "is correct": false }
+      ],
+      "answer": "To buy a gun for a hunting summer"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did her husband suggest she wear instead of jewels?",
+      "options": [
+        { "option id": 1, "text": "A pearl necklace", "is correct": false },
+        { "option id": 2, "text": "Flowers", "is correct": true },
+        { "option id": 3, "text": "A lace scarf", "is correct": false },
+        { "option id": 4, "text": "A plain gold band", "is correct": false }
+      ],
+      "answer": "Flowers"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In what kind of box did Mathilde find the superb diamond necklace?",
+      "options": [
+        { "option id": 1, "text": "A velvet box", "is correct": false },
+        { "option id": 2, "text": "A black satin box", "is correct": true },
+        { "option id": 3, "text": "A wooden chest", "is correct": false },
+        { "option id": 4, "text": "A silver casket", "is correct": false }
+      ],
+      "answer": "A black satin box"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How did Mathilde feel at the Ministry party?",
+      "options": [
+        { "option id": 1, "text": "Bored and restless", "is correct": false },
+        { "option id": 2, "text": "A success, prettier than all the other women", "is correct": true },
+        { "option id": 3, "text": "Upset about her dress", "is correct": false },
+        { "option id": 4, "text": "Ignored by everyone", "is correct": false }
+      ],
+      "answer": "A success, prettier than all the other women"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "At what time did Mathilde and her husband leave the party?",
+      "options": [
+        { "option id": 1, "text": "Midnight", "is correct": false },
+        { "option id": 2, "text": "Two o'clock in the morning", "is correct": false },
+        { "option id": 3, "text": "Four o'clock in the morning", "is correct": true },
+        { "option id": 4, "text": "Six o'clock in the morning", "is correct": false }
+      ],
+      "answer": "Four o'clock in the morning"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was their home located?",
+      "options": [
+        { "option id": 1, "text": "Seine", "is correct": false },
+        { "option id": 2, "text": "Rue des Martyrs", "is correct": true },
+        { "option id": 3, "text": "Nanterre", "is correct": false },
+        { "option id": 4, "text": "Palais Royal", "is correct": false }
+      ],
+      "answer": "Rue des Martyrs"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "When did Mathilde notice she no longer had the necklace?",
+      "options": [
+        { "option id": 1, "text": "In the cab", "is correct": false },
+        { "option id": 2, "text": "When she entered her door", "is correct": false },
+        { "option id": 3, "text": "In front of the mirror at home", "is correct": true },
+        { "option id": 4, "text": "The next morning", "is correct": false }
+      ],
+      "answer": "In front of the mirror at home"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did her husband do when they realized the necklace was lost?",
+      "options": [
+        { "option id": 1, "text": "He went back over the whole route they walked", "is correct": true },
+        { "option id": 2, "text": "He immediately called the police", "is correct": false },
+        { "option id": 3, "text": "He blamed Mathilde angrily", "is correct": false },
+        { "option id": 4, "text": "He told her it didn't matter", "is correct": false }
+      ],
+      "answer": "He went back over the whole route they walked"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did they tell Madame Forestier to gain more time?",
+      "options": [
+        { "option id": 1, "text": "That the necklace was stolen", "is correct": false },
+        { "option id": 2, "text": "That they had broken the clasp and were mending it", "is correct": true },
+        { "option id": 3, "text": "That they had lost it on the way back", "is correct": false },
+        { "option id": 4, "text": "That they wanted to keep it for another week", "is correct": false }
+      ],
+      "answer": "That they had broken the clasp and were mending it"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How long did it take to lose all hope of finding the necklace?",
+      "options": [
+        { "option id": 1, "text": "Three days", "is correct": false },
+        { "option id": 2, "text": "One week", "is correct": true },
+        { "option id": 3, "text": "One month", "is correct": false },
+        { "option id": 4, "text": "Ten years", "is correct": false }
+      ],
+      "answer": "One week"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Where did they find the replacement diamond necklace?",
+      "options": [
+        { "option id": 1, "text": "In Madame Forestier's wardrobe", "is correct": false },
+        { "option id": 2, "text": "In a shop at the Palais Royal", "is correct": true },
+        { "option id": 3, "text": "In the Ministry hall", "is correct": false },
+        { "option id": 4, "text": "At a local flea market", "is correct": false }
+      ],
+      "answer": "In a shop at the Palais Royal"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was the final price they paid for the replacement necklace?",
+      "options": [
+        { "option id": 1, "text": "Forty thousand francs", "is correct": false },
+        { "option id": 2, "text": "Thirty-six thousand francs", "is correct": true },
+        { "option id": 3, "text": "Eighteen thousand francs", "is correct": false },
+        { "option id": 4, "text": "Five hundred francs", "is correct": false }
+      ],
+      "answer": "Thirty-six thousand francs"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How much money had Loisel's father left him?",
+      "options": [
+        { "option id": 1, "text": "Thirty-six thousand francs", "is correct": false },
+        { "option id": 2, "text": "Ten thousand francs", "is correct": false },
+        { "option id": 3, "text": "Eighteen thousand francs", "is correct": true },
+        { "option id": 4, "text": "Forty thousand francs", "is correct": false }
+      ],
+      "answer": "Eighteen thousand francs"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "To pay the debt, where did the Loisels move to?",
+      "options": [
+        { "option id": 1, "text": "A palatial mansion", "is correct": false },
+        { "option id": 2, "text": "A garret under the roof", "is correct": true },
+        { "option id": 3, "text": "A suburban cottage", "is correct": false },
+        { "option id": 4, "text": "Madame Forestier's house", "is correct": false }
+      ],
+      "answer": "A garret under the roof"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How long did this hard life of poverty last?",
+      "options": [
+        { "option id": 1, "text": "One year", "is correct": false },
+        { "option id": 2, "text": "Five years", "is correct": false },
+        { "option id": 3, "text": "Ten years", "is correct": true },
+        { "option id": 4, "text": "Twenty years", "is correct": false }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What did Madame Forestier reveal about the original necklace at the end?",
+      "options": [
+        { "option id": 1, "text": "It was stolen from her", "is correct": false },
+        { "option id": 2, "text": "It was an imitation worth only 500 francs", "is correct": true },
+        { "option id": 3, "text": "It was her mother's heirloom", "is correct": false },
+        { "option id": 4, "text": "It was actually more expensive than 36,000 francs", "is correct": false }
+      ],
+      "answer": "It was an imitation worth only 500 francs"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Where did Mathilde meet Madame Forestier ten years later?",
+      "options": [
+        { "option id": 1, "text": "At a Ministry party", "is correct": false },
+        { "option id": 2, "text": "In a jewelry shop", "is correct": false },
+        { "option id": 3, "text": "While walking in the Champs Élysées", "is correct": true },
+        { "option id": 4, "text": "At her old school", "is correct": false }
+      ],
+      "answer": "While walking in the Champs Élysées"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In French, 'Mme.' is an address term like ________ in English.",
+      "options": [
+        { "option id": 1, "text": "Mr", "is correct": false },
+        { "option id": 2, "text": "Miss", "is correct": false },
+        { "option id": 3, "text": "Mrs", "is correct": true },
+        { "option id": 4, "text": "Master", "is correct": false }
+      ],
+      "answer": "Mrs"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What did the Loisels do with their maid to save money for the debt?",
+      "options": [
+        { "option id": 1, "text": "Gave her a raise", "is correct": false },
+        { "option id": 2, "text": "Dismissed her", "is correct": true },
+        { "option id": 3, "text": "Asked her to work extra", "is correct": false },
+        { "option id": 4, "text": "Sent her to Madame Forestier", "is correct": false }
+      ],
+      "answer": "Dismissed her"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Where did the Loisels move to reduce their expenses?",
+      "options": [
+        { "option id": 1, "text": "A palatial mansion", "is correct": false },
+        { "option id": 2, "text": "A small cottage in the woods", "is correct": false },
+        { "option id": 3, "text": "A garret under the roof", "is correct": true },
+        { "option id": 4, "text": "Madame Forestier's house", "is correct": false }
+      ],
+      "answer": "A garret under the roof"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these tasks did Mathilde perform during her years of poverty?",
+      "options": [
+        { "option id": 1, "text": "Washing dirty linen", "is correct": false },
+        { "option id": 2, "text": "Carrying garbage to the street", "is correct": false },
+        { "option id": 3, "text": "Bargaining at markets", "is correct": false },
+        { "option id": 4, "text": "All of the above", "is correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What extra work did Mathilde's husband do in the evenings?",
+      "options": [
+        { "option id": 1, "text": "Hunting near Nanterre", "is correct": false },
+        { "option id": 2, "text": "Doing accounts for a tradesman", "is correct": true },
+        { "option id": 3, "text": "Working at the Ministry of Education", "is correct": false },
+        { "option id": 4, "text": "Selling jewelry", "is correct": false }
+      ],
+      "answer": "Doing accounts for a tradesman"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How much was Mathilde's husband paid per page for copying manuscripts late at night?",
+      "options": [
+        { "option id": 1, "text": "Five francs", "is correct": false },
+        { "option id": 2, "text": "Five hundred francs", "is correct": false },
+        { "option id": 3, "text": "Five sous", "is correct": true },
+        { "option id": 4, "text": "One franc", "is correct": false }
+      ],
+      "answer": "Five sous"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "How long did it take for the Loisels to pay off all their debts, including interest?",
+      "options": [
+        { "option id": 1, "text": "One year", "is correct": false },
+        { "option id": 2, "text": "Five years", "is correct": false },
+        { "option id": 3, "text": "Ten years", "is correct": true },
+        { "option id": 4, "text": "Centuries", "is correct": false }
+      ],
+      "answer": "Ten years"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does Mathilde do after the debt is finally paid off?",
+      "options": [
+        { "option id": 1, "text": "She goes to another party", "is correct": false },
+        { "option id": 2, "text": "She buys a new house", "is correct": false },
+        { "option id": 3, "text": "She broods over the past", "is correct": true },
+        { "option id": 4, "text": "She ignores Madame Forestier", "is correct": false }
+      ],
+      "answer": "She broods over the past"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "On which day did Mathilde meet Jeanne Forestier at the Champs Élysées?",
+      "options": [
+        { "option id": 1, "text": "Monday", "is correct": false },
+        { "option id": 2, "text": "Saturday", "is correct": false },
+        { "option id": 3, "text": "Sunday", "is correct": true },
+        { "option id": 4, "text": "Friday", "is correct": false }
+      ],
+      "answer": "Sunday"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why did Madame Forestier not recognize Mathilde at the Champs Élysées?",
+      "options": [
+        { "option id": 1, "text": "Mathilde had changed and looked like a common woman", "is correct": true },
+        { "option id": 2, "text": "It was too dark outside", "is correct": false },
+        { "option id": 3, "text": "Madame Forestier was angry with her", "is correct": false },
+        { "option id": 4, "text": "Madame Forestier had lost her memory", "is correct": false }
+      ],
+      "answer": "Mathilde had changed and looked like a common woman"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did Mathilde tell Jeanne was the cause of all her miseries?",
+      "options": [
+        { "option id": 1, "text": "Her husband", "is correct": false },
+        { "option id": 2, "text": "The Ministry party", "is correct": false },
+        { "option id": 3, "text": "Jeanne and the diamond necklace", "is correct": true },
+        { "option id": 4, "text": "The error of fate", "is correct": false }
+      ],
+      "answer": "Jeanne and the diamond necklace"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the shocking revelation about the original necklace at the end of the story?",
+      "options": [
+        { "option id": 1, "text": "It was stolen by the maid", "is correct": false },
+        { "option id": 2, "text": "It was an imitation worth only five hundred francs", "is correct": true },
+        { "option id": 3, "text": "It was worth one million francs", "is correct": false },
+        { "option id": 4, "text": "It was cursed", "is correct": false }
+      ],
+      "answer": "It was an imitation worth only five hundred francs"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In Language Study, words like 'a', 'an', 'the', 'my', and 'this' are known as ________.",
+      "options": [
+        { "option id": 1, "text": "Verbs", "is correct": false },
+        { "option id": 2, "text": "Determiners", "is correct": true },
+        { "option id": 3, "text": "Adjectives", "is correct": false },
+        { "option id": 4, "text": "Nouns", "is correct": false }
+      ],
+      "answer": "Determiners"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the past participle form of the verb 'take'?",
+      "options": [
+        { "option id": 1, "text": "Takes", "is correct": false },
+        { "option id": 2, "text": "Took", "is correct": false },
+        { "option id": 3, "text": "Taken", "is correct": true },
+        { "option id": 4, "text": "Taking", "is correct": false }
+      ],
+      "answer": "Taken"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the present participle form of the verb 'eat'?",
+      "options": [
+        { "option id": 1, "text": "Eats", "is correct": false },
+        { "option id": 2, "text": "Ate", "is correct": false },
+        { "option id": 3, "text": "Eating", "is correct": true },
+        { "option id": 4, "text": "Eaten", "is correct": false }
+      ],
+      "answer": "Eating"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "A verb form decided by and changing according to the subject is called a ________.",
+      "options": [
+        { "option id": 1, "text": "Non-finite verb", "is correct": false },
+        { "option id": 2, "text": "Finite verb", "is correct": true },
+        { "option id": 3, "text": "Infinitive", "is correct": false },
+        { "option id": 4, "text": "Participle", "is correct": false }
+      ],
+      "answer": "Finite verb"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is a synonym for 'distraught'?",
+      "options": [
+        { "option id": 1, "text": "Happy", "is correct": false },
+        { "option id": 2, "text": "Worried/disturbed", "is correct": true },
+        { "option id": 3, "text": "Successful", "is correct": false },
+        { "option id": 4, "text": "Calm", "is correct": false }
+      ],
+      "answer": "Worried/disturbed"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does 'sou' mean in the context of the story?",
+      "options": [
+        { "option id": 1, "text": "A type of jewelry", "is correct": false },
+        { "option id": 2, "text": "A French coin of low value", "is correct": true },
+        { "option id": 3, "text": "A beautiful dress", "is correct": false },
+        { "option id": 4, "text": "A specialized tradesman", "is correct": false }
+      ],
+      "answer": "A French coin of low value"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What was the jeweller's arrangement if the Loisels found the original necklace before the end of February?",
+      "options": [
+        { "option id": 1, "text": "He would give them their money back for free", "is correct": false },
+        { "option id": 2, "text": "He would take the new one back for 34,000 francs", "is correct": true },
+        { "option id": 3, "text": "He would trade it for a pearl necklace", "is correct": false },
+        { "option id": 4, "text": "He would call the police", "is correct": false }
+      ],
+      "answer": "He would take the new one back for 34,000 francs"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which city setting is used when Mathilde and her husband walk home from the party?",
+      "options": [
+        { "option id": 1, "text": "Seine", "is correct": true },
+        { "option id": 2, "text": "Nanterre", "is correct": false },
+        { "option id": 3, "text": "Palais Royal", "is correct": false },
+        { "option id": 4, "text": "Champs Élysées", "is correct": false }
+      ],
+      "answer": "Seine"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is the author of 'The Necklace'?",
+      "options": [
+        { "option id": 1, "text": "Isaac Asimov", "is correct": false },
+        { "option id": 2, "text": "Emily Dickinson", "is correct": false },
+        { "option id": 3, "text": "Guy de Maupassant", "is correct": true },
+        { "option id": 4, "text": "Georges Rampouneau", "is correct": false }
+      ],
+      "answer": "Guy de Maupassant"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Mathilde felt she was entitled to all the ________ of life.",
+      "options": [
+        { "option id": 1, "text": "Hardships", "is correct": false },
+        { "option id": 2, "text": "Luxuries", "is correct": true },
+        { "option id": 3, "text": "Clerical jobs", "is correct": false },
+        { "option id": 4, "text": "Flowers", "is correct": false }
+      ],
+      "answer": "Luxuries"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What word is defined as 'in an indifferent; cool manner' in the story?",
+      "options": [
+        { "option id": 1, "text": "Loftily", "is correct": false },
+        { "option id": 2, "text": "Nonchalantly", "is correct": true },
+        { "option id": 3, "text": "Distraught", "is correct": false },
+        { "option id": 4, "text": "Ecstasy", "is correct": false }
+      ],
+      "answer": "Nonchalantly"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Mathilde's hands ________ as she took the superb diamond necklace.",
+      "options": [
+        { "option id": 1, "text": "Clapped", "is correct": false },
+        { "option id": 2, "text": "Trembled", "is correct": true },
+        { "option id": 3, "text": "Froze", "is correct": false },
+        { "option id": 4, "text": "Slipped", "is correct": false }
+      ],
+      "answer": "Trembled"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The debt Mathilde had to pay is described as ________.",
+      "options": [
+        { "option id": 1, "text": "Joyful", "is correct": false },
+        { "option id": 2, "text": "Dreadful", "is correct": true },
+        { "option id": 3, "text": "Small", "is correct": false },
+        { "option id": 4, "text": "Imaginary", "is correct": false }
+      ],
+      "answer": "Dreadful"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "How did Mathilde feel when she finally told Jeanne the truth?",
+      "options": [
+        { "option id": 1, "text": "Ashamed", "is correct": false },
+        { "option id": 2, "text": "Angry", "is correct": false },
+        { "option id": 3, "text": "Glad and proud", "is correct": true },
+        { "option id": 4, "text": "Scornful", "is correct": false }
+      ],
+      "answer": "Glad and proud"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What kind of family was Mathilde Loisel born into?",
+      "answer": "Mathilde was born into a family of clerks, as if by an error of fate[cite: 393]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did Mathilde marry a 'minor official'?",
+      "answer": "She had no means of becoming known or loved by an aristocrat, so she let herself be married to a minor official at the Ministry of Education [cite: 394-395]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Mathilde suffer endlessly in her daily life?",
+      "answer": "She suffered because she felt she was entitled to all the luxuries of life but lived in a shabby, poorly furnished house [cite: 397-398]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did Mathilde dream of instead of her plain life?",
+      "answer": "She dreamed of a palatial mansion with vast, inviting rooms perfumed for afternoon chats with close friends[cite: 399]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What were the only things Mathilde loved?",
+      "answer": "The only things she loved were rich dresses and jewels, which she did not possess[cite: 400]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who was Madame Forestier?",
+      "answer": "Madame Forestier was a rich friend and former schoolmate of Mathilde from the convent[cite: 402]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did Mathilde avoid visiting her rich friend?",
+      "answer": "She avoided her because she would weep with regret, despair, and misery after seeing her friend's wealth[cite: 402]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did M. Loisel bring home one evening with an air of triumph?",
+      "answer": "He brought home a large envelope containing a formal invitation to a party at the Ministry [cite: 403-406]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who sent the invitation to the Loisels?",
+      "answer": "The invitation was sent by the Minister of Education and Mme. Georges Rampouneau[cite: 406]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why did Mathilde throw the invitation on the table resentfully?",
+      "answer": "She was upset because she felt she had nothing suitable to wear to such a grand occasion[cite: 407]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What dress did M. Loisel suggest his wife wear to the party?",
+      "answer": "He suggested she wear the dress she used when they went to the theatre[cite: 410]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How much money did Mathilde estimate she needed for a new dress?",
+      "answer": "She hesitantly answered that she could do it with four hundred francs[cite: 413]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did M. Loisel turn pale when Mathilde asked for four hundred francs?",
+      "answer": "He had been saving that exact amount to buy a gun for hunting with his friends[cite: 414]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "As the party drew near, why was Mathilde sad again?",
+      "answer": "She was upset because she had no jewels or a single stone to wear with her new dress[cite: 418]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was M. Loisel's suggestion for jewelry?",
+      "answer": "He suggested she wear flowers, as they were very fashionable at that time of year[cite: 419]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "To whom did Mathilde go to borrow jewelry?",
+      "answer": "She went to her friend Madame Forestier's house[cite: 421]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What did Mathilde discover in a black satin box?",
+      "answer": "She discovered a superb diamond necklace that made her heart beat with uncontrolled desire[cite: 426, 438]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did Mathilde feel while looking at herself with the necklace?",
+      "answer": "She stood lost in ecstasy as she looked at herself in the mirror[cite: 439]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Describe Mathilde's appearance at the party.",
+      "answer": "She was prettier than all the other women—elegant, gracious, smiling, and full of joy[cite: 444]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "At what time did the Loisels leave the party?",
+      "answer": "They left the party at about four o'clock in the morning[cite: 446]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What shocking discovery did Mathilde make in front of the mirror at home?",
+      "answer": "She realized that she no longer had the necklace around her neck[cite: 451]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where did M. Loisel look for the lost necklace?",
+      "answer": "He went back over the whole route they had walked and went to the police, newspapers, and cab companies[cite: 515, 518]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What excuse did they give Madame Forestier for the delay in returning the necklace?",
+      "answer": "They wrote to her saying they had broken the clasp and were having it mended[cite: 521]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How much was the replacement necklace worth in the Palais Royal shop?",
+      "answer": "It was worth forty thousand francs, but they could have it for thirty-six thousand[cite: 527]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How did the Loisels raise the money for the replacement?",
+      "answer": "Loisel used eighteen thousand francs left by his father and borrowed the rest from money-lenders [cite: 531-532]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How did Madame Forestier respond when Mathilde returned the necklace?",
+      "answer": "She spoke coldly, saying Mathilde should have returned it sooner as she might have needed it[cite: 535]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What changes did the Loisels make to their lifestyle to pay the debt?",
+      "answer": "They dismissed their maid, changed their lodgings to a garret, and Mathilde did all the heavy housework [cite: 537-538, 539]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What kind of 'drudgery' did Mathilde perform for ten years?",
+      "answer": "She washed dishes and dirty linen, carried garbage to the street, and carried up water while bargaining at markets [cite: 539-541]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What extra work did M. Loisel do in the evenings?",
+      "answer": "He did accounts for a tradesman and copied manuscripts late into the night[cite: 543]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How long did it take to pay off the entire debt?",
+      "answer": "It took ten years to pay off everything, including the interest[cite: 544]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What did Mathilde look like after ten years of hard work?",
+      "answer": "She looked old, like a common woman of a poor household[cite: 545, 569]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Where did Mathilde meet Madame Forestier again?",
+      "answer": "She met her one Sunday while walking in the Champs Élysées[cite: 565]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why was Madame Forestier astonished when Mathilde spoke to her?",
+      "answer": "She was astonished to be addressed so familiarly by a woman who looked like a common stranger[cite: 569]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was the final revelation about the original necklace?",
+      "answer": "Madame Forestier revealed that her necklace was an imitation worth five hundred francs at most[cite: 588]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does the word 'astringent' mean?",
+      "answer": "In the context of flavors, 'astringent' means sharp or causing a contraction of body tissues[cite: 216]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Define 'determiners' as used in Language Study.",
+      "answer": "Determiners are words used at the beginning of a noun phrase to specify the noun, such as 'a', 'the', or 'my' [cite: 493-494]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Give an example of a past participle from the story.",
+      "answer": "Examples include 'given', 'drawn', and 'taken'[cite: 631]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a 'garret'?",
+      "answer": "A garret is a small, uncomfortable room at the top of a house[cite: 557]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'panic-stricken'?",
+      "answer": "It means being filled with a sudden, overpowering feeling of fear[cite: 436]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What did M. Loisel mean by 'M.' and 'Mme.'?",
+      "answer": "These are French terms of address, where 'M.' stands for Monsieur and 'Mme.' stands for Madame[cite: 390]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was the atmosphere of the 'inviting smaller rooms' Mathilde dreamed of?",
+      "answer": "They were rooms perfumed for afternoon chats with close friends[cite: 399]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How did Mathilde feel when she first saw the jewelry in the box?",
+      "answer": "Her heart began to beat with uncontrolled desire as her hands trembled[cite: 438]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What does 'distraught' mean?",
+      "answer": "It means being deeply worried, disturbed, or upset[cite: 437]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Where did the Loisels walk after they couldn't find a cab?",
+      "answer": "They walked down toward the Seine until they finally found a cab[cite: 448]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is a 'sou'?",
+      "answer": "A sou is a French coin of very low value used in the past[cite: 557]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did Loisel offer as a reward for the necklace?",
+      "answer": "He offered a reward through the police and newspapers to anyone who found it[cite: 518]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does 'ruinous' mean in the context of agreements?",
+      "answer": "It refers to agreements leading to a heavy loss or complete financial ruin [cite: 549-551]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why did Madame Forestier take Mathilde's hands at the very end?",
+      "answer": "She was deeply moved by Mathilde's struggle once she realized they had replaced her imitation necklace with real diamonds[cite: 586]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does 'brooded' mean?",
+      "answer": "It means to think deeply and sadly about something that makes one unhappy [cite: 558-560]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "According to the story, how little is needed for one to be ruined or saved?",
+      "answer": "The author reflects that life is fickle, and a very small thing can change one's fate completely[cite: 546]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where did the Loisels look for the necklace immediately after reaching home?",
+      "answer": "They looked everywhere: in the folds of her dress, in the folds of her cloak, and in her pockets[cite: 507]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where did M. Loisel believe the necklace might have been lost?",
+      "answer": "He believed it was probably lost in the cab they took to get home [cite: 511-512]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why couldn't they identify the cab to find the lost necklace?",
+      "answer": "They could not identify the cab because they had neglected to take the driver's number [cite: 512-513]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did M. Loisel spend the night after the party?",
+      "answer": "He went back out to walk over the entire route they had taken to see if he could find the necklace[cite: 515]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What was Mathilde's state of mind while her husband searched for the jewel?",
+      "answer": "She remained in her ball dress all night, sitting with a blank mind in despair[cite: 516]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What official steps did M. Loisel take to recover the necklace?",
+      "answer": "He went to the police, the newspapers to offer a reward, and the cab companies[cite: 518]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does the 'tiniest glimmer of hope' refer to in the story?",
+      "answer": "It refers to the small chance M. Loisel felt while following every possible lead to find the necklace[cite: 518]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What did Loisel suggest Mathilde write to her friend?",
+      "answer": "He suggested she tell Jeanne that she had broken the clasp and was having it mended[cite: 521]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why did they choose to lie to Madame Forestier about the necklace?",
+      "answer": "They lied to give themselves more time to continue searching for the lost jewel[cite: 521]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "When did the Loisels finally lose all hope of finding the original necklace?",
+      "answer": "They lost all hope at the end of one week of searching[cite: 523]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What was Loisel’s declaration after they gave up searching?",
+      "answer": "He declared that they must find a way to replace the jewel[cite: 524]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How did they find a replacement for the necklace?",
+      "answer": "They went from jeweler to jeweler, consulting their memories, until they found a similar string of diamonds [cite: 525-526]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What was the price of the replacement necklace at the Palais Royal?",
+      "answer": "It was worth forty thousand francs, but the jeweler agreed to sell it for thirty-six thousand[cite: 527]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What special arrangement did they make with the jeweler?",
+      "answer": "They asked him not to sell it for three days and made an agreement that he would take it back for 34,000 francs if the original was found [cite: 529-530]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How much inheritance did M. Loisel use for the necklace?",
+      "answer": "He used eighteen thousand francs that his father had left him[cite: 531]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did Loisel raise the remaining eighteen thousand francs?",
+      "answer": "He borrowed the rest by giving notes and making ruinous agreements with every type of money-lender [cite: 531-532]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How did Madame Forestier react when Mathilde returned the replacement?",
+      "answer": "She spoke coldly, saying Mathilde should have returned it sooner as she might have needed it[cite: 535]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What does 'the horrible life of the very poor' mean in the text?",
+      "answer": "It refers to the extreme struggle and hard physical labor Mathilde had to endure to pay off the debt[cite: 536, 539]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What changes did the Loisels make to their home to save money?",
+      "answer": "They dismissed their maid, changed their lodgings, and rented a garret under a roof [cite: 537-538]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Describe Mathilde's new daily chores after losing her wealth.",
+      "answer": "She washed dishes, cleaned dirty linen, carried garbage to the street, and carried up water[cite: 540]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How did Mathilde's appearance change while paying the debt?",
+      "answer": "She dressed like a commoner and looked old, like a woman of a poor household[cite: 540, 545]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What did M. Loisel do to earn extra money?",
+      "answer": "He worked evenings doing accounts for a tradesman and copied manuscripts late at night[cite: 543]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How much was M. Loisel paid for copying manuscripts?",
+      "answer": "He was paid five sous per page for his copying work[cite: 543]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What did the Loisels achieve at the end of ten years?",
+      "answer": "They finally paid off the entire debt, including the interest[cite: 544]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What thought often crossed Mathilde's mind after the debt was paid?",
+      "answer": "She wondered what would have happened if she had never lost that necklace[cite: 545]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What does the author say about the fickleness of life?",
+      "answer": "The author notes how little is needed for a person to be either ruined or saved[cite: 546]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Who did Mathilde see during her walk at the Champs Élysées?",
+      "answer": "She saw Madame Forestier, who still looked young, beautiful, and charming[cite: 565]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why did Mathilde decide to speak to Jeanne after ten years?",
+      "answer": "She decided to speak to her because she had finally paid the debt and wanted to tell her everything[cite: 567]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why was Jeanne Forestier astonished by Mathilde's greeting?",
+      "answer": "She was astonished to be addressed so familiarly by a woman she did not recognize[cite: 569]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did Jeanne Forestier react when she realized who Mathilde was?",
+      "answer": "She uttered a cry of surprise, noting how much Mathilde had changed[cite: 572]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Whom did Mathilde blame for her ten years of misery?",
+      "answer": "She blamed Madame Forestier, stating that her miseries were all because of her[cite: 573]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What did Jeanne Forestier reveal about the necklace Mathilde had lost?",
+      "answer": "She revealed that the original necklace was an imitation worth five hundred francs at most[cite: 588]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is a 'cloak' according to the text?",
+      "answer": "A cloak is a sleeveless garment worn over other clothes that fastens at the neck [cite: 497-498]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Define the phrase 'glimmer of hope'.",
+      "answer": "It refers to a faint or very slight sign that something positive might happen[cite: 499, 502]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What does 'hollow figure' suggest about M. Loisel?",
+      "answer": "It suggests he looked physically exhausted, thin, and drained from worry[cite: 503, 520]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'sou'?",
+      "answer": "A sou is a French coin of very low value used in the past[cite: 557]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is a 'garret'?",
+      "answer": "A garret is a small, usually uncomfortable room located at the top of a house[cite: 557]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Define the word 'brooded'.",
+      "answer": "It means to think deeply and unhappily about something for a long time [cite: 558-560]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is a 'determiner' in English grammar?",
+      "answer": "A determiner is a word used at the beginning of a noun phrase to clarify what the noun refers to[cite: 493]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Give three examples of determiners from the story.",
+      "answer": "Examples include articles like 'the', possessive pronouns like 'my', and demonstratives like 'this'[cite: 494]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is an 'infinitive'?",
+      "answer": "An infinitive is the base form of a verb, often used with 'to', that names an action without changing[cite: 346]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the '-s form' of a verb used for?",
+      "answer": "The '-s form' is used with third-person singular subjects (he, she, it) in the simple present tense[cite: 635]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the 'present participle'?",
+      "answer": "The present participle is the '-ing' form of a verb used to show continuous action[cite: 638]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How is a 'past participle' typically used?",
+      "answer": "It is used with forms of 'have' to show completed actions or in passive constructions [cite: 640-641]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Correct the error: 'But they could not found it.'",
+      "answer": "The correct sentence is: 'But they could not find it'[cite: 593]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Correct the error: 'You must right to your friend.'",
+      "answer": "The correct sentence is: 'You must write to your friend'[cite: 594]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Correct the error: 'Madame Forestier were stunned.'",
+      "answer": "The correct sentence is: 'Madame Forestier was stunned'[cite: 600]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Identify the base form of the verb 'gave'.",
+      "answer": "The base form of the verb 'gave' is 'give'[cite: 631]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the past tense form of the verb 'go'?",
+      "answer": "The past tense form of the verb 'go' is 'went'[cite: 631]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the past participle of 'eat'?",
+      "answer": "The past participle of the verb 'eat' is 'eaten'[cite: 631]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe Mathilde Loisel's character and her dissatisfaction with her life at the beginning of the story.",
+      "answer": "Mathilde Loisel was a pretty and charming girl who felt she was born into the wrong social class due to an 'error of fate'[cite: 393]. Born into a family of clerks, she was unable to marry an aristocrat and instead wed a minor official at the Ministry of Education [cite: 394-395]. She suffered endlessly because she believed she was entitled to all the luxuries and delicacies of life[cite: 397]. Her shabby house and poor furniture tormented her, making her resentful of her modest reality[cite: 398]. She spent her days dreaming of palatial mansions, vast rooms, and rich dresses that she could not afford [cite: 399-400]. Ultimately, her desire to be envied and sought after created a deep-seated misery that overshadowed her natural beauty."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Analyze M. Loisel’s character based on his reaction to the invitation and his sacrifice for Mathilde's dress.",
+      "answer": "M. Loisel is depicted as a kind-hearted and selfless husband who genuinely wants to see his wife happy. He arrived home with an air of triumph, believing the invitation to the Ministry party would delight Mathilde [cite: 403-404]. When she reacted with tears instead of joy, he was stunned and immediately tried to find a solution to her distress[cite: 411]. He showed immense generosity by giving her four hundred francs that he had been saving for a hunting gun [cite: 414-415]. Even though it meant giving up his own summer plans with friends, he prioritized her desire for a beautiful dress[cite: 414]. His actions throughout the first part of the story highlight his patience and devotion to his wife's happiness."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the significance of the diamond necklace in Mathilde's transformation at the party.",
+      "answer": "The diamond necklace acted as a catalyst for Mathilde's temporary escape into the world of high society that she so desperately craved. When she first discovered it in the black satin box, her heart beat with 'uncontrolled desire' and her hands trembled[cite: 438]. At the party, the necklace completed her image, making her appear prettier than all the other women—elegant, gracious, and smiling[cite: 444]. She danced with passion, completely forgetting her modest life in the triumph of her success[cite: 445]. For those few hours, she was 'floating in a cloud of happiness' and was the center of attention as she had always dreamed[cite: 445]. However, this transformation was shallow, as her joy depended entirely on a borrowed object."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Describe the frantic search for the lost necklace and the Loisels' initial reactions.",
+      "answer": "Upon realizing the necklace was missing, Mathilde uttered a cry of despair, and her husband stood up 'distraught' at the news[cite: 451, 454]. They searched everywhere—in the folds of her dress, her cloak, and her pockets—but found nothing [cite: 507-508]. M. Loisel went back out in the middle of the night to walk over the entire route they had taken on foot [cite: 515-516]. He visited the police, the newspapers to offer a reward, and even the cab companies, following any 'glimmer of hope'[cite: 518]. While he searched, Mathilde remained in her ball dress all night, her mind blank with fear and disaster[cite: 516]. Their desperate search highlights the immediate panic and the weight of the responsibility they felt."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How did the Loisels manage to raise thirty-six thousand francs to replace the necklace?",
+      "answer": "Replacing the necklace required a monumental financial effort that fundamentally changed the Loisels' lives. They found a similar string of diamonds at a shop in the Palais Royal priced at forty thousand francs, which they negotiated down to thirty-six thousand [cite: 526-527]. M. Loisel used the eighteen thousand francs his father had left him as an inheritance[cite: 531]. To raise the rest, he had to borrow from every type of money-lender, making 'ruinous agreements' and giving notes[cite: 532]. This desperate borrowing placed a 'dreadful debt' upon them that they would spend the next decade paying off[cite: 537]. Their decision to replace the necklace without telling Jeanne Forestier set them on a path of extreme hardship."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Discuss the 'horrible life of the very poor' that Mathilde endured for ten years.",
+      "answer": "To pay back the debt, Mathilde had to abandon all her dreams of luxury and face the 'drudgery of housework'[cite: 536, 539]. They dismissed their maid, moved to a tiny garret, and she began to do the 'odious labours of the kitchen' [cite: 537-539]. She washed dishes, cleaned dirty linen, and carried garbage down to the street every single morning[cite: 540]. She had to dress like a commoner and bargain fiercely at markets, facing insults over every 'miserable sou' [cite: 540-541]. Her life became a cycle of constant labor and financial struggle, far removed from the palatial mansions she once imagined. This decade of hardship stripped her of her beauty but perhaps gave her a new kind of inner strength."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "What was M. Loisel’s role during the ten years of paying off the debt?",
+      "answer": "M. Loisel proved himself to be an incredibly hardworking and loyal partner during their decade of poverty. Besides his regular job at the Ministry, he took on extra work every evening doing accounts for a tradesman[cite: 543]. Late into the night, he would often sit copying manuscripts for a meager five sous per page[cite: 543]. This exhausting routine lasted for ten years until every franc of the debt and the interest was finally paid off[cite: 544]. He aged significantly during this time, becoming a hollow and tired figure alongside his wife[cite: 524]. His quiet endurance and commitment to their shared burden demonstrate his deep sense of honor and duty."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Analyze Mathilde's physical and emotional change by the end of the story.",
+      "answer": "Ten years of relentless labor transformed Mathilde into a woman who looked old, hard, and coarse—a true 'commoner'[cite: 540, 545]. Her hair was untidy, her skirts were awry, and her hands were red from the scrubbing and washing[cite: 540]. Emotionally, she had become a 'hollow' version of her former self, though she still occasionally brooded over the past[cite: 545]. She wondered what her life might have been like if she hadn't lost the necklace, reflecting on how 'fickle' life is [cite: 545-546]. When she finally met Jeanne Forestier, she was almost unrecognizable, appearing as a 'common woman' to her former friend[cite: 569]. This change serves as a tragic irony, as her quest for beauty led to its complete destruction."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Describe the chance meeting between Mathilde and Madame Forestier at the Champs Élysées.",
+      "answer": "One Sunday, while walking in the Champs Élysées to relax, Mathilde suddenly saw Jeanne Forestier, who still looked young and beautiful[cite: 565]. Mathilde felt emotional and decided to speak to her now that the debt was finally settled [cite: 566-567]. However, Jeanne did not recognize her old friend and was astonished to be addressed so 'familiarly' by such a common-looking woman[cite: 569]. When Mathilde revealed her identity, Jeanne uttered a cry of shock at how much she had changed [cite: 571-572]. Mathilde then confessed the truth about the lost necklace and the ten years of misery they endured to replace it[cite: 573, 581]. This meeting set the stage for the story's final, devastating revelation."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What is the irony of the ending regarding the original necklace?",
+      "answer": "The ending of the story presents a cruel irony when Madame Forestier reveals that the original necklace was merely an 'imitation'[cite: 588]. While the Loisels had sacrificed ten years of their lives and their entire youth to pay for a 36,000-franc diamond replacement, the original was worth 'five hundred francs at most' [cite: 580-581, 588]. Mathilde's life was ruined by her pride and her inability to be honest with her friend about the loss. Had she confessed immediately, she would have discovered the truth and avoided a decade of drudgery. The revelation turns their 'heroic' struggle into a meaningless tragedy caused by a lack of communication. It highlights the theme that appearances can be incredibly deceiving."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "How does the author use the character of Mathilde to critique social class and vanity?",
+      "answer": "Guy de Maupassant uses Mathilde to show how vanity and a refusal to accept one's social class can lead to total ruin. Mathilde's resentment of her 'family of clerks' and her dream of being an aristocrat made her blind to the comforts she did have [cite: 393-394, 398]. Her vanity drove her to demand an expensive dress and borrow a necklace she couldn't afford to lose[cite: 413, 440]. She believed that happiness only existed in 'luxuries' and being envied by others[cite: 397, 401]. By the end of the story, her vanity is punished as she loses the very beauty she was so proud of[cite: 545]. The story suggests that true misery often comes from the gap between one's reality and one's hollow desires."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the significance of the quote: 'How little is needed for one to be ruined or saved!'",
+      "answer": "This quote reflects the central theme of the story: the fragility and unpredictability of fate[cite: 546]. The 'little thing' in Mathilde's case was a single piece of jewelry that she wore for only one night. Because she lost it and chose to hide the truth, her entire life was derailed for ten years[cite: 544]. The author suggests that a single mistake or a small act of dishonesty can have disproportionately large consequences[cite: 546]. It also implies that had she simply been honest, she would have been 'saved' from a life of poverty. The sentence emphasizes the 'fickle' nature of life, where one moment of triumph can lead to a lifetime of regret."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the social setting of 19th-century France as portrayed in the story.",
+      "answer": "The story is set in a society with rigid social hierarchies and clear distinctions between the working class and the aristocracy. Mathilde’s obsession with marrying an aristocrat and her husband’s position at the Ministry of Education reflect these class structures [cite: 394-395]. Formal invitations, evening parties at the Ministry, and borrowing jewels were all part of the social 'theatre' of the time[cite: 406, 421]. The use of terms like 'Monsieur' (M.) and 'Madame' (Mme.) further establishes the formal French setting[cite: 390]. The financial system, involving money-lenders and 'sous,' shows the economic pressures faced by those trying to maintain appearances[cite: 532, 543]. This background is essential to understanding why Mathilde felt so much pressure to look wealthy at the ball."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Compare the character of Madame Forestier with Mathilde Loisel.",
+      "answer": "Madame Forestier and Mathilde Loisel represent two different sides of the same social world. Jeanne Forestier is a truly wealthy 'aristocrat' who owns a mirrored wardrobe and boxes of expensive jewelry[cite: 394, 422]. Despite her wealth, she is approachable and kind, immediately allowing her friend to choose any piece of jewelry[cite: 423]. Mathilde, however, is consumed by envy and feels 'misery' simply by being near her friend's riches[cite: 402]. Ironically, Jeanne is content wearing 'imitations,' while Mathilde’s pride forces her to replace it with real diamonds[cite: 588, 533]. While Jeanne remains young and charming, Mathilde’s struggle turns her into a hardened commoner[cite: 565, 540]."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What role does M. Loisel’s father’s inheritance play in the story's conflict?",
+      "answer": "The inheritance of eighteen thousand francs was the only safety net the Loisels had, and its loss marked their descent into true poverty. This money was M. Loisel’s entire legacy from his father, representing his only chance at financial security[cite: 531]. By using it to buy the replacement necklace, he wiped out his family's future in a single day[cite: 533]. This forced him to borrow the remaining eighteen thousand francs at 'ruinous' interest rates from money-lenders[cite: 532]. The sacrifice of the inheritance shows the husband's total commitment to fixing the mistake, but it also highlights the high cost of their pride. Without this money, they would never have been able to replace the necklace at all."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic meaning of the 'garret' where the Loisels lived for ten years.",
+      "answer": "The 'garret under the roof' symbolizes the absolute bottom of the social ladder and the Loisels' complete loss of status[cite: 538]. Moving from a poorly furnished house to a small, uncomfortable attic room signifies their transition from 'lower middle class' to 'the very poor' [cite: 537-538]. The garret is where Mathilde learned the 'odious labours' of life, a far cry from the 'palatial mansion' of her dreams[cite: 539, 399]. It represents the reality of their situation—stripped of all pretenses and forced to survive on the bare minimum. The physical height of the room also suggests the physical exhaustion of carrying water up every landing to reach it[cite: 540]. It is in this humble space that Mathilde finally pays the price for her one night of glory."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "How did the loss of the necklace change Mathilde’s daily routine?",
+      "answer": "Before the loss, Mathilde lived a life of relative ease but constant mental dissatisfaction. After the loss, her life became one of constant physical labor and 'drudgery'[cite: 539]. She had to perform all the heavy housework herself, including washing greasy pots and scrubbing floors[cite: 540]. Her mornings were spent carrying garbage to the street and her afternoons were occupied with bargaining at markets to save every single sou [cite: 540-541]. She no longer had time to 'dream' of palatial rooms because her reality was filled with dirty linen and manual labor[cite: 540]. This change in routine was the 'dreadful debt' she had to pay for her vanity[cite: 537]."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the husband’s suggestion to 'write to your friend' and how it backfired.",
+      "answer": "When the necklace wasn't found after a week, M. Loisel suggested Mathilde lie to Jeanne by saying the clasp was broken[cite: 521]. He hoped this would buy them more time to keep looking or eventually find a way to fix the situation[cite: 521]. Mathilde followed his dictation and wrote the note, which successfully delayed the return[cite: 522]. However, this lie was the turning point that made their financial ruin inevitable. Instead of being honest and discovering it was an imitation, the lie gave them the 'time' to commit to an expensive replacement[cite: 524]. What was intended as a clever delay ended up trapping them in a decade of poverty."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Describe the moment Mathilde returned the necklace to Madame Forestier.",
+      "answer": "When Mathilde finally brought the new diamond necklace to Jeanne, the interaction was cold and strained. Madame Forestier did not even open the box to check the contents, which was a missed opportunity for the truth to come out[cite: 535]. Instead, she spoke 'coldly,' telling Mathilde that she should have returned it sooner because she might have needed it[cite: 535]. Mathilde, however, felt a sense of 'heroic' relief because she had finally replaced the treasure she had lost[cite: 536, 442]. She was now ready to face the 'dreadful debt' that she knew would follow this purchase[cite: 537]. This moment marks the end of her life as a dreamer and the beginning of her life as a laborer."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What does the 'black satin box' symbolize in the story?",
+      "answer": "The black satin box symbolizes the seductive and dangerous nature of secret desires. It was hidden away in Madame Forestier’s wardrobe, and when Mathilde found it, it felt like a 'treasure'[cite: 426, 442]. The black color of the box adds an air of mystery and luxury, making the 'superb diamond necklace' inside appear even more brilliant[cite: 438]. For Mathilde, opening this box was like opening a door to the life she always wanted[cite: 439]. However, it also represented the 'trap' of her own vanity, as this one box would lead to the destruction of her life. The box contained the very thing that would turn her dreams into a ten-year nightmare."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Discuss the role of the jeweler at the Palais Royal in the story.",
+      "answer": "The jeweler at the Palais Royal served as the final confirmation of the Loisels' financial doom. He held the string of diamonds that 'seemed to be exactly what they were looking for'[cite: 526]. The price of thirty-six thousand francs was astronomical, representing more than twice their entire life savings[cite: 527, 531]. The jeweler agreed to hold the necklace for three days and even offered a 'buy-back' arrangement if the original was found [cite: 529-530]. This business deal made the replacement feel like a formal and 'fair' solution, though it was actually ruinous[cite: 532]. By laying down the money on the jeweler’s counter, M. Loisel sealed their fate for the next decade[cite: 533]."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How does the story explore the theme of 'Appearance vs. Reality'?",
+      "answer": "The entire plot revolves around the idea that what looks like a 'diamond' may actually be a cheap imitation. Mathilde believed she needed expensive jewels to 'look' like she belonged in the upper class[cite: 418]. Jeanne Forestier, a truly wealthy woman, was comfortable wearing an imitation worth only 500 francs, which looked just as real[cite: 588, 585]. Mathilde’s pride forced her to replace an imitation with reality, showing that her obsession was with the 'image' of wealth rather than its value[cite: 533]. By the end of the story, her physical 'appearance' as an old woman reflects the 'reality' of her hard life[cite: 545]. The story serves as a warning that chasing false appearances can destroy the very reality one is trying to improve."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is the significance of Mathilde's 'proud and innocent pleasure' at the end?",
+      "answer": "At the end of the story, before the final revelation, Mathilde smiles with a sense of 'proud and innocent pleasure'[cite: 586]. This is significant because it shows that despite her ten years of suffering, she felt she had acted with honor by replacing the necklace[cite: 582]. She was proud of her 'heroic' effort and the fact that she had finally cleared her debt[cite: 536]. This 'innocent' pleasure is tragic because she believes she has won her struggle, when in fact, the struggle was unnecessary. Her pride in her work is the only thing she has left, and it is about to be shattered by Jeanne's revelation. It shows that even after losing her beauty, she still held onto a sense of personal worth through her labor."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How does M. Loisel's reaction to his wife's tears show his character?",
+      "answer": "When Mathilde began to cry after the invitation and before the party, M. Loisel was 'stunned' and 'distressed'[cite: 411]. He did not get angry or dismiss her feelings; instead, he immediately asked what he could do to help[cite: 411]. He patiently calculated the cost of a dress and gave up his own savings to please her[cite: 412, 415]. When she cried again about the lack of jewels, he suggested creative solutions like wearing flowers[cite: 419]. His constant concern for her emotional state proves that he is a compassionate and providing husband[cite: 427]. Unfortunately, his desire to please her often blinded him to the risks they were taking."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What does the author suggest about the role of 'Fate' in Mathilde's life?",
+      "answer": "The author introduces Mathilde as being born into a family of clerks 'as if by an error of fate'[cite: 393]. This phrasing suggests that Mathilde felt she was meant for a higher life but was trapped by circumstances beyond her control. However, the story shows that while 'fate' may have chosen her birth, her own choices decided her ruin[cite: 546]. Losing the necklace was an accident of fate, but choosing to lie and replace it with real diamonds was a choice made of pride[cite: 521, 533]. The final revelation of the imitation necklace suggests that fate is often cruel and mocks human vanity. Ultimately, the author portrays fate as a 'fickle' force that can destroy a person over the smallest mistake[cite: 546]."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Analyze the 'Warming up' activity 'Talking about Myself' and how it relates to Mathilde's character.",
+      "answer": "The activity 'Talking about Myself' asks students to describe their 'Real Self' and then create an 'Imaginary Persona' that is quite different [cite: 360-361]. This directly mirrors Mathilde Loisel’s internal conflict, as she lived a modest life in a clerk’s family but possessed an elaborate imaginary persona of being an aristocrat [cite: 393-394]. She hated her 'Real Self'—the woman in a shabby, poorly furnished house—and constantly dreamed of a more glamorous existence [cite: 398-399]. This exercise helps students understand that Mathilde’s misery stemmed from her inability to reconcile her reality with her fantasies. By creating a persona, students can empathize with how Mathilde’s desire to 'be envied' led to her downfall[cite: 401]. It highlights the dangers of letting an imaginary identity overshadow one's true life."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Is M. Loisel a considerate person? Justify your answer with evidence from the text.",
+      "answer": "Yes, M. Loisel is depicted as a deeply considerate and devoted husband throughout the story. When he received the invitation, his first thought was that it would delight his wife because she never had a chance to go out [cite: 403-404]. Despite being stunned by her tears, he immediately tried to find a way to pay for a dress, eventually giving up four hundred francs he had saved for his own hunting hobby [cite: 414-415]. After the necklace was lost, he spent the entire night and the following week searching for it, showing his sense of shared responsibility [cite: 515-516]. Furthermore, he worked extra hours every evening for ten years and used his entire inheritance to help pay off the massive debt[cite: 531, 543]. His actions prove that he valued his wife’s peace of mind and their collective honor above his own comfort and savings."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic importance of the name 'Rue des Martyrs' in the context of the Loisels' journey.",
+      "answer": "The Loisels lived in a house located at the 'Rue des Martyrs,' a name that carries significant symbolic meaning in the story[cite: 449]. A martyr is someone who suffers greatly or makes a huge sacrifice for a cause, which reflects the ten years of hardship the couple endured. After losing the necklace, they were 'dropped off at their door' in this street, marking the end of their night of glory and the beginning of their long period of suffering[cite: 449]. For a decade, they lived heroically in poverty to pay a 'dreadful debt,' effectively becoming martyrs to their own pride and honesty [cite: 536-537]. The name of the street foreshadows that their modest life would soon turn into one of extreme sacrifice. It serves as a reminder that their physical home was the site of a long, painful struggle for redemption."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the arrangement the Loisels made with the jeweler and evaluate if it was fair.",
+      "answer": "To replace the lost necklace, the Loisels found a similar string of diamonds at the Palais Royal worth forty thousand francs, which they could buy for thirty-six thousand [cite: 526-527]. They begged the jeweler not to sell it for three days and made a unique arrangement for a 'buy-back'[cite: 529]. The jeweler agreed to take the necklace back for thirty-four thousand francs if the original was found before the end of February[cite: 530]. From a business perspective, the arrangement was fair as it provided the jeweler with a guaranteed profit regardless of the outcome. However, for the Loisels, it was a 'ruinous' agreement that forced them into absolute poverty because they had to borrow eighteen thousand francs at high interest[cite: 532]. This deal shows their desperation to maintain their social standing, even at the cost of their entire financial future."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Who was responsible for Mathilde's misery: her friend, herself, her husband, or circumstances?",
+      "answer": "While circumstances and her husband's choices played a part, Mathilde herself was primarily responsible for her own misery. Her constant dissatisfaction and 'error of fate' mindset made her resentful of a life that another woman of her class might have found acceptable[cite: 393, 398]. It was her vanity that drove her to demand an expensive dress and then a diamond necklace, which she was eventually unable to keep safe[cite: 418, 438]. Madame Forestier was merely a kind friend who lent what was asked, and M. Loisel was a husband who tried too hard to please her [cite: 422-423]. Had Mathilde been honest with her friend immediately, she would have discovered the necklace was an imitation worth only 500 francs[cite: 588]. Therefore, her pride and her refusal to admit the truth were the actual causes of her ten years of drudgery."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What is meant by the 'horrible life of the very poor' as experienced by Mathilde?",
+      "answer": "The 'horrible life of the very poor' refers to the extreme physical labor and social degradation Mathilde faced to pay off her debt[cite: 536]. She was forced to dismiss her maid, change her lodgings, and move into a small, uncomfortable garret under a roof [cite: 537-538]. Her daily routine shifted to the 'drudgery of housework' and 'odious labours of the kitchen,' such as washing greasy dishes and dirty linen [cite: 539-540]. She had to carry garbage down to the street every morning and carry water up herself, stopping at every landing to catch her breath[cite: 540]. Socially, she had to dress like a commoner and haggle at markets, facing insults over every 'miserable sou'[cite: 541]. This decade of misery stripped her of her beauty and youth, leaving her looking old and hard[cite: 545]."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Analyze the 'Language Study' on determiners and provide examples from the text.",
+      "answer": "Determiners are words used at the beginning of a noun phrase to clarify what the noun refers to, such as articles, possessive pronouns, and demonstratives [cite: 493-494]. In the phrase 'the necklace,' 'the' acts as a determiner to specify a particular object[cite: 490]. Other examples from the story include 'an error,' 'all these things,' and 'her husband,' where 'an,' 'all,' and 'her' provide context for the nouns they precede[cite: 490]. Demonstratives like 'this' or 'that' are also used to point to specific ideas, such as in the phrase 'that invitation'[cite: 494]. Understanding determiners is crucial for students to identify the relationship between characters and objects in the narrative. They help make the clear distinction between general items and the specific 'treasure' that changed Mathilde's life[cite: 442]."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How did Mathilde's physical appearance change after ten years of debt?",
+      "answer": "After a decade of relentless labor, Mathilde Loisel became almost unrecognizable compared to the 'pretty and charming girl' she once was[cite: 393]. She now 'looked old,' with the hard, coarse features of a woman from a poor, struggling household[cite: 545]. Her hair was untidily dressed, her skirts were awry, and her hands were red from the constant scrubbing and housework[cite: 540, 545]. When she met Madame Forestier at the Champs Élysées, her friend did not recognize her and was 'astonished' to be addressed so familiarly by such a 'common woman'[cite: 565, 569]. This transformation is a visual representation of the 'dreadful debt' she had paid with her youth and beauty[cite: 537]. It highlights the tragic irony that her quest for a single night of elegance led to a lifetime of looking like a commoner."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Describe the internal and external reactions of M. Loisel when the necklace was first lost.",
+      "answer": "When Mathilde realized the necklace was gone, M. Loisel was immediately 'distraught' and stood up in shock[cite: 454]. He could not believe the news, stammering 'What!... How! ...That's impossible!' as the weight of the disaster hit him[cite: 454]. Despite his exhaustion from the party, he immediately put his clothes back on to go out and search the entire route they had walked [cite: 514-515]. He spent the night in a desperate hunt, visiting the police, newspapers, and cab companies in search of a 'glimmer of hope'[cite: 518]. When he returned at seven o'clock having found nothing, he looked aged and hollow from the stress[cite: 516, 524]. His reaction shows that he immediately recognized the gravity of the situation and was willing to do anything to fix it."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the significance of the final revelation: 'Mine was an imitation!'.",
+      "answer": "The final sentence of the story reveals that the original necklace was an imitation worth 'five hundred francs at most,' providing a devastating blow to Mathilde[cite: 588]. This revelation makes the ten years of 'drudgery' and 'miserable' poverty the Loisels endured completely meaningless[cite: 539, 541]. It highlights the central irony that they sacrificed their lives, youth, and inheritance to replace a fake jewel with real diamonds worth thirty-six thousand francs[cite: 533, 584]. This moment serves as a harsh critique of a society obsessed with appearances, where a cheap imitation can look just as good as the real thing[cite: 585]. It also emphasizes the tragedy of Mathilde's lack of honesty, as a single confession could have saved her from a decade of suffering. Ultimately, it leaves the reader reflecting on the 'fickle' nature of life and the high cost of vanity[cite: 546]."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "How does the author use the 'Champs Élysées' setting for the final meeting?",
+      "answer": "The Champs Élysées is one of the most famous and beautiful avenues in Paris, providing a sharp contrast to Mathilde's current 'commoner' life[cite: 565]. It is a place where people of all classes walk, and it is here that Mathilde, looking old and worn out, suddenly sees the 'still young, still beautiful' Madame Forestier[cite: 565]. This setting highlights the vast social and physical gap that has grown between the two former schoolmates over ten years. Mathilde feels 'emotional' in this grand setting, deciding that now that her debt is paid, she can finally be honest [cite: 566-567]. The public, sunny environment of the avenue makes the shock of the final revelation feel even more exposed and tragic. It is the site where Mathilde’s 'proud and innocent pleasure' is permanently shattered[cite: 586]."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Discuss the different forms of verbs explained in the 'Language Study' section.",
+      "answer": "The textbook provides a table of verb forms including the base form, -s form, past tense, present participle, and past participle[cite: 631]. The base form is used for infinitives like 'You may go' or in orders like 'Go home' [cite: 632-633]. The -s form is specifically for third-person singular subjects in the simple present tense, such as 'she gives'[cite: 635]. The present participle, or the -ing form, shows continuous action like 'I am eating'[cite: 638]. Finally, the past participle is used with 'have' to show completed actions, as in 'They have come,' or in passive constructions [cite: 640-641]. Mastering these forms allows students to accurately describe the sequence of events in Mathilde's long struggle."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What does Mathilde's 'proud and innocent pleasure' tell us about her character at the end?",
+      "answer": "Just before the final revelation, Mathilde smiles with 'proud and innocent pleasure' after telling Jeanne about the replacement[cite: 586]. This shows that despite her years of misery, she felt a sense of moral victory and 'heroic' accomplishment for having paid her debt[cite: 536, 582]. She was proud that she had successfully replaced the 'treasure' with something identical without her friend ever noticing[cite: 585]. Her pleasure was 'innocent' because she truly believed she had done the honorable thing by sacrificing her life for a friend’s property. It reveals that her character had evolved from a vain dreamer into someone who valued hard work and the clearing of one's conscience. Tragically, this newfound pride makes the discovery of the necklace’s true value even more heartbreaking."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does the story 'The Necklace' illustrate the fickleness of life?",
+      "answer": "The story explicitly notes that life is 'fickle' and that 'how little is needed for one to be ruined or saved!'[cite: 546]. Mathilde's entire life was destroyed by a single night of enjoyment and the accidental loss of a borrowed object[cite: 445, 451]. A few hours of 'ecstasy' and success were followed by three thousand six hundred and fifty days of hard physical labor and poverty[cite: 439, 544]. If she had not lost the necklace, or if she had simply told the truth, her life would have remained comfortably middle-class. The revelation at the end that the trouble was caused by an 'imitation' underscores how a small misunderstanding can have catastrophic consequences[cite: 588]. It teaches that fate is unpredictable and can turn against someone over the most trivial of things."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze Mathilde's reaction to visiting her schoolmate Madame Forestier in Part I.",
+      "answer": "Mathilde avoided visiting her rich friend because the contrast between their lives was too painful for her to bear[cite: 402]. Every visit left her feeling 'misery' and 'regret' as she returned to her own poorly furnished house[cite: 402]. After seeing Jeanne’s wealth, she would 'weep with despair' for days, consumed by envy and a sense of unfairness[cite: 402]. This shows that Mathilde did not value friendship for its own sake but viewed it through the lens of social status and material possessions. Her friend’s mirrored wardrobe and boxes of jewels only served to remind her of what she lacked[cite: 422]. This deep-seated resentment is what eventually drove her to borrow the necklace that would ruin her life."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain the role of 'non-finite' or 'infinitive' forms as discussed in the text.",
+      "answer": "A non-finite form or an infinitive is a verb that names an action but does not change its form based on tense, number, or person [cite: 345-346]. In the sentence 'How did people first begin *to drink* tea?', 'to drink' is an infinitive used with 'to'[cite: 347]. Infinitives can also be used without 'to,' as seen in the phrase 'Can I *read* the book?'[cite: 351]. The base form of a verb often serves as an infinitive, providing a way to express a general action without anchoring it to a specific time[cite: 632]. The 'Language Study' section emphasizes that identifying these forms helps in understanding complex sentence structures[cite: 348]. For students, recognizing infinitives in 'The Necklace' can help them understand the ongoing desires and actions of the characters[cite: 349]."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe the setting of the Ministry party and Mathilde's success there.",
+      "answer": "The party held on January 18th at the Ministry was the grand social occasion Mathilde had always dreamed of[cite: 406]. In her new dress and superb diamond necklace, she was 'prettier than all the other women—elegant, gracious, smiling, and full of joy'[cite: 444]. She became the center of attention, with all the men noticing her, asking her name, and wanting to be introduced[cite: 443]. Mathilde danced 'wildly, with passion,' completely losing herself in the 'triumph of her beauty and success'[cite: 445]. For a few hours, she floated in a 'cloud of happiness,' feeling she finally belonged to the world of luxuries she felt entitled to[cite: 397, 445]. This brief moment of glory was the peak of her life, making the subsequent loss even more traumatic."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How did M. Loisel raise the money he borrowed, and what were the consequences?",
+      "answer": "M. Loisel had to raise eighteen thousand francs beyond his father's inheritance to buy the replacement necklace[cite: 531]. He raised this massive sum by 'dealing with every type of money-lender' and making 'ruinous agreements'[cite: 532]. He gave notes and signed contracts that placed a 'dreadful debt' on his family[cite: 532, 537]. The consequence was a decade of 'the horrible life of the very poor,' where every spare 'sou' had to go toward interest and repayment[cite: 536, 541]. He had to work extra hours every single evening doing accounts and copying manuscripts late into the night[cite: 543]. His health and youth were sacrificed alongside Mathilde’s beauty to maintain a secret that was ultimately based on a misunderstanding."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "What does the phrase 'a hollow, pale figure' suggest about M. Loisel's state after searching?",
+      "answer": "When M. Loisel returned in the evening after searching for the lost necklace, he is described as 'a hollow, pale figure'[cite: 520]. This imagery suggests that the stress and lack of sleep had physically drained him, leaving him looking like a ghost of his former self. 'Hollow' implies that he felt empty and hopeless after finding 'nothing' at the police station or cab companies[cite: 517, 520]. His 'pale' complexion reflects the shock and fear of the financial ruin that was now inevitable[cite: 519]. This description highlights that the disaster affected him just as deeply as it did Mathilde, despite it not being his mistake. It emphasizes the physical toll that the search and the subsequent debt took on his body and spirit."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Evaluate the 'Alternative Ending' idea: What if Mathilde had discovered the diamonds were real at the end?",
+      "answer": "The 'English Workshop' asks students to imagine what would happen if Jeanne Forestier discovered the replacement diamonds were real[cite: 623]. If Jeanne realized she now possessed a necklace worth thirty-six thousand francs in place of her 500-franc fake, she might feel a moral obligation to return it to the Loisels[cite: 588, 624]. This would theoretically make Mathilde 'happy' because it would restore her wealth and validate her ten years of labor[cite: 624]. However, even if the money were returned, it could not give back the ten years of youth and beauty that Mathilde had already lost[cite: 545]. Such an ending would turn the tragedy into a tale of ultimate reward for honesty, but it would lose the original story's powerful message about the vanity of appearances. It shows that some things, like time and dignity, cannot be bought back with diamonds."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe the 'odious labours of the kitchen' that Mathilde had to perform.",
+      "answer": "The 'odious labours of the kitchen' were the household tasks Mathilde found most hateful and degrading during her years of poverty[cite: 539]. She spent her days washing greasy pots and pans, using her 'rosy nails' to scrub the 'grease on the bottom of the pans'[cite: 540]. She was responsible for washing the 'dirty linen' and the 'shirts and dishcloths' of the household, which she hung on a line to dry[cite: 540]. Every morning, she had to carry the heavy garbage down to the street and then carry up all the water for the house[cite: 540]. These chores were a constant reminder of the luxury she had lost and the 'drudgery' she was now trapped in[cite: 539]. This physical labor was the price she paid for her brief moment of 'triumph' at the ball[cite: 445]."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How does the author use the phrase 'sadly, it was all over, for her' to mark a turning point?",
+      "answer": "The phrase 'sadly, it was all over, for her' is used as Mathilde and her husband return home from the party at 4 a.m.[cite: 446, 449]. It marks the exact moment when her dream world of aristocrats, success, and beauty ended and her real life resumed[cite: 401, 445]. At the time, she thought it was 'over' because the party had ended and she had to return to her modest house[cite: 449]. However, the sentence carries a double meaning, as it also marks the end of her comfortable middle-class life forever[cite: 451]. Once she realized the necklace was lost, her 'glory' was replaced by 'panic' and a 'frightful disaster'[cite: 450, 453, 519]. This turning point transitions the story from a tale of social ambition into a tragedy of survival."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Analyze the table of verb forms and how they show continuous vs. completed action.",
+      "answer": "The 'Language Study' table shows that the present participle (-ing form) is used with 'be' to show 'continuous action,' such as 'I am eating'[cite: 631, 638]. In the story, this is seen in constructions like 'He sat *copying* a manuscript,' showing a task that lasted for a long duration[cite: 639]. Conversely, the past participle is used with 'have' to show 'completed action,' such as 'I have eaten' or 'They have come'[cite: 631, 640]. This form is also used in specific descriptions like 'They looked at each other, *stunned!*' to show the result of a sudden event[cite: 641]. By using these different forms, the author can distinguish between the Loisels' ongoing ten-year struggle and the sudden moments of shock that defined their lives. Understanding these nuances helps students follow the story's timeline more accurately."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the 'Turn by Turn Story' activity and its value in group learning.",
+      "answer": "The 'Turn by Turn Story' activity involves a group of 6-8 people building a narrative one sentence at a time based on a familiar object [cite: 378-380]. This exercise teaches students the value of collaborative creativity and the importance of listening to others' contributions. It mirrors the way Guy de Maupassant builds 'The Necklace' through a series of logical events—an invitation leads to a dress, which leads to a necklace, which leads to a debt. By participating, students learn how small details can lead to a 'build' in a story’s plot [cite: 382-383]. It also helps them practice using different 'describing words' or adjectives to make their fictional world more vivid[cite: 198]. This group work builds social skills and makes the study of narrative structure more engaging and practical."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize how the events of Part I and Part II fundamentally changed Mathilde's life.",
+      "answer": "The events of Part I, including the invitation and the borrowing of the necklace, changed Mathilde's life by giving her a taste of the 'luxury' and 'ecstasy' she had always craved[cite: 397, 439]. However, the loss of the necklace at the end of Part I marked the beginning of her total ruin[cite: 451]. In Part II, her life shifted from one of mental dissatisfaction to one of severe physical 'drudgery' to pay off a thirty-six thousand franc debt[cite: 533, 539]. She lost her beauty, her youth, and her social standing, eventually looking like a 'hard' and 'common' woman[cite: 545, 569]. The final discovery that the original necklace was a fake rendered her ten-year sacrifice a meaningless tragedy[cite: 588]. Ultimately, these events taught her that honesty and contentment are more valuable than the 'fickle' world of appearances[cite: 546]."
+    }
+  ]
+}

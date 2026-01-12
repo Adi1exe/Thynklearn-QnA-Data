@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.2.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Please Listen !"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the main request of the speaker in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To listen without advising",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "To listen without advising"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What does the speaker dislike when sharing feelings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Giving advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Giving advice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the difference between hearing and listening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening involves understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening involves understanding"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who is compared to a good listener in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "God",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "God"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What feeling does unwanted help create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and inadequacy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arguing back",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Giving commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and inadequacy"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main request made by the speaker in the poem?",
+      "answer": "The speaker's main request is simply for the other person to listen to them without giving advice or trying to solve their problems[cite: 587, 596]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does the listener do that makes the speaker feel they haven't been heard?",
+      "answer": "The speaker feels unheard when the listener starts giving advice instead of just listening[cite: 588]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "According to the speaker, what is the result of being told why they shouldn't feel a certain way?",
+      "answer": "The speaker says that when a listener tells them why they shouldn't feel a certain way, the listener is 'trampling on my feelings' [cite: 590-591]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "When does the listener fail the speaker, according to the poem?",
+      "answer": "The listener fails the speaker when they feel they have to do something to solve the speaker's problem [cite: 593-594]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'Advice is cheap' in the context of the poem.",
+      "answer": "It means that advice is easy to find and readily available, often for a very low cost like in newspaper columns [cite: 598-599]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who are Dear Abby and Billy Graham mentioned in the text?",
+      "answer": "They are famous columnists who give advice in newspapers, referred to by the poet to show how common advice is[cite: 599, 611]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Does the speaker consider themselves helpless?",
+      "answer": "No, the speaker explicitly states, 'I am not helpless,' though they may be discouraged and faltering[cite: 600]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the negative effect of doing something for the speaker that they can do for themselves?",
+      "answer": "It contributes to the speaker's feelings of fear and inadequacy [cite: 601-602]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What should the listener do instead of giving advice or solving problems?",
+      "answer": "The listener should accept as a 'simple fact' that the speaker feels what they feel, no matter how irrational it seems [cite: 623-625]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What happens once the speaker's feelings are accepted as a fact?",
+      "answer": "The speaker can stop trying to convince the listener and focus on understanding what is behind those feelings [cite: 626-628]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How does the speaker plan to handle their 'irrational feelings'?",
+      "answer": "The speaker wants to get about the business of understanding what is behind the irrational feeling once it is accepted [cite: 627-628]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why does the speaker think prayer works sometimes?",
+      "answer": "The speaker thinks prayer works because God is mute, doesn't give advice, and just lets you work things out for yourself [cite: 632-633]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How is God described as a listener in the poem?",
+      "answer": "God is described as 'mute'—He doesn't try to fix things or offer advice, He just listens [cite: 632-633]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the final request made by the speaker to the listener?",
+      "answer": "The speaker asks the listener to 'please listen, and just hear me'[cite: 634]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Under what condition is the speaker willing to listen to the other person?",
+      "answer": "The speaker is willing to listen once the listener waits for their turn after hearing the speaker out [cite: 635-636]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'trampling' in the poem?",
+      "answer": "In this context, it means ignoring or hurting someone's feelings by not taking them seriously[cite: 591]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'faltering' as used in the poem?",
+      "answer": "It means being unsteady or hesitant, suggesting the speaker is struggling but still capable[cite: 600]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Define 'irrational' as explained in the glossary.",
+      "answer": "It means something that is illogical or without any reason or base[cite: 614]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the significance of '20 cents' in the poem?",
+      "answer": "It represents the low cost of buying a newspaper to get professional advice, highlighting that advice is not rare [cite: 598-599]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'cheap' found in the workshop?",
+      "answer": "The antonym (opposite) of cheap is 'expensive'[cite: 647]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'discouraged'?",
+      "answer": "The antonym of discouraged is 'encouraged'[cite: 648]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'irrational'?",
+      "answer": "The antonym of irrational is 'rational' or 'logical'[cite: 614, 648]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'clear' as per the English Workshop?",
+      "answer": "The antonym of clear is 'unclear' or 'vague'[cite: 651]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who is the author of the poem 'Please Listen!'?",
+      "answer": "The author of the poem is listed as 'Author Unknown'[cite: 637]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the maximum number of questions allowed in the 'Twenty Questions' game?",
+      "answer": "The maximum number of questions the rest of the group can ask is 20 [cite: 566-567]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the difference between 'hear' and 'listen' according to common understanding?",
+      "answer": "'Hear' is the physical act of perceiving sound, while 'listen' is a conscious effort to pay attention and understand the meaning behind the sounds[cite: 603]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Approximately how old is the speaker in the poem?",
+      "answer": "The speaker appears to be a teenager or a young person seeking understanding from an adult, likely a parent [cite: 606-607, 690]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who is the intended audience the speaker is talking to?",
+      "answer": "The speaker is likely talking to a parent, a teacher, or an older authority figure who habitually gives advice[cite: 608, 690]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What must have happened before the speaker decided to say all this?",
+      "answer": "The speaker likely had an experience where they tried to express their feelings but were met with unwanted advice or solutions instead of being heard [cite: 609, 674-681]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Does the speaker believe they can improve their own situation?",
+      "answer": "Yes, the speaker is confident that once their feelings are understood, the answers will become obvious and they can work it out themselves[cite: 621, 629, 633]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why does the speaker want the listener to accept 'irrational' feelings as a fact?",
+      "answer": "Accepting them as a fact allows the speaker to stop defending the feelings and start understanding the reasons behind them [cite: 623-628]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "When do 'irrational feelings' start to make sense?",
+      "answer": "They make sense when we understand the underlying causes or 'what's behind them' [cite: 630-631]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Is the poet willing to listen to the other person as well?",
+      "answer": "Yes, the poet says they will listen to the other person once they have had their own turn to be heard [cite: 635-636, 638-639]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'accept' as per the English Workshop?",
+      "answer": "The antonym of 'accept' is 'reject' or 'refuse'[cite: 651]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'simple'?",
+      "answer": "The antonym of 'simple' is 'complex' or 'difficult'[cite: 647]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'understand'?",
+      "answer": "The antonym of 'understand' is 'misunderstand'[cite: 650]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'inadequacy'?",
+      "answer": "The antonym of 'inadequacy' is 'adequacy' or 'sufficiency'[cite: 650]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What are some adjectives B might use in a dialogue to describe a book they loved?",
+      "answer": "B might use adjectives like 'amazing', 'very interesting', 'delightful', or 'superb'[cite: 665]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What are some adjectives B might use if they did not like a book?",
+      "answer": "B might say it was 'boring', 'too long', or simply state they 'didn't like it' [cite: 666-667]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "In the dialogue chart about arguments, what is a typical response to an argument with a friend?",
+      "answer": "A common response is to ask 'What about?' or react with 'Oh, no! Not again' [cite: 676-677]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What activity is suggested for students to track their social interactions?",
+      "answer": "The workshop suggests maintaining a diary for at least a week to write about interactions with people in their surroundings[cite: 688]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What should students record about their interactions in their diary?",
+      "answer": "They should note if the interactions were happy-unhappy, satisfactory-unsatisfactory, or enjoyable-stressful[cite: 689]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the informal letter activity in the workshop?",
+      "answer": "It allows teenagers to express thoughts from the poem to their parents, perhaps explaining their need to be heard[cite: 690]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "List three phrases used to ask for a friend's opinion.",
+      "answer": "Phrases include 'Do you think...?', 'Do you agree...?', and 'How do you feel about that?'[cite: 553, 556]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "List three phrases used to show total agreement.",
+      "answer": "Agreement phrases include 'I totally agree with you', 'Exactly/Absolutely!', and 'You are right' [cite: 537-539]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is a polite way to show partial agreement?",
+      "answer": "One can say 'I suppose so' or 'I don't know, I need to think about it'[cite: 540, 548]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How can you politely express total disagreement?",
+      "answer": "You can say 'I totally disagree' or 'No, I don't think so' [cite: 558-559]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'Let's agree to disagree!' mean?",
+      "answer": "It is a polite way to end a discussion where both people accept that they have different opinions and will not convince each other[cite: 562]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the leader's responsibility in the 'Twenty Questions' game?",
+      "answer": "The leader must choose an item from a textbook and give truthful answers to the group's questions[cite: 564, 569]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What kind of questions can be asked in 'Twenty Questions'?",
+      "answer": "Participants can ask 'Wh-' questions or 'Yes/no' questions, but not direct questions about the item itself [cite: 567-569]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does 'partial agreement' signify in a conversation?",
+      "answer": "Partial agreement means that a person agrees with some parts of an opinion but still has doubts or needs time to think further[cite: 546]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Give an example of a phrase used to express partial agreement.",
+      "answer": "A common phrase for partial agreement is 'I suppose so' or 'I don't know, I need to think about it'[cite: 540, 548]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'irrational' as provided in the workshop?",
+      "answer": "The antonym of 'irrational' is 'rational' or 'logical'[cite: 648]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Provide the antonym for the word 'inadequacy'.",
+      "answer": "The antonym for 'inadequacy' is 'adequacy' or 'sufficiency'[cite: 650]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Diary' activity suggested in the workshop?",
+      "answer": "The purpose is to record daily interactions with others and reflect on whether they were happy, satisfactory, or stressful [cite: 688-689]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What should a teenager focus on when writing the informal letter mentioned in the workshop?",
+      "answer": "The letter should focus on expressing the thoughts from the poem, specifically the need for parents to simply listen[cite: 690]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How can a student begin an informal letter to their parents as per the suggested draft?",
+      "answer": "It can begin with 'My dear...', 'Dearest...', or a casual 'Hi!' followed by an explanation of why they are writing[cite: 691]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why does the speaker insist 'I can do for myself'?",
+      "answer": "The speaker wants to assert their independence and prove they are not helpless, even if they are currently discouraged[cite: 600]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What happens when someone does a task for the speaker that the speaker can do themselves?",
+      "answer": "It results in the speaker feeling more fearful and increases their sense of inadequacy [cite: 601-602]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the only thing the speaker asks for in the poem?",
+      "answer": "The speaker simply asks for the listener to hear them without talking or trying to 'fix' things [cite: 596-597, 634]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain the significance of the '20 cents' reference.",
+      "answer": "It refers to the low cost of a newspaper containing advice columns, suggesting that advice is common and easy to get [cite: 598-611]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "According to the poet, why is prayer effective for some people?",
+      "answer": "Prayer works because God is 'mute' and doesn't give advice; He simply listens and lets the person work it out themselves [cite: 632-633]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is the core difference between 'hearing' and 'listening' in this poem?",
+      "answer": "Hearing is just perceiving sound, whereas listening involves accepting the speaker's feelings as a fact without judgment [cite: 597, 623-624]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "According to the Chit-Chat section, what are some common things that make people laugh?",
+      "answer": "People usually laugh at jokes, funny cartoon films, or humorous stories told by comedians [cite: 544, 319-321]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is a common trigger for anger mentioned in the Warming up section?",
+      "answer": "While not explicitly listed, the section asks 'What makes you angry?', prompting students to think about personal triggers like being misunderstood[cite: 547]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How can you ask for a friend's opinion in a polite way?",
+      "answer": "You can use phrases like 'What do you think?', 'What is your opinion?', or 'How do you feel about that?' [cite: 554-556]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the leader's role in the 'Twenty Questions' game?",
+      "answer": "The leader chooses an item, writes it on a slip, and must give truthful answers to the group's questions[cite: 564, 569]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What types of questions are permitted in the 'Twenty Questions' activity?",
+      "answer": "The group can ask 'Wh-' questions or 'Yes/no' questions to guess the chosen item[cite: 569]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'discouraged'?",
+      "answer": "The antonym of 'discouraged' is 'encouraged'[cite: 648]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'accept'?",
+      "answer": "The antonym of 'accept' is 'reject' or 'refuse'[cite: 651]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'Let's agree to disagree' imply in a discussion?",
+      "answer": "It implies that both parties accept they have different opinions and choose to end the argument politely[cite: 562]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does the speaker feel when the listener starts giving advice immediately?",
+      "answer": "The speaker feels that the listener has failed to do what was actually asked of them[cite: 588]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is meant by 'trampling on my feelings' in the poem?",
+      "answer": "It refers to the act of dismissing or invalidating someone's emotions by telling them they shouldn't feel that way [cite: 590-591]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why does the speaker state they are 'not helpless'?",
+      "answer": "The speaker wants to clarify that although they may be faltering, they still have the capability to solve their own problems[cite: 600]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is the final condition for the speaker to listen to the other person?",
+      "answer": "The other person must wait for their turn to talk after the speaker has been heard first [cite: 635-636]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why does the speaker insist 'I can do for myself'?",
+      "answer": "The speaker wants to clarify that although they may feel discouraged, they are not helpless and are capable of handling their own needs[cite: 600]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "According to the speaker, what contributes to their 'fear and inadequacy'?",
+      "answer": "Fear and inadequacy are increased when someone else does something for the speaker that the speaker can and needs to do for themselves [cite: 601-602]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What does the speaker believe is the key to making 'irrational feelings' make sense?",
+      "answer": "The speaker believes irrational feelings make sense once we understand what is behind them [cite: 630-631]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why does the author think prayer works for some people?",
+      "answer": "It works because God is mute and does not give advice or try to fix things; He simply listens[cite: 632]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is God's role as a listener according to the poem?",
+      "answer": "God just listens and lets the person work out their problems for themselves[cite: 633]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What promise does the speaker make if the listener hears them out first?",
+      "answer": "The speaker promises that if the listener waits for their turn, the speaker will then listen to them [cite: 635-636]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'simple' as requested in the workshop?",
+      "answer": "The antonym of 'simple' is 'complex' or 'complicated'[cite: 647]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'discouraged'?",
+      "answer": "The antonym of 'discouraged' is 'encouraged'[cite: 648]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Provide the antonym for 'irrational' from the English Workshop.",
+      "answer": "The antonym for 'irrational' is 'rational' or 'logical'[cite: 648]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'clear'?",
+      "answer": "The antonym of 'clear' is 'vague' or 'unclear'[cite: 651]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'accept'?",
+      "answer": "The antonym of 'accept' is 'reject' or 'refuse'[cite: 651]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "List two phrases used to ask for a friend's opinion.",
+      "answer": "You can ask, 'Do you think...?' or 'What is your opinion?'[cite: 553, 555]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Give an example of a phrase indicating 'partial agreement'.",
+      "answer": "A phrase for partial agreement is 'I suppose so' [cite: 546-548]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Provide a phrase for 'total disagreement'.",
+      "answer": "A phrase for total disagreement is 'I totally disagree'[cite: 559]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the rule about direct questions in the 'Twenty Questions' game?",
+      "answer": "You cannot ask a direct question such as 'What do you have in mind?' [cite: 567-568]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What types of questions are allowed in 'Twenty Questions'?",
+      "answer": "Participants can ask 'Wh-' questions or 'Yes/no' questions[cite: 569]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Name three topics suggested for the 'Agreements and Disagreements' activity.",
+      "answer": "Suggested topics include latest fashion, TV programmes, and future occupations or careers [cite: 576, 580-581]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "In the dialogue about books, how does B describe a book they found superb?",
+      "answer": "B describes it as 'amazing,' 'very interesting,' or 'delightful'[cite: 665]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the 'usual' reason given for an argument ending in a fight in the dialogue chart?",
+      "answer": "The usual reason involves a cycle where 'I... and s/he...' which leads to them ending up fighting again [cite: 678-681]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What can the speaker stop doing once their feelings are accepted as a fact?",
+      "answer": "The speaker can stop trying to convince the listener of their perspective[cite: 626]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What 'business' does the speaker want to get about after being heard?",
+      "answer": "The speaker wants to get about the business of understanding what is behind their irrational feeling [cite: 627-628]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What happens when a listener starts giving advice instead of listening?",
+      "answer": "The speaker feels that the listener has not done what was asked of them[cite: 588]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why does the speaker describe advice as 'cheap'?",
+      "answer": "Because it is easily available for a small price, like 20 cents, in common newspaper columns [cite: 598-599]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Who are Dear Abby and Billy Graham according to the poem's context?",
+      "answer": "They are columnists in newspapers where people write in about their problems to get advice[cite: 611]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the final assurance the speaker gives the listener?",
+      "answer": "The final assurance is 'I will listen to you' once it is the listener's turn[cite: 636]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Analyze the primary conflict between the speaker and the listener in the first stanza.",
+      "answer": "The primary conflict in the first stanza arises from the listener's failure to provide the one thing the speaker has actually requested: simple attention. When the speaker asks to be heard, the listener immediately begins giving advice instead of listening, which the speaker views as a complete misunderstanding of their needs [cite: 587-588]. By offering solutions, the listener shifts the focus from the speaker's emotional state to an external problem-solving mode. This makes the speaker feel that their original request for empathy has been ignored or dismissed. The speaker emphasizes that the listener 'has not done what I asked,' setting a tone of frustration. This opening establishes that for the speaker, listening is an act of validation that advice often undermines."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "What does the speaker mean by 'trampling on my feelings', and why is unsolicited advice seen as harmful?",
+      "answer": "The speaker uses the strong metaphor 'trampling on my feelings' to describe how it feels when a listener tells them they shouldn't feel a certain way [cite: 589-591]. When a listener tries to logic away the speaker's emotions, it implies that those emotions are invalid, wrong, or unimportant. This 'trampling' causes emotional hurt because it prevents the speaker from feeling safe while being vulnerable. Unsolicited advice is seen as harmful in this context because it stops the natural process of self-expression. Instead of feeling supported, the speaker feels judged for having the feeling in the first place. Therefore, the listener's attempt to 'help' actually becomes a form of emotional aggression."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the speaker's view on 'Advice is cheap' and the references to 'Dear Abby' and 'Billy Graham'.",
+      "answer": "The speaker argues that 'Advice is cheap' because it is readily available for a very low cost and minimal effort[cite: 598]. By mentioning that for '20 cents' one can get advice from columnists like 'Dear Abby' and 'Billy Graham' in the same newspaper, the poet highlights that advice is a common commodity [cite: 598-599, 610-611]. This suggests that the speaker doesn't need more information or instructions on what to do; those are everywhere. What is actually rare and valuable is a person who will sit in silence and truly listen. The reference to famous advice columnists serves to diminish the importance of the listener's personal advice. It reminds the listener that their 'solutions' are likely not unique or what the speaker is truly seeking."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Why does the speaker insist that they are 'not helpless' and how does unwanted help affect them?",
+      "answer": "The speaker wants to assert their dignity by stating, 'I am not helpless,' even if they are currently feeling discouraged or faltering[cite: 600]. They believe that they possess the inner strength to solve their own problems once they have been heard. When the listener does something for the speaker that the speaker is capable of doing themselves, it backfires. Instead of helping, it 'contributes to my fear and inadequacy' by sending a message that the speaker is incapable [cite: 601-602]. This creates a dependency that makes the speaker feel even more insecure about their abilities. True support, in the speaker's view, is trusting them enough to let them find their own way through the struggle."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the psychological process the speaker undergoes once their feelings are accepted as a fact.",
+      "answer": "The speaker describes a specific mental shift that happens when a listener 'accepts as a simple fact that I feel what I feel' [cite: 623-624]. As long as the listener is skeptical or offering advice, the speaker feels the need to spend energy 'trying to convince' them[cite: 626]. Once that burden is removed by simple acceptance, the speaker can finally focus on the 'business of understanding' the root cause of the feeling [cite: 627-628]. This process of self-discovery leads to a state where the 'answers are obvious,' and the need for external advice disappears[cite: 629]. Acceptance acts as the foundation that allows the speaker's own logic to take over. This shows that listening is the catalyst for the speaker's own problem-solving abilities."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Analyze the speaker's comparison between God and a good listener.",
+      "answer": "The poet suggests that prayer works for many people because 'God is mute' and does not try to 'fix things' or give advice[cite: 632]. Unlike human listeners who feel compelled to talk, God 'just listens and lets you work it out for yourself'[cite: 633]. This comparison elevates the act of silent listening to a divine or spiritual level. It implies that the most powerful form of support is one that provides a safe space for internal reflection without external interference. By being 'mute,' the listener (or God) allows the speaker to hear their own thoughts more clearly. This reinforces the poem's central theme that the answer lies within the speaker, not the listener. It suggests that silence is often more helpful than speech."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How does the poem redefine the roles of the 'Speaker' and the 'Listener'?",
+      "answer": "The poem reverses the traditional idea that a listener should be an active helper or advisor. Instead, it defines the ideal listener as someone who is almost passive, doing nothing but 'just hearing' the other person[cite: 597, 634]. The speaker, conversely, becomes the active party who is responsible for their own healing and problem-solving once the silence is provided. This redefinition removes the pressure from the listener to have all the answers and places the agency back with the speaker. It suggests that the most respectful thing a person can do is to remain silent while another person processes their emotions. The relationship becomes one of mutual respect for the speaker's autonomy. Ultimately, it teaches that being a 'good listener' requires great restraint."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the speaker's promise to listen in the final stanza.",
+      "answer": "In the final lines, the speaker makes a fair deal with the listener: 'Wait a minute for your turn and I will listen to you' [cite: 635-636]. This is significant because it shows that the speaker is not just being selfish; they understand that communication is a two-way street. However, they insist that their need to be heard must be met *first* before they can be in the right state of mind to listen to others. This highlights the importance of 'turn-taking' in healthy relationships. It also validates that the speaker is capable of the same empathy they are currently asking for. By setting this boundary, the speaker models how a balanced conversation should actually work. It turns the poem from a simple complaint into a lesson on mutual communication."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "What is the author's message about 'Irrational Feelings' and their place in communication?",
+      "answer": "The speaker acknowledges that their feelings might sometimes be 'irrational' or illogical[cite: 625]. However, they argue that these feelings still need to be accepted as a 'simple fact' of their current state [cite: 623-624]. The poem suggests that irrational feelings 'make sense when we understand what's behind them' [cite: 630-631]. By asking the listener not to judge the irrationality, the speaker is asking for space to explore the hidden logic of their emotions. Once the 'why' becomes clear, the feeling often loses its irrational power and the solution becomes obvious[cite: 629]. This teaches readers that all emotions, even the confusing ones, have value and deserve to be heard."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "How can the 'Diary' activity suggested in the workshop help students apply the poem's themes?",
+      "answer": "The workshop suggests that students maintain a diary for a week to record their interactions and classify them as happy, stressful, or satisfactory [cite: 688-689]. This activity helps students become more aware of their own communication patterns and how they feel when they are (or aren't) being heard. By writing about their 'interactions with other people,' they can identify moments when they were 'trampled' or when they themselves failed to listen. Reflecting on whether an interaction was 'unhappy' or 'enjoyable' allows them to see the real-world impact of the poem's message[cite: 689]. It transforms the poetic concept of listening into a personal experiment in social intelligence. This practice builds self-awareness and empathy, which are core themes of the chapter."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Analyze the 'Warming up' Chit-Chat questions and how they prepare the student for the poem.",
+      "answer": "The Chit-Chat section asks students what makes them laugh, angry, sad, or happy[cite: 544, 547, 549, 551]. These questions are designed to get students thinking about their internal emotional world and how these feelings are triggered. By focusing on emotions like 'anger' and 'sadness,' it sets the stage for the poem's speaker, who is likely feeling one of these when asking to be heard. It helps students realize that emotions are universal but intensely personal. This preparation makes the speaker's request for 'acceptance' more relatable. Students are encouraged to consider their own need for a listener who doesn't judge their feelings. This establishes an emotional connection between the reader and the unknown author's text."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the value of the 'Twenty Questions' game in the context of effective communication.",
+      "answer": "The 'Twenty Questions' game requires a leader to think of an item and others to guess it by asking specific 'Wh-' or 'Yes/no' questions [cite: 563-569]. This game is valuable because it teaches students the art of active inquiry and how to narrow down information logically. It contrasts with the poem's theme of 'just listening' by showing when *active* questioning is actually appropriate. In the game, players must listen carefully to the leader's truthful answers to formulate their next question[cite: 569]. It builds vocabulary and teaches students to be precise with their words. While the poem argues against unsolicited advice, the game promotes the skill of purposeful, respectful questioning. This provides a balanced view of communication skills in the classroom."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "What are some 'Agreement' and 'Disagreement' phrases mentioned, and why are they useful in daily life?",
+      "answer": "The textbook provides useful phrases for agreement like 'I totally agree with you' and 'Exactly/Absolutely!' [cite: 537-538]. For disagreement, it suggests 'I totally disagree' or the more polite 'I'm not sure about that'[cite: 559, 561]. These phrases are essential tools for maintaining respectful dialogue, especially when opinions differ. Learning to say 'Let's agree to disagree!' is particularly useful for ending an unproductive argument without hurting a relationship[cite: 562]. These linguistic tools help students express their boundaries and viewpoints clearly. They provide a structured way to navigate social conflicts, which is a practical application of the communication themes in Unit 2. Using these phrases makes interactions more predictable and less stressful."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Describe the content and purpose of the 'Informal Letter' activity in the English Workshop.",
+      "answer": "The workshop asks students to write an informal letter from a teenager to a parent, expressing thoughts derived from the poem [cite: 690-691]. This activity encourages students to use the poem as a 'voice' for their own potentially unheard feelings. It allows them to practice 'first-person' narrative writing while addressing a real-life authority figure in a safe, academic context. The suggested opening, 'I wanted to talk to you about this, but then I thought I will be able to express myself better in a letter,' acknowledges that writing is sometimes easier than speaking[cite: 691]. This exercise bridges the gap between literary analysis and personal communication. It helps teenagers learn to advocate for their own emotional needs politely. Ultimately, it teaches the value of the written word in resolving misunderstandings."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How does the speaker differentiate between 'hear' and 'listen' throughout the poem?",
+      "answer": "Throughout the poem, 'hear' is used to describe the simple sensory reception of the speaker's voice: 'Don't talk or do—just hear me'[cite: 597]. In contrast, 'listen' is portrayed as a much deeper act of emotional acceptance and attention. The speaker asks the listener to 'listen' so that their feelings are validated as facts[cite: 587, 592]. 'Hearing' is the first step, but 'listening' involves not jumping to conclusions or solutions. When the listener fails to 'listen' in this deeper way, they are failing the speaker's core request. The poem argues that while anyone can hear, very few people have the patience to truly listen. This distinction is the foundation of the speaker's entire plea."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the phrase 'God is mute' and its implication for human listeners.",
+      "answer": "The phrase 'God is mute' serves as a model for how human beings should ideally behave when someone is in distress[cite: 632]. By being 'mute,' God does not interrupt, judge, or provide unwanted shortcuts to problems. This silence is what allows the person praying to find their own answers. The implication for human listeners is that their 'talk' is often an obstacle rather than a help. The speaker is suggesting that if we want to be as helpful as God, we should learn to be silent and just 'be there' for the other person[cite: 633]. It highlights that silence is not a sign of indifference, but of deep respect for the other person's process. Human 'noise' is often just an attempt to make the *listener* feel more comfortable, not the speaker."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Analyze the tone of the poem and how it shifts from the beginning to the end.",
+      "answer": "The tone of the poem begins as one of frustration and direct demand, with the speaker correcting the listener's mistakes: 'you have not done what I asked'[cite: 588]. It feels somewhat accusatory as it lists the ways the listener has 'failed' or 'trampled' on the speaker's feelings[cite: 591, 594]. However, toward the middle, the tone becomes more introspective and explanatory as the speaker talks about 'irrational feelings' and self-worth[cite: 625, 628]. By the end, the tone shifts into a calmer, more hopeful plea, ending with a fair promise of mutual listening [cite: 634-636]. This shift mirrors the very process the speaker is describing: once the frustration is voiced and understood, the speaker becomes more rational and cooperative. The final request for a 'minute' shows a softening of the speaker's initial intensity."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What does the speaker mean by 'faltering' but 'not helpless', and how does this relate to autonomy?",
+      "answer": "The speaker admits to being 'maybe discouraged and faltering,' which means they are struggling and might be unsteady in their current situation[cite: 600]. However, they immediately clarify that they are 'not helpless,' meaning they still possess the power to make their own decisions. This distinction is crucial for maintaining 'autonomy,' or the right to self-govern. When a listener treats a 'faltering' person as if they are 'helpless' by doing things for them, they are stripping that person of their autonomy. This contributes to a sense of 'inadequacy,' making the person feel even weaker[cite: 602]. The speaker is essentially saying: 'I have the strength to fix this, I just need you to listen while I find it.' This request for space is a request for the listener to respect the speaker's individual power."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain how the 'Agreements and Disagreements' activity builds real-world social skills.",
+      "answer": "The activity asks students to form pairs and prepere a list of ten things where they have different or same opinions, such as 'Clothes, latest fashion' or 'TV programmes' [cite: 572-581]. This builds social skills by forcing students to articulate their viewpoints while also listening to a peer's perspective. They must use specific phrases to navigate these differences politely, such as 'I'm not sure about that' instead of being blunt[cite: 561]. This exercise mirrors the poem's theme by showing that two people can have 'different opinions' and still have a successful interaction[cite: 572]. It teaches 'negotiation' and 'empathy' in a controlled environment. By discussing topics like 'Traffic' or 'Careers,' students learn that disagreement is a natural part of life, not a reason for conflict[cite: 578, 580]. It prepares them for the diverse viewpoints they will encounter in adult society."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Why is the speaker so resistant to advice, even if it is meant to be 'good'?",
+      "answer": "The speaker is resistant to advice because advice, by nature, is an external solution that skips the speaker's internal emotional processing. Even 'good' advice is seen as a failure if the speaker hasn't been heard first [cite: 593-594]. For the speaker, the *feeling* itself is what needs attention, not the problem that caused it. Advice can feel like a shortcut that dismisses the speaker's pain or confusion. Furthermore, the speaker notes that advice 'contributes to my fear and inadequacy' because it implies the speaker couldn't think of the solution themselves [cite: 601-602]. By rejecting advice, the speaker is prioritizing their own growth and 'understanding what's behind' their feelings[cite: 628]. They believe that once they understand the feeling, the 'obvious' answer will naturally appear."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the connection between the speaker's 'discouraged' state and their request for silence.",
+      "answer": "When a person is 'discouraged and faltering,' their confidence is already low[cite: 600]. In this state, they need to feel that their reality is valid and that they are still a capable individual. A listener's silence provides a safe environment where the discouraged person doesn't have to defend themselves or 'convince' anyone else of their state[cite: 626]. This silence acts as a 'holding space' where the speaker can gather their thoughts and rebuild their confidence. If the listener speaks, it can feel like another obstacle or a sign that the listener doesn't trust the speaker to handle things. Therefore, the request for silence is actually a request for the listener to show 'trust' in the speaker's ultimate ability. Silence is the most encouraging thing a person can offer someone who is feeling down."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Analyze the role of the 'Author Unknown' label for this poem.",
+      "answer": "The label 'Author Unknown' (or 'Anonymous') for 'Please Listen!' adds to the universal nature of the poem's message[cite: 637]. It suggests that the feelings expressed—the need to be heard without being 'fixed'—are common to many people across different cultures and ages. The poem does not belong to one specific person's story, but rather describes a fundamental human psychological need. This anonymity allows every reader to project their own experiences onto the speaker. Whether the reader is a teenager talking to a parent or an adult talking to a friend, the 'wordless cry' for listening remains the same. It turns the poem into a collective plea for more empathetic and silent communication in our lives. The lack of an author makes the 'voice' of the poem feel like it could be anyone's."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How does the 'Dialogue Chart' in the workshop help students practice empathetic listening?",
+      "answer": "The Dialogue Chart provides templates for conversations about books or arguments with friends [cite: 653-686]. In the argument template, student 'B' is given responses like 'Sad!' or 'Why don't you...?' which encourage them to engage with their friend's struggle[cite: 682, 684]. Student 'A' is shown explaining that they 'tried to explain but...' showing the difficulty of being heard[cite: 683, 685]. By filling in these blanks, students have to imagine themselves in these social situations and choose the right words to provide support. This practice helps them internalize the poem's message that simply acknowledging a friend's feelings ('Sad!') can be more meaningful than just giving a solution. It turns 'listening' from a passive state into an active, practiced skill. This exercise builds the linguistic and emotional vocabulary needed for real-life friendships."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the significance of the line 'And when that's clear, the answers are obvious'.",
+      "answer": "This line contains the poem's central 'Eureka' moment or insight[cite: 629]. It suggests that most of our problems are not actually intellectual puzzles, but emotional blocks. Once the 'irrational feeling' is understood and 'what's behind' it is brought to light, the mental fog clears away [cite: 628, 630-631]. The 'obvious' answer was always there, but it was hidden by the need to be heard and the noise of unwanted advice. This highlights the speaker's belief in their own wisdom. It argues that a person doesn't need a teacher or an advisor; they just need a 'sounding board' to hear their own thoughts. The clarity comes from within the speaker's own mind, facilitated by the listener's silence."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Discuss the 'Antonyms' activity in the English Workshop and its linguistic benefit.",
+      "answer": "The English Workshop asks students to write the opposites of words like 'cheap,' 'discouraged,' and 'irrational' [cite: 647-648]. This activity is linguistically beneficial because it forces students to think about the precise meaning of the poem's vocabulary. For example, the opposite of 'irrational' is 'rational' or 'logical,' which helps students understand the speaker's struggle to find logic in their feelings[cite: 648]. Identifying 'expensive' as the opposite of 'cheap' reinforces the idea that silence and listening are rare and 'costly' in terms of effort[cite: 647]. Finding the opposite of 'accept' (reject/refuse) highlights the speaker's deepest fear: that their feelings will be turned away[cite: 651]. This grammar exercise deepens the student's comprehension of the poem's emotional subtext. It turns a simple vocabulary list into a study of the speaker's internal world."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "How does the poem 'Please Listen!' relate to the themes of Chapter 2.2 'Helen Keller and Anne Sullivan'?",
+      "answer": "Both chapters explore the profound power of 'reaching' another person through communication. In Chapter 2.2, Helen Keller describes her life as 'darkness and emptiness' because she had no way to express her thoughts until her teacher 'revealed all things' to her through touch[cite: 172, 201]. In 'Please Listen!', the speaker is also in a state of emotional isolation, pleading for a listener to bridge the gap and 'just hear me'[cite: 597, 634]. While Helen's barrier was physical, the speaker's barrier is the lack of empathy from others. Both texts emphasize that being 'heard' or 'understood' is the key to setting one's soul free[cite: 232, 634]. They both highlight that a good teacher or friend is someone who provides the 'light' of attention and understanding."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the word 'Discouraged' in the context of the poem's speaker.",
+      "answer": "The word 'discouraged' suggests that the speaker has lost their confidence or enthusiasm, perhaps due to repeated attempts to be heard that have failed[cite: 600]. It is paired with 'faltering,' showing that the speaker is currently in a vulnerable position. In this state, being given advice can feel like another weight to carry, rather than a help. The speaker needs 'encouragement,' which the poem defines not as 'talking' but as 'listening.' By providing a silent ear, the listener helps the discouraged speaker to stop 'convincing' others and start believing in themselves again[cite: 626]. Understanding this state helps the reader empathize with why the speaker is being so insistent. It shows that listening is a form of emotional first-aid for those who are struggling."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "What is the 'Business of understanding' that the speaker mentions?",
+      "answer": "The speaker refers to the 'business of understanding' as the serious task of analyzing their own complex and often irrational emotions [cite: 627-628]. It is the work of finding out 'what's behind' a feeling to make it make sense[cite: 631]. This is presented as something the speaker must do themselves; it cannot be done by the listener. The listener's only role is to provide the 'space' where this business can happen. This phrase treats emotional processing as a constructive, productive activity. It implies that understanding oneself is a difficult job that requires focus and quiet. The speaker is asking for the listener to respect the 'work' they are doing on their own mind."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the potential age and relationship between the speaker and the 'You' in the poem.",
+      "answer": "The textbook implies that the speaker is a teenager, as the informal letter activity is written from a 'teenager to his/her parent'[cite: 690]. This relationship often involves a struggle for autonomy, where parents feel the need to give advice to 'protect' their child. The speaker's plea for independence ('I can do for myself') is a classic teenage sentiment[cite: 600]. The 'You' is likely an authority figure—a parent or teacher—who thinks their primary job is to solve the teenager's problems. This power dynamic explains why the speaker feels so 'trampled' on when advice is given[cite: 591]. The poem captures the universal friction between a young person's need for self-discovery and an adult's instinct to fix things. It serves as a bridge for both sides to understand the other's perspective."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How does the speaker view 'Prayer', and what does this say about their beliefs?",
+      "answer": "The speaker views prayer as a successful form of communication specifically because it is one-sided: 'God is mute'[cite: 632]. They believe that the 'work' of prayer is not done by God's intervention, but by the person praying being allowed to 'work it out for yourself'[cite: 633]. This suggests a belief in self-reliance and the therapeutic power of externalizing one's thoughts. It implies that the speaker doesn't necessarily expect a miracle or a divine answer, but rather values the divine 'silence' as a tool for clarity. This perspective treats God as the 'ultimate listener' who respects human autonomy. It shows that the speaker values the internal process over external solutions. For the speaker, prayer is the perfect model of a non-judgmental, silent interaction."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the difference between a 'wordless sensation' and a 'thought' based on the poem and workshop.",
+      "answer": "A 'wordless sensation' is a raw, physical feeling that has not yet been processed by the mind, such as the 'beating heart' mentioned in the poem[cite: 582, 223]. In contrast, a 'thought' is that same feeling once it has been identified and given a label or a name. The speaker argues that irrational feelings can only become 'thoughts' that make sense once they are understood [cite: 630-631]. The textbook also references this in Helen Keller's story, where 'each name gave birth to a new thought'[cite: 234]. This distinction highlights the power of language in organizing our internal chaos. The speaker is asking for a listener to wait while they translate their wordless sensations into clear thoughts. Listening provides the time needed for this translation to happen."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Analyze the structural importance of the repetition of 'When I ask you to listen to me'.",
+      "answer": "This phrase is repeated at the beginning of several stanzas to create a rhythmic and insistent tone[cite: 587, 589, 592]. It acts as a constant reminder of the speaker's original, unmet request. Each time the phrase is repeated, it is followed by a different way the listener has failed: giving advice, telling them how to feel, or trying to solve the problem[cite: 588, 590, 593]. This repetition builds tension and highlights the frequency with which people ignore the simple act of listening. It makes the speaker's plea feel more urgent and personal. Structurally, it grounds the poem in a 'litany' of grievances that finally breaks when the speaker explains *why* acceptance matters. It makes the reader (the 'listener') feel the weight of their own common mistakes."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Discuss the 'Agreements and Disagreements' activity using the example of 'TV programmes'.",
+      "answer": "When students discuss 'TV programmes' in the pairs activity, they might have widely 'different opinions' on what is worth watching[cite: 572, 581]. For example, one student might love a specific show while the other finds it 'boring'[cite: 666]. This is where the agreement/disagreement phrases become vital. A student can say 'I totally disagree' if they feel strongly, or use a more partial phrase like 'I suppose so, but...' if they see their friend's point[cite: 559, 548]. This mirrors the poem's message by teaching students to accept their friend's 'feeling' about the show as a fact, even if they don't agree with it. It builds the skill of maintaining a friendship despite having a 'clash' of interests. By the end, they might use the phrase 'Let's agree to disagree!' to move on to the next topic peacefully[cite: 562]."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "What does 'Trampling on my feelings' imply about the power dynamic in a conversation?",
+      "answer": "The word 'trampling' implies a power dynamic where the listener is 'stepping on' or dominating the speaker's internal world[cite: 591]. It suggests that the listener feels they have the right to 'fix' or change the speaker's emotions, which is a position of superiority. By telling the speaker how they *should* feel, the listener acts as a judge of the speaker's reality. This can make the speaker feel small, ignored, and invalidated. The poem argues for a more equal dynamic where both participants are seen as capable individuals. When the listener 'accepts' the feelings as a fact, the power is returned to the speaker to manage their own mind[cite: 623]. True listening is an act of humility that requires the listener to step down from their 'problem-solver' throne."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Summarize how a student can become a 'Good Listener' based on the poem's advice.",
+      "answer": "According to the poem, a good listener is someone who can remain silent and just 'hear' the other person without interrupting[cite: 597]. They should resist the urge to 'give advice' or solve the other person's problems[cite: 588, 593]. Most importantly, they must accept the speaker's feelings as a 'simple fact,' even if those feelings seem irrational or illogical[cite: 623, 625]. A good listener trusts the speaker to be 'not helpless' and capable of finding their own answers[cite: 600, 629]. They provide a safe space where the speaker doesn't feel judged or 'trampled' on[cite: 591]. Finally, they wait patiently for their 'turn' to speak, ensuring the other person has been fully heard first[cite: 635]. This approach requires patience, silence, and deep respect for the other person's autonomy."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "How does the 'Customer Care' activity from Chapter 2.3 provide a contrast to the 'Please Listen!' poem?",
+      "answer": "In the Chapter 2.3 activity, a customer calls specifically to *get advice* and have a 'problem solved' by an expert[cite: 508]. The mother *wants* the executive to tell her what to do: 'I am not getting connected'[cite: 508]. This is a professional interaction where giving solutions is the goal. In contrast, the poem 'Please Listen!' describes a personal, emotional interaction where giving advice is seen as a 'failure'[cite: 594]. The executive's role is to 'fix things,' while the listener's role in the poem is just to 'hear'[cite: 632, 634]. This contrast teaches students that different social situations require different types of listening. While technical problems need solutions, emotional problems often just need empathy and silence. Understanding this difference is key to social intelligence."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Discuss the emotional impact of being told 'why I shouldn't feel that way'.",
+      "answer": "When a listener tells someone why they shouldn't feel a certain way, it feels like an attack on their core identity[cite: 590]. Emotions are the most authentic part of our human experience, and being told they are 'wrong' can lead to deep feelings of shame and isolation. The speaker describes this as having their feelings 'trampled,' which suggests a loss of dignity[cite: 591]. It creates a barrier where the speaker no longer feels safe sharing their true self. This often leads to the 'passionate struggle' and 'deep languor' mentioned in the previous chapter, as the person spends too much energy defending their reality[cite: 181]. Instead of helping, this type of talk makes the problem feel even more unsolvable. It highlights that emotions do not follow the rules of 'should' and 'must'."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Analyze the line 'All I ask is that you listen. Don't talk or do—just hear me.'",
+      "answer": "This line serves as the central command of the poem, emphasizing the simplicity and difficulty of the request [cite: 596-597]. The words 'Don't talk' and 'Don't do' are an explicit instruction for the listener to remain passive. The speaker wants the listener to stop their instinctual reaction to be 'active' in the conversation. By using 'just hear me,' the speaker is asking for the most basic form of human presence. It suggests that 'being there' is more valuable than any 'doing' or 'talking' could ever be. This line challenges the reader to consider how often they fill the silence with unnecessary noise. It argues that the most powerful thing one can 'do' for another is, paradoxically, to do nothing at all."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does the poem use '20 cents' as a symbol for the low value of unwanted advice?",
+      "answer": "The speaker notes that '20 cents will get you both Dear Abby and Billy Graham in the same newspaper' [cite: 598-599]. The specific mention of a very low price ('20 cents') serves to devalue the advice being offered. It suggests that if advice is this cheap and easily accessible to anyone with a few coins, it cannot be what the speaker is truly missing. This symbol reinforces the idea that what the speaker *really* needs—true, silent attention—cannot be bought in a newspaper. It is something that can only be given by another person in a moment of genuine connection. By mocking the 'cheapness' of advice, the poet highlights the 'richness' and rarity of a good listener. It forces the listener to realize that their 'expert' suggestions are actually quite common."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "What is the 'Business of understanding' that a listener can help with simply by being quiet?",
+      "answer": "The speaker wants to 'get about this business of understanding what's behind this irrational feeling' [cite: 627-628]. This 'business' is the internal work of self-reflection and emotional mapping. The listener 'helps' with this business not by talking, but by providing a steady, silent presence that doesn't distract the speaker. When the listener is quiet, the speaker can hear their own 'wordless cry' more clearly and turn it into a 'returning thought'[cite: 199, 229]. Silence provides the 'mental mirror' that a person needs to see their own solutions. If the listener speaks, they break this mirror and force the speaker to focus on the listener instead. Therefore, the listener's silence is the essential 'environment' for the speaker's internal growth."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe the 'Twenty Questions' game and its connection to the Maths and Science textbooks.",
+      "answer": "The textbook encourages students to play 'Twenty Questions' using terms from their 'Maths and Science textbooks'[cite: 570]. For example, a leader might choose 'Photosynthesis' or 'Right-angled triangle' and others must ask 'Yes/no' questions to figure it out. This activity bridges the gap between language learning and other academic subjects. It teaches students to use precise English terminology to describe complex concepts. By asking 'Is it a process?' or 'Does it involve numbers?', students are practicing logical classification. It turns 'listening' to a series of clues into a fun, competitive academic challenge. This exercise shows that communication is not just for 'feelings,' but for sharing and discovering scientific knowledge as well."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'trampling on my feelings' in terms of its emotional intensity.",
+      "answer": "The word 'trampling' evokes the image of someone stepping on something delicate and crushing it underfoot[cite: 591]. This high-intensity language shows that the speaker's emotional state is fragile and that the listener's 'logic' feels violent to them. It is not just a minor disagreement; it is a fundamental lack of respect for the speaker's current reality. By choosing this word, the poet forces the reader to realize that 'giving advice' is not a neutral or safe act. It can be a destructive force that ruins the trust between two people. The intensity of the phrase highlights how much the speaker is suffering and how desperately they need a different kind of response. It is a powerful warning against the arrogance of 'knowing better' than someone who is hurting."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the 'Agreements and Disagreements' activity using the example of 'Mobile Apps'.",
+      "answer": "When students discuss 'Mobile Apps,' they are likely to have 'different opinions' on which are useful or fun[cite: 572, 584]. One student might find an app 'superb' while the other thinks it's 'boring' [cite: 665-666]. This activity requires them to use phrases like 'I totally agree' or 'No, I don't think so' to express their stance[cite: 537, 558]. It is an excellent way to practice 'Language Study' in a modern, relatable context. They might even 'agree to disagree' if they realize their preferences are just different[cite: 562]. This mirrors the poem's theme of accepting individual experience as a 'fact'[cite: 623]. It teaches students to respect their peers' digital habits and personal tastes through polite, structured conversation. This exercise builds the digital and social literacy needed in the 21st century."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the significance of the line 'Irrational feelings make sense when we understand what's behind them.'",
+      "answer": "This line provides the core psychological insight of the poem [cite: 630-631]. It argues that no emotion is truly 'meaningless,' even if it seems 'irrational' on the surface[cite: 625]. Every feeling has a 'why'—a hidden root in our past experiences, fears, or needs. The 'business of understanding' is the process of uncovering this 'why'[cite: 627]. When a listener accepts the feeling as a 'fact,' they give the speaker the space to dig beneath the surface[cite: 623]. Once the underlying cause is found, the feeling stops being a mystery and becomes a 'logical' response to a specific situation. This insight encourages empathy, as it suggests that everyone has a 'reason' for how they feel, even if we can't see it yet."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Analyze the 'Language Study' on determiners and provide three examples from the unit.",
+      "answer": "The Language Study section notes that words like 'a,' 'an,' 'the,' 'my,' and 'this' are 'determiners' used to specify a noun  [cite: 493-494, 775-776]. In the poem, 'the newspaper' uses the definite article to refer to a specific source of advice[cite: 599]. 'My feelings' uses the possessive pronoun 'my' to show that the speaker is the 'owner' of their emotions[cite: 591]. 'This business' uses the demonstrative 'this' to point to the specific task of understanding self[cite: 627]. These determiners are essential for clear communication as they tell the reader whether an object is general, specific, or belongs to someone. Understanding these 'word types' helps Standard 9 students build more precise sentences in both English and Marathi. This foundational grammar lesson is woven throughout the communicative activities of the chapter."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How does the 'Diary' activity help in 'Dealing with Complaints' later in life?",
+      "answer": "By maintaining a diary and writing about 'interactions happy-unhappy,' students are learning to objectively analyze social friction [cite: 688-689]. This practice of self-reflection is the first step in learning how to handle a real-life 'complaint' situation[cite: 534]. If a student can identify why an interaction was 'unpleasant' or 'stressful' in their diary, they are better prepared to explain a problem to a 'Customer Care' service later[cite: 530]. They learn to separate their raw emotion from the 'details' of the problem[cite: 530]. This builds 'emotional resilience' and 'assertiveness,' which are key for professional life. The diary becomes a training ground for professional communication. It teaches students that every 'unhappy' interaction is a chance to learn and improve their own 'listening' and 'speaking' skills."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Discuss the 'Agreement/Disagreement' phrases in the context of the 'Twenty Questions' game.",
+      "answer": "During the 'Twenty Questions' game, players must 'guess what it is' from the leader's truthful answers[cite: 565]. If a player makes a guess, others might 'totally disagree' or say 'Exactly!' depending on the clues provided[cite: 559, 538]. For instance, if the leader says 'It is an animal,' and someone guesses 'An ox,' a peer might say 'Absolutely!' if that's what they were thinking too[cite: 62, 538]. These phrases help the group work collaboratively toward the 20-question limit[cite: 566]. They also help the 'leader' confirm or gently deny the group's theories without giving too much away. This exercise teaches students how to use 'logical reasoning' and 'social confirmation' in English. It makes the academic vocabulary more memorable through social interaction and play."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "What does the speaker mean by 'faltering' but 'not helpless' in the context of personal growth?",
+      "answer": "To 'falter' means to act hesitatingly or be unsteady, which is a natural part of being 'discouraged'[cite: 600]. However, the speaker's insistence that they are 'not helpless' is a claim to their own inner resources. Personal growth requires this exact balance: being honest about one's struggles while remaining committed to one's own power. If a listener provides 'advice,' they are focusing on the 'faltering' and trying to stop it, which can actually prevent the growth from happening. True growth occurs when the faltering person is allowed to 'work it out for yourself,' as the speaker mentions regarding prayer[cite: 633]. By staying quiet, the listener 'trusts' that the faltering is just a temporary state on the way to a clear answer. This respect for the speaker's process is the highest form of 'encouragement'."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Analyze the final assurance: 'And if you want to talk, wait a minute for your turn and I will listen to you.'",
+      "answer": "This final line is the 'resolution' of the poem's tension, moving from a demand to a mutual promise [cite: 635-636]. It shows that the speaker is not trying to silence the listener forever, but rather to establish a healthy 'order' of communication. By saying 'wait a minute,' the speaker sets a boundary that their own need to be heard is the current priority. Once that 'cup' is empty, they will have the capacity to be the listener for the other person. This is an excellent model for 'reciprocal' communication, where both people's needs are met. It reinforces the idea that we can't be good listeners if we are currently full of our own unheard feelings. The promise 'I will listen to you' turns the poem into a hopeful blueprint for a better relationship. It teaches that 'listening' is a gift we give each other, one turn at a time."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the overarching theme of Unit 2 based on the chapters provided.",
+      "answer": "The overarching theme of Unit 2, as seen in 'Comparisons,' 'Helen Keller,' 'Mark Twain,' and 'Please Listen!', is the 'Power of Understanding and Communication'. Chapter 2.1 shows that the world is built on 'opposites' and we must understand these contrasts to see the whole picture[cite: 73]. Chapter 2.2 proves that even the deepest barriers of 'darkness and emptiness' can be 'swept away' by the 'mystery of language' and a dedicated teacher[cite: 172, 230, 233]. Chapter 2.3 uses the 'wit and ready wit' of Mark Twain to show that humor is a way of communicating serious human values[cite: 363, 365]. Finally, 'Please Listen!' teaches that the most powerful form of communication is often 'silence' and 'empathetic listening'[cite: 597, 634]. Together, these chapters encourage Standard 9 students to observe carefully, speak with integrity, and listen with empathy to build a more 'logical, coherent' world."
+    }
+  ]
+}

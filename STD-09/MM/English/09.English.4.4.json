@@ -1,0 +1,1871 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.4.4",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "The Tempest"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who was the Duke of Milan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prospero",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prospero"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who betrayed Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antonio",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Antonio"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who helped Prospero by putting food and books in the boat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gonzalo",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gonzalo"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who is the chief spirit freed by Prospero?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ariel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ariel"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who is the son of Sycorax?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caliban",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alonso",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sebastian",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ferdinand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caliban"
+    },
+    {
+  "question_id": 51,
+  "question_type": "SHORT",
+  "question": "Why did Antonio betray Prospero?",
+  "answer": "Antonio betrayed Prospero because he was greedy for power and wanted to become the Duke of Milan."
+},
+{
+  "question_id": 52,
+  "question_type": "SHORT",
+  "question": "How did Gonzalo help Prospero?",
+  "answer": "Gonzalo secretly provided food, clothes, water and Prospero’s books which helped him survive."
+},
+{
+  "question_id": 53,
+  "question_type": "SHORT",
+  "question": "Why did Prospero raise the tempest?",
+  "answer": "Prospero raised the tempest to bring his enemies to the island and make them realize their guilt."
+},
+{
+  "question_id": 54,
+  "question_type": "SHORT",
+  "question": "Who was Ariel?",
+  "answer": "Ariel was a magical spirit freed by Prospero who served him faithfully."
+},
+{
+  "question_id": 55,
+  "question_type": "SHORT",
+  "question": "Why did Prospero forgive his enemies?",
+  "answer": "Prospero forgave his enemies because he believed forgiveness was better than revenge."
+},
+
+{
+  "question_id": 56,
+  "question_type": "SHORT",
+  "question": "Why was Prospero removed from power?",
+  "answer": "Prospero was removed from power because Antonio plotted against him and took over Milan."
+},
+{
+  "question_id": 57,
+  "question_type": "SHORT",
+  "question": "What role did Gonzalo play in Prospero’s survival?",
+  "answer": "Gonzalo ensured Prospero and Miranda had essential supplies to survive their exile."
+},
+{
+  "question_id": 58,
+  "question_type": "SHORT",
+  "question": "Did the tempest harm anyone?",
+  "answer": "No, the tempest did not harm anyone because Prospero controlled it with magic."
+},
+{
+  "question_id": 59,
+  "question_type": "SHORT",
+  "question": "Why was Ariel loyal to Prospero?",
+  "answer": "Ariel was loyal because Prospero freed him from imprisonment."
+},
+{
+  "question_id": 60,
+  "question_type": "SHORT",
+  "question": "What lesson did Prospero want to teach his enemies?",
+  "answer": "Prospero wanted his enemies to feel remorse and understand the consequences of betrayal."
+},
+
+{
+  "question_id": 61,
+  "question_type": "SHORT",
+  "question": "Why was Prospero interested in magic?",
+  "answer": "Prospero studied magic because he loved knowledge and wisdom."
+},
+{
+  "question_id": 62,
+  "question_type": "SHORT",
+  "question": "Who was Miranda?",
+  "answer": "Miranda was Prospero’s daughter who grew up on the enchanted island."
+},
+{
+  "question_id": 63,
+  "question_type": "SHORT",
+  "question": "Why was Miranda unaware of her past?",
+  "answer": "Miranda was very young when they were exiled, so she did not remember Milan."
+},
+{
+  "question_id": 64,
+  "question_type": "SHORT",
+  "question": "How did Prospero control the island?",
+  "answer": "Prospero controlled the island using his magical powers and Ariel’s help."
+},
+{
+  "question_id": 65,
+  "question_type": "SHORT",
+  "question": "What kind of ruler was Prospero?",
+  "answer": "Prospero was a wise and just ruler who valued knowledge and fairness."
+},
+
+{
+  "question_id": 66,
+  "question_type": "SHORT",
+  "question": "Why did Antonio seek Alonso’s support?",
+  "answer": "Antonio sought Alonso’s support to strengthen his claim to the dukedom."
+},
+{
+  "question_id": 67,
+  "question_type": "SHORT",
+  "question": "What was Ariel’s main duty?",
+  "answer": "Ariel’s main duty was to carry out Prospero’s magical commands."
+},
+{
+  "question_id": 68,
+  "question_type": "SHORT",
+  "question": "Why did Prospero test Ferdinand?",
+  "answer": "Prospero tested Ferdinand to judge his love and sincerity towards Miranda."
+},
+{
+  "question_id": 69,
+  "question_type": "SHORT",
+  "question": "What kind of spirit was Ariel?",
+  "answer": "Ariel was a gentle, intelligent and obedient spirit."
+},
+{
+  "question_id": 70,
+  "question_type": "SHORT",
+  "question": "Why was forgiveness important to Prospero?",
+  "answer": "Forgiveness helped Prospero restore peace and end his suffering."
+},
+
+{
+  "question_id": 71,
+  "question_type": "SHORT",
+  "question": "What did Prospero value more than power?",
+  "answer": "Prospero valued wisdom and moral strength more than power."
+},
+{
+  "question_id": 72,
+  "question_type": "SHORT",
+  "question": "How did the island help Prospero?",
+  "answer": "The island gave Prospero safety and time to master magic."
+},
+{
+  "question_id": 73,
+  "question_type": "SHORT",
+  "question": "Why did Prospero give up magic?",
+  "answer": "Prospero gave up magic to return to a normal human life."
+},
+{
+  "question_id": 74,
+  "question_type": "SHORT",
+  "question": "What was Ariel’s reward?",
+  "answer": "Ariel was rewarded with freedom."
+},
+{
+  "question_id": 75,
+  "question_type": "SHORT",
+  "question": "What does the story emphasize?",
+  "answer": "The story emphasizes forgiveness, justice and humanity."
+},
+
+{
+  "question_id": 76,
+  "question_type": "SHORT",
+  "question": "Why was Prospero respected?",
+  "answer": "Prospero was respected for his wisdom and sense of justice."
+},
+{
+  "question_id": 77,
+  "question_type": "SHORT",
+  "question": "How did Prospero ensure no harm?",
+  "answer": "Prospero controlled every magical act carefully."
+},
+{
+  "question_id": 78,
+  "question_type": "SHORT",
+  "question": "Why did enemies feel guilty?",
+  "answer": "They realized the wrong they had done to Prospero."
+},
+{
+  "question_id": 79,
+  "question_type": "SHORT",
+  "question": "What role did magic play?",
+  "answer": "Magic was used as a tool for justice, not revenge."
+},
+{
+  "question_id": 80,
+  "question_type": "SHORT",
+  "question": "How does the story end?",
+  "answer": "The story ends with forgiveness and reunion."
+},
+
+{
+  "question_id": 81,
+  "question_type": "SHORT",
+  "question": "Why was Antonio wrong?",
+  "answer": "Antonio was wrong because he betrayed his own brother."
+},
+{
+  "question_id": 82,
+  "question_type": "SHORT",
+  "question": "What quality defines Prospero?",
+  "answer": "Prospero is defined by wisdom and mercy."
+},
+{
+  "question_id": 83,
+  "question_type": "SHORT",
+  "question": "Why was Ariel eager for freedom?",
+  "answer": "Ariel wanted to live independently after serving Prospero."
+},
+{
+  "question_id": 84,
+  "question_type": "SHORT",
+  "question": "What does the tempest symbolize?",
+  "answer": "The tempest symbolizes inner guilt and fear."
+},
+{
+  "question_id": 85,
+  "question_type": "SHORT",
+  "question": "What moral lesson is taught?",
+  "answer": "Forgiveness leads to peace and harmony."
+},
+
+{
+  "question_id": 86,
+  "question_type": "SHORT",
+  "question": "Why was Gonzalo important?",
+  "answer": "Gonzalo’s kindness saved Prospero and Miranda."
+},
+{
+  "question_id": 87,
+  "question_type": "SHORT",
+  "question": "What does Prospero represent?",
+  "answer": "Prospero represents wisdom and moral authority."
+},
+{
+  "question_id": 88,
+  "question_type": "SHORT",
+  "question": "How did betrayal affect Prospero?",
+  "answer": "It caused exile but also led to personal growth."
+},
+{
+  "question_id": 89,
+  "question_type": "SHORT",
+  "question": "Why was justice delayed?",
+  "answer": "Justice was delayed so enemies could repent."
+},
+{
+  "question_id": 90,
+  "question_type": "SHORT",
+  "question": "What is the central theme?",
+  "answer": "The central theme is forgiveness over revenge."
+},
+
+{
+  "question_id": 91,
+  "question_type": "SHORT",
+  "question": "Why is Prospero noble?",
+  "answer": "He chooses mercy instead of punishment."
+},
+{
+  "question_id": 92,
+  "question_type": "SHORT",
+  "question": "What made Prospero powerful?",
+  "answer": "His knowledge and self-control made him powerful."
+},
+{
+  "question_id": 93,
+  "question_type": "SHORT",
+  "question": "What role does repentance play?",
+  "answer": "Repentance leads to forgiveness."
+},
+{
+  "question_id": 94,
+  "question_type": "SHORT",
+  "question": "Why is Ariel important?",
+  "answer": "Ariel helps execute Prospero’s plans."
+},
+{
+  "question_id": 95,
+  "question_type": "SHORT",
+  "question": "What does the island symbolize?",
+  "answer": "The island symbolizes isolation and transformation."
+},
+
+{
+  "question_id": 96,
+  "question_type": "SHORT",
+  "question": "Why was Prospero calm?",
+  "answer": "He trusted wisdom over anger."
+},
+{
+  "question_id": 97,
+  "question_type": "SHORT",
+  "question": "What did Prospero teach Miranda?",
+  "answer": "He taught her kindness and honesty."
+},
+{
+  "question_id": 98,
+  "question_type": "SHORT",
+  "question": "Why is Gonzalo admired?",
+  "answer": "He showed selfless kindness."
+},
+{
+  "question_id": 99,
+  "question_type": "SHORT",
+  "question": "What changed Prospero?",
+  "answer": "Forgiveness changed Prospero."
+},
+{
+  "question_id": 100,
+  "question_type": "SHORT",
+  "question": "What is the final message?",
+  "answer": "Humanity is greater than revenge."
+},
+{
+  "question_id": 101,
+  "question_type": "LONG",
+  "question": "Describe the character of Prospero.",
+  "answer": "Prospero is the central character of the story and the rightful Duke of Milan. He is a learned man who values knowledge and wisdom more than political power. After being betrayed by his brother Antonio, he lives in exile on an island with his daughter Miranda. Prospero uses magic not to harm others but to bring justice and realization. He is calm, thoughtful and patient throughout the story. In the end, he proves to be noble by forgiving his enemies instead of punishing them."
+},
+{
+  "question_id": 102,
+  "question_type": "LONG",
+  "question": "Explain how Antonio betrayed Prospero.",
+  "answer": "Antonio betrayed Prospero out of greed and desire for power. While Prospero was deeply involved in studying magic and books, Antonio took advantage of his trust. He secretly plotted with Alonso, the King of Naples, and overthrew Prospero from his position as Duke of Milan. Prospero and his young daughter Miranda were forced into exile. This betrayal changed Prospero’s life but also led to his moral growth. Antonio’s actions show selfishness and lack of loyalty."
+},
+{
+  "question_id": 103,
+  "question_type": "LONG",
+  "question": "How did Gonzalo help Prospero during his exile?",
+  "answer": "Gonzalo was a kind and noble-hearted courtier who secretly helped Prospero during his exile. Though he could not stop Antonio’s betrayal, he showed humanity by helping Prospero and Miranda survive. Gonzalo provided them with food, water, clothes and other necessities. Most importantly, he gave Prospero his precious books, which later became the source of his magical power. Without Gonzalo’s help, Prospero might not have survived. Gonzalo represents goodness and compassion in the story."
+},
+{
+  "question_id": 104,
+  "question_type": "LONG",
+  "question": "Why did Prospero raise the magical tempest?",
+  "answer": "Prospero raised the magical tempest to bring his enemies to the island. His intention was not revenge but justice and realization. Through the storm, he wanted Antonio and others to experience fear and guilt for their past actions. Prospero carefully controlled the tempest so that no one was harmed. The storm allowed Prospero to test their character and repentance. Ultimately, the tempest became a tool for reconciliation and forgiveness."
+},
+{
+  "question_id": 105,
+  "question_type": "LONG",
+  "question": "Describe the character of Ariel.",
+  "answer": "Ariel is a magical spirit who serves Prospero faithfully. He was imprisoned by an evil witch before Prospero freed him. Out of gratitude, Ariel obeys Prospero’s commands and helps him perform magic. Ariel is intelligent, gentle and quick in action. He carries out tasks like creating the tempest and guiding people on the island. Though loyal, Ariel desires freedom, which Prospero finally grants. Ariel symbolizes obedience and the longing for independence."
+},
+{
+  "question_id": 106,
+  "question_type": "LONG",
+  "question": "Why did Prospero forgive his enemies?",
+  "answer": "Prospero forgave his enemies because he believed forgiveness was greater than revenge. Though Antonio had wronged him deeply, Prospero chose mercy over punishment. He realized that holding hatred would only continue his suffering. By forgiving his enemies, Prospero showed moral strength and wisdom. Forgiveness allowed peace to return and restored harmony. This act highlights the main message of the story."
+},
+{
+  "question_id": 107,
+  "question_type": "LONG",
+  "question": "Explain the role of magic in the story.",
+  "answer": "Magic plays an important role in the story as a tool of justice. Prospero uses magic to control events and bring his enemies together. However, magic is never used to cause physical harm. Instead, it helps in creating awareness and repentance. Through magic, Prospero tests characters and teaches moral lessons. At the end, he gives up magic, showing that human values are more important. Thus, magic supports wisdom and forgiveness."
+},
+{
+  "question_id": 108,
+  "question_type": "LONG",
+  "question": "Describe Prospero’s relationship with Miranda.",
+  "answer": "Prospero shares a loving and protective relationship with his daughter Miranda. He raises her with care on the island after their exile. Prospero keeps her unaware of their painful past until she is mature enough to understand it. He wants Miranda to grow up kind and compassionate. Prospero also ensures her happiness by testing Ferdinand’s sincerity. Their relationship reflects love, trust and parental responsibility."
+},
+{
+  "question_id": 109,
+  "question_type": "LONG",
+  "question": "How does the story show the theme of forgiveness?",
+  "answer": "The theme of forgiveness is central to the story. Despite being betrayed, Prospero chooses to forgive his enemies. He gives them a chance to repent rather than seeking revenge. Forgiveness brings peace and restores broken relationships. It also shows Prospero’s moral superiority. Through forgiveness, the story teaches that humanity is more powerful than hatred."
+},
+{
+  "question_id": 110,
+  "question_type": "LONG",
+  "question": "What moral lessons does 'The Tempest' teach?",
+  "answer": "The story teaches several moral lessons such as forgiveness, justice and kindness. It shows that greed and betrayal lead to suffering. At the same time, wisdom and patience bring peace. The importance of repentance and humanity is highlighted through Prospero’s actions. Forgiving others helps in personal growth and harmony. These lessons make the story meaningful and relevant."
+},
+{
+  "question_id": 111,
+  "question_type": "LONG",
+  "question": "Why is Gonzalo considered a noble character?",
+  "answer": "Gonzalo is considered noble because of his kindness and compassion. He helps Prospero without expecting anything in return. His actions are driven by humanity rather than power. Gonzalo believes in goodness and fairness. Even in difficult situations, he remains hopeful and positive. His character represents moral goodness in the story."
+},
+{
+  "question_id": 112,
+  "question_type": "LONG",
+  "question": "Explain how justice is achieved in the story.",
+  "answer": "Justice in the story is achieved through realization rather than punishment. Prospero brings his enemies to the island and makes them face their guilt. They experience fear and regret for their actions. Instead of revenge, Prospero chooses forgiveness. This restores balance and peace. True justice is shown as moral correction."
+},
+{
+  "question_id": 113,
+  "question_type": "LONG",
+  "question": "Why does Prospero give up his magical powers?",
+  "answer": "Prospero gives up his magical powers because he wants to return to normal human life. He believes that wisdom and forgiveness are greater than magic. By giving up magic, he shows spiritual growth. This decision marks the end of his journey of revenge and suffering. It symbolizes acceptance and peace. Prospero’s choice highlights the story’s moral depth."
+},
+{
+  "question_id": 114,
+  "question_type": "LONG",
+  "question": "Describe the importance of the island in the story.",
+  "answer": "The island plays a significant role in the story. It serves as a place of exile, learning and transformation for Prospero. On the island, he gains wisdom and control over magic. The island also becomes a testing ground for his enemies. It represents isolation, self-reflection and change. The island helps in resolving conflicts peacefully."
+},
+{
+  "question_id": 115,
+  "question_type": "LONG",
+  "question": "How does Prospero emerge as a noble hero?",
+  "answer": "Prospero emerges as a noble hero through his actions and decisions. Despite being wronged, he remains patient and wise. He uses power responsibly and avoids cruelty. His final act of forgiveness proves his moral strength. Prospero chooses peace over revenge. This makes him a true hero in the story."
+},
+{
+  "question_id": 116,
+  "question_type": "LONG",
+  "question": "Explain the significance of repentance in the story.",
+  "answer": "Repentance plays an important role in the story. Prospero’s enemies feel guilt and regret for their actions. This repentance leads to forgiveness and reconciliation. It shows that realizing one’s mistakes is the first step towards justice. Without repentance, forgiveness would not be meaningful. The story highlights moral transformation."
+},
+{
+  "question_id": 117,
+  "question_type": "LONG",
+  "question": "What makes Prospero a wise ruler?",
+  "answer": "Prospero is a wise ruler because he values knowledge, patience and justice. He does not misuse power for personal revenge. Instead, he plans carefully and thinks morally. His ability to forgive shows maturity and wisdom. Prospero understands that true power lies in compassion. These qualities make him an ideal ruler."
+},
+{
+  "question_id": 118,
+  "question_type": "LONG",
+  "question": "How is the theme of humanity portrayed in the story?",
+  "answer": "Humanity is portrayed through kindness, forgiveness and empathy. Gonzalo’s help reflects compassion. Prospero’s forgiveness shows mercy and moral strength. Even magic is used with care and responsibility. The story emphasizes understanding over punishment. Humanity triumphs over cruelty and hatred."
+},
+{
+  "question_id": 119,
+  "question_type": "LONG",
+  "question": "Why is forgiveness shown as superior to revenge?",
+  "answer": "Forgiveness is shown as superior because it brings peace and closure. Revenge would have prolonged suffering and hatred. By forgiving, Prospero frees himself emotionally. Forgiveness allows reconciliation and harmony. The story suggests that mercy leads to true victory. This message gives the story moral depth."
+},
+{
+  "question_id": 120,
+  "question_type": "LONG",
+  "question": "Describe the transformation of Prospero.",
+  "answer": "Prospero undergoes a great transformation in the story. He begins as a betrayed and wronged ruler seeking justice. Through patience and wisdom, he grows emotionally stronger. His anger slowly turns into understanding. By forgiving his enemies, he achieves peace. This transformation highlights his moral development."
+},
+{
+  "question_id": 121,
+  "question_type": "LONG",
+  "question": "What role does wisdom play in Prospero’s life?",
+  "answer": "Wisdom guides Prospero’s actions throughout the story. His love for knowledge shapes his character. Wisdom helps him control magic responsibly. It also enables him to forgive rather than seek revenge. Prospero’s wisdom leads to harmony and justice. Thus, wisdom is central to his success."
+},
+{
+  "question_id": 122,
+  "question_type": "LONG",
+  "question": "How does the story promote moral values?",
+  "answer": "The story promotes moral values such as honesty, forgiveness and kindness. It condemns greed and betrayal. Characters like Gonzalo represent goodness. Prospero’s actions teach mercy and justice. These values make the story meaningful for readers. Moral growth is emphasized over punishment."
+},
+{
+  "question_id": 123,
+  "question_type": "LONG",
+  "question": "Explain the ending of the story.",
+  "answer": "The story ends on a peaceful and hopeful note. Prospero forgives his enemies and gives up magic. Ariel is freed as promised. Broken relationships are restored. The ending highlights reconciliation and harmony. It reinforces the story’s message of forgiveness."
+},
+{
+  "question_id": 124,
+  "question_type": "LONG",
+  "question": "Why is Prospero considered a moral guide?",
+  "answer": "Prospero is considered a moral guide because his actions teach ethical lessons. He chooses wisdom over anger. His forgiveness sets an example for others. Prospero uses power responsibly and values humanity. His decisions guide the story towards peace. This makes him a moral leader."
+},
+{
+  "question_id": 125,
+  "question_type": "LONG",
+  "question": "Summarize the central message of 'The Tempest'.",
+  "answer": "The central message of 'The Tempest' is that forgiveness is more powerful than revenge. The story teaches that greed and betrayal destroy relationships. Wisdom, patience and kindness lead to peace. Prospero’s journey shows moral growth and humanity. Through forgiveness, harmony is restored. The story delivers a timeless moral lesson."
+}
+
+  ]
+}

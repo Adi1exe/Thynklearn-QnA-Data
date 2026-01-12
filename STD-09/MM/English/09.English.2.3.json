@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.2.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Mark Twain"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What was Mark Twain’s real name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Samuel Langhorne Clemens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Samuel Langhorne Clemens"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which literary style was Mark Twain famous for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humour"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which human values did Mark Twain support?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, equality and fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, equality and fraternity"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which comet is linked with Mark Twain’s birth and death?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Halley’s comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which profession did Mark Twain follow as a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "American writer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abraham Lincoln",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "William Shakespeare",
+          "is_correct": false
+        }
+      ],
+      "answer": "American writer"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was Mark Twain's real name?",
+      "answer": "Mark Twain's real name was Samuel Langhorne Clemens."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was Mark Twain famous?",
+      "answer": "He was famous for his humorous stories, novels, other writings, and his ready wit in everyday conversations."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which human values did Mark Twain defend?",
+      "answer": "He was a great defender of human values like liberty, equality, and fraternity."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did Mark Twain oppose during his life?",
+      "answer": "Mark Twain opposed wars and imperialism."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Whose causes did Mark Twain support in America?",
+      "answer": "He supported the cause of labourers and of the black people in America."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why did Mark Twain visit the local barber shop in the first anecdote?",
+      "answer": "He entered the barber shop to get a shave during a lecture tour."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What did the barber tell Twain about the lecture happening that night?",
+      "answer": "The barber told him that Mark Twain was going to lecture that night and it was a good time to visit."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did the barber say Twain would have to stand during the lecture?",
+      "answer": "The barber said he would have to stand because the lecture was sold out."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was Mark Twain's witty response to the barber's comment about standing?",
+      "answer": "Twain replied, 'I always have to stand when that fellow lectures!'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who was Harriet Beecher Stowe?",
+      "answer": "She was a famous writer, author of 'Uncle Tom's Cabin', and a neighbor of Mark Twain for many years."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did Mrs. Clemens disapprove of Twain's visit to Mrs. Stowe?",
+      "answer": "She disapproved because he had gone to say goodbye without wearing a collar and tie."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did Twain send to Mrs. Stowe after returning from his visit?",
+      "answer": "He sent his collar and tie in a neat package via a servant."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What line did Twain include with the package he sent to Mrs. Stowe?",
+      "answer": "The line was: 'Herewith receive a call from the rest of me.'"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did Henry Irving ask Twain if he had heard his story before?",
+      "answer": "He was telling a humorous story and wanted to make sure Twain hadn't heard the joke already."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was Twain's ultimate response to Henry Irving after being asked three times?",
+      "answer": "Twain said he not only heard the story but invented it himself."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which letter did Twain propose to drop in Year 1 of his spelling reform?",
+      "answer": "He proposed dropping the 'useless' letter 'c' to be replaced by 'k' or 's'."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "In Twain's spelling reform, when would 'c' still be used?",
+      "answer": "It would only be retained for the 'ch' formation."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What did a reader find in his newspaper that prompted a letter to Twain?",
+      "answer": "The reader found a spider in his paper and wondered if it meant good or bad luck."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did Twain explain the presence of the spider to the reader?",
+      "answer": "He said the spider was looking for a merchant who didn't advertise so it could spin a web across the door in peace."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which celestial event heralded Mark Twain's birth and death?",
+      "answer": "Both his birth in 1835 and his death in 1910 were heralded by the appearance of Halley's comet."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is Twain's quote about truth and fiction?",
+      "answer": "He said, 'It's no wonder that truth is stranger than fiction. Fiction has to make sense.'"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Define 'passive voice' as explained in the Language Study section.",
+      "answer": "Passive voice is a construction where the thing affected by the verb is the subject and the verb is in the form 'be + past participle'."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Give an example of a passive sentence where the doer is mentioned.",
+      "answer": "An example from the text is: 'This pen was given to me by my Aunt.'."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "According to Twain, what happens when friends begin to flatter you on how young you look?",
+      "answer": "He said it's a sure sign that you are getting old."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does Twain say about humour?",
+      "answer": "He said, 'Humour is mankind's greatest blessing.'"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the 'Quick Thinkers' activity mentioned in the Warming up section?",
+      "answer": "It is a timed activity where students must write as many meaningful phrases as possible using a given set of numbers within one minute."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was Samuel Langhorne Clemens' more popular identity?",
+      "answer": "He was popularly known by his pen name, Mark Twain."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why did Henry Irving demand suspiciously if Twain had heard his story before?",
+      "answer": "He asked because he was reaching the climax of his humorous story and wanted to ensure the joke was new to his friend."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How did Mark Twain 'draw the line' regarding lying to Henry Irving?",
+      "answer": "He said he could lie once or twice for courtesy's sake, but he could not lie a third time and admitted he had actually invented the story himself."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What major change did Twain propose for Year 1 of his English spelling reform?",
+      "answer": "He proposed dropping the 'useless' letter 'c' to be replaced by 'k' or 's', and removing the letter 'x' from the alphabet."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "According to Twain's reform, which letter would be abolished in Year 3?",
+      "answer": "In Year 3, the letter 'y' would be abolished and replaced with 'i'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was the proposed change for Year 5 in the spelling reform plan?",
+      "answer": "Year 5 would involve doing away with 'useless double konsonants'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How many years did Twain suggest it would take to achieve logical spelling across the English-speaking world?",
+      "answer": "He suggested it would take approximately 20 years of orthographical reform."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Describe the reader's concern regarding the spider found in the newspaper.",
+      "answer": "The reader found a spider in his paper and wrote to Twain, who was then an editor, wondering if it portended good or bad luck."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How did Twain use the spider anecdote to highlight the importance of advertising?",
+      "answer": "He claimed the spider was checking which merchant did not advertise so it could spin a web across their door and live in undisturbed peace."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Explain the cosmic link Twain believed he shared with Halley's comet.",
+      "answer": "Twain's birth in 1835 was heralded by the comet's return, and he declared that since they 'came in together', they would 'go out together'."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Was Mark Twain's prediction about his death and Halley's comet correct?",
+      "answer": "Yes, Halley's comet blazed through the sky on the night of his death in April 1910."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is Twain's definition of 'April Fool's Day'?",
+      "answer": "He called it the day upon which we are reminded of what we are on the other three hundred and sixty-four."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What advice does Twain give about reading health books?",
+      "answer": "He warns people to be careful because they might 'die of a misprint'."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What should a person keep 'tidy' even if they are careless in their dress?",
+      "answer": "According to Twain, one should keep a 'tidy soul'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does Twain say about truth and the need for memory?",
+      "answer": "He said, 'If you tell the truth, you don't have to remember anything'."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does Twain believe it is better to keep one's mouth closed?",
+      "answer": "He said it is better to let people think you are a fool than to open it and remove all doubt."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "In Language Study, define 'passive voice' using an example from the text.",
+      "answer": "In passive voice, the thing affected by the verb is the subject; for example, 'The plants are pruned'."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What type of verbs can be used in the passive voice?",
+      "answer": "Only transitive verbs can be used in the passive voice."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "In the Live English activity, what was the technical problem Mother faced with her new mobile?",
+      "answer": "The internet was not working even though she had a free Bhramar simcard."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What solution did the Customer Care executive provide for the internet problem?",
+      "answer": "The solution was to go to 'Settings', type 'internet' in APN, save it, and then restart the phone."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the telephone phrase used to ask someone to 'wait'?",
+      "answer": "The phrase is 'Hold on, please'."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'Put (a call) through' mean?",
+      "answer": "It means to connect the caller to another person or department."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Give an expression used to start a complaint on the phone.",
+      "answer": "One such expression is 'I'm calling to complain about...'."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is a polite way for customer care to apologize for a problem?",
+      "answer": "They can say, 'I'm sorry to hear that' or 'I apologise for...'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does the word 'anomaly' mean in the context of the spelling reform?",
+      "answer": "The word 'anomaly' refers to an irregularity, such as the inconsistent use of letters like 'g' and 'j' in English."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Define the term 'redundant' as used in the passage.",
+      "answer": "Redundant means something that is unnecessary or no longer required."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What kind of people does the term 'dodderers' refer to?",
+      "answer": "Dodderers refers to weak, old men who cannot do things correctly."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "According to Twain's reform, what would happen to the letter 'w' in Year 2?",
+      "answer": "The spelling would be reformed so that words like 'which' and 'one' would use the same consonant."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What fix was proposed for Year 4 of the spelling reform plan?",
+      "answer": "Year 4 was intended to fix the 'g/j' anomaly once and for all."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "By Year 15 of the reform, what would happen to letters like 'c', 'y', and 'x'?",
+      "answer": "They would become redundant and be used only as a memory to replace 'ch', 'sh', and 'th' respectively."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What would be the result of the spelling reform after 20 years?",
+      "answer": "It would result in a logical and coherent spelling system used throughout the English-speaking world."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What was Mark Twain’s role at the small Missouri newspaper?",
+      "answer": "He served as the editor of the newspaper."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does the word 'portended' mean?",
+      "answer": "It means indicated or foretold a certain outcome."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did Twain describe himself and Halley's comet in terms of their connection?",
+      "answer": "He called them 'unaccountable freaks' who were cosmically linked."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "On what specific night did Halley's comet blaze through the sky in relation to Twain?",
+      "answer": "It appeared on the night of his death in April 1910."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "According to Twain, what can a man not be without his own approval?",
+      "answer": "A man cannot be comfortable without his own approval."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is Twain’s definition of a 'crank'?",
+      "answer": "He said a person with a new idea is a crank until the idea succeeds."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain the quote: 'Age is an issue of mind over matter'.",
+      "answer": "It means that if you don't mind getting older, then your age doesn't really matter."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why did Twain say all generalizations are false?",
+      "answer": "He said it as a paradox, adding 'including this one' to show the irony of making such a broad statement."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the danger of reading health books according to Twain?",
+      "answer": "He warned that a person might die of a misprint in the book."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Which should be kept 'tidy' even if one is careless in dress?",
+      "answer": "One should keep a tidy soul."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the 'Classic' book quote by Twain?",
+      "answer": "He defined a 'Classic' as a book which people praise but do not actually read."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What does Twain say about the troubles an old man has known?",
+      "answer": "He noted that most of the many troubles he had known never actually happened."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What does the word 'prodigious' mean?",
+      "answer": "It means very great in size or amount."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why does a person who tells the truth not need to remember anything?",
+      "answer": "Because the truth stays the same, they don't have to track various lies or stories."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which is better according to Twain: to deserve honors and not have them, or to have them and not deserve them?",
+      "answer": "It is better to deserve honors and not have them."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is the benefit of keeping one's mouth closed?",
+      "answer": "It prevents removing all doubt if people already think you are a fool."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is truth 'stranger than fiction' in Twain’s view?",
+      "answer": "It is because fiction is required to make sense, whereas truth does not have that limitation."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What should you do when you find yourself on the side of the majority?",
+      "answer": "You should take the time to pause and reflect on your position."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why do people rejoice at a birth and grieve at a funeral according to Twain?",
+      "answer": "He wittily remarked it is because we are not the person involved in those events."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What happens to thousands of geniuses according to the text?",
+      "answer": "They live and die undiscovered by themselves or others."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Between thunder and lightning, which one does the actual 'work'?",
+      "answer": "Lightning does the work, while thunder is just impressive."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What sign indicates that you are getting old?",
+      "answer": "When your friends begin to flatter you on how young you look, it's a sure sign."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "In the sentence 'Sonali ate the mango', identify the subject and object.",
+      "answer": "Sonali is the subject and 'mango' is the object."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is the verb form used in a passive construction?",
+      "answer": "A passive construction uses the 'be + past participle' form of the verb."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Rewrite 'The plants are pruned' into active voice (use 'The gardener').",
+      "answer": "The gardener prunes the plants."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How do we mention the 'doer' in a passive sentence?",
+      "answer": "We mention the doer by adding the word 'by' before it[ 968]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Which type of verbs can only be used in the passive voice?",
+      "answer": "Only transitive verbs can be used in the passive voice[ 970]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Define 'irony' based on the Language Study references.",
+      "answer": "Irony is a literary device where the intended meaning is different from (and often opposite to) the literal meaning."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was the technical problem Mother faced in the Live English section?",
+      "answer": "The internet was not working on her new Zap3 mobile despite having a Bhramar simcard[ 978]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What did Customer Care tell Mother to type in the APN settings?",
+      "answer": "She was told to type 'internet' in the APN settings and save it[ 978]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What final step was needed after updating the APN settings?",
+      "answer": "Mother had to switch off the phone and then switch it on again[ 978]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'Get through' mean on a telephone?",
+      "answer": "It means to successfully get connected to the person you are calling[ 989]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What does 'Hang up' mean?",
+      "answer": "It means to end the telephone call[ 990]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "List two expressions for making a complaint.",
+      "answer": "Two expressions are 'I'm calling to complain about...' and 'I'd like an explanation for...'[ 996, 1001]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "List two expressions for dealing with a complaint.",
+      "answer": "Two expressions are 'Ok, I'll look into it right away' and 'What seems to be the problem?'[ 1000]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the polite phrase to use when you cannot connect a caller immediately?",
+      "answer": "The phrase is 'I can't get through to him at the moment, could you call back later, please?'[ 989]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What did Twain send to Mrs. Stowe to complete his 'visit'?",
+      "answer": "He sent his collar and tie in a package because he had forgotten to wear them during his actual visit[ 853]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What was the name of the florist mentioned in the map activity?",
+      "answer": "The name was 'Forty Flowers Florists'[ 828]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Identify the passive verb in: 'Many anecdotes related to Mark Twain are told'.",
+      "answer": "The passive verb phrase is 'are told'[ 967]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Rewrite in active voice: 'The mango was eaten by Sonali'.",
+      "answer": "Sonali ate the mango[ 958, 963]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What happens if you don't deliver on time according to the complaint section?",
+      "answer": "If you can't deliver on time, you must at least inform your customers so they can find other suppliers[ 1003]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the response press number for internet queries in the Bhramar CC menu?",
+      "answer": "The number to press is 2[ 978]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Who was Twain's friend in the 'invented story' anecdote?",
+      "answer": "His friend was Henry Irving."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe Mark Twain's literary personality and the social causes he supported.",
+      "answer": "Mark Twain, the pen name of Samuel Langhorne Clemens, was a popular American writer known for his humorous stories and novels [cite: 362-363]. His ready wit was not just for entertainment but shone through his everyday conversations and anecdotes [cite: 363-364]. Beyond being a humorist, he was a great defender of human values like liberty, equality, and fraternity[cite: 365]. He took a strong stand against wars and imperialism, which showed his deep ethical convictions[cite: 366]. Furthermore, he actively supported the cause of labourers and the black people in America during a time of great social transition[cite: 366]. This combination of wit and social responsibility made him a unique and respected figure in world literature."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Analyze the barber shop anecdote and explain how it illustrates Twain's sense of irony.",
+      "answer": "In this anecdote, Mark Twain visited a local barber for a shave and was told that 'Mark Twain' would be lecturing in town that night [cite: 369-372]. The barber, unaware of Twain's identity, advised him to go but warned that since it was sold out, he would have to stand [cite: 372-376]. Twain replied with perfect irony, 'Just my luck... I always have to stand when that fellow lectures!' [cite: 377-378]. The irony lies in the fact that as the speaker, Twain literally *must* stand to deliver his lecture, regardless of ticket sales. This story shows how Twain could turn a mundane conversation into a humorous situation by playing along with a stranger's ignorance. It highlights his ability to find humor in his own professional life and his comfortable relationship with his public identity."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the 'collar and tie' incident with Mrs. Stowe and its significance.",
+      "answer": "Mark Twain once visited his neighbor, the famous writer Harriet Beecher Stowe, to say goodbye before she left for Florida[cite: 379]. Upon his return, his wife, Mrs. Clemens, criticized him for not wearing a collar and tie during the visit [cite: 380-382]. In a witty response, Twain sent these items to Mrs. Stowe in a neat package with a note saying, 'Herewith receive a call from the rest of me' [cite: 383-384]. This action mocked the rigid social formalities of the time that prioritized appearance over the actual presence of a person. By sending the clothes, he humorously suggested that for some people, the attire was more important than the man himself. It demonstrates his playful defiance of social norms and his creative way of resolving domestic 'disagreements' over etiquette."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the Henry Irving anecdote and Twain's refusal to 'lie the third time'.",
+      "answer": "Henry Irving repeatedly asked Mark Twain if he had heard the humorous story he was currently telling [cite: 404-405]. Twain politely lied twice, assuring Irving that the story was new to him to allow his friend the pleasure of finishing it [cite: 405-406]. However, when Irving asked a third time right before the climax, Twain reached his limit of courtesy[cite: 407]. He famously replied that while he could lie once or twice for courtesy, he could not lie a third time because he actually invented the story himself[cite: 408]. This anecdote highlights the social 'theatre' people engage in to be polite and the point where honesty must prevail. It also subtly showcases Twain's immense contribution to American humor, as even his friends were unknowingly telling him his own jokes."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Detail Mark Twain's 'Plan for the Improvement of English Spelling' for the first five years.",
+      "answer": "Twain's satirical plan proposed a year-by-year reform to make English spelling more logical. In Year 1, the 'useless' letter 'c' would be replaced by 'k' or 's', and 'x' would be dropped from the alphabet[cite: 410]. Year 2 would reform 'w' spelling, and Year 3 would replace 'y' with 'i'[cite: 412]. By Year 4, the 'g/j' anomaly would be fixed, and Year 5 would finally abolish 'useless double konsonants' [cite: 412-413]. The text of the plan itself begins to use these new rules, becoming increasingly difficult yet logically consistent [cite: 410-412]. This satirical proposal critiques the many irregularities and silent letters in the English language that make it difficult to learn. It reflects Twain's interest in linguistics and his penchant for using logic to create absurdly funny scenarios."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Analyze the long-term goals of the spelling reform plan and its final outcome.",
+      "answer": "Following the initial five years, Years 6-12 would focus on modifying vowels and the remaining voiced and unvoiced consonants[cite: 413]. By Year 15, the redundant letters 'c', 'y', and 'x' would be repurposed to replace 'ch', 'sh', and 'th'[cite: 414]. Twain suggested that after 20 years of such 'orthogrefkl riform', the English-speaking world would finally have a 'lojikl, kohirnt speling'[cite: 415]. The final paragraph of the proposal is written entirely in this reformed spelling, demonstrating how jarringly different the language would look[cite: 415]. Although presented as a joke, the plan highlights a real frustration with the phonetic inconsistencies of English. It serves as a brilliant example of Twain's ability to sustain a humorous premise to its extreme logical conclusion."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How did Mark Twain use a spider anecdote to address a reader's superstition and promote advertising?",
+      "answer": "While editing a Missouri newspaper, Twain received a letter from a reader who found a spider in his paper and feared it was a sign of bad luck [cite: 417-418]. Twain wittily replied that the spider was actually looking for a merchant who did *not* advertise[cite: 419]. He claimed the spider wanted to find a quiet store where it could spin a web across the door and live in 'undisturbed peace' because no customers would enter[cite: 419]. This clever response served two purposes: it dismissed the reader's superstition with logic and provided a sharp reminder to local merchants about the necessity of advertising. It showcases Twain's dual talent as a humorist and a savvy businessman who understood the power of the press. This anecdote remains a classic example of how to handle public relations with wit."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Discuss the cosmic significance Mark Twain attributed to Halley's comet.",
+      "answer": "Mark Twain was born in November 1835, a time heralded by the appearance of Halley's comet[cite: 420]. Throughout his life, Twain viewed himself and the comet as 'unaccountable freaks' that were cosmically linked[cite: 421]. He famously declared that having 'come in together', they would also 'go out together'[cite: 421]. This prediction was proven spectacularly correct when Halley's comet blazed through the sky on the night of his death in April 1910[cite: 422]. This story adds a touch of mystery and 'destiny' to Twain's biography, showing his fascination with science and curiosities. It also reflects his sense of self-importance and his belief that his life was part of a larger, perhaps humorous, universal design."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the meaning and irony behind Twain's quotation regarding April Fool's Day.",
+      "answer": "Twain remarked that April Fool's Day is 'the day upon which we are reminded of what we are on the other three hundred and sixty-four' [cite: 424-427]. This quotation suggests that human beings are essentially 'fools' every day of the year, but we only have a specific day to celebrate it. The irony is that while we think we are playing jokes on others on April 1st, we are actually demonstrating our true nature. It is a sharp critique of human vanity and the illusion of wisdom that people maintain in their daily lives. Twain uses the occasion of a holiday to point out a universal human flaw in a characteristically cynical yet funny way. This quote encourages readers to maintain a sense of humility about their own intelligence."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Analyze Twain's advice: 'Be careless in your dress if you will, but keep a tidy soul.'",
+      "answer": "In this quotation, Twain draws a clear distinction between outward appearance and inward character[cite: 438]. He suggests that while it might be acceptable to ignore social standards of fashion ('careless in your dress'), one must never compromise on internal ethics and purity ('keep a tidy soul')[cite: 438]. This reflects his own habits, as seen in the Mrs. Stowe anecdote where he forgot his collar and tie but maintained a good relationship with his neighbor [cite: 379-384]. The quote serves as a reminder that true human value lies in one's integrity rather than their wardrobe. It is a call for authenticity in an era that was often obsessed with superficial social status. For Twain, a 'tidy soul' was the ultimate mark of a gentleman."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What does Twain mean by his definition of a 'Classic' book?",
+      "answer": "Twain defines a 'Classic' as 'a book which people praise and don't read'[cite: 439]. This witty observation highlights the social pressure to appear intellectual by praising famous literary works that are actually quite dense or difficult to finish. It points out the hypocrisy in the literary world where certain books are given high status but are rarely enjoyed by the general public. Twain, being a popular writer who wrote for the masses, often mocked the elitism found in academic circles. By calling out this behavior, he encourages readers to be honest about their actual reading habits. The quote remains highly relevant today in discussions about 'must-read' lists and cultural literacy."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Evaluate the quote: 'If you tell the truth, you don't have to remember anything.'",
+      "answer": "This quotation provides a very practical and logical reason for being honest [cite: 448-449]. Twain suggests that lying is an exhausting mental activity because a liar must remember every detail of their false story to avoid being caught[cite: 448]. In contrast, the truth is a constant fact that does not require the effort of 'memory' to keep consistent[cite: 449]. This piece of advice links moral integrity with mental efficiency, making a compelling case for truthfulness as a lifestyle. It reflects Twain's straightforward approach to life and his disdain for the complexities of social deception. It suggests that a simple, honest life is the most 'comfortable' way to live."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Discuss Twain's view on intelligence as expressed in the 'prodigious quantity of mind' quote.",
+      "answer": "Twain jokingly claimed, 'I must have a prodigious quantity of mind; it takes me as much as a week sometimes to make it up' [cite: 445-447]. The humor comes from the double meaning of 'making up' one's mind, which usually means making a decision but can also imply creating a complex thought. By calling his mind 'prodigious' (very great), he sets up a boast, only to finish with a self-deprecating joke about how slowly he thinks [cite: 444-445]. It is a classic example of Twain using a 'tall tale' style of humor to mock his own intellect. This quote shows his ability to be self-critical while still maintaining a witty persona. It suggests that deep thinking is a slow and significant process."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain Twain's comparison between thunder and lightning and what it teaches about action.",
+      "answer": "Twain observed that 'Thunder is good, thunder is impressive; but it is lightning that does the work'[cite: 463]. In this metaphor, thunder represents loud talk, empty promises, or impressive appearances that lack actual impact. Lightning, however, represents the sudden, powerful action or idea that actually creates change or 'does the work'[cite: 463]. The quote encourages people to prioritize results and substance over mere noise and showmanship. It reflects Twain's own values as a writer and defender of causes, where he believed that effective action was more important than loud rhetoric. It serves as a sharp reminder that the quietest forces are often the most effective ones."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Analyze the 'mind over matter' quote regarding age and its psychological insight.",
+      "answer": "Twain stated, 'Age is an issue of mind over matter. If you don't mind, it doesn't matter'[cite: 434]. This play on words suggests that the physical process of aging ('matter') is secondary to one's mental attitude ('mind'). He implies that the 'problem' of getting old only exists if a person chooses to worry or 'mind' it[cite: 434]. This provides a positive and liberating view of aging, focusing on the power of the individual to decide their own happiness regardless of their years. It is a quintessential Twain observation that uses a simple pun to deliver a profound psychological truth. It encourages readers to maintain a youthful spirit by simply ignoring the social anxieties surrounding age."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section on Customer Care apply to real-life situations?",
+      "answer": "The 'Live English' section provides a practical model for interacting with customer support using a dialogue about mobile internet problems [cite: 507-508]. It teaches students how to navigate automated 'IVR' menus by pressing specific numbers for language or service options[cite: 508]. The conversation between Mother, Vaishali, and the executive demonstrates polite and effective communication to solve a technical issue[cite: 508]. Furthermore, it provides a list of useful 'telephone phrases' like 'Hold on,' 'Put through,' and 'Call back' for general use [cite: 516-521]. The section also includes templates for 'Making a complaint' and 'Dealing with complaints,' which are essential social skills for the modern world [cite: 525-534]. Overall, it bridges the gap between classroom English and the practical demands of daily life."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Discuss the grammar concept of 'Passive Voice' as explained in the Language Study.",
+      "answer": "The text explains that a passive construction is used when the focus is on the object—the person or thing affected by an action—rather than the 'doer' [cite: 492-493]. In this form, the object becomes the subject of the sentence, and the verb takes the 'be + past participle' form[cite: 495]. For example, in 'The mango was eaten,' the focus is on the mango's state[cite: 493]. If the 'doer' needs to be mentioned, it is added at the end using the word 'by', as in 'This pen was given to me by my Aunt' [cite: 498-499]. The text also clarifies that only transitive verbs can be used in this voice[cite: 500]. Understanding passive voice is important for students to read formal texts where the action is more important than the actor."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What is the purpose of the 'Quick Thinkers' activity and the map drawing task?",
+      "answer": "The 'Quick Thinkers' activity is a 'Warming up' exercise designed to improve mental agility and vocabulary by asking students to write phrases using numbers within one minute [cite: 322-324]. Following this, students are asked to imagine a situation where all these phrases fit together and describe it in 8-10 lines[cite: 354]. Finally, they must incorporate these phrases into a meaningful map with an index, such as 'Forty Flowers Florists' or 'Hotel Seven Arrows' [cite: 356-359]. This progression moves students from simple word recall to creative writing and then to spatial/visual planning. It encourages them to see how unrelated items can be woven into a coherent world. These tasks prepare students for the creative and witty nature of Mark Twain's own writing."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Analyze the quote: 'A person with a new idea is a crank until the idea succeeds.'",
+      "answer": "Twain pointed out that the social perception of an innovator depends entirely on their success[cite: 433]. A person who thinks differently is labeled a 'crank' (an eccentric or obsessive person) by society as long as their idea is unproven[cite: 433]. However, once that same idea leads to a successful outcome, the label changes from 'crank' to 'genius' or 'pioneer'. This quote critiques the narrow-mindedness of the majority who only value ideas that have already been validated. It serves as an encouragement to thinkers to persist with their 'cranky' ideas despite social disapproval. It reflects Twain's own life as a writer who often explored unconventional and challenging topics."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain why Twain believes 'Truth is stranger than fiction' because 'Fiction has to make sense.'",
+      "answer": "Twain argues that real life (truth) is often so absurd and unpredictable that it defies logic[cite: 458]. In contrast, 'fiction' is a human creation that must follow a coherent plot and believable character motivations to be accepted by readers ('Fiction has to make sense')[cite: 458]. Truth has no such obligation and can be as strange as it wants because it simply *is*. This observation highlights the limits of human imagination compared to the infinite variety of reality. It also explains why Twain's own stories often felt so 'real'—he frequently drew from the bizarre truths of his own experiences. It is a profound comment on the nature of narrative and the unpredictability of existence."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the satirical tone of the spelling reform plan and why it is a 'humorous' piece.",
+      "answer": "The spelling reform plan is a classic example of Twain's satire because it takes a common complaint (difficult spelling) and proposes an absurdly 'logical' solution. The humor arises from the fact that as the 'improvements' are explained, the text itself begins to look like a jumble of strange letters [cite: 410-415]. For example, replacing 'c' with 'k' or 's' makes words like 'konsonant' and 'anomali' look ridiculous yet phonetic[cite: 412]. The plan claims to make things easier, but for the reader, it becomes increasingly difficult to read with each passing 'year' of reform. This irony creates a humorous effect where the 'cure' for bad spelling seems worse than the disease. It allows Twain to mock the 'dodderers' who would struggle with such changes while showing off his own linguistic wit[cite: 414]."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Analyze Twain's observation: 'Whenever you find yourself on the side of the majority, it is time to pause and reflect.'",
+      "answer": "This quote is a call for individual critical thinking and a warning against 'mob mentality'[cite: 459]. Twain suggests that if your opinions are the same as everyone else's, you might just be following the crowd without thinking for yourself[cite: 459]. He encourages readers to 'pause and reflect' to ensure that their beliefs are based on personal logic rather than social pressure. Given Twain's background as a defender of unpopular causes like supporting black people and opposing imperialism, this quote reflects his own life philosophy[cite: 366]. It suggests that the majority is often wrong or simply unthinking. It is an essential piece of advice for maintaining intellectual independence in any society."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is the humor behind the quote: 'When your friends begin to flatter you on how young you look, it's a sure sign you're getting old.'",
+      "answer": "The humor in this quote comes from a sharp observation of social white lies and the reality of aging[cite: 465]. When a person is actually young, no one feels the need to comment on it because it is obvious. Flattery about looking young only starts when the signs of aging become visible enough that friends feel the need to be 'polite' or 'comforting'[cite: 465]. Therefore, the compliment itself is the 'sure sign' that the opposite is true. Twain uses this paradox to mock both the vanity of the aging person and the insincerity of social interactions. It shows his ability to find a bitter truth inside a sweet-sounding social custom. It remains one of his most popular and relatable observations on the human condition."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the significance of the quote: 'A man cannot be comfortable without his own approval.'",
+      "answer": "Twain emphasizes that internal peace is far more important than external success or social status[cite: 428]. He argues that no matter how much wealth or praise a person has, they can never be 'comfortable' (at peace) if they do not respect their own actions and choices[cite: 428]. This 'own approval' refers to the conscience and the tidy soul he mentioned elsewhere in the text[cite: 438]. It suggests that the harshest judge we ever face is ourselves. This quote serves as a powerful reminder to live with integrity so that one can live comfortably in their own mind. It places the source of happiness entirely within the individual's control."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How does the chapter portray Mark Twain as both a 'Funny Man' and a 'Serious Thinker'?",
+      "answer": "The chapter balances Twain's reputation as a humorist with his role as a defender of serious human values. The anecdotes about the barber, Henry Irving, and the collar show his 'ready wit' and his ability to see the funny side of everyday life [cite: 363, 368-408]. However, the introduction also notes that he was a 'great defender' of liberty, equality, and fraternity who opposed wars and imperialism [cite: 365-366]. Many of his quotations, while funny, carry deep philosophical weight, such as his thoughts on truth, the majority, and the tidy soul[cite: 438, 448, 459]. This duality shows that Twain used humor as a tool to explore and communicate profound truths about society and human nature. He was not just a comedian but a philosopher who used laughter to make people think. This comprehensive view helps students appreciate the full range of his legendary literary legacy."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe the 'Quick Thinkers' activity and how it leads to a creative writing task.",
+      "answer": "The 'Quick Thinkers' activity is a 'Warming up' exercise that requires students to write as many meaningful phrases as possible using a given set of numbers within one minute [cite: 322-325]. For example, they might write 'one man,' 'two roads,' or 'forty flowers' [cite: 326-348]. After listing these phrases, students are tasked with imagining a situation or context where all these items fit together and describing it in 8-10 lines[cite: 354]. Finally, they are encouraged to draw a map incorporating these phrases in a meaningful way, such as placing 'Hotel Seven Arrows' or a florist shop on the map [cite: 356-359]. This progression from simple word recall to narrative construction and spatial mapping helps develop students' creative thinking and descriptive skills. It prepares them for the imaginative and often absurdly logical style found in Mark Twain’s own writings."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Analyze Mark Twain's social and political convictions beyond his humorous persona.",
+      "answer": "While Mark Twain is globally famous for his wit and humor, he was also a serious defender of fundamental human values like liberty, equality, and fraternity [cite: 363-365]. He took strong public stances against imperialistic policies and the horrors of war[cite: 366]. In his own country, America, he was a vocal supporter of the rights of laborers and the cause of black people[cite: 366]. This shows that his humor was often a tool for social critique rather than just light entertainment. His ready wit shone through even in everyday conversations, often reflecting his deep ethical convictions[cite: 363]. Understanding this side of Twain helps students appreciate him as a complex humanitarian who used his popularity to advocate for justice and human dignity."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain the humor and irony in the barber shop anecdote regarding Twain's lecture.",
+      "answer": "In this anecdote, Mark Twain visited a local barber who was unaware of his identity and mentioned that Twain was giving a lecture that evening [cite: 369-372]. The barber warned Twain that because the event was sold out, he would have to stand[cite: 376]. Twain responded with dry humor, 'Just my luck... I always have to stand when that fellow lectures!' [cite: 377-378]. The irony is that as the lecturer, Twain *must* stand to address the audience, regardless of whether there are empty seats or not. This story highlights Twain's ability to remain anonymous and enjoy a joke at his own expense. It also shows how he could instantly turn a mundane social encounter into a witty narrative that illustrates the difference between appearance and reality."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the 'rest of me' incident with Mrs. Stowe and its critique of social etiquette.",
+      "answer": "Mark Twain once visited his neighbor, Harriet Beecher Stowe, without wearing a collar and tie [cite: 379-382]. When his wife criticized him for this breach of social etiquette, Twain decided to mock the situation[cite: 380]. He sent the missing items to Mrs. Stowe in a package with the note: 'Herewith receive a call from the rest of me'[cite: 384]. This humorous gesture suggested that if people valued attire over the actual person, then his collar and tie were enough to represent him. It serves as a sharp critique of the rigid and superficial social norms of the time. Twain prioritizes the personal connection of a visit over the formal requirements of dress. His wit allowed him to resolve a domestic argument while making a profound point about human values versus social appearances."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Describe the interaction between Twain and Henry Irving regarding the humorous story.",
+      "answer": "During a conversation, Henry Irving repeatedly paused while telling a humorous story to ask Mark Twain if he had heard it before [cite: 404-407]. Twain politely lied twice, assuring his friend he had not heard the joke to allow him the joy of telling it [cite: 405-406]. However, as Irving reached the climax and asked a third time, Twain decided he could no longer lie 'at any price'[cite: 408]. He admitted that he had not only heard the story but had actually invented it himself[cite: 408]. This story highlights the balance between social courtesy and the limits of patience. It also demonstrates Twain's legendary status as a humorist, where even his peers were unknowingly repeating his own material to him. The anecdote perfectly captures Twain's honest yet sharp-witted character."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What were the satirical proposed changes for the first five years of Twain's English Spelling Reform?",
+      "answer": "In his 'Plan for the Improvement of English Spelling,' Twain proposed radical year-by-year changes to simplify the language[cite: 409]. In Year 1, the 'useless' letter 'c' would be replaced by 'k' or 's,' and 'x' would no longer be part of the alphabet[cite: 410]. Year 2 would reform 'w' spelling, and Year 3 would abolish 'y' entirely, replacing it with 'i'[cite: 412]. By Year 4, the 'g/j' anomaly would be fixed once and for all[cite: 412]. Finally, Year 5 would do away with useless double consonants[cite: 413]. The text of the proposal itself begins to adopt these rules, showing how the language would slowly transform into a phonetic system. This satire highlights the genuine frustrations people feel toward the irregular rules and silent letters of the English language."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "How did Twain use a spider in his newspaper to address a reader's superstition?",
+      "answer": "While editing a Missouri newspaper, Twain received a letter from a reader who found a spider in the paper and feared it portended bad luck [cite: 417-418]. Twain wittily replied that finding a spider was neither good nor bad luck[cite: 419]. He explained that the spider was simply looking over the paper to see which merchant was not advertising[cite: 419]. The spider would then go to that merchant's store and spin its web across the door, knowing it could lead a life of 'undisturbed peace' because no customers would enter[cite: 419]. This clever response served to mock the reader's superstition while simultaneously delivering a sharp message to merchants about the importance of advertising. It illustrates Twain's ability to use a small, everyday occurrence to highlight a broader business or social truth. His logic turned a superstitious concern into a witty piece of advice."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain the significance of Halley's comet in the life and death of Mark Twain.",
+      "answer": "Mark Twain's birth in November 1835 coincided with the return of Halley's comet[cite: 420]. Throughout his life, Twain often remarked upon this curiosity and came to believe that he and the comet were 'unaccountable freaks' that were cosmically linked[cite: 421]. He famously predicted that since they had 'come in together,' they would also 'go out together'[cite: 421]. His prediction proved correct, as he died in April 1910 on the very night that Halley's comet blazed through the sky once again[cite: 422]. This story adds a layer of cosmic mystery to Twain’s biography, suggesting he saw his life as part of a larger, perhaps humorous, universal design. It shows his fascination with science and the extraordinary coincidences of nature. This 'curiosity' remains one of the most legendary anecdotes about his life."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Analyze the meaning behind Twain's quote: 'Age is an issue of mind over matter.'",
+      "answer": "Mark Twain famously said, 'Age is an issue of mind over matter. If you don't mind, it doesn't matter'[cite: 434]. This witty play on words suggests that aging is more of a psychological state than a physical one. By 'mind over matter,' he implies that our mental attitude can overcome the physical reality of getting older. The joke lies in the double use of the word 'mind'—one as a noun for our intellect and the other as a verb meaning to be bothered by something. Twain encourages people to stop worrying about their age because once you stop 'minding' it, it ceases to be a problem. This quote reflects his overall philosophy of using humor to maintain a youthful and independent spirit. It is a timeless piece of advice for living a life free from social anxieties."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What is Twain's perspective on 'April Fool's Day' compared to the rest of the year?",
+      "answer": "Twain provided a cynical yet funny perspective on April Fool's Day, calling it the day 'upon which we are reminded of what we are on the other three hundred and sixty-four' [cite: 424-427]. This suggests that humans are naturally 'fools' all year round, but we only have one specific day dedicated to realizing it. He uses the holiday to highlight human vanity and the tendency for people to act foolishly without ever admitting it. By pointing this out, he mocks the idea that people are generally wise and only act silly on one day. It is a characteristically sharp critique of human nature disguised as a festive observation. This quote encourages readers to maintain a sense of humility about their own intelligence and actions."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the logic in Twain's advice about truth and memory.",
+      "answer": "Mark Twain observed, 'If you tell the truth, you don't have to remember anything' [cite: 448-449]. This quotation provides a practical, rather than just moral, argument for honesty. He suggests that lying is a difficult mental task because a person must remember every detail of their false story to avoid being caught in a contradiction. In contrast, the truth is a constant fact that does not change, so it requires no effort of 'memory' to repeat consistently. This advice links ethical integrity with mental efficiency, showing that an honest life is simpler and more 'comfortable'[cite: 428]. It reflects Twain’s preference for straightforwardness and his disdain for the complicated deceptions of social life. Ultimately, it teaches that being truthful saves one from the burden of maintaining a false reality."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "How does Twain contrast thunder and lightning in his quote, and what is the lesson?",
+      "answer": "Twain wrote, 'Thunder is good, thunder is impressive; but it is lightning that does the work'[cite: 463]. In this metaphor, thunder represents loud words, impressive appearances, or big promises that lack actual substance. Lightning represents the sudden, powerful action or the brilliant idea that creates a real impact and 'does the work'. The lesson is to prioritize results and effective action over mere noise and showmanship. It critiques people who talk a lot but achieve very little. Twain’s own career as a defender of causes showed that he valued the 'lightning' of meaningful action. This quote serves as a powerful reminder that substance is always more important than style."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What does Twain mean by his definition of a 'Classic' book?",
+      "answer": "Twain humorously defined a 'Classic' as 'A book which people praise and don't read'[cite: 439]. This observation points out the hypocrisy in social and academic circles where people feel obligated to praise famous literature to appear cultured. He suggests that while many books are universally respected, very few people actually take the time to read and enjoy them. This reflects Twain’s own identity as a popular writer who valued actual readership over prestigious labels. By calling out this behavior, he encourages readers to be honest about what they truly enjoy reading. The quote remains a sharp critique of the elitism and 'pretentiousness' often found in the literary world. It suggests that true literary value should be found in engagement, not just reputation."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss Twain's quote about keeping a 'tidy soul' despite one's dress.",
+      "answer": "Twain advised, 'Be careless in your dress if you will, but keep a tidy soul'[cite: 438]. This statement emphasizes that a person's inner moral character is far more important than their outward fashion or social appearance. He suggests that one can afford to ignore strict dress codes as long as they maintain their integrity and ethical purity. This mirrors his own behavior in the Mrs. Stowe anecdote, where his wife worried about his clothes, but he focused on the friendship [cite: 379-382]. The quote is a call for authenticity and a reminder that true human value is found within. For Twain, a 'tidy soul' was the ultimate sign of a decent human being, regardless of their social class. It encourages readers to prioritize their conscience over the judgments of others."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze Twain's cynical view on birth and funerals.",
+      "answer": "Mark Twain asked, 'Why is it that we rejoice at a birth and grieve at a funeral?'[cite: 460]. He followed this with the witty answer: 'It is because we are not the person involved'[cite: 461]. This observation mocks human emotional responses as being inherently selfish or at least detached from the reality of the person experiencing the event. He suggests that we rejoice at birth because we don't have to face the long life of troubles ahead, and we grieve at funerals because we are safe while the other person is gone. It is a sharp, ironic take on two of the most significant events in human life. This quote highlights Twain's ability to find a dark, funny truth in universal human behaviors. It challenges the reader to think about the true nature of their empathy."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain the 'mind over matter' pun and the two meanings of 'mind' and 'matter'.",
+      "answer": "In the quote 'Age is an issue of mind over matter. If you don't mind, it doesn't matter,' Twain uses a double pun to make a point about aging[cite: 434, 478]. In the first sentence, 'mind' refers to human intellect and willpower, while 'matter' refers to the physical body and its aging process[cite: 478]. This suggests that our will can control how we experience our physical state. In the second sentence, 'mind' becomes a verb meaning 'to be bothered by,' and 'matter' means 'to be significant or important'[cite: 478]. The joke is that if you are not bothered by getting older, then your physical age is not important. This linguistic trick delivers a profound psychological lesson about maintaining a positive attitude. It is a perfect example of how Twain used the irregularities of English for humor."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe the passive voice construction and provide examples from the text.",
+      "answer": "A passive construction is used when the focus of a sentence is on the object—the thing affected by the action—rather than the doer [cite: 492-493]. In this form, the object becomes the subject, and the verb is in the 'be + past participle' form[cite: 495]. For example, in the sentence 'The plants are pruned,' the focus is on the state of the plants, and the person doing the pruning is not mentioned[cite: 496]. Another example is 'Many anecdotes related to Mark Twain are told,' where the focus is on the stories themselves[cite: 497]. If the 'doer' needs to be mentioned, it is added after the word 'by,' as in 'This pen was given to me by my Aunt' [cite: 498-499]. This construction is useful in formal writing where the action itself is more important than the person performing it."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How does the 'Live English' section teach students to interact with Customer Care?",
+      "answer": "The 'Live English' section provides a realistic dialogue between a Mother, her daughter Vaishali, and a Customer Care executive to solve a mobile internet problem [cite: 507-508]. Students learn how to navigate automated IVR menus by pressing specific numbers for language or service options. The dialogue shows the importance of clear communication, such as explaining the specific data plan and the exact nature of the technical issue. It also introduces useful 'telephone phrases' like 'Hold on,' 'Put through,' and 'Hang up' to make phone conversations more natural [cite: 516-521]. Additionally, it provides templates for 'Making a complaint' and 'Dealing with complaints' in a professional manner [cite: 525-534]. This activity bridges the gap between classroom learning and the practical communication skills needed in the modern world."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze Twain's quote: 'A man cannot be comfortable without his own approval.'",
+      "answer": "This quotation highlights that internal peace is more important than external wealth or the praise of others[cite: 428]. Twain suggests that a person's conscience is their ultimate judge, and no amount of success can make someone feel 'comfortable' if they do not approve of their own actions. This 'own approval' relates to the 'tidy soul' he mentions elsewhere, emphasizing moral integrity[cite: 438]. It implies that we carry our own sense of happiness within us, and it depends on living according to our values. The quote encourages readers to live in a way that allows them to respect themselves. For Twain, the greatest discomfort was not poverty or social rejection, but the loss of one's self-respect. It is a powerful statement on the nature of personal ethics."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Discuss the humor in the quote about health books and the danger of misprints.",
+      "answer": "Twain warned, 'Be careful about reading health books. You may die of a misprint' [cite: 436-437]. This joke relies on the idea that people take the advice in health books so literally that even a small typographical error could lead to a fatal mistake in treatment or diet. It mocks the anxiety people feel about their health and their over-reliance on every new book they read. The humor also targets the publishing industry, suggesting that a simple 'misprint' can have life-or-death consequences. This quote reflects Twain’s overall skepticism toward 'experts' and his belief in common sense. It remains a popular joke because it perfectly captures the absurdity of extreme health consciousness. It teaches us to maintain a sense of humor even when dealing with serious subjects like health."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What does Twain mean by his quote regarding the majority and the need to reflect?",
+      "answer": "Twain wrote, 'Whenever you find yourself on the side of the majority, it is time to pause and reflect'[cite: 459]. This advice is a warning against 'herd mentality' and the tendency for people to follow popular opinion without thinking for themselves. He suggests that the majority is often unthinking or simply following tradition, so a wise person should always double-check their own beliefs. By 'pause and reflect,' he encourages independent thought and the courage to hold a minority opinion if it is based on logic. This reflects Twain's own life as a defender of unpopular causes like opposing imperialism and supporting racial equality [cite: 365-366]. It is a quintessential statement on the importance of intellectual independence. The quote teaches that popularity is not the same as being right."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Describe the irony in Twain's plan for 'Year 15' of the spelling reform.",
+      "answer": "In Year 15 of his satirical spelling reform, Twain proposed that the letters 'c,' 'y,' and 'x'—which by then would be 'jast a memori'—be brought back to replace 'ch,' 'sh,' and 'th'[cite: 414]. The irony is that after years of trying to abolish 'useless' letters, he ends up reusing them for new purposes, making the language look even stranger than before. He refers to the people who would remember the old spelling as 'ould doderez' (old men who can't do things right)[cite: 403, 414]. This creates a humorous cycle where the attempt to make spelling 'logical' actually makes it more complex and unreadable. The text of the proposal at this point is written in this bizarre new style, forcing the reader to struggle with the 'improved' language [cite: 414-415]. It is a brilliant parody of how 'fixing' a complex system can sometimes lead to even more confusion."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How did Mark Twain view his own memory as he got older?",
+      "answer": "Twain humorously observed, 'When I was younger I could remember anything, whether it happened or not'[cite: 464]. This quote plays with the idea of 'false memories' and the tendency for people to exaggerate or imagine events from their past. He suggests that as a young man, his imagination was so vivid that he didn't care if a memory was factual or fictional. As he got older, he realized that many of the 'troubles' he remembered had never actually happened[cite: 443]. This self-deprecating humor shows his awareness of his own role as a storyteller and a creator of 'tall tales'. It highlights that for Twain, a good story was often more important than the strict truth. This perspective allows him to look back at his long life with both irony and amusement."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Analyze the quote: 'A person with a new idea is a crank until the idea succeeds.'",
+      "answer": "Twain observed that social recognition depends entirely on success rather than the quality of the idea[cite: 433]. A person who thinks differently is labeled a 'crank' (an eccentric or obsessive person) by the majority as long as their idea is unproven. However, once the idea is successful, the label shifts from 'crank' to 'genius' or 'pioneer'. This quote critques society's narrow-mindedness and its fear of unconventional thinking. It serves as an encouragement to innovators to persist with their ideas despite social disapproval. Twain himself was often a 'crank' who explored controversial topics like imperialism and racial injustice before they were popular [cite: 365-366]. It suggests that today's 'eccentrics' are often the people who build tomorrow's reality."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize how the anecdotes and quotations together portray Mark Twain's character.",
+      "answer": "The anecdotes in the chapter portray Mark Twain as a man of immense wit who could find humor in any situation, from a barber shop to a neighbor's visit [cite: 368-408]. His willingness to send his collar and tie in a package or admit he invented a joke shows a playful yet honest personality[cite: 383, 408]. His quotations add a deeper philosophical layer, revealing a man who valued truth, integrity ('tidy soul'), and independent thought over social labels[cite: 438, 448, 459]. Even his cynical take on age, birth, and funerals is balanced by his belief that 'Humour is mankind's greatest blessing'[cite: 442]. Together, these elements show a character who was both a 'funny man' and a serious defender of human values like liberty and equality [cite: 365-366]. Mark Twain emerges as a complex, humanitarian figure whose legacy is built on the power of laughter to reveal profound truths."
+    }
+  ]
+}

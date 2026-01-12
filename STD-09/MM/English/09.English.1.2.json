@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.1.2",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "The Fun they Had"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "On which date does Margie make her diary entry?",
+      "options": [
+        { "option id": 1, "text": "17 May 2024", "is correct": false },
+        { "option id": 2, "text": "17 May 2157", "is correct": true },
+        { "option id": 3, "text": "17 May 2057", "is correct": false },
+        { "option id": 4, "text": "17 May 2100", "is correct": false }
+      ],
+      "answer": "17 May 2157"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who found a 'real book'?",
+      "options": [
+        { "option id": 1, "text": "Margie", "is correct": false },
+        { "option id": 2, "text": "Tommy", "is correct": true },
+        { "option id": 3, "text": "The County Inspector", "is correct": false },
+        { "option id": 4, "text": "Margie's grandfather", "is correct": false }
+      ],
+      "answer": "Tommy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How were the pages of the old book described?",
+      "options": [
+        { "option id": 1, "text": "White and smooth", "is correct": false },
+        { "option id": 2, "text": "Yellow and crinkly", "is correct": true },
+        { "option id": 3, "text": "Blue and torn", "is correct": false },
+        { "option id": 4, "text": "Shiny and new", "is correct": false }
+      ],
+      "answer": "Yellow and crinkly"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was 'awfully funny' about the real book to Margie and Tommy?",
+      "options": [
+        { "option id": 1, "text": "The pictures inside", "is correct": false },
+        { "option id": 2, "text": "The words stood still instead of moving", "is correct": true },
+        { "option id": 3, "text": "The smell of the paper", "is correct": false },
+        { "option id": 4, "text": "The jokes written in it", "is correct": false }
+      ],
+      "answer": "The words stood still instead of moving"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How old was Margie?",
+      "options": [
+        { "option id": 1, "text": "Nine", "is correct": false },
+        { "option id": 2, "text": "Eleven", "is correct": true },
+        { "option id": 3, "text": "Thirteen", "is correct": false },
+        { "option id": 4, "text": "Ten", "is correct": false }
+      ],
+      "answer": "Eleven"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How old was Tommy?",
+      "options": [
+        { "option id": 1, "text": "Eleven", "is correct": false },
+        { "option id": 2, "text": "Twelve", "is correct": false },
+        { "option id": 3, "text": "Thirteen", "is correct": true },
+        { "option id": 4, "text": "Fourteen", "is correct": false }
+      ],
+      "answer": "Thirteen"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where did Tommy find the book?",
+      "options": [
+        { "option id": 1, "text": "In a library", "is correct": false },
+        { "option id": 2, "text": "In the attic", "is correct": true },
+        { "option id": 3, "text": "In the garden", "is correct": false },
+        { "option id": 4, "text": "At school", "is correct": false }
+      ],
+      "answer": "In the attic"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the real book about?",
+      "options": [
+        { "option id": 1, "text": "History", "is correct": false },
+        { "option id": 2, "text": "School", "is correct": true },
+        { "option id": 3, "text": "Geography", "is correct": false },
+        { "option id": 4, "text": "Robots", "is correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What subject was Margie doing worse and worse in?",
+      "options": [
+        { "option id": 1, "text": "Arithmetic", "is correct": false },
+        { "option id": 2, "text": "History", "is correct": false },
+        { "option id": 3, "text": "Geography", "is correct": true },
+        { "option id": 4, "text": "English", "is correct": false }
+      ],
+      "answer": "Geography"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Describe the County Inspector.",
+      "options": [
+        { "option id": 1, "text": "A tall, thin man", "is correct": false },
+        { "option id": 2, "text": "A round little man with a red face", "is correct": true },
+        { "option id": 3, "text": "A robot with dials", "is correct": false },
+        { "option id": 4, "text": "A stern teacher", "is correct": false }
+      ],
+      "answer": "A round little man with a red face"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did the Inspector give Margie?",
+      "options": [
+        { "option id": 1, "text": "A book", "is correct": false },
+        { "option id": 2, "text": "An apple", "is correct": true },
+        { "option id": 3, "text": "A chocolate", "is correct": false },
+        { "option id": 4, "text": "A test paper", "is correct": false }
+      ],
+      "answer": "An apple"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which part of the mechanical teacher did Margie hate most?",
+      "options": [
+        { "option id": 1, "text": "The big screen", "is correct": false },
+        { "option id": 2, "text": "The slot for homework", "is correct": true },
+        { "option id": 3, "text": "The geography sector", "is correct": false },
+        { "option id": 4, "text": "The voice of the teacher", "is correct": false }
+      ],
+      "answer": "The slot for homework"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In what code did Margie have to write her homework?",
+      "options": [
+        { "option id": 1, "text": "Binary code", "is correct": false },
+        { "option id": 2, "text": "Punch code", "is correct": true },
+        { "option id": 3, "text": "Morse code", "is correct": false },
+        { "option id": 4, "text": "QR code", "is correct": false }
+      ],
+      "answer": "Punch code"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "At what age did Margie learn the punch code?",
+      "options": [
+        { "option id": 1, "text": "Four", "is correct": false },
+        { "option id": 2, "text": "Six", "is correct": true },
+        { "option id": 3, "text": "Eight", "is correct": false },
+        { "option id": 4, "text": "Ten", "is correct": false }
+      ],
+      "answer": "Six"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "To what average level was the geography sector slowed down?",
+      "options": [
+        { "option id": 1, "text": "Eight-year level", "is correct": false },
+        { "option id": 2, "text": "Ten-year level", "is correct": true },
+        { "option id": 3, "text": "Twelve-year level", "is correct": false },
+        { "option id": 4, "text": "Five-year level", "is correct": false }
+      ],
+      "answer": "Ten-year level"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why was Tommy’s teacher once taken away for nearly a month?",
+      "options": [
+        { "option id": 1, "text": "It needed a new screen", "is correct": false },
+        { "option id": 2, "text": "The history sector had blanked out", "is correct": true },
+        { "option id": 3, "text": "Tommy was on holiday", "is correct": false },
+        { "option id": 4, "text": "It was broken by Tommy", "is correct": false }
+      ],
+      "answer": "The history sector had blanked out"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What kind of teacher did the old schools have?",
+      "options": [
+        { "option id": 1, "text": "A robot", "is correct": false },
+        { "option id": 2, "text": "A man", "is correct": true },
+        { "option id": 3, "text": "A computer", "is correct": false },
+        { "option id": 4, "text": "A mechanical inspector", "is correct": false }
+      ],
+      "answer": "A man"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Where did children go to learn in the old days?",
+      "options": [
+        { "option id": 1, "text": "In their own bedrooms", "is correct": false },
+        { "option id": 2, "text": "A special building", "is correct": true },
+        { "option id": 3, "text": "In a forest", "is correct": false },
+        { "option id": 4, "text": "Online", "is correct": false }
+      ],
+      "answer": "A special building"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Did all kids learn the same thing in old schools?",
+      "options": [
+        { "option id": 1, "text": "No, they all learned differently", "is correct": false },
+        { "option id": 2, "text": "Yes, if they were the same age", "is correct": true },
+        { "option id": 3, "text": "Only if they were boys", "is correct": false },
+        { "option id": 4, "text": "Only if they were rich", "is correct": false }
+      ],
+      "answer": "Yes, if they were the same age"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Where was Margie's schoolroom located?",
+      "options": [
+        { "option id": 1, "text": "Down the street", "is correct": false },
+        { "option id": 2, "text": "Right next to her bedroom", "is correct": true },
+        { "option id": 3, "text": "In the attic", "is correct": false },
+        { "option id": 4, "text": "In the kitchen", "is correct": false }
+      ],
+      "answer": "Right next to her bedroom"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "On which days was the mechanical teacher NOT on?",
+      "options": [
+        { "option id": 1, "text": "Friday and Saturday", "is correct": false },
+        { "option id": 2, "text": "Saturday and Sunday", "is correct": true },
+        { "option id": 3, "text": "Sunday and Monday", "is correct": false },
+        { "option id": 4, "text": "Only Sunday", "is correct": false }
+      ],
+      "answer": "Saturday and Sunday"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What was the arithmetic lesson about?",
+      "options": [
+        { "option id": 1, "text": "Multiplication of numbers", "is correct": false },
+        { "option id": 2, "text": "Addition of proper fractions", "is correct": true },
+        { "option id": 3, "text": "Subtraction of decimals", "is correct": false },
+        { "option id": 4, "text": "Division of integers", "is correct": false }
+      ],
+      "answer": "Addition of proper fractions"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who told Margie's grandfather about stories printed on paper?",
+      "options": [
+        { "option id": 1, "text": "His father", "is correct": false },
+        { "option id": 2, "text": "His grandfather", "is correct": true },
+        { "option id": 3, "text": "Tommy", "is correct": false },
+        { "option id": 4, "text": "The Inspector", "is correct": false }
+      ],
+      "answer": "His grandfather"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did Tommy call the real book after reading it?",
+      "options": [
+        { "option id": 1, "text": "A treasure", "is correct": false },
+        { "option id": 2, "text": "A waste", "is correct": true },
+        { "option id": 3, "text": "A funny joke", "is correct": false },
+        { "option id": 4, "text": "An ancient map", "is correct": false }
+      ],
+      "answer": "A waste"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "How did the kids go home in the old days?",
+      "options": [
+        { "option id": 1, "text": "Individually by bus", "is correct": false },
+        { "option id": 2, "text": "Together at the end of the day", "is correct": true },
+        { "option id": 3, "text": "They lived at school", "is correct": false },
+        { "option id": 4, "text": "By flying cars", "is correct": false }
+      ],
+      "answer": "Together at the end of the day"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What did Tommy call the old kind of school?",
+      "options": [
+        { "option id": 1, "text": "Funny school", "is correct": false },
+        { "option id": 2, "text": "The old kind of school", "is correct": true },
+        { "option id": 3, "text": "Modern school", "is correct": false },
+        { "option id": 4, "text": "Regular school", "is correct": false }
+      ],
+      "answer": "The old kind of school"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Tommy pronounced the word 'Centuries ago' in what manner?",
+      "options": [
+        { "option id": 1, "text": "Quickly", "is correct": false },
+        { "option id": 2, "text": "Loftily and carefully", "is correct": true },
+        { "option id": 3, "text": "Sadly", "is correct": false },
+        { "option id": 4, "text": "Quietly", "is correct": false }
+      ],
+      "answer": "Loftily and carefully"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What did Margie think about a man being a teacher?",
+      "options": [
+        { "option id": 1, "text": "She thought it was a great idea", "is correct": false },
+        { "option id": 2, "text": "She thought a man wasn't smart enough", "is correct": true },
+        { "option id": 3, "text": "She wanted to meet him", "is correct": false },
+        { "option id": 4, "text": "She didn't believe Tommy", "is correct": false }
+      ],
+      "answer": "She thought a man wasn't smart enough"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Tommy told Margie that his father knows as much as ________.",
+      "options": [
+        { "option id": 1, "text": "The Inspector", "is correct": false },
+        { "option id": 2, "text": "His teacher", "is correct": true },
+        { "option id": 3, "text": "A robot", "is correct": false },
+        { "option id": 4, "text": "The President", "is correct": false }
+      ],
+      "answer": "His teacher"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why didn't Margie want a 'strange man' in her house?",
+      "options": [
+        { "option id": 1, "text": "To eat her food", "is correct": false },
+        { "option id": 2, "text": "To teach her", "is correct": true },
+        { "option id": 3, "text": "To fix the computer", "is correct": false },
+        { "option id": 4, "text": "To sleep there", "is correct": false }
+      ],
+      "answer": "To teach her"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Where did teachers in the old days actually teach?",
+      "options": [
+        { "option id": 1, "text": "In their own homes", "is correct": false },
+        { "option id": 2, "text": "In a special building", "is correct": true },
+        { "option id": 3, "text": "On television", "is correct": false },
+        { "option id": 4, "text": "In the attic", "is correct": false }
+      ],
+      "answer": "In a special building"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "According to Margie's mother, a teacher has to be ________.",
+      "options": [
+        { "option id": 1, "text": "Very tall and red-faced", "is correct": false },
+        { "option id": 2, "text": "Adjusted to fit the mind of each boy and girl", "is correct": true },
+        { "option id": 3, "text": "Replaced every year", "is correct": false },
+        { "option id": 4, "text": "Made of metal", "is correct": false }
+      ],
+      "answer": "Adjusted to fit the mind of each boy and girl"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What did Margie want to read about?",
+      "options": [
+        { "option id": 1, "text": "Ancient history", "is correct": false },
+        { "option id": 2, "text": "Those funny schools", "is correct": true },
+        { "option id": 3, "text": "Robotic wars", "is correct": false },
+        { "option id": 4, "text": "Cooking", "is correct": false }
+      ],
+      "answer": "Those funny schools"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who called Margie for school while she was reading with Tommy?",
+      "options": [
+        { "option id": 1, "text": "Her father", "is correct": false },
+        { "option id": 2, "text": "Her mother", "is correct": true },
+        { "option id": 3, "text": "The mechanical teacher", "is correct": false },
+        { "option id": 4, "text": "Tommy", "is correct": false }
+      ],
+      "answer": "Her mother"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Tommy walked away ________ after their discussion.",
+      "options": [
+        { "option id": 1, "text": "Crying", "is correct": false },
+        { "option id": 2, "text": "Nonchalantly, whistling", "is correct": true },
+        { "option id": 3, "text": "Angrily", "is correct": false },
+        { "option id": 4, "text": "Quickly running", "is correct": false }
+      ],
+      "answer": "Nonchalantly, whistling"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Margie's mother said little girls learned better if ________.",
+      "options": [
+        { "option id": 1, "text": "They had no homework", "is correct": false },
+        { "option id": 2, "text": "They learned at regular hours", "is correct": true },
+        { "option id": 3, "text": "They played video games", "is correct": false },
+        { "option id": 4, "text": "They taught themselves", "is correct": false }
+      ],
+      "answer": "They learned at regular hours"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What appeared on the screen for the arithmetic lesson?",
+      "options": [
+        { "option id": 1, "text": "Multiplication table", "is correct": false },
+        { "option id": 2, "text": "Addition of proper fractions", "is correct": true },
+        { "option id": 3, "text": "Subtraction of whole numbers", "is correct": false },
+        { "option id": 4, "text": "Division of decimals", "is correct": false }
+      ],
+      "answer": "Addition of proper fractions"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The screen asked Margie to insert ________ in the proper slot.",
+      "options": [
+        { "option id": 1, "text": "An apple", "is correct": false },
+        { "option id": 2, "text": "Yesterday's homework", "is correct": true },
+        { "option id": 3, "text": "A telebook", "is correct": false },
+        { "option id": 4, "text": "A punch card", "is correct": false }
+      ],
+      "answer": "Yesterday's homework"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What was Margie thinking about during her arithmetic lesson?",
+      "options": [
+        { "option id": 1, "text": "The County Inspector", "is correct": false },
+        { "option id": 2, "text": "The fun they had in old schools", "is correct": true },
+        { "option id": 3, "text": "Buying a new robot", "is correct": false },
+        { "option id": 4, "text": "Tommy's attic", "is correct": false }
+      ],
+      "answer": "The fun they had in old schools"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which word is a synonym for 'loftily'?",
+      "options": [
+        { "option id": 1, "text": "In a superior tone", "is correct": true },
+        { "option id": 2, "text": "In a low voice", "is correct": false },
+        { "option id": 3, "text": "Quietly", "is correct": false },
+        { "option id": 4, "text": "Sadly", "is correct": false }
+      ],
+      "answer": "In a superior tone"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does the word 'betcha' mean?",
+      "options": [
+        { "option id": 1, "text": "I hope", "is correct": false },
+        { "option id": 2, "text": "Surely", "is correct": true },
+        { "option id": 3, "text": "Maybe", "is correct": false },
+        { "option id": 4, "text": "Never", "is correct": false }
+      ],
+      "answer": "Surely"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "To 'dispute' something means to ________.",
+      "options": [
+        { "option id": 1, "text": "Agree with it", "is correct": false },
+        { "option id": 2, "text": "Argue or quarrel with it", "is correct": true },
+        { "option id": 3, "text": "Write it down", "is correct": false },
+        { "option id": 4, "text": "Read it aloud", "is correct": false }
+      ],
+      "answer": "Argue or quarrel with it"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What kind of face did the County Inspector have?",
+      "options": [
+        { "option id": 1, "text": "Blue", "is correct": false },
+        { "option id": 2, "text": "Red", "is correct": true },
+        { "option id": 3, "text": "White", "is correct": false },
+        { "option id": 4, "text": "Pale", "is correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The mechanical teacher calculated marks in ________.",
+      "options": [
+        { "option id": 1, "text": "A few hours", "is correct": false },
+        { "option id": 2, "text": "No time", "is correct": true },
+        { "option id": 3, "text": "Two days", "is correct": false },
+        { "option id": 4, "text": "One week", "is correct": false }
+      ],
+      "answer": "No time"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What was the Inspector's box full of?",
+      "options": [
+        { "option id": 1, "text": "Apples", "is correct": false },
+        { "option id": 2, "text": "Tools with dials and wires", "is correct": true },
+        { "option id": 3, "text": "Telebooks", "is correct": false },
+        { "option id": 4, "text": "Homework papers", "is correct": false }
+      ],
+      "answer": "Tools with dials and wires"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What had 'blanked out completely' in Tommy's teacher?",
+      "options": [
+        { "option id": 1, "text": "The geography sector", "is correct": false },
+        { "option id": 2, "text": "The history sector", "is correct": true },
+        { "option id": 3, "text": "The math sector", "is correct": false },
+        { "option id": 4, "text": "The screen", "is correct": false }
+      ],
+      "answer": "The history sector"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Margie's overall pattern of progress was described as ________.",
+      "options": [
+        { "option id": 1, "text": "Poor", "is correct": false },
+        { "option id": 2, "text": "Satisfactory", "is correct": true },
+        { "option id": 3, "text": "Excellent", "is correct": false },
+        { "option id": 4, "text": "Terrible", "is correct": false }
+      ],
+      "answer": "Satisfactory"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Margie's grandfather's grandfather was a little boy when ________.",
+      "options": [
+        { "option id": 1, "text": "They had robotic teachers", "is correct": false },
+        { "option id": 2, "text": "They had old schools with human teachers", "is correct": true },
+        { "option id": 3, "text": "They used telebooks", "is correct": false },
+        { "option id": 4, "text": "The story took place", "is correct": false }
+      ],
+      "answer": "They had old schools with human teachers"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "In the story, 'telebooks' appear on a ________.",
+      "options": [
+        { "option id": 1, "text": "Sheet of paper", "is correct": false },
+        { "option id": 2, "text": "Television screen", "is correct": true },
+        { "option id": 3, "text": "Wall", "is correct": false },
+        { "option id": 4, "text": "Blackboard", "is correct": false }
+      ],
+      "answer": "Television screen"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Tommy was how many years older than Margie?",
+      "options": [
+        { "option id": 1, "text": "One year", "is correct": false },
+        { "option id": 2, "text": "Two years", "is correct": true },
+        { "option id": 3, "text": "Three years", "is correct": false },
+        { "option id": 4, "text": "Five years", "is correct": false }
+      ],
+      "answer": "Two years"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What did Margie write in her diary on 17 May 2157?",
+      "answer": "Margie wrote, 'Today Tommy found a real book!' in her diary on that night [cite: 317-318]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How did Margie's grandfather describe the books of his grandfather's time?",
+      "answer": "He said there was a time when all stories were printed on paper[cite: 319]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Tommy and Margie find it funny to read the real book?",
+      "answer": "They found it funny because the words stood still instead of moving on a screen as they were supposed to[cite: 320]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was Tommy's opinion about a paper book after reading it?",
+      "answer": "Tommy thought it was a waste because he guessed people just threw the book away once they were through with it[cite: 322]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How many books could Tommy's television screen hold?",
+      "answer": "Tommy's television screen could hold a million books and was good for plenty more[cite: 322]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Compare the ages of Margie and Tommy.",
+      "answer": "Margie was eleven years old, while Tommy was thirteen years old[cite: 323]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where specifically did Tommy find the old book?",
+      "answer": "Tommy found the book in the attic of his house [cite: 325-326]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What was Margie's initial reaction when she heard the book was about school?",
+      "answer": "Margie was scornful and wondered what there was to write about school, as she hated it [cite: 328-329]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why had Margie's mother sent for the County Inspector?",
+      "answer": "She sent for him because Margie had been doing worse and worse in her geography tests given by the mechanical teacher[cite: 331]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Describe the appearance of the County Inspector.",
+      "answer": "He was a round little man with a red face and carried a box of tools with dials and wires[cite: 332]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How did the County Inspector treat Margie when he arrived?",
+      "answer": "He smiled at Margie, gave her an apple, and then took the mechanical teacher apart to fix it[cite: 333]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did Margie hope would happen to the mechanical teacher?",
+      "answer": "Margie hoped that the Inspector wouldn't know how to put the mechanical teacher back together again[cite: 334]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How does Margie describe the mechanical teacher's appearance?",
+      "answer": "She describes it as large, black, and ugly, with a big screen where lessons and questions appeared[cite: 336]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which part of the mechanical teacher did Margie hate the most?",
+      "answer": "Margie hated the slot where she had to put her homework and test papers the most[cite: 337]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was the reason for Margie's poor performance in Geography?",
+      "answer": "The geography sector of the mechanical teacher was geared a little too quick for her level[cite: 340]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did the Inspector do to fix the geography sector?",
+      "answer": "He slowed it up to an average ten-year level[cite: 340]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why was Margie disappointed after the Inspector fixed the teacher?",
+      "answer": "She was disappointed because she had hoped they would take the teacher away altogether, as they had done for Tommy once[cite: 342]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What had happened to Tommy's teacher in the past?",
+      "answer": "Tommy's teacher was taken away for nearly a month because the history sector had blanked out completely[cite: 343]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did Tommy describe the schools of 'centuries ago'?",
+      "answer": "He said they were not like their school; they were the old kind of school that existed hundreds of years ago[cite: 345]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What surprised Margie about the teachers in the old books?",
+      "answer": "Margie was surprised to learn that the teachers were people, specifically men, rather than mechanical machines [cite: 348-350]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did Tommy say about his father's knowledge compared to a teacher?",
+      "answer": "Tommy claimed his father knew as much as his mechanical teacher[cite: 353]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did Tommy tell Margie about where the old teachers lived?",
+      "answer": "He laughed and explained that teachers didn't live in the house; they had a special building where all the kids went[cite: 373]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How often did Margie have school sessions?",
+      "answer": "Margie had school every day at the same time except for Saturday and Sunday[cite: 385]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was the topic of the arithmetic lesson on the day Tommy found the book?",
+      "answer": "The arithmetic lesson was on the addition of proper fractions[cite: 386]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What kind of activities did kids do together in old schools according to Margie's thoughts?",
+      "answer": "Kids from the whole neighborhood came, laughed, shouted, sat together in class, and went home together [cite: 388-390]."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What did Margie write in her diary on 17 May 2157?",
+      "answer": "Margie wrote, 'Today Tommy found a real book!' in her diary on that night [cite: 317-318]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How did Margie's grandfather describe the books of his grandfather's time?",
+      "answer": "He said there was a time when all stories were printed on paper[cite: 319]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Tommy and Margie find it funny to read the real book?",
+      "answer": "They found it funny because the words stood still instead of moving on a screen as they were supposed to[cite: 320]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was Tommy's opinion about a paper book after reading it?",
+      "answer": "Tommy thought it was a waste because he guessed people just threw the book away once they were through with it[cite: 322]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How many books could Tommy's television screen hold?",
+      "answer": "Tommy's television screen could hold a million books and was good for plenty more[cite: 322]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Compare the ages of Margie and Tommy.",
+      "answer": "Margie was eleven years old, while Tommy was thirteen years old[cite: 323]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where specifically did Tommy find the old book?",
+      "answer": "Tommy found the book in the attic of his house [cite: 325-326]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What was Margie's initial reaction when she heard the book was about school?",
+      "answer": "Margie was scornful and wondered what there was to write about school, as she hated it [cite: 328-329]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why had Margie's mother sent for the County Inspector?",
+      "answer": "She sent for him because Margie had been doing worse and worse in her geography tests given by the mechanical teacher[cite: 331]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Describe the appearance of the County Inspector.",
+      "answer": "He was a round little man with a red face and carried a box of tools with dials and wires[cite: 332]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How did the County Inspector treat Margie when he arrived?",
+      "answer": "He smiled at Margie, gave her an apple, and then took the mechanical teacher apart to fix it[cite: 333]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did Margie hope would happen to the mechanical teacher?",
+      "answer": "Margie hoped that the Inspector wouldn't know how to put the mechanical teacher back together again[cite: 334]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How does Margie describe the mechanical teacher's appearance?",
+      "answer": "She describes it as large, black, and ugly, with a big screen where lessons and questions appeared[cite: 336]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which part of the mechanical teacher did Margie hate the most?",
+      "answer": "Margie hated the slot where she had to put her homework and test papers the most[cite: 337]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was the reason for Margie's poor performance in Geography?",
+      "answer": "The geography sector of the mechanical teacher was geared a little too quick for her level[cite: 340]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did the Inspector do to fix the geography sector?",
+      "answer": "He slowed it up to an average ten-year level[cite: 340]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why was Margie disappointed after the Inspector fixed the teacher?",
+      "answer": "She was disappointed because she had hoped they would take the teacher away altogether, as they had done for Tommy once[cite: 342]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What had happened to Tommy's teacher in the past?",
+      "answer": "Tommy's teacher was taken away for nearly a month because the history sector had blanked out completely[cite: 343]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did Tommy describe the schools of 'centuries ago'?",
+      "answer": "He said they were not like their school; they were the old kind of school that existed hundreds of years ago[cite: 345]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What surprised Margie about the teachers in the old books?",
+      "answer": "Margie was surprised to learn that the teachers were people, specifically men, rather than mechanical machines [cite: 348-350]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did Tommy say about his father's knowledge compared to a teacher?",
+      "answer": "Tommy claimed his father knew as much as his mechanical teacher[cite: 353]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did Tommy tell Margie about where the old teachers lived?",
+      "answer": "He laughed and explained that teachers didn't live in the house; they had a special building where all the kids went[cite: 373]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How often did Margie have school sessions?",
+      "answer": "Margie had school every day at the same time except for Saturday and Sunday[cite: 385]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was the topic of the arithmetic lesson on the day Tommy found the book?",
+      "answer": "The arithmetic lesson was on the addition of proper fractions[cite: 386]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What kind of activities did kids do together in old schools according to Margie's thoughts?",
+      "answer": "Kids from the whole neighborhood came, laughed, shouted, sat together in class, and went home together [cite: 388-390]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What kind of items are classified as 'ancient' in the 'Classify!' activity?",
+      "answer": "Items like bullock carts, horse-drawn carriages, and earthen stoves are classified as ancient[cite: 254, 271, 294]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "List three examples of 'modern' technology mentioned in the warming-up section.",
+      "answer": "Examples include computers, mobile phones, and robots[cite: 257, 277, 270]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is considered a 'futuristic' mode of transport in the classification list?",
+      "answer": "Flying cars and spaceships are listed as futuristic modes of transport[cite: 285, 272]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'took the teacher apart' mean in the context of the story?",
+      "answer": "It means the County Inspector disassembled the mechanical teacher to find and fix the technical fault in its geography sector[cite: 315, 333]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did Margie find it funny to see the words in the old book stay still?",
+      "answer": "She found it funny because she was used to words moving on a screen as they do in telebooks[cite: 320]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was the specific technical problem with Margie's mechanical teacher?",
+      "answer": "The geography sector of the mechanical teacher was 'geared a little too quick' for an average eleven-year-old[cite: 340]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How did the County Inspector fix the mechanical teacher's speed?",
+      "answer": "He slowed the geography sector down to an average ten-year level[cite: 340]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What did Margie learn about the location of schools in the past?",
+      "answer": "She learned that schools were in a special building where all the neighborhood children went together[cite: 373]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why did Margie's mother insist on regular school hours?",
+      "answer": "Her mother believed that little girls learned better if they learned at regular, consistent hours[cite: 385]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What was the mechanical teacher displaying on the screen when Margie entered the schoolroom?",
+      "answer": "It was displaying an arithmetic lesson on the addition of proper fractions like 1/2 and 1/4[cite: 386, 393]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How did students in the old days help each other with studies?",
+      "answer": "Because they learned the same things, they could discuss the homework and help one another with it[cite: 391]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is a finite verb according to the 'Language Study' section?",
+      "answer": "A finite verb is a verb form that is decided by and changes according to the subject of the sentence[cite: 458]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What are the five steps of online shopping mentioned in the 'Live English' section?",
+      "answer": "The five steps are: Sign up/Register, Choose, Add to Cart, Pay, and Take Delivery [cite: 482-496]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What can you buy on the website 'www.chalashikuya.com'?",
+      "answer": "You can buy books, educational toys, and stationery [cite: 505-507]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the offer mentioned for poster colours on the shopping website?",
+      "answer": "The offer is: Buy a pack of 8 poster colours and get a paint brush FREE[cite: 537]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What does the term 'telebooks' refer to in Margie’s world?",
+      "answer": "Telebooks are digital books displayed on a television screen that can contain millions of pages[cite: 312, 322]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How did Tommy describe his tone when he said 'Centuries ago'?",
+      "answer": "He spoke 'loftily,' which means in a superior or airily tone[cite: 346, 357]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What was the Inspector’s box of tools used for?",
+      "answer": "It was used to repair and adjust the mechanical teacher's dials and wires[cite: 332]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is an advantage of online shopping mentioned in the text?",
+      "answer": "An advantage is that it is a convenient way to shop and provides a lot of variety [cite: 474-475]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why did Margie hate the homework slot so much?",
+      "answer": "She hated it because she had to calculate her marks in punch code and wait for the machine to calculate the result [cite: 337-338]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Identify an outdated device mentioned in the 'Classify!' list.",
+      "answer": "Floppy disks and audio/video cassettes are considered outdated devices[cite: 258, 259, 303]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What does the Inspector mean by 'satisfactory' progress?",
+      "answer": "He means that despite the mechanical error, Margie's learning pattern was acceptable and progressing as expected[cite: 340]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why did Tommy scream with laughter at Margie?",
+      "answer": "He laughed because Margie wrongly thought that teachers in the old days lived in the students' houses [cite: 372-373]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What subject did Tommy’s teacher once have a total failure in?",
+      "answer": "The history sector of Tommy's mechanical teacher had 'blanked out completely'[cite: 343]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What did the Inspector do to Margie’s head after finishing the repair?",
+      "answer": "He smiled and patted Margie's head twice during his visit[cite: 339, 341]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What did the mechanical teacher's screen say at the beginning of the arithmetic lesson?",
+      "answer": "The screen stated that the lesson was on the addition of proper fractions and asked Margie to insert yesterday's homework[cite: 386]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why did Margie's mother believe that regular hours were important for learning?",
+      "answer": "Her mother believed that little girls learned better if they had a consistent schedule at the same time every day[cite: 385]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What was Margie thinking about while the mechanical teacher flashed fractions on the screen?",
+      "answer": "She was thinking about the old schools where kids from the whole neighborhood came together and had fun[cite: 387, 394]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did Tommy react when Margie asked to read the book more after school?",
+      "answer": "He reacted nonchalantly, saying 'Maybe,' and walked away whistling with the book under his arm[cite: 383]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the name of the website mentioned in the 'Live English' shopping activity?",
+      "answer": "The website name is www.chalashikuya.com[cite: 504]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What does Santosh want to buy for his sister's birthday?",
+      "answer": "Santosh wants to buy a surprise gift for his sister's birthday using online shopping [cite: 467-468]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "According to Tejaswini, what is necessary to make online shopping safe?",
+      "answer": "Tejaswini says it is safe if proper care is taken while browse and selecting products[cite: 474]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is the fourth step in the online shopping process shown in the diagram?",
+      "answer": "The fourth step is 'Pay,' where you pay via online banking, debit card, or cash on delivery [cite: 495-496]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "In the story, what did the words in the 'real book' NOT do?",
+      "answer": "The words did not move the way they were supposed to on a screen; they stood perfectly still[cite: 320]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What kind of man was the County Inspector?",
+      "answer": "He was a round little man with a red face and a box full of tools, dials, and wires[cite: 332]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did Margie have to write her homework for the machine?",
+      "answer": "She had to write it out in a special punch code that she learned when she was six years old[cite: 338]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What did the Inspector do to the geography sector for Margie?",
+      "answer": "He slowed the geography sector down to an average ten-year level because it was geared too quick[cite: 340]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why did Margie think a man teacher would be strange?",
+      "answer": "She mistakenly thought a man teacher would have to live in her house to teach her[cite: 372]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What does the word 'crinkly' describe in the book?",
+      "answer": "It describes the old, folded, and wrinkled pages of the real book Tommy found[cite: 320]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What happens if you click 'track order' on a shopping website?",
+      "answer": "You can find out where your order is and when it will be delivered[cite: 562]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is an advantage of a human teacher over a mechanical one?",
+      "answer": "Human teachers can understand emotions, interact socially, and help kids laugh and play together [cite: 388-392]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What does the term 'non-finite verb' mean?",
+      "answer": "A verb form that does not change according to the subject or tense is a non-finite verb[cite: 458]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What specific book can you find under 'Deals of the Day' on the sample website?",
+      "answer": "The 'My First English-Marathi Dictionary' is featured as a deal with a 25% discount [cite: 535-536]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How long does it typically take for an online order to be delivered according to the FAQ?",
+      "answer": "It takes a maximum of 10 working days for an order to be delivered[cite: 562]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why was Margie scornful about school?",
+      "answer": "She hated school because it was lonely and her mechanical teacher kept giving her difficult geography tests [cite: 329-331]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What did the Inspector mean by 'geared a little too quick'?",
+      "answer": "He meant the machine was presenting information at a speed faster than a child of Margie's age could handle[cite: 340]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the 'attic' in Tommy's house?",
+      "answer": "The attic is a space or room just below the roof of a house, often used for storing things[cite: 326]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What did Tommy say about the number of books on his television screen?",
+      "answer": "He said his screen had a million books on it and still had room for plenty more[cite: 322]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How does the story 'The Fun they Had' end?",
+      "answer": "It ends with Margie thinking about the fun and social life children had in the schools of the past[cite: 395]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Who is the author of the story 'The Fun they Had'?",
+      "answer": "The story was written by the famous science fiction writer Isaac Asimov[cite: 396]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the setting of the story and how it differs from the schools we have today.",
+      "answer": "The story is set in the future on May 17, 2157, where education has become entirely digitized and solitary[cite: 318]. Unlike today's schools where students gather in a special building, Margie's schoolroom is right next to her bedroom[cite: 373, 384]. Instead of human teachers, children are taught by mechanical teachers—large machines with big screens that display lessons and ask questions[cite: 336, 349]. Students do not use paper books but read 'telebooks' that move on a screen[cite: 312, 320]. Furthermore, there is no social interaction with peers during school hours, as each child is taught individually according to their own mental level[cite: 376, 388]. This futuristic setting emphasizes a move toward efficiency and technology at the cost of the fun and social bonding found in traditional schools."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain Margie's reaction to the 'real book' Tommy found and why she felt that way.",
+      "answer": "When Tommy found a real book in his attic, Margie was initially surprised and curious because she had never seen one before[cite: 318, 323]. She found it 'awfully funny' to see words that stood still on a page instead of moving on a screen as she was accustomed to in telebooks[cite: 320]. However, her interest turned to scorn when she learned the book was about 'school,' a place she deeply hated[cite: 328, 329]. To Margie, school was a source of frustration, mainly due to the mechanical teacher's repetitive geography tests and the boring homework slot[cite: 331, 337]. Her reaction reflects a disconnect from the past, as she could not imagine why anyone would find school interesting enough to write an entire book about it[cite: 344]."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What was the role of the County Inspector, and how did he assist Margie?",
+      "answer": "The County Inspector was a technical expert sent to repair Margie's mechanical teacher after she performed poorly in geography tests[cite: 331]. He was a round little man with a red face who carried a box of tools with dials and wires[cite: 332]. Upon arrival, he was kind to Margie, giving her an apple and patting her head to reassure her[cite: 333, 339]. He discovered that the geography sector was geared too quickly for an average eleven-year-old and adjusted it to a ten-year level[cite: 340]. He also explained to Margie’s mother that the poor performance was a mechanical fault and not Margie's lack of ability[cite: 340]. By slowing down the machine, he made the lessons manageable and satisfactory for her current progress[cite: 340]."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Compare and contrast the mechanical teacher with the human teachers of the past as described in the book.",
+      "answer": "The mechanical teacher is a large, black machine with a big screen that calculates marks instantly and requires students to use a punch code[cite: 336, 338]. In contrast, the old book describes teachers of the past as human beings, specifically men, who told students things and gave them homework[cite: 349, 351]. While the mechanical teacher is adjusted to fit the individual mind of each child, human teachers taught groups of children the same thing in a special building[cite: 373, 376]. Margie doubted a man's intelligence, but Tommy argued that humans could be just as smart as machines[cite: 352, 353]. Ultimately, the human teacher provided a social and interactive environment that the mechanical teacher lacks."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Why did Margie think the kids in the old days 'must have loved it'?",
+      "answer": "Toward the end of the story, Margie begins to romanticize the old schools where her grandfather's grandfather was a little boy[cite: 387]. She imagines children from the whole neighborhood coming together, laughing and shouting in the schoolyard[cite: 388, 390]. She realizes that learning the same things allowed students to help one another with homework and talk about it[cite: 391]. This communal way of studying contrasts sharply with her own lonely experience of sitting alone in a room with a machine[cite: 384]. Margie concludes that having people as teachers and peers made school fun[cite: 392, 395]. Her thoughts emphasize the human desire for companionship and shared experiences in the process of learning."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain the significance of the homework slot and the punch code in Margie's education.",
+      "answer": "The homework slot was the part of the mechanical teacher that Margie hated the most because it made school feel like a chore[cite: 337]. She was required to write out her homework and test papers in a punch code, a system she had been forced to learn at the age of six[cite: 338]. Once inserted into the slot, the machine would calculate her marks almost instantly, leaving no room for human feedback or encouragement[cite: 338]. This highlights the cold, mathematical nature of her education compared to the qualitative feedback a human teacher might provide. The punch code also represents how technology forced children to adapt to machines rather than machines adapting to children. It serves as a symbol of the mechanical and uninspiring atmosphere of her futuristic schoolroom."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Describe Tommy's attitude toward the 'real book' and his superior knowledge of the past.",
+      "answer": "Tommy views the real book with a mix of curiosity and condescension, referring to it as a 'waste' because it cannot be reused like a telebook[cite: 322]. He treats Margie with 'superior eyes' because he has read more and understands that schools were different centuries ago[cite: 323, 345]. He loftily explains that schools used to be in special buildings and that teachers were men, not machines[cite: 346, 349]. While Margie is skeptical and hurt by his tone, Tommy enjoys showing off his knowledge of history[cite: 345, 347]. He is more pragmatic than Margie, seeing the book as an interesting artifact but still preferring the efficiency of his television screen[cite: 322]. His character represents the transition between valuing old-world knowledge and embracing futuristic technology."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How does the author use the character of Margie to critique futuristic education?",
+      "answer": "Through Margie's hatred for school, Isaac Asimov critiques a future where education is purely mechanical and lacks social interaction[cite: 329, 330]. Margie’s constant failures in geography show that a machine, despite being 'adjusted,' can still fail to inspire a student or cause unnecessary stress[cite: 331, 340]. Her disappointment when the Inspector doesn't take the teacher away highlights her feeling of being trapped by her own education[cite: 342]. The sigh she gives while starting her arithmetic lesson illustrates the boredom and lack of joy in her daily routine[cite: 387]. By making her dream about the 'fun' of old schools, the author suggests that human connection is essential for a healthy learning environment[cite: 394, 395]. Margie's unhappiness serves as a warning against letting technology completely replace human teachers and peer groups."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "What are the advantages and disadvantages of the mechanical teacher as seen in the story?",
+      "answer": "One advantage of the mechanical teacher is its efficiency, as it can calculate marks in no time and hold millions of books on its screen[cite: 322, 338]. It is also highly personalized, being adjusted to fit the individual mind and learning speed of each student[cite: 376]. However, the disadvantages are significant, including a complete lack of social interaction and human empathy[cite: 388, 392]. Margie finds the machine 'black and ugly' and hates the repetitive, cold nature of the tests it provides[cite: 331, 336]. Mechanical errors, like the history sector blanking out or the geography sector being too fast, can also disrupt learning[cite: 340, 343]. Ultimately, the story suggests that while machines are efficient, they cannot replace the joy and community found in human-led schools."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Describe the process and benefits of online shopping as discussed in the 'Live English' section.",
+      "answer": "Online shopping is described as one of the most convenient ways to shop because it offers a wide variety of products from the comfort of home[cite: 474, 475]. The process involves five easy steps: signing up to create an account, browsing categories to choose a product, adding the item to the cart, paying via various methods, and taking delivery[cite: 480, 482]. It is particularly useful when local shops do not have new or surprising gifts, as Santosh discovered for his sister's birthday[cite: 467, 470]. Users can also check ratings and reviews to ensure they are buying a good product[cite: 562]. While it requires taking proper care for safety, the variety and time-saving aspects make it a popular modern activity[cite: 474, 562]. This section of the chapter helps students navigate real-world digital transactions effectively."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "How did Margie's opinion of human teachers change throughout the story?",
+      "answer": "At first, Margie was incredulous at the idea of a man being a teacher, believing that humans were not 'smart enough' compared to machines[cite: 350, 352]. She also had the strange idea that a human teacher would have to live in her house, which she did not want[cite: 372]. However, as Tommy explained the concept of special school buildings and children learning together, her skepticism turned into curiosity[cite: 373, 378]. By the end of the day, she was sighing with the realization that human teachers and the social environment of old schools were likely much better than her current situation[cite: 387, 392]. She moved from doubting human capability to envying the 'fun' that children in the past had with their human mentors[cite: 395]. This transition shows her growing awareness of the limitations of her mechanical education."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'telebooks' and why Tommy preferred them over paper books.",
+      "answer": "Telebooks are digital books displayed on a television screen that move as the reader scrolls, unlike words on paper that stand still[cite: 312, 320]. Tommy preferred them because a single screen can hold a million books and still have room for many more, making it more efficient for storage[cite: 322]. He considered paper books a 'waste' because once a person finished reading them, they would likely just be thrown away[cite: 322]. Telebooks also allowed for a more dynamic reading experience that aligned with the high-tech lifestyle of the year 2157[cite: 318, 322]. For Tommy, the convenience and volume of digital information far outweighed the historical value of a 'real book'[cite: 322]. His preference highlights the shift from physical to digital media in the story's future world."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "What does the story 'The Fun they Had' suggest about the future of social interaction among children?",
+      "answer": "The story suggests a bleak future where social interaction among children during school has been completely eliminated in favor of individual learning[cite: 384, 388]. Margie sits alone in a room next to her bedroom, interacting only with a flashing screen and a mechanical slot[cite: 384, 386]. There are no classmates to laugh with in a schoolyard or peers to help with homework assignments[cite: 388, 391]. This isolation is what makes Margie so interested in the old books that describe children 'sitting together in the schoolroom'[cite: 390]. The author uses this contrast to show that without a common space to gather, the joy of learning is greatly diminished. It serves as a reminder that school is as much about social development as it is about academic instruction."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "How did the mechanical teacher's geography sector failing impact Margie’s life?",
+      "answer": "The failure of the geography sector, which was geared too quickly, caused Margie to fail test after test, leading to deep unhappiness[cite: 331, 340]. This repeated failure made her hate school 'more than ever' and caused her mother to worry and send for the County Inspector[cite: 330, 331]. It created a stressful environment where Margie felt like she was doing 'worse and worse' despite her efforts[cite: 331]. Even when the Inspector fixed it, Margie was disappointed because she had hoped to be free of the machine entirely[cite: 342]. This incident proves that even highly advanced technology can create negative educational experiences if it is not functioning perfectly. It also shows Margie's lack of agency, as she is forced to follow the machine’s pace regardless of her feelings."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the date '17 May 2157' in Margie’s diary entry.",
+      "answer": "The date '17 May 2157' is significant because it firmly places the story in a distant future, roughly 130 years from when Isaac Asimov wrote it[cite: 318]. This specific date allows the reader to understand that the 'real book' Tommy found is actually an ancient relic from our present time[cite: 318, 319]. It sets the stage for the contrast between our 'old' ways of printing on paper and the future's 'modern' telebooks[cite: 319, 320]. The fact that Margie records the finding of a book in her diary suggests that this was a monumental and unusual event in her life[cite: 317]. By providing a specific date, the author makes the science-fiction world feel grounded and real. It serves as a bridge for the reader to compare their own life with the imagined future of the story."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "What can we infer about Margie's mother, Mrs. Jones, and her views on education?",
+      "answer": "Mrs. Jones is depicted as a disciplined and concerned parent who values regular schedules and academic progress[cite: 331, 385]. She believes that 'little girls learned better if they learned at regular hours,' showing her commitment to structured education[cite: 385]. When Margie struggles with geography, Mrs. Jones is 'sorrowful' and takes immediate action by calling the County Inspector to fix the problem[cite: 331]. She also holds the belief that a teacher must be perfectly adjusted to fit each individual child's mind[cite: 376]. Her insistence that Margie go to school 'Now!' despite Margie’s interest in the book shows she prioritizes routine over casual curiosity[cite: 381]. Overall, she represents the adult perspective in this future world, where technology is the primary tool for parenting and teaching."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Compare the 'fun' mentioned in the title with Margie’s daily school experience.",
+      "answer": "The 'fun' in the title refers to the social and communal joy of traditional schools where kids learned together and helped each other[cite: 391, 395]. This stands in stark contrast to Margie's daily experience, which is characterized by isolation, repetitive testing, and boredom[cite: 331, 384]. While kids in the past laughed and shouted in a schoolyard, Margie sits alone in a room next to her bedroom[cite: 384, 388]. Her 'teacher' is a flashing machine that requires punch codes and instant submissions, rather than a person who can share a laugh or a story[cite: 336, 338]. The title is ironic because it highlights that Margie's advanced future has actually lost the most important part of education—the enjoyment. Margie spends her day sighing and dreaming of a past she will never experience[cite: 387, 394]."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Analyze the 'Classify!' activity and how it helps students understand the progression of technology.",
+      "answer": "The 'Classify!' activity helps students categorize objects into 'ancient,' 'modern,' and 'futuristic' groups, showing how technology evolves over time[cite: 249, 250]. By placing bullock carts and horse-drawn carriages alongside computers and spaceships, students see the massive leaps in transportation and communication[cite: 254, 257, 271, 272]. It also includes items like floppy disks and audio cassettes as 'outdated,' teaching students that even modern tech can quickly become obsolete[cite: 258, 260, 303]. This activity mirrors the story's theme, where a 'real book' has moved from modern to ancient[cite: 318, 319]. It encourages students to think about what current devices might become outdated in their own lifetimes[cite: 301]. Ultimately, it builds a sense of historical perspective regarding the tools humans use to learn and live."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "What were the disadvantages of online shopping as mentioned in the discussion table?",
+      "answer": "One of the primary disadvantages of online shopping is the potential for a delay in delivery, as orders can take up to 10 working days[cite: 562]. There is also the risk of receiving a product that is different from what was shown or described on the website[cite: 562]. Security is another concern, as users must take 'proper care' to ensure their payment and personal information are safe[cite: 474]. Unlike physical shopping, you cannot touch or try the product before buying it, which might lead to dissatisfaction[cite: 412]. Additionally, returning a faulty or unwanted item can often be a complicated and time-consuming process. These points highlight that while online shopping is convenient, it requires caution and patience from the consumer."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain the difference between finite and non-finite verbs using examples from the text.",
+      "answer": "A finite verb is one that is decided by and changes according to the subject and the tense of the sentence[cite: 458]. For example, in 'My father knows,' the verb 'knows' is finite; if the subject changes to 'We,' it becomes 'We know'[cite: 450, 462]. Similarly, finite verbs show tense, such as 'Margie wrote' (past) versus 'Margie writes' (present)[cite: 446, 447, 457]. In contrast, a non-finite verb does not change based on the subject, such as the infinitive 'to learn' in 'little girls learned better if they learned...' or 'to write'[cite: 329, 385]. Understanding these differences helps students build correct sentence structures and follow grammar rules. This section of the 'Language Study' ensures that students grasp the core mechanics of how verbs function in English[cite: 443, 444]."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the interaction between Margie and the County Inspector during his visit.",
+      "answer": "The interaction between Margie and the County Inspector was brief but surprisingly warm given the mechanical nature of her world[cite: 333, 339]. He smiled at her upon arrival and gave her an apple, which provided a rare moment of human kindness in her school day[cite: 333]. While he worked on the machine, Margie silently hoped he would fail to put it back together, showing her desperation to avoid school[cite: 334]. After he finished, he patted her head twice, both to comfort her and to signal that his work was done[cite: 339, 341]. He communicated mostly with her mother, Mrs. Jones, explaining that the girl was not at fault for her poor grades[cite: 340]. For Margie, the Inspector was a reminder that even though the teacher was a machine, it still required human intervention to function correctly[cite: 333, 340]."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Why does Tommy think that the old kind of school was 'funny'?",
+      "answer": "Tommy finds the old kind of school 'funny' because it is so radically different from the structured, isolated school he is used to[cite: 345, 378]. The idea of a human man being a teacher seems strange to him, though he defends his father’s intelligence[cite: 349, 353]. He also finds it humorous that all the kids went to a special building rather than having school in their own homes[cite: 373]. To him, the concept of a teacher who doesn't live in the house is an ancient and odd idea[cite: 372, 373]. Margie picks up on this sentiment, specifically wanting to read more about those 'funny schools'[cite: 378]. Their amusement highlights how much their world has changed and how disconnected they are from historical education."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic meaning of the 'dusty old book' Tommy tucked beneath his arm.",
+      "answer": "The 'dusty old book' symbolizes the forgotten past and the lost human connection of the pre-mechanical era[cite: 319, 383]. Its dustiness suggests that it has been ignored for centuries in the attic, just as the history of human-led schools has been ignored[cite: 326, 383]. By tucking it beneath his arm as he walks away whistling, Tommy treats it like a casual curiosity, yet it is the only thing that sparks Margie's imagination[cite: 383]. The book contains the 'fun' and community that are missing from their futuristic lives[cite: 395]. It serves as a catalyst for Margie to realize how cold and lonely her own schoolroom has become[cite: 387, 394]. Ultimately, the book is a vessel of memories that challenges the efficiency and isolation of the year 2157."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How do the 'Live English' activities about online shopping connect to the futuristic themes of the story?",
+      "answer": "The online shopping activities connect to the story by showing a real-world progression toward the kind of automated, digital life Margie and Tommy lead[cite: 465]. Just as Margie’s school is mediated through a screen, Tejaswini and Santosh use a screen to browse, choose, and pay for gifts[cite: 336, 482]. Both the story and the activity emphasize that variety and convenience are key benefits of digital life[cite: 322, 475]. However, the activity also requires human interaction—two cousins discussing a gift—which is exactly what Margie misses in her school life[cite: 391, 466]. It teaches students how to navigate the very technology that might one day lead to the setting Isaac Asimov described[cite: 318, 501]. By practicing online shopping, students are essentially engaging with the ancestors of the telebooks and mechanical teachers found in the story[cite: 312, 336]."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What does Margie’s sigh at the end of the story tell the reader about her internal state?",
+      "answer": "Margie’s sigh at the start of her arithmetic lesson conveys a sense of profound longing and resignation[cite: 387]. It tells the reader that she is physically present in her schoolroom but mentally and emotionally elsewhere[cite: 384, 387]. The sigh signifies her boredom with the repetitive addition of fractions and her exhaustion from the mechanical nature of her education[cite: 386, 387]. Most importantly, it reveals her envy for children of the past who had the 'fun' of learning with friends and human teachers[cite: 394, 395]. She is trapped in a future that she finds cold and unappealing, forced to insert her homework into a slot while dreaming of a schoolyard[cite: 337, 388]. The sigh is an expression of her silent protest against the loss of human connection in the name of progress."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "What does Tommy mean by 'regular teacher' and how does it reflect his world?",
+      "answer": "When Tommy refers to a 'regular teacher,' he is talking about the mechanical teacher that he and Margie use every day in 2157[cite: 349]. In his world, a teacher is naturally a machine with a big screen and slots for homework, not a human being [cite: 336-337]. This reflection shows that technology has become so integrated into their lives that a human teacher seems irregular or strange to them[cite: 350, 372]. Tommy’s use of this term highlights the shift in the definition of 'normal' education over centuries [cite: 345-346]. It illustrates a future where children have lost the concept of human mentorship and social classroom interaction[cite: 388, 392]. For Tommy, the machine is the standard, and the human is the historical exception."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Discuss the 'Classify!' activity's role in connecting the student to the story's timeline.",
+      "answer": "The 'Classify!' activity asks students to sort items like bullock carts, computers, and flying cars into ancient, modern, and futuristic categories [cite: 250-296]. This helps students understand that the 'modern' world of today will one day be the 'ancient' world of Margie's time[cite: 319]. By identifying currently used items as potentially outdated, students can better relate to Tommy finding a 'real book' in an attic[cite: 301, 318]. It bridges the gap between our present reality and the year 2157 depicted in the story[cite: 310]. This exercise encourages critical thinking about how quickly technology evolves and changes the way we live and learn [cite: 416-421]. Ultimately, it makes the sci-fi setting of the story feel more grounded and possible."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How does Margie's grandfather's story about his grandfather add depth to the narrative?",
+      "answer": "Margie's grandfather once told her that his own grandfather lived in a time when stories were printed on paper[cite: 319]. This small detail adds a layer of historical nostalgia to the story, showing how long the tradition of physical books lasted before the age of telebooks[cite: 320]. It emphasizes the total disappearance of paper books in Margie's futuristic society[cite: 322]. This connection to the past is what sparks the children's curiosity about the 'real book' Tommy found[cite: 318]. It highlights the contrast between the crinkly, still words of the past and the moving, digital text of the future [cite: 320-321]. This multi-generational link makes the loss of traditional schooling feel more personal and significant."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Analyze the conversation about online shopping between Tejaswini and Santosh.",
+      "answer": "Tejaswini and Santosh discuss online shopping as a solution for finding a surprise gift when local shops lack variety [cite: 466-472]. Tejaswini reassures Santosh that it is safe and convenient if proper care is taken during the process[cite: 474]. She explains that variety is a major advantage of the digital marketplace[cite: 475]. The conversation serves as a practical guide for students to understand real-world digital literacy [cite: 482-496]. It also touches on the importance of internet connectivity for modern daily activities[cite: 477]. This 'Live English' section prepares students for the transition into an increasingly digital economy[cite: 501]. It emphasizes that while technology is helpful, human collaboration is still key to using it effectively."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "What is the significance of the arithmetic lesson flashing on Margie's screen at the end?",
+      "answer": "The arithmetic lesson on adding proper fractions represents the cold, repetitive reality of Margie’s education[cite: 386]. While the screen flashes '1/2 and 1/4,' Margie is mentally occupied with the stories of the past [cite: 393-394]. This creates a sharp contrast between the dry, mechanical data she is supposed to learn and the colorful, social life she imagines children once had[cite: 388, 395]. The machine continues its task regardless of her lack of interest or her emotional state[cite: 393]. It symbolizes the failure of futuristic technology to engage a child's heart or imagination[cite: 330]. The scene ends with a sense of loss, as the 'fun' of the past is replaced by the silent calculations of a machine."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "How does the author create humor through the unusual meanings of sentences in the story?",
+      "answer": "Humour arises in the story because sentences we find normal today have an entirely different meaning in 2157[cite: 405, 421]. For example, the statement 'It wasn't a regular teacher. It was a man' is funny because for us, a man *is* a regular teacher[cite: 409]. Similarly, Margie’s horror at having a 'strange man' in the house to teach her stems from her ignorance of school buildings [cite: 372-373]. The idea of 'taking the teacher away' today means firing someone, but for Margie, it means physically moving a machine[cite: 407]. These shifts in context force the reader to see our current world through the eyes of a confused future child[cite: 416, 420]. This clever use of perspective highlights the technological gap between the two eras."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Discuss the advantages and disadvantages of a 'Mechanical Teacher' based on the workshop table.",
+      "answer": "A mechanical teacher offers the advantage of personalized pacing, as seen when the Inspector adjusts Margie's geography sector to her specific level[cite: 340, 428]. It is also efficient, calculating marks instantly and storing millions of telebooks without physical waste[cite: 322, 338]. However, the disadvantages include a total lack of emotional understanding and social interaction[cite: 388, 392]. If the machine malfunctions, as it did for Tommy's history sector, the student is left without any guidance for a long time[cite: 343]. There is also the boredom and stress caused by repetitive, cold testing methods[cite: 331, 387]. Ultimately, while the machine is a powerful tool for data delivery, it fails to provide the holistic 'fun' of a human classroom."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What does the phrase 'geared a little too quick' reveal about Margie's educational system?",
+      "answer": "The phrase revealed by the County Inspector shows that Margie’s education is controlled by pre-set programming rather than a teacher's intuition[cite: 340]. Because the geography sector was running at a speed meant for older children, Margie was set up for failure regardless of her effort[cite: 331]. It highlights a flaw in the system where a child's progress is at the mercy of a machine’s settings[cite: 355]. Unlike a human teacher who could notice a student's struggle instantly, the mechanical teacher just kept giving tests[cite: 331]. This automated approach can lead to a student feeling 'scornful' or discouraged without knowing why[cite: 329]. It underscores the need for human oversight in even the most advanced educational technologies."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain how the 'Live English' section on online shopping teaches step-by-step logic.",
+      "answer": "The section breaks down the complex process of online shopping into five clear, logical steps: Register, Choose, Add to Cart, Pay, and Take Delivery [cite: 482-496]. This teaches students how to follow a sequence of actions to reach a specific goal[cite: 497]. Each step is accompanied by an instruction, such as 'Browse and select the product of your choice'[cite: 486]. By visualizing the flow from 'Sign up' to 'Take Delivery,' students learn the mechanics of a digital transaction[cite: 484, 491]. It also introduces them to website navigation elements like filters, categories, and shopping carts [cite: 509-511]. This structured approach builds digital confidence and practical vocabulary for the modern world."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Analyze Margie’s mother’s role in the story as a bridge between the child and the machine.",
+      "answer": "Mrs. Jones acts as the enforcer of the mechanical teacher’s schedule, insisting that Margie attends school at regular hours[cite: 379, 385]. She is the one who monitors Margie’s grades and takes action by calling the County Inspector when things go wrong[cite: 331]. While she doesn't teach Margie herself, she facilitates the relationship with the mechanical teacher[cite: 340]. She believes that the machine must be 'adjusted' to the child, yet she maintains the rigid routine the machine requires[cite: 376, 381]. Her character shows that even in a high-tech future, parental supervision remains a crucial part of education[cite: 331, 385]. She represents the voice of authority that ensures the technology is serving its intended purpose."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What is the role of 'FAQs' and 'Help' sections on the chalashikuya.com mock website?",
+      "answer": "The FAQs and Help sections on the mock website are designed to assist users with common problems, such as tracking orders or understanding deals[cite: 515, 562]. For example, the FAQ explains that products can be tracked using the 'track order' icon[cite: 562]. It also clarifies that users can sell their old books on the site, not just buy new ones[cite: 562]. These sections teach students that digital platforms have built-in support systems for their users[cite: 562]. Understanding how to find this information is a key part of becoming a smart online consumer[cite: 501]. It encourages students to look for answers independently before seeking help from others."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "How does the author use the physical description of the old book to set a nostalgic tone?",
+      "answer": "The book is described as 'very old' with pages that are 'yellow and crinkly' [cite: 319-320]. This imagery immediately creates a sense of the past and a contrast to the sleek, clean television screens the children usually use[cite: 322]. The fact that the words 'stood still' instead of moving adds to this feeling of a forgotten, slower era[cite: 320]. Tommy even calls it 'dusty' when he tucks it under his arm, reinforcing that it has been neglected for a long time[cite: 383]. These physical details allow the reader to feel the age of the book along with Margie[cite: 319]. It turns a simple object into a powerful symbol of a lost human connection to history."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Discuss the importance of finite verbs as explained in the 'Language Study' section.",
+      "answer": "Finite verbs are essential because they are the verbs that change according to the subject and the tense of a sentence [cite: 457-458]. For example, 'I don't know' becomes 'She doesn't know' when the subject changes from 'I' to 'She'[cite: 461]. The study shows that these verbs ground a sentence in a specific time and person[cite: 457]. Without finite verbs, a sentence would lose its clarity and grammatical correctness[cite: 458]. By practicing these changes, students learn how to adjust their language to fit different contexts [cite: 460-463]. This foundational grammar skill is vital for effective communication in English."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Why does Margie find the idea of 'all the kids learned the same things' so appealing?",
+      "answer": "Margie finds this appealing because it means children could help each other with homework and discuss their lessons[cite: 391]. In her own school, she is isolated and must struggle with her geography tests alone[cite: 331, 384]. The idea of a shared learning experience makes school seem like a social adventure rather than a lonely task[cite: 388, 394]. She realizes that a community of learners provides emotional and academic support that a machine cannot[cite: 391, 395]. This thought makes her think about 'the fun they had' because their education was a collective human effort[cite: 395]. It highlights her deep desire for friendship and peer interaction in her daily life."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the County Inspector's red face and box of tools.",
+      "answer": "The County Inspector’s 'red face' and his box of 'dials and wires' make him appear as a human mechanic for a robotic world[cite: 332]. His physical, human presence contrasts with the 'black and ugly' mechanical teacher he comes to fix[cite: 333, 336]. He represents the human labor required to keep the futuristic, automated society running [cite: 332-334]. While the machine seems omnipotent to Margie, the Inspector proves it is just a device that can be 'taken apart'[cite: 333]. His box of tools symbolizes the technical knowledge needed to maintain the digital environment[cite: 332]. He is the human element that ensures the machines are geared correctly for the people they serve[cite: 340]."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What does the story suggest about the evolution of the concept of 'Waste'?",
+      "answer": "Tommy views paper books as a 'waste' because they are single-use objects that are likely thrown away once finished[cite: 322]. He compares them to his television screen, which can hold a million books and be reused indefinitely[cite: 322]. This reflects a future mindset where digital storage is seen as more efficient and less wasteful than physical materials[cite: 322]. However, the story ironically shows that while paper books might be 'waste' in Tommy's eyes, they hold a human value that his screen lacks[cite: 319, 395]. The 'waste' of the past was actually a source of 'fun' and community that the future has discarded[cite: 395]. It challenges the reader to consider whether efficiency is always better than physical experience."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain the step 'Add to cart' and why it is a common feature in online shopping.",
+      "answer": "The 'Add to cart' step allows a shopper to collect multiple items they want to buy before proceeding to payment[cite: 488, 562]. It mimics the physical experience of placing items in a shopping basket in a real store[cite: 490]. This feature is common because it lets users browse through different categories, like books or stationery, without losing their initial selections[cite: 510, 562]. It provides a convenient way to manage a shopping list and see the total selection at once[cite: 511]. On websites like chalashikuya.com, this icon is the gateway to finalizing a purchase[cite: 562]. It is a fundamental part of the 'convenient' shopping experience Tejaswini describes[cite: 474]."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How does the author use Tommy's age (thirteen) to justify his 'superior' attitude?",
+      "answer": "Being thirteen makes Tommy two years older than Margie, which in the eyes of children, gives him significantly more experience[cite: 323]. He has seen more 'telebooks' and therefore feels more knowledgeable about the world and its history[cite: 323]. This age gap allows him to speak 'loftily' and use words like 'centuries ago' with confidence [cite: 345-346]. He treats Margie's ignorance with amusement, calling her 'stupid' for not knowing about old schools[cite: 345]. His slightly older perspective acts as a source of information for both Margie and the reader[cite: 349, 373]. It establishes a dynamic where Tommy is the teacher and Margie is the curious, sometimes skeptical, student."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Describe the activity where students frame questions and answers for a website.",
+      "answer": "This activity asks students to form pairs and create their own questions and answers based on the mock website chalashikuya.com[cite: 562]. Students might ask, 'How can I find what discounts are available?' and answer by looking under the filters on the left[cite: 562]. This helps students practice both their English inquiry skills and their digital navigation skills[cite: 501, 562]. It teaches them to interpret website features like ' Gift Coupons' or ' Deals of the Day'[cite: 531, 562]. By framing these Q&As, students become more familiar with the language used in online commerce[cite: 466]. It is a practical application of the 'Live English' themes found in the chapter."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What is the importance of regular school hours according to Margie's mother?",
+      "answer": "Mrs. Jones believes that 'little girls learned better if they learned at regular hours'[cite: 385]. This suggests a belief in the power of routine and consistency in a child’s development[cite: 385]. Even though the school is in her home, the schedule is strictly maintained every day except Saturday and Sunday [cite: 384-385]. This discipline is her way of ensuring Margie stays focused in a solitary learning environment[cite: 331]. It shows that even in the year 2157, the traditional idea of a school schedule survives[cite: 379, 381]. For Mrs. Jones, the structure of the day is a key factor in her daughter’s academic success."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How does the story 'The Fun they Had' use irony in its final sentence?",
+      "answer": "The final sentence, 'She was thinking about the fun they had,' is ironic because Margie is currently in a state-of-the-art schoolroom but is profoundly unhappy[cite: 384, 395]. The 'fun' she envies is from a time that Tommy considers 'wasteful' and primitive[cite: 322, 345]. It is ironic that a child from a technologically advanced future longs for the 'ancient' schools of the past[cite: 387, 394]. The sentence highlights that all the 'progress' of 2157 has failed to provide the simple joy of learning together[cite: 330, 391]. It leaves the reader with the realization that the 'perfect' futuristic school is actually a step backward for the human spirit[cite: 336, 395]."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' section's focus on tense and number in verbs.",
+      "answer": "The study teaches that verbs like 'wrote' and 'found' indicate past tense, while 'knows' indicates present tense [cite: 446-451]. It also shows how verbs change based on whether the subject is singular (Margie was) or plural (teachers were) [cite: 453-456]. This helps students understand that a verb is not just a word for an action, but a marker of time and quantity[cite: 457]. By underlining these verbs in sentences from the story, students see grammar in a real context[cite: 444]. Mastering these finite verb forms is a critical step in achieving 'satisfactory' progress in English[cite: 458]. It provides the grammatical tools needed for students to frame their own stories and thoughts."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Why did Margie find it hard to believe that 'the teachers were people'?",
+      "answer": "Margie found this hard to believe because her entire experience of a 'teacher' was a mechanical machine that sat in a room[cite: 336, 384]. To her, a teacher was an object that stayed in one place and delivered data[cite: 336]. The idea of a human man having enough knowledge to be a teacher seemed impossible to her[cite: 350, 352]. She had never seen a school building or a classroom full of children[cite: 373]. Tommy had to explain that humans used to do the job of her machine, which was a completely alien concept to her[cite: 349, 351]. Her disbelief shows how isolated and technology-dependent her society had become."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Analyze the offer 'Buy a pack of 8 poster colours and get a paint brush FREE' as a marketing tool.",
+      "answer": "This offer on the chalashikuya.com website is a classic example of a digital 'Deal of the Day' designed to attract customers[cite: 531, 537]. By offering a free item like a paintbrush, the site encourages users to make a purchase they might otherwise skip[cite: 537]. It creates a sense of value and urgency for the shopper[cite: 532]. For students, analyzing such offers helps them understand the persuasive language used in online commerce[cite: 466]. They learn to identify what is actually being sold and what the 'bonus' is[cite: 561]. This critical reading skill is important for navigating real-world shopping sites without being misled."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "What does the story 'The Fun they Had' teach us about the value of human connection in learning?",
+      "answer": "The story teaches us that human connection is the heart of a fulfilling educational experience [cite: 391-392]. Margie has all the information in the world on her screen, but she is lonely and hates her school[cite: 322, 330]. The 'fun' children had in the past came from being together, helping each other, and being taught by a person[cite: 388, 391]. It shows that learning is a social process, not just a data transfer between a machine and a brain[cite: 393, 395]. By imagining the schools of the past, Margie realizes what her high-tech world is missing[cite: 394]. Ultimately, the story is a celebration of the human element in education that no machine can truly replace[cite: 395]."
+    }
+  ]
+}

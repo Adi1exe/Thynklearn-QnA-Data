@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.1.1",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Walk a little slower"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the speaker in the poem?",
+      "options": [
+        { "option id": 1, "text": "A father", "is correct": false },
+        { "option id": 2, "text": "A little child", "is correct": true },
+        { "option id": 3, "text": "A teacher", "is correct": false },
+        { "option id": 4, "text": "A grandfather", "is correct": false }
+      ],
+      "answer": "A little child"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "To whom is the child speaking?",
+      "options": [
+        { "option id": 1, "text": "To its mother", "is correct": false },
+        { "option id": 2, "text": "To its teacher", "is correct": false },
+        { "option id": 3, "text": "To its daddy", "is correct": true },
+        { "option id": 4, "text": "To its friend", "is correct": false }
+      ],
+      "answer": "To its daddy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the child ask the father to do?",
+      "options": [
+        { "option id": 1, "text": "Walk a little faster", "is correct": false },
+        { "option id": 2, "text": "Stop walking", "is correct": false },
+        { "option id": 3, "text": "Walk a little slower", "is correct": true },
+        { "option id": 4, "text": "Run away", "is correct": false }
+      ],
+      "answer": "Walk a little slower"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does the child want the father to walk slower?",
+      "options": [
+        { "option id": 1, "text": "Because the child is tired", "is correct": false },
+        { "option id": 2, "text": "Because the child doesn't want to fall", "is correct": true },
+        { "option id": 3, "text": "Because the child is lost", "is correct": false },
+        { "option id": 4, "text": "Because the child wants to sleep", "is correct": false }
+      ],
+      "answer": "Because the child doesn't want to fall"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the child following?",
+      "options": [
+        { "option id": 1, "text": "The father's footsteps", "is correct": true },
+        { "option id": 2, "text": "A butterfly", "is correct": false },
+        { "option id": 3, "text": "A pet dog", "is correct": false },
+        { "option id": 4, "text": "The mother's voice", "is correct": false }
+      ],
+      "answer": "The father's footsteps"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Sometimes the father's steps are very ______.",
+      "options": [
+        { "option id": 1, "text": "Slow", "is correct": false },
+        { "option id": 2, "text": "Fast", "is correct": true },
+        { "option id": 3, "text": "Quiet", "is correct": false },
+        { "option id": 4, "text": "Loud", "is correct": false }
+      ],
+      "answer": "Fast"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the child say about the father's steps in the second stanza?",
+      "options": [
+        { "option id": 1, "text": "They are easy to follow", "is correct": false },
+        { "option id": 2, "text": "They are hard to see", "is correct": true },
+        { "option id": 3, "text": "They are very small", "is correct": false },
+        { "option id": 4, "text": "They are very colorful", "is correct": false }
+      ],
+      "answer": "They are hard to see"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who is leading the child?",
+      "options": [
+        { "option id": 1, "text": "The teacher", "is correct": false },
+        { "option id": 2, "text": "The daddy", "is correct": true },
+        { "option id": 3, "text": "The grandmother", "is correct": false },
+        { "option id": 4, "text": "The neighbor", "is correct": false }
+      ],
+      "answer": "The daddy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What will happen when the child is 'all grown up'?",
+      "options": [
+        { "option id": 1, "text": "They will stop walking", "is correct": false },
+        { "option id": 2, "text": "They will want to be what the father is", "is correct": true },
+        { "option id": 3, "text": "They will forget the father", "is correct": false },
+        { "option id": 4, "text": "They will leave the house", "is correct": false }
+      ],
+      "answer": "They will want to be what the father is"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In the future, who will want to follow the child?",
+      "options": [
+        { "option id": 1, "text": "The father", "is correct": false },
+        { "option id": 2, "text": "A little child of their own", "is correct": true },
+        { "option id": 3, "text": "A friend", "is correct": false },
+        { "option id": 4, "text": "The neighbors", "is correct": false }
+      ],
+      "answer": "A little child of their own"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the child want to do 'just right' in the future?",
+      "options": [
+        { "option id": 1, "text": "Run", "is correct": false },
+        { "option id": 2, "text": "Lead", "is correct": true },
+        { "option id": 3, "text": "Sing", "is correct": false },
+        { "option id": 4, "text": "Draw", "is correct": false }
+      ],
+      "answer": "Lead"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The child wants to know that they were ______.",
+      "options": [
+        { "option id": 1, "text": "Fast", "is correct": false },
+        { "option id": 2, "text": "True", "is correct": true },
+        { "option id": 3, "text": "Small", "is correct": false },
+        { "option id": 4, "text": "Tired", "is correct": false }
+      ],
+      "answer": "True"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why must the father walk slower according to the last line?",
+      "options": [
+        { "option id": 1, "text": "Because it is raining", "is correct": false },
+        { "option id": 2, "text": "Because the child must follow him", "is correct": true },
+        { "option id": 3, "text": "Because the road is long", "is correct": false },
+        { "option id": 4, "text": "Because they are at home", "is correct": false }
+      ],
+      "answer": "Because the child must follow him"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who is the author of this poem?",
+      "options": [
+        { "option id": 1, "text": "Robert Frost", "is correct": false },
+        { "option id": 2, "text": "Unknown", "is correct": true },
+        { "option id": 3, "text": "William Wordsworth", "is correct": false },
+        { "option id": 4, "text": "Rabindranath Tagore", "is correct": false }
+      ],
+      "answer": "Unknown"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the child's size mentioned in the poem?",
+      "options": [
+        { "option id": 1, "text": "Very big", "is correct": false },
+        { "option id": 2, "text": "So small", "is correct": true },
+        { "option id": 3, "text": "Tall", "is correct": false },
+        { "option id": 4, "text": "Grown up", "is correct": false }
+      ],
+      "answer": "So small"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The word 'footsteps' in the poem refers to:",
+      "options": [
+        { "option id": 1, "text": "Actual marks on the ground", "is correct": false },
+        { "option id": 2, "text": "The father's actions and life path", "is correct": true },
+        { "option id": 3, "text": "Shoes", "is correct": false },
+        { "option id": 4, "text": "Walking style", "is correct": false }
+      ],
+      "answer": "The father's actions and life path"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of these is a pair of rhyming words from the poem?",
+      "options": [
+        { "option id": 1, "text": "Small / fall", "is correct": true },
+        { "option id": 2, "text": "Daddy / child", "is correct": false },
+        { "option id": 3, "text": "Slow / fast", "is correct": false },
+        { "option id": 4, "text": "Follow / walk", "is correct": false }
+      ],
+      "answer": "Small / fall"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does 'leading me' imply in the poem?",
+      "options": [
+        { "option id": 1, "text": "Pulling a rope", "is correct": false },
+        { "option id": 2, "text": "Guiding the child's life", "is correct": true },
+        { "option id": 3, "text": "Running a race", "is correct": false },
+        { "option id": 4, "text": "Walking in circles", "is correct": false }
+      ],
+      "answer": "Guiding the child's life"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Identify the future tense phrase from the poem:",
+      "options": [
+        { "option id": 1, "text": "I'm following", "is correct": false },
+        { "option id": 2, "text": "Who'll want to follow me", "is correct": true },
+        { "option id": 3, "text": "Said a little child", "is correct": false },
+        { "option id": 4, "text": "Steps are very fast", "is correct": false }
+      ],
+      "answer": "Who'll want to follow me"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The poem is primarily a ______ from a child to a father.",
+      "options": [
+        { "option id": 1, "text": "Complaint", "is correct": false },
+        { "option id": 2, "text": "Request", "is correct": true },
+        { "option id": 3, "text": "Warning", "is correct": false },
+        { "option id": 4, "text": "Command", "is correct": false }
+      ],
+      "answer": "Request"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the child want to 'know' in the future?",
+      "options": [
+        { "option id": 1, "text": "How to run fast", "is correct": false },
+        { "option id": 2, "text": "That they were true to their lead", "is correct": true },
+        { "option id": 3, "text": "The way to the market", "is correct": false },
+        { "option id": 4, "text": "The name of the author", "is correct": false }
+      ],
+      "answer": "That they were true to their lead"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The father's steps are 'hard to see' when they are ______.",
+      "options": [
+        { "option id": 1, "text": "Very slow", "is correct": false },
+        { "option id": 2, "text": "Very fast", "is correct": true },
+        { "option id": 3, "text": "In the dark", "is correct": false },
+        { "option id": 4, "text": "Covered in mud", "is correct": false }
+      ],
+      "answer": "Very fast"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the relationship between the two main characters?",
+      "options": [
+        { "option id": 1, "text": "Teacher and Student", "is correct": false },
+        { "option id": 2, "text": "Father and Child", "is correct": true },
+        { "option id": 3, "text": "Friends", "is correct": false },
+        { "option id": 4, "text": "Siblings", "is correct": false }
+      ],
+      "answer": "Father and Child"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The child says, 'I'm following in your ______.'",
+      "options": [
+        { "option id": 1, "text": "Shadow", "is correct": false },
+        { "option id": 2, "text": "Footsteps", "is correct": true },
+        { "option id": 3, "text": "Car", "is correct": false },
+        { "option id": 4, "text": "Shoes", "is correct": false }
+      ],
+      "answer": "Footsteps"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why is the child being so careful about following the father?",
+      "options": [
+        { "option id": 1, "text": "They want to get home early", "is correct": false },
+        { "option id": 2, "text": "They want to be just like the father someday", "is correct": true },
+        { "option id": 3, "text": "They are afraid of the dark", "is correct": false },
+        { "option id": 4, "text": "They want to win a prize", "is correct": false }
+      ],
+      "answer": "They want to be just like the father someday"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The poem implies that the child is at a stage of ________.",
+      "options": [
+        { "option id": 1, "text": "Total independence", "is correct": false },
+        { "option id": 2, "text": "Learning and observation", "is correct": true },
+        { "option id": 3, "text": "Old age", "is correct": false },
+        { "option id": 4, "text": "Teaching others", "is correct": false }
+      ],
+      "answer": "Learning and observation"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the child's main fear in the first stanza?",
+      "options": [
+        { "option id": 1, "text": "Getting lost in the woods", "is correct": false },
+        { "option id": 2, "text": "Falling while following the father", "is correct": true },
+        { "option id": 3, "text": "Being shouted at", "is correct": false },
+        { "option id": 4, "text": "Missing school", "is correct": false }
+      ],
+      "answer": "Falling while following the father"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does 'sometimes your steps are very fast' likely represent?",
+      "options": [
+        { "option id": 1, "text": "The father running a marathon", "is correct": false },
+        { "option id": 2, "text": "Life's quick decisions or changes", "is correct": true },
+        { "option id": 3, "text": "The father being late for work", "is correct": false },
+        { "option id": 4, "text": "The child being a slow runner", "is correct": false }
+      ],
+      "answer": "Life's quick decisions or changes"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "In the line 'For you are leading me,' what does 'leading' signify?",
+      "options": [
+        { "option id": 1, "text": "Winning a race", "is correct": false },
+        { "option id": 2, "text": "Showing the way of life", "is correct": true },
+        { "option id": 3, "text": "Ordering someone around", "is correct": false },
+        { "option id": 4, "text": "Walking in front for safety", "is correct": false }
+      ],
+      "answer": "Showing the way of life"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the tone of the child's request?",
+      "options": [
+        { "option id": 1, "text": "Angry and demanding", "is correct": false },
+        { "option id": 2, "text": "Gentle and sincere", "is correct": true },
+        { "option id": 3, "text": "Sarcastic and rude", "is correct": false },
+        { "option id": 4, "text": "Loud and noisy", "is correct": false }
+      ],
+      "answer": "Gentle and sincere"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The phrase 'know that I was true' implies the child wants to be ______.",
+      "options": [
+        { "option id": 1, "text": "A famous athlete", "is correct": false },
+        { "option id": 2, "text": "An honest and reliable leader", "is correct": true },
+        { "option id": 3, "text": "A rich businessman", "is correct": false },
+        { "option id": 4, "text": "Better than the father", "is correct": false }
+      ],
+      "answer": "An honest and reliable leader"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why does the child repeat the request 'walk a little slower'?",
+      "options": [
+        { "option id": 1, "text": "Because the father is deaf", "is correct": false },
+        { "option id": 2, "text": "To emphasize the importance of the guidance", "is correct": true },
+        { "option id": 3, "text": "Because they forgot they already said it", "is correct": false },
+        { "option id": 4, "text": "To make the poem longer", "is correct": false }
+      ],
+      "answer": "To emphasize the importance of the guidance"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The 'little child so small' symbolizes ________.",
+      "options": [
+        { "option id": 1, "text": "Inexperience and vulnerability", "is correct": true },
+        { "option id": 2, "text": "Small physical height only", "is correct": false },
+        { "option id": 3, "text": "A toy", "is correct": false },
+        { "option id": 4, "text": "Lack of intelligence", "is correct": false }
+      ],
+      "answer": "Inexperience and vulnerability"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word is a synonym for 'following' as used in the poem?",
+      "options": [
+        { "option id": 1, "text": "Leading", "is correct": false },
+        { "option id": 2, "text": "Imitating or pursuing", "is correct": true },
+        { "option id": 3, "text": "Chasing", "is correct": false },
+        { "option id": 4, "text": "Ignoring", "is correct": false }
+      ],
+      "answer": "Imitating or pursuing"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What will the child have 'someday'?",
+      "options": [
+        { "option id": 1, "text": "A big house", "is correct": false },
+        { "option id": 2, "text": "A little child of their own", "is correct": true },
+        { "option id": 3, "text": "Lots of money", "is correct": false },
+        { "option id": 4, "text": "Many friends", "is correct": false }
+      ],
+      "answer": "A little child of their own"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The child hopes to lead 'just ______'.",
+      "options": [
+        { "option id": 1, "text": "Fast", "is correct": false },
+        { "option id": 2, "text": "Right", "is correct": true },
+        { "option id": 3, "text": "Slow", "is correct": false },
+        { "option id": 4, "text": "Wrong", "is correct": false }
+      ],
+      "answer": "Right"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the central theme of the poem?",
+      "options": [
+        { "option id": 1, "text": "The physical act of walking", "is correct": false },
+        { "option id": 2, "text": "The influence of parents on children", "is correct": true },
+        { "option id": 3, "text": "The beauty of nature", "is correct": false },
+        { "option id": 4, "text": "The difficulty of childhood", "is correct": false }
+      ],
+      "answer": "The influence of parents on children"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does the father represent in the child's life?",
+      "options": [
+        { "option id": 1, "text": "A obstacle", "is correct": false },
+        { "option id": 2, "text": "A role model", "is correct": true },
+        { "option id": 3, "text": "A stranger", "is correct": false },
+        { "option id": 4, "text": "A rival", "is correct": false }
+      ],
+      "answer": "A role model"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The phrase 'I'm all grown up' refers to which stage of life?",
+      "options": [
+        { "option id": 1, "text": "Infancy", "is correct": false },
+        { "option id": 2, "text": "Adulthood", "is correct": true },
+        { "option id": 3, "text": "Teenage years", "is correct": false },
+        { "option id": 4, "text": "Toddler stage", "is correct": false }
+      ],
+      "answer": "Adulthood"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "How does the child feel about the father's current pace?",
+      "options": [
+        { "option id": 1, "text": "They find it too easy", "is correct": false },
+        { "option id": 2, "text": "They find it challenging to keep up", "is correct": true },
+        { "option id": 3, "text": "They don't care about the pace", "is correct": false },
+        { "option id": 4, "text": "They want it to be even faster", "is correct": false }
+      ],
+      "answer": "They find it challenging to keep up"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word describes the relationship in the poem?",
+      "options": [
+        { "option id": 1, "text": "Competitive", "is correct": false },
+        { "option id": 2, "text": "Guided and nurturing", "is correct": true },
+        { "option id": 3, "text": "Hostile", "is correct": false },
+        { "option id": 4, "text": "Professional", "is correct": false }
+      ],
+      "answer": "Guided and nurturing"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does the child want to understand better by the father walking slower?",
+      "options": [
+        { "option id": 1, "text": "The shape of the shoes", "is correct": false },
+        { "option id": 2, "text": "The father's actions and ways", "is correct": true },
+        { "option id": 3, "text": "The distance to the park", "is correct": false },
+        { "option id": 4, "text": "The texture of the soil", "is correct": false }
+      ],
+      "answer": "The father's actions and ways"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The poem suggests that parents have a ______ towards their children.",
+      "options": [
+        { "option id": 1, "text": "Financial obligation", "is correct": false },
+        { "option id": 2, "text": "Responsibility to set a good example", "is correct": true },
+        { "option id": 3, "text": "Permission to ignore them", "is correct": false },
+        { "option id": 4, "text": "Reason to walk faster", "is correct": false }
+      ],
+      "answer": "Responsibility to set a good example"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme of the first stanza?",
+      "options": [
+        { "option id": 1, "text": "AABB", "is correct": false },
+        { "option id": 2, "text": "ABCB (small/fall)", "is correct": true },
+        { "option id": 3, "text": "AAAA", "is correct": false },
+        { "option id": 4, "text": "ABCD", "is correct": false }
+      ],
+      "answer": "ABCB (small/fall)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'slower' as used in the poem?",
+      "options": [
+        { "option id": 1, "text": "Quieter", "is correct": false },
+        { "option id": 2, "text": "Faster", "is correct": true },
+        { "option id": 3, "text": "Smaller", "is correct": false },
+        { "option id": 4, "text": "Harder", "is correct": false }
+      ],
+      "answer": "Faster"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The child says 'I must ______ you.'",
+      "options": [
+        { "option id": 1, "text": "Lead", "is correct": false },
+        { "option id": 2, "text": "Follow", "is correct": true },
+        { "option id": 3, "text": "Catch", "is correct": false },
+        { "option id": 4, "text": "Teach", "is correct": false }
+      ],
+      "answer": "Follow"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why does the child want to know they were 'true'?",
+      "options": [
+        { "option id": 1, "text": "To win an award", "is correct": false },
+        { "option id": 2, "text": "Because they will be a role model for another child", "is correct": true },
+        { "option id": 3, "text": "Because they like the word 'true'", "is correct": false },
+        { "option id": 4, "text": "To prove the father wrong", "is correct": false }
+      ],
+      "answer": "Because they will be a role model for another child"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "In stanza 2, 'hard to see' refers to what?",
+      "options": [
+        { "option id": 1, "text": "Poor eyesight", "is correct": false },
+        { "option id": 2, "text": "Actions that are difficult to understand", "is correct": true },
+        { "option id": 3, "text": "Foggy weather", "is correct": false },
+        { "option id": 4, "text": "Invisible steps", "is correct": false }
+      ],
+      "answer": "Actions that are difficult to understand"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The poem 'Walk a little slower' is mostly about ______.",
+      "options": [
+        { "option id": 1, "text": "Physical exercise", "is correct": false },
+        { "option id": 2, "text": "Generational guidance", "is correct": true },
+        { "option id": 3, "text": "Learning how to run", "is correct": false },
+        { "option id": 4, "text": "Buying new shoes", "is correct": false }
+      ],
+      "answer": "Generational guidance"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does 'I'm following' indicate in terms of time?",
+      "options": [
+        { "option id": 1, "text": "Completed action", "is correct": false },
+        { "option id": 2, "text": "Continuous or present action", "is correct": true },
+        { "option id": 3, "text": "Future intention only", "is correct": false },
+        { "option id": 4, "text": "Past event", "is correct": false }
+      ],
+      "answer": "Continuous or present action"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the central request made by the child to the father?",
+      "answer": "The child central request is for the father to walk a little slower so that the child can follow him properly without falling."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does the child mean by 'following in your footsteps'?",
+      "answer": "It means the child is observing the father's actions and life choices to learn how to lead their own life in the future."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why does the child describe themselves as 'so small'?",
+      "answer": "The child uses this description to emphasize their lack of experience and their dependence on the father's guidance."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the word 'fall' represent in the context of the poem?",
+      "answer": "In the poem, 'fall' represents making mistakes, losing one's way, or failing to follow the right path in life."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How does the child feel when the father's steps are 'very fast'?",
+      "answer": "When the steps are fast, the child feels it is difficult to see or understand the father's actions, leading to confusion."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who is leading whom in the poem?",
+      "answer": "The father is leading the journey, and the small child is the one following behind him."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What will happen when the child is 'all grown up'?",
+      "answer": "When the child is grown up, they intend to become exactly like their father and serve as a role model for their own child."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why does the child want to 'lead just right' in the future?",
+      "answer": "The child wants to lead correctly because they realize that their future child will be following them, just as they follow their father now."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the speaker want to be sure of in their future role as a leader?",
+      "answer": "The speaker wants to know that they were 'true,' meaning they remained honest and faithful to the right values."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why does the child say they 'must' follow the father?",
+      "answer": "The child says they 'must' follow because the father is their primary guide and the example they need to understand life."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the significance of the father's footsteps being 'hard to see'?",
+      "answer": "It signifies that sometimes an adult's decisions or actions are too complex for a child to grasp clearly."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does the poem show the importance of parents as role models?",
+      "answer": "The poem illustrates that children naturally look up to and imitate their parents' behavior to prepare for their own futures."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem 'Walk a little slower'?",
+      "answer": "The tone is earnest, gentle, and respectful, reflecting the deep bond and trust between a child and a parent."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Mention two pairs of related words mentioned in the poem's workshop.",
+      "answer": "Two pairs of related words are 'Daddy/child' and 'follow/lead,' which describe the dynamic of guidance in the poem."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "According to the poem, what is the father's current role?",
+      "answer": "The father's current role is to be a guide and a leader who sets the pace and direction for the child's development."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the child hope their own future child will want to do?",
+      "answer": "The child hopes their future child will want to follow them, continuing the cycle of learning across generations."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is the author of the poem listed as 'Unknown'?",
+      "answer": "The author is unknown because the poem is a traditional or anonymous piece that captures a universal parental theme."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does 'I would want to lead just right' imply about the speaker's goals?",
+      "answer": "It implies that the speaker values integrity and wants to provide high-quality guidance to those who look up to them."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Is the child only talking about physical walking? Explain.",
+      "answer": "No, the child is using walking as a metaphor for the journey of life and the acquisition of values and habits."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does the rhyme 'small/fall' emphasize in the first stanza?",
+      "answer": "It emphasizes the child's vulnerability and the potential consequence of not having slow, clear guidance."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "In the phrase 'You're what I want to be,' what is the child expressing?",
+      "answer": "The child is expressing deep admiration for the father and a desire to inherit his character and role."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is meant by the line 'For you are leading me'?",
+      "answer": "It means the father is currently the authority figure who is shaping the child's path and providing direction."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How can a parent walk 'slower' for their child in a non-physical way?",
+      "answer": "A parent can walk slower by being patient, explaining their decisions, and setting examples that are easy for a child to understand."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the long-term impact of the father's actions according to the poem?",
+      "answer": "The impact is that the father's actions today will influence how the child leads the next generation tomorrow."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What quality must the father maintain so the child can follow safely?",
+      "answer": "The father must maintain a pace and clarity of action that the child can easily see and follow without confusion."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem and to whom are they speaking?",
+      "answer": "The speaker in the poem is a small child. The child is addressing their father, whom they refer to as 'Daddy'."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the primary request made by the child in the poem?",
+      "answer": "The child requests the father to walk a little slower. This is because the child is following in the father's footsteps and does not want to fall."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What do the 'footsteps' in the poem symbolize?",
+      "answer": "The 'footsteps' symbolize the father's actions, decisions, and way of life. The child is observing and imitating these as a guide for their own future."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why does the child say the father's steps are sometimes 'hard to see'?",
+      "answer": "The child says this because sometimes the father's actions are too fast or complex for the child to understand. This makes it difficult for the child to follow the father's example correctly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the child's fear if the father walks too fast?",
+      "answer": "The child's main fear is that they might fall. Metaphorically, this means the child is afraid of making mistakes or losing their way if the guidance provided is too hurried."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does the child want to become when they are 'all grown up'?",
+      "answer": "The child expresses a desire to be exactly what their father is. They see the father as a role model to be emulated in adulthood."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who does the child expect to lead in the future?",
+      "answer": "The child expects to have a little child of their own one day. That future child will want to follow the speaker just as the speaker follows the father now."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is it important for the child to 'lead just right' in the future?",
+      "answer": "It is important because the speaker wants to be a true and reliable guide for their own future child. They want to ensure they pass on the right values and actions."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does 'I must follow you' signify in the final line?",
+      "answer": "It signifies the child's realization that the father is their primary source of guidance. Following the father is a necessary step for the child to learn how to lead others later."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the implied meaning of the word 'walk' in this poem?",
+      "answer": "The word 'walk' refers to the journey of life and the way a person conducts themselves. It is not just about physical movement but about moral and social behavior."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Describe the relationship between the father and the child as shown in the poem.",
+      "answer": "The relationship is one of trust and guidance. The child looks up to the father as a leader, while the father has the responsibility of setting a pace the child can follow."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does 'know that I was true' mean in the third stanza?",
+      "answer": "It means being certain that one was honest, faithful, and correct in their actions. The child wants to look back and know they provided a good example."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How does the poem illustrate the generational cycle of learning?",
+      "answer": "The poem shows that children learn by following their parents. These children then grow up to become parents themselves, repeating the cycle of leading the next generation."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What quality does the child expect from the father to avoid falling?",
+      "answer": "The child expects the quality of patience and understanding. By walking slower, the father shows he is mindful of the child's smaller steps and limited experience."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Identify two pairs of rhyming words from the poem.",
+      "answer": "Two pairs of rhyming words from the poem are 'small/fall' and 'see/me'. These appear at the end of the lines in the first two stanzas."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is the father described as 'leading' the child?",
+      "answer": "The father is described as leading because he is the one setting the example and showing the path. The child is still small and dependent on the father's direction."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the tone of the child's request to the father?",
+      "answer": "The tone is gentle, sincere, and earnest. It reflects the child's deep love and respect for the father's influence on their life."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'all grown up' refer to?",
+      "answer": "The phrase refers to the stage of adulthood. It is the time when the child will take on responsibilities similar to those the father has now."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "In what way are the father's steps 'very fast' sometimes?",
+      "answer": "The steps are 'very fast' when the father makes quick decisions or takes actions that are too advanced for the child to grasp. This makes it hard for the child to keep up."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the role of the father as a role model in this poem?",
+      "answer": "The father's role is to be a guide whose path is clear and stable. His actions determine the kind of person the child will become in the future."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How does the child feel about their own ability to follow the father?",
+      "answer": "The child feels cautious and realizes their own limitations because they are 'so small'. They know they need the father's help to succeed in following the right path."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the significance of the child saying 'I don't want to fall'?",
+      "answer": "It signifies the child's desire to avoid making mistakes or going astray. It shows they value the father's guidance to stay on the correct course in life."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the speaker mean by 'I would want to lead just right'?",
+      "answer": "The speaker wants to ensure that when they become a parent, they provide the best possible guidance. They want to avoid leading their own child into any confusion or errors."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who is the author of the poem 'Walk a little slower'?",
+      "answer": "The author of the poem is unknown. It is a traditional piece used to highlight the bond between a parent and a child."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is the child's future child mentioned in the poem?",
+      "answer": "The future child is mentioned to show that the speaker understands the long-term impact of the father's current actions. The speaker knows they will pass these same lessons to the next generation."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does the little child mean by 'I'm following in your footsteps'?",
+      "answer": "It means the child is observing the father's life choices and actions, trying to learn how to behave and make decisions by imitating him[cite: 168, 180, 211]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is the child worried about the father's steps being 'very fast'?",
+      "answer": "The child is worried because when the father acts too quickly or complexly, the child cannot understand the lesson and might make a mistake or 'fall'[cite: 168, 169, 177]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How does the child describe themselves in the first stanza?",
+      "answer": "The child describes themselves as being 'so small,' which emphasizes their need for guidance and a slower pace of learning[cite: 167]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is the significance of the child wanting to be like the father 'someday'?",
+      "answer": "It shows that the child views the father as their primary role model and ultimate goal for how to act as an adult[cite: 171, 229]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why does the child believe they must follow the father?",
+      "answer": "The child believes they must follow the father because the father is the one leading them and showing them the way through life[cite: 170, 175]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What does the child hope to do when they have their own child?",
+      "answer": "The child hopes to 'lead just right' and be a true guide for their own future child, just as they want their father to be for them now[cite: 172, 173, 216]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'know that I was true' imply?",
+      "answer": "It implies that the speaker wants to be certain that the guidance they give in the future is honest, correct, and reliable[cite: 173, 217]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is it important for the father to be understanding of the child's needs?",
+      "answer": "It is important because the child relies entirely on the father for direction; without understanding, the child might struggle to keep up or learn[cite: 212]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does the 'footsteps' metaphor represent in the context of family?",
+      "answer": "It represents the passing of traditions, values, and behaviors from one generation (the father) to the next (the child)[cite: 180, 224, 225]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What happens if a child tries to walk too fast in life?",
+      "answer": "If a child tries to move too fast before they are ready, they may become confused, make wrong decisions, or 'fall' because they haven't learned the basics[cite: 168, 177]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why does the author remain 'Unknown'?",
+      "answer": "The author is unknown because this poem is a traditional piece that captures a universal feeling between parents and children[cite: 176]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is the poem only about physical walking?",
+      "answer": "No, the poem uses walking as a metaphor for the way we live our lives and the examples we set for others[cite: 178, 211]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What quality of the father is the child currently depending on?",
+      "answer": "The child is depending on the father's leadership and his ability to guide the child safely into the future[cite: 170, 173]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How does the child show they are thinking about the long-term future?",
+      "answer": "The child shows this by talking about the time when they will be 'all grown up' and have a child of their own who will follow them[cite: 171, 172]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does the line 'Sometimes they are hard to see' refer to?",
+      "answer": "It refers to the father's actions or reasons which might be unclear or too difficult for the child to grasp at their young age[cite: 169, 215]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why does the child use the word 'Daddy' instead of 'Father'?",
+      "answer": "The word 'Daddy' shows a close, loving, and informal relationship between the child and the parent[cite: 167, 202]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the child's ultimate goal in following their father?",
+      "answer": "The child's goal is to learn how to lead correctly so they can eventually be a good role model for the next generation[cite: 172, 173]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How can a parent walk 'slower' for a child in real life?",
+      "answer": "A parent can walk slower by explaining their actions, being patient with mistakes, and giving the child time to learn[cite: 211, 212]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What does 'I must follow you' say about the child's perspective?",
+      "answer": "It shows that the child recognizes the father's authority and feels a natural duty to learn from him[cite: 175]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Give an example of a rhyming pair in the third stanza.",
+      "answer": "In the third stanza, the words 'be' and 'me' form a rhyming pair[cite: 171, 172, 200]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is the main message of the poem?",
+      "answer": "The main message is that parents should be mindful of the example they set because their children are following them into the future[cite: 174, 212]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does the child feel about the future?",
+      "answer": "The child feels responsible for the future, knowing that their own children will eventually look to them for guidance[cite: 172, 173]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What does the 'little child so small' represent?",
+      "answer": "The 'little child so small' represents the innocence and the beginning stage of a person's life journey[cite: 167]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is 'knowing that I was true' a significant thought for a child?",
+      "answer": "It is significant because it shows the child values integrity and wants to be a reliable person when they grow up[cite: 173, 217]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What does the child need from the father to avoid falling?",
+      "answer": "The child needs the father to walk at a pace that is clear and easy for the child to see and follow[cite: 169, 170]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the child's main purpose in asking the father to walk slower?",
+      "answer": "The child's main purpose is to observe and understand the father's actions clearly so they can follow his example without making mistakes[cite: 168, 211]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How does the poet describe the physical size of the child?",
+      "answer": "The poet describes the speaker as a 'little child so small,' highlighting their innocence and need for guidance[cite: 167]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'following in your footsteps' mean in a spiritual or moral sense?",
+      "answer": "It means the child is adopting the father's values, character, and moral path as their own way of living[cite: 168, 180]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why might a father's steps be 'hard to see' for a child?",
+      "answer": "A father's steps are hard to see when his decisions or motivations are too complex or advanced for a young child to grasp[cite: 169, 215]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the relationship between the first stanza and the concept of failure?",
+      "answer": "The first stanza shows that the child is afraid of 'falling,' which represents failing to live up to the right standards or making errors in judgment[cite: 168]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What does the child hope to have 'someday'?",
+      "answer": "The child hopes to have a little child of their own who will look to them for leadership and guidance[cite: 172]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does the child feel about the father's role as a leader?",
+      "answer": "The child acknowledges the father's role as a leader by stating, 'For you are leading me,' showing deep trust in his direction[cite: 170]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What does the word 'true' signify in the context of leading a child?",
+      "answer": "In this context, 'true' signifies being honest, consistent, and morally upright in the example one sets for others[cite: 173, 217]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is the child's request described as a plea rather than a command?",
+      "answer": "It is a plea because it is expressed with affection and a sense of dependency, shown by the use of the word 'Daddy' and the explanation of their small size[cite: 167, 174]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Explain the significance of the line 'You're what I want to be'.",
+      "answer": "This line shows that the child views the father as an ideal role model and aspires to possess his qualities when they grow up[cite: 171]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How does the poem link the past, present, and future?",
+      "answer": "The poem links the present (child following father) with the future (child becoming a father) to show how actions are passed through generations[cite: 171, 172]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the consequence if the father does not walk slower?",
+      "answer": "If the father does not walk slower, the child might lose sight of the path, become confused, or 'fall' in their development[cite: 168, 169]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What quality does the child desire to have as a future leader?",
+      "answer": "The child desires to lead 'just right,' meaning they want to be a precise and effective guide for the next generation[cite: 173, 216]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why does the child feel it is their duty to follow the father?",
+      "answer": "The child feels this duty because the father is the one currently leading them and shaping their future identity[cite: 170, 175]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What does 'I must follow you' tell us about the child’s attitude?",
+      "answer": "It shows an attitude of humility and a recognition that the father has the experience and knowledge that the child needs[cite: 175]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "In the 'Warming Up' section, what is the purpose of the 'Chit-Chat' activity?",
+      "answer": "The purpose is to encourage students to communicate their thoughts and feelings in English and prepare for the poem's themes[cite: 113, 115]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is a 'role model' based on the poem’s context?",
+      "answer": "A role model is a person whose 'footsteps' or actions are worth following so that others can grow up to be like them[cite: 171, 229]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What are the rhyming words in the final stanza of the poem?",
+      "answer": "The rhyming words in the final stanza are 'true' and 'you'[cite: 173, 175]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does the child's perspective change from stanza 1 to stanza 3?",
+      "answer": "In stanza 1, the child focuses on their own current safety; in stanza 3, they focus on their future responsibility as a parent[cite: 168, 172]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by the father leading the child?",
+      "answer": "The poet means the father is acting as a mentor and guide, showing the child how to navigate life's journey[cite: 170, 189]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'I would want to lead just right'.",
+      "answer": "It reflects the speaker's aspiration to be a perfect guide for their own child, avoiding the confusion they currently experience[cite: 173, 216]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is the author of the poem categorized as 'Unknown'?",
+      "answer": "The author is categorized as 'Unknown' because the poem is a traditional piece whose original creator is no longer identified[cite: 176]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is implied when the child says 'Sometimes your steps are very fast'?",
+      "answer": "It implies that adults often move through life’s decisions without realizing that children need more time to understand them[cite: 169, 214]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How does the poem emphasize the importance of observation?",
+      "answer": "The poem emphasizes observation through the child's need to 'see' the father's steps in order to follow them correctly[cite: 169, 211]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the moral lesson for parents in this poem?",
+      "answer": "The moral lesson is that parents must be mindful of their pace and actions because they are constantly being emulated by their children[cite: 172, 174]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Discuss the central theme of the poem 'Walk a little slower' in detail.",
+      "answer": "The central theme of the poem revolves around the deep influence parents have on their children and the generational cycle of learning. It portrays the father as a primary role model whose 'footsteps' or life choices are closely observed and imitated by the child. The child’s request to 'walk a little slower' is a metaphor for asking for patience and clear guidance during the formative years of life. Furthermore, the poem highlights the child's realization that they will one day be a parent themselves, passing these same lessons to the next generation. Ultimately, it emphasizes the responsibility of elders to lead with integrity, as their actions shape the future of their descendants."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the significance of the child's fear of 'falling' while following the father.",
+      "answer": "The child’s fear of 'falling' in the first stanza is a powerful metaphor for making moral or life-altering mistakes. Being 'so small,' the child lacks the experience and wisdom to navigate life's complexities independently and relies entirely on the father's path. If the father moves too quickly or makes unclear decisions, the child risk becoming confused, lost, or adopting the wrong values. This 'fall' represents a failure to develop into a stable and successful adult due to inadequate guidance. Therefore, the plea for a slower pace is a request for a safe and stable environment where the child can learn at a manageable speed. It underscores the vulnerability of childhood and the necessity of a reliable protector."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How does the poet illustrate the concept of the generational cycle in the third stanza?",
+      "answer": "In the third stanza, the poet shifts the perspective from the child’s current state to a future where the child has grown into an adult. The child expresses an awareness that they will eventually have a 'little child' of their own who will want to follow them. This realization connects the present guidance they receive from their father to the future guidance they will provide to their own offspring. It shows that the role of 'leader' is a transient one that moves from one generation to the next. By wanting to be just like their father, the child acknowledges that the qualities they adopt now will be the same ones they pass down. This stanza highlights the continuous and evolving nature of family legacy and social learning."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "What is the importance of the child's desire to 'lead just right' and 'be true'?",
+      "answer": "The desire to 'lead just right' reflects the speaker's high moral aspirations and their sense of duty toward the future. It indicates that the speaker understands that being a parent or a role model requires precision, honesty, and a clear sense of direction. By wanting to know that they were 'true,' the speaker emphasizes the value of integrity and being a reliable guide for others. This ambition stems from their current experience of following a father who they hope is leading them correctly. It suggests that the speaker wants to avoid the confusion they feel when the father's steps are 'hard to see.' Consequently, the speaker aims to perfect the art of guidance to ensure the success and safety of the next generation."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the lines: 'Sometimes your steps are very fast, Sometimes they are hard to see'.",
+      "answer": "These lines describe the challenges a child faces when an adult's actions are too complex or hurried for their understanding. 'Very fast' steps can represent quick, high-pressure decisions or a lifestyle that leaves little time for explanation or nurturing. When these actions are 'hard to see,' it suggests that the child is struggling to find a clear moral or logical pattern in the father's behavior. This lack of clarity creates a barrier to learning, as the child cannot effectively 'follow' what they do not comprehend. The poet uses this imagery to remind adults that children observe everything but need a simplified, steady pace to truly learn. It is a call for parents to be more mindful and communicative in their daily conduct."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the father's role as a leader as depicted in the poem.",
+      "answer": "The father is depicted as the primary leader and architect of the child's future path in life. He is the one who sets the pace, chooses the direction, and leaves the 'footsteps' that the child strives to match. His leadership is not just physical but serves as a moral and social compass for the 'small' and inexperienced child. The poem implies that the father holds the power to either facilitate the child’s growth or cause them to 'fall' through negligence or haste. Because the child 'must' follow him, the father's role is one of immense responsibility and unavoidable influence. He is the standard by which the child measures their own future success and identity."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How does the poem 'Walk a little slower' emphasize the importance of role models?",
+      "answer": "The poem emphasizes role models by showing that a child’s development is essentially an act of following and imitation. The child explicitly states, 'You're what I want to be,' which establishes the father as the ideal figure for their future self. This relationship demonstrates that children do not learn in a vacuum but through the active example set by those they love and trust. A good role model provides a clear, 'true' path that is easy to see and follow, reducing the child's anxiety about the future. By highlighting the child's intent to become a leader themselves, the poem suggests that the quality of today's role models determines the quality of tomorrow's society. It portrays role modeling as the most fundamental form of education."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What are the emotional qualities of the child as portrayed in the poem?",
+      "answer": "The child is portrayed as being highly observant, sincere, and deeply respectful of their parent. There is a sense of vulnerability in the child’s admission of being 'so small' and their fear of 'falling,' which shows their emotional dependence. At the same time, the child displays a remarkable degree of foresight and responsibility by thinking about their own future children. Their request is not an angry demand but a gentle, earnest plea for help, showing their love and trust for the father. The child's tone is one of admiration, as they view the father as someone worth following and becoming. Overall, the child exhibits a mix of innocent dependency and a mature understanding of their future role."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "In what ways can a parent 'walk slower' in a modern context to help their child?",
+      "answer": "In a modern context, 'walking slower' means a parent taking the time to explain the 'why' behind their decisions and actions. It involves being patient with a child's questions and allowing them to learn from small mistakes in a safe environment. Parents can walk slower by limiting the rush of daily schedules to ensure there is quality time for conversation and emotional connection. Setting a steady, consistent example of values like honesty and kindness is also a form of walking at a pace a child can follow. It means being mindful that the child is constantly observing and may feel overwhelmed by the fast-paced nature of adult life. Ultimately, it is about being a present, visible, and understandable guide."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the poem being written by an 'Unknown' author.",
+      "answer": "The 'Unknown' authorship of the poem adds a universal and timeless quality to its message about the parent-child bond. Because it is not tied to a specific famous poet, the poem feels like a collective voice of children throughout history addressing their elders. This anonymity suggests that the themes of guidance, following, and legacy are common to all cultures and generations. It allows the reader to focus entirely on the emotional truth of the request rather than the biography of a specific writer. The poem functions like a piece of folk wisdom, passed down to remind every generation of the weight of their influence. It highlights that the responsibility of being a role model is a fundamental part of the human experience."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "How does the use of the word 'Daddy' affect the impact of the poem?",
+      "answer": "The use of the word 'Daddy' immediately establishes a tone of warmth, intimacy, and deep affection. It tells the reader that the relationship is not formal or distant, but one based on a close personal bond. This choice of words makes the child’s request more poignant, as it comes from a place of love rather than just duty. It emphasizes the child’s innocence and their perspective of the father as a protector and a friend. By using such a familiar term, the poet makes the universal theme of parental influence feel personal and relatable to every family. It transforms a philosophical lesson into a heartfelt conversation between two people."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the metaphor of 'footsteps' as used throughout the poem.",
+      "answer": "The 'footsteps' are a central metaphor representing the moral, social, and professional path that a person leaves behind as they live. For the father, these footsteps are the examples of behavior and decision-making that his child follows. For the child, following these footsteps is the process of learning how to navigate the world and build their own character. The metaphor suggests that our actions leave a lasting mark that others can step into, either for better or for worse. It implies a journey toward a destination, which in this poem is adulthood and the eventual role of being a parent. Footsteps indicate that the path to the future is built upon the choices made in the present."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "What does the poem suggest about the responsibility of the younger generation?",
+      "answer": "While much of the poem focuses on the father, it also suggests that the younger generation has a responsibility to be observant and intentional. The child is not just passively following but is actively asking for the tools and conditions they need to learn effectively. By stating their intention to 'lead just right' in the future, the child accepts the duty of maintaining the family legacy. They recognize that they are the link between the past and the future, and their current learning will dictate the quality of their future leadership. This shows that children are not just recipients of influence but are future custodians of values. The poem portrays the younger generation as being mindful of their role in the continuous human story."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Analyze the structure of the poem and how it supports the message.",
+      "answer": "The poem is structured in four stanzas with a simple, repetitive rhythm that mirrors the steady act of walking. Each stanza builds upon the last, moving from the child's current need to their future aspirations and final realization. The repetition of the phrase 'walk a little slower' acts as a refrain, constantly bringing the focus back to the core request for patience. The rhyme scheme, such as 'small/fall' and 'see/me,' makes the poem easy to remember and gives it a nursery-rhyme-like quality that fits the child's perspective. This simple structure makes the deep, complex message of generational influence accessible to readers of all ages. It uses a gentle flow to deliver a very serious and impactful lesson for parents."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the line 'For you are leading me' in the context of childhood development.",
+      "answer": "This line highlights the absolute dependence of a child on their parent during the early stages of development. It acknowledges that the parent is the primary architect of the child's reality and the person who sets the direction for their growth. In childhood, development is largely driven by external guidance before a person gains the maturity to lead themselves. The phrase 'leading me' implies that the child is trusting the parent to choose a safe and productive path through the world. It also serves as a reminder to the parent that their leadership is an active, ongoing process that requires constant attention. The child’s growth is directly tied to the quality and pace of this parental leadership."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "What moral lessons can a student learn from this poem for their own life?",
+      "answer": "A student can learn that their current actions and habits are forming the foundation for who they will be as adults and leaders. The poem teaches the value of finding good role models and being observant of the positive qualities in the elders around them. It also encourages students to think about their long-term impact on others, even if they are currently in a position of 'following.' Students learn that being a leader is a responsibility that requires one to be 'true' and honest in their conduct. Furthermore, the poem teaches patience—both for the student to learn at their own pace and for them to be patient with those they might lead in the future. It emphasizes that life is a journey best taken with care and integrity."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "How does the child's request relate to the concept of 'pacing' in education?",
+      "answer": "The child’s request to 'walk a little slower' is a perfect metaphor for appropriate 'pacing' in any learning environment. Just as a child cannot follow a father who walks too fast, a student cannot learn if the curriculum or the teacher moves at an overwhelming speed. Pacing requires the educator or guide to be mindful of the learner's current level of understanding and 'size.' If the 'steps' of a lesson are too large or 'hard to see,' the learner will lose interest or fail to grasp the core concepts. The poem advocates for a learner-centered approach where the guide adjusts their speed to ensure the follower can keep up. It emphasizes that the goal of leading is to ensure the follower reaches the destination successfully."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Compare and contrast the roles of the 'leader' and the 'follower' as presented in the poem.",
+      "answer": "In the poem, the 'leader' (the father) is the one who possesses the experience, sets the direction, and carries the responsibility for the follower's safety. The 'follower' (the child) is the one who provides the motivation for the leader to be careful and true, as they are the future of the lineage. While the leader is active and decisive, the follower is observant and eager to learn, representing the potential for future leadership. Both roles are interconnected; the father cannot lead without a child to guide, and the child cannot follow without a path to walk. The poem suggests that these roles are not fixed but are stages in a person's life. Eventually, every follower is destined to become a leader, repeating the cycle of influence."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Why is 'knowing that I was true' considered the ultimate goal for the speaker?",
+      "answer": "Being 'true' is the ultimate goal because it represents a life lived with moral consistency, honesty, and success in one's responsibilities. For the speaker, being true means they did not lead their own future child astray and that they remained faithful to the good values they learned. It is a form of self-validation that their life’s journey was meaningful and served as a proper guide for others. Knowing they were true provides a sense of peace and accomplishment at the end of the leading phase of life. It also ensures that the family 'footsteps' remain a reliable path for generations to come. In essence, it is the speaker's definition of a successful life and legacy."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How does the poem address the vulnerability of children?",
+      "answer": "The poem addresses vulnerability by focusing on the child's small stature and their admitted fear of falling. By describing themselves as 'so small,' the child acknowledges that they do not yet have the strength or knowledge to stand on their own. Their reliance on the father's footsteps shows that their entire worldview is shaped by the parent's choices. The line 'Sometimes they are hard to see' illustrates how easily a child can become confused or lost when guidance is not clear. This vulnerability is what makes the request for a slower pace so urgent and emotionally resonant. The poem reminds adults that their strength and speed can be intimidating or even harmful to those who look up to them."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "What is the significance of the child's intent to 'be' what the father is?",
+      "answer": "The intent to 'be' what the father is represents the highest form of flattery and the ultimate success of a role model. It shows that the child has found the father's life and character to be worthy of total emulation. This desire provides the father with a powerful incentive to act correctly, knowing that his child is essentially a mirror of his own actions. It also suggests that a parent’s greatest legacy is not wealth or fame, but the character they build in their children. However, it also carries a warning: if the father's path is flawed, the child will likely repeat those flaws. Thus, the child's ambition to be like the father makes the quality of the father's 'footsteps' critically important."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain how the poem uses the concept of 'time' to convey its message.",
+      "answer": "The poem uses time by moving fluidly between the present, the future, and the long-term cycle of generations. The present is the moment of following, where the 'steps' are being taken and the request is being made. The future is the time of 'someday' when the child is 'all grown up' and must take on the role of the leader. By connecting these two points in time, the poet shows that our present actions have consequences that last for decades. The 'someday' represents the inevitable transition of responsibility that every child will eventually face. This time-based perspective encourages the reader to think about the long-term impact of their daily behavior. It suggests that the past (the father's actions) directly constructs the future (the child's leadership)."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Analyze the impact of the final line: 'For I must follow you'.",
+      "answer": "The final line is a powerful summary of the child's necessity for guidance and their lack of an alternative path. The word 'must' implies that the child has no choice but to learn from the father, making the father's responsibility absolute. It reinforces the idea that the parent is the primary influence and that the child’s destiny is inextricably linked to the parent’s lead. This line places a weight of duty on the father, as he is the only one the child can and will follow. It ends the poem on a note of urgency, reminding the adult reader of their inescapable role as a guide. The line highlights the deep, inherent bond of dependency that defines early childhood."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How can students relate this poem to their experience with teachers or mentors?",
+      "answer": "Students can relate to the poem by viewing their teachers or mentors as the ones 'leading' them through new subjects and life skills. Just like the child in the poem, students often feel overwhelmed if a teacher moves too quickly or if the 'steps' of a lesson are unclear. They rely on their mentors to provide a clear path and to be 'true' in the knowledge and values they share. A student might feel the same 'fear of falling' when they don't understand a concept and worry about failing. The poem encourages students to speak up and ask for a 'slower' or clearer explanation when they are struggling. It also helps students realize that one day they might also be mentors to others, teaching them the importance of being patient guides."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What does the poem tell us about the ideal nature of parent-child communication?",
+      "answer": "The poem suggests that the ideal communication is open, honest, and based on mutual respect and understanding. The child feels comfortable enough to express their needs and fears to the father, which is the sign of a healthy relationship. It also implies that parents should be 'readable' or 'seeable' to their children, meaning their actions should be transparent and easy to interpret. Communication is not just about words but about the 'footsteps' or actions that a parent takes in front of the child. By requesting a slower pace, the child is essentially opening a dialogue about how they learn best. The poem advocates for a supportive environment where a child’s voice is heard and their developmental needs are prioritized."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the title 'Walk a little slower' in relation to the poem's message.",
+      "answer": "The title 'Walk a little slower' serves as a metaphorical plea from a child to a parent for patience and clarity in guidance. It signifies that the child is at a stage where they cannot keep up with the rapid pace or complex decisions of an adult. By asking the father to slow down, the child is essentially asking for the time and opportunity to understand the lessons being taught through action. The title sets the tone for a nurturing relationship where the leader adjusts their pace to accommodate the follower. It emphasizes that the goal of parenting is not to reach the end quickly but to ensure the child stays on the path. Ultimately, the title encapsulates the theme of generational influence and the need for mindful mentorship."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "How does the poem suggest that a parent’s guidance affects a child's future self-confidence?",
+      "answer": "The poem suggests that a child's self-confidence is built upon the stability and clarity of the path shown by their parent. When the father walks at a pace the child can follow, the child feels secure and avoids the 'fall' that represents failure or confusion. This security allows the child to grow with the ambition to 'lead just right' when they become adults themselves. Conversely, if the father's steps are too fast or hard to see, the child may develop doubt about their own ability to navigate life. The child's desire to be 'what I want to be' is directly linked to the positive example currently being set by the father. Therefore, consistent and understandable guidance fosters the confidence needed for the child to eventually take the lead."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Discuss how certain ideas and customs are passed from one generation to the next as implied in the poem.",
+      "answer": "The poem illustrates that ideas and customs are passed down through a continuous process of observation and imitation rather than formal instruction. The child 'follows in the footsteps' of the father, which represents the daily habits, values, and cultural practices they see at home. This generational transfer is inevitable because children naturally look up to their elders as the primary source of knowledge. The speaker's awareness that their own future child will follow them shows how these 'footsteps' create a lasting legacy over time. For customs to remain 'true,' each generation must be careful and deliberate in the example they set. Thus, the poem portrays the family unit as the most significant vehicle for cultural and moral continuity[cite: 224, 225]."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What should a child do when they find their elder's 'steps' difficult to see or understand?",
+      "answer": "When a child finds their elder's actions confusing or 'hard to see,' the poem suggests that they should communicate their needs directly. By making the request to 'walk a little slower,' the child is taking an active role in their own learning process. It is important for a child to express when they feel overwhelmed so that the guide can adjust their approach. Seeking clarity prevents the child from 'falling' or making mistakes based on a lack of understanding. This highlights the importance of open-ended 'chit-chat' and discussion between children and their parents[cite: 115, 131]. Ultimately, honesty about one's limitations is the first step toward becoming a successful follower and a future leader."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How does the poem's workshop activity regarding 'role models' relate to the child's perspective in the poem?",
+      "answer": "The workshop activity regarding role models directly mirrors the child's declaration that 'You're what I want to be'[cite: 171, 229]. In the poem, the father is the ultimate role model whose qualities the child wishes to adopt for their own adult life. By identifying a role model, a person finds a standard for their own actions and a path to follow when they are unsure. The child realizes that to be a good role model in the future, they must first have a successful one to follow in the present. This highlights that appreciating specific qualities in an elder helps a child define their own moral goals. The poem and the workshop both emphasize that having a role model provides the necessary 'footsteps' for a safe journey through life."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the burden of responsibility placed on the leader according to the final stanza.",
+      "answer": "The final stanza places an immense burden of responsibility on the leader by stating, 'For I must follow you'[cite: 175]. This indicates that the follower has no choice but to emulate the leader, making the leader's every move a potential lesson. If the leader is not 'true' or fails to lead 'just right,' the negative consequences will directly impact the child and potentially the generation after that. The leader must be constantly mindful of their pace and integrity because someone's entire future depends on them. This responsibility requires a high level of self-awareness and patience to avoid leading the follower astray. The poem concludes by reminding the leader that their influence is inescapable and profoundly significant."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "How does the 'chit-chat' and 'warming up' section prepare students for the emotional depth of the poem?",
+      "answer": "The 'chit-chat' and 'warming up' section prepares students by encouraging them to reflect on their own habits of communication and their relationships with family members[cite: 115, 116]. By asking questions like 'Are you a talkative person?' and discussing whom they like to talk to, students begin to think about the importance of sharing thoughts[cite: 119, 126]. These activities highlight that communication is essential for understanding the feelings of others and for learning from elders. The activity about hesitating to talk to family members also introduces the idea that guidance is not always easy or clear[cite: 152]. This emotional preparation helps students connect with the child's earnest plea in the poem. It bridges the gap between their personal experiences and the metaphorical journey described by the poet."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Why is clear and correct communication between generations vital for a child's growth?",
+      "answer": "Clear communication is vital because it ensures that the 'steps' or actions of the elder are not 'hard to see' for the child[cite: 169]. When parents communicate their thoughts and feelings freely, children can understand the reasons behind certain decisions[cite: 130]. This transparency prevents the child from feeling lost or making errors while trying to follow the family's values. Without clear communication, a child might misinterpret a parent's actions and 'fall' or lose their way. The poem emphasizes that for a child to grow up 'true,' they need a guide who is both visible and understandable. Therefore, consistent dialogue is the foundation of effective generational leadership."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Describe the emotional impact of using the term 'Daddy' throughout the poem.",
+      "answer": "The use of the term 'Daddy' creates an atmosphere of love, trust, and intimate connection between the child and the parent. It suggests that the child does not view the father as a distant authority figure but as a close protector and friend. This informal term makes the request for a slower pace feel like a heartfelt plea rather than a formal complaint. It emphasizes the child's innocence and their natural desire to remain close to their primary source of comfort. By using 'Daddy,' the poet makes the universal theme of parental influence feel deeply personal and relatable. This choice of words ensures that the reader feels the warmth of the bond that makes the guidance so important."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Why does the speaker believe that 'knowing I was true' is essential for their future child?",
+      "answer": "The speaker believes that being 'true' is essential because they realize that they will one day be the primary guide for another small child[cite: 172, 173]. If the speaker is true to the right values, they can provide a clear and reliable path for their own offspring to follow. Knowing they were true provides the speaker with the confidence that they are not leading the next generation into error or confusion. It is a commitment to maintaining the integrity of the family legacy and ensuring that the cycle of leadership remains positive. The speaker understands that their current learning directly impacts the success of a child they haven't even had yet. Thus, personal integrity today is seen as a gift to the future."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "How does the poem emphasize that observation is the primary way a child learns?",
+      "answer": "The poem emphasizes observation through the repeated imagery of following 'footsteps' and seeing the father's 'steps'[cite: 168, 169]. The child does not mention being told what to do but focuses entirely on the physical and metaphorical path the father is taking. This indicates that the child is constantly watching and analyzing the father's behavior to determine how they should act. When the father's actions are too fast or obscure, the child's learning process is disrupted because they can no longer 'see' the path clearly. The child's intent to become what the father 'is' further proves that they are learning by emulating the father's being. This highlights that for parents, their actions are always louder and more influential than their words."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Analyze the contrast between the 'small' child and the 'fast' steps of the father.",
+      "answer": "The contrast between the 'small' child and the 'fast' steps serves to highlight the developmental gap between a parent and their offspring. Being 'so small' signifies the child's limited physical, emotional, and intellectual reach at a young age[cite: 167]. On the other hand, 'fast' steps represent the rapid, complex, and sometimes overwhelming nature of adult life and decision-making[cite: 169]. This gap creates a risk where the child might lose sight of the guidance if the father does not consciously adjust his pace. The poet uses this contrast to show that it is the leader's duty to bridge the gap, not the follower's. It is a reminder that what is easy and natural for an adult may be challenging and confusing for a child."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What is the significance of the child's realization that 'I must follow you'?",
+      "answer": "The realization that 'I must follow you' signifies the child's acceptance of the father's authority and their own need for direction[cite: 175]. It shows that the child understands they are not yet ready to lead their own way and must rely on the father's experience. This 'must' implies an inescapable bond where the child's future is inherently tied to the parent's current conduct. It also serves as a final, powerful reminder to the father that his actions are not just his own but are the blueprint for his child's life. The child's future character is being shaped by the parent's current 'footsteps,' whether the parent realizes it or not. This line underscores the gravity of parental influence."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does walking 'slower' today enable the child to 'lead just right' tomorrow?",
+      "answer": "Walking 'slower' today allows the child to fully observe, understand, and internalize the correct way to act and make decisions. By having a clear view of the father's 'footsteps,' the child can learn the nuances of leading with integrity and care. This thorough understanding prepares the child to one day take the lead with the same level of precision and clarity[cite: 173]. If the child is rushed, they may only learn a superficial or incorrect version of the path, leading to errors in their own future leadership. A slower pace in the present provides the solid foundation necessary for a future role that is 'true' and 'right.' Thus, the parent's patience today is the key to the child's successful leadership tomorrow."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Discuss the concept of being a 'true' leader as described in the poem.",
+      "answer": "A 'true' leader, according to the poem, is one who is honest, reliable, and provides a path that is clear enough for others to follow[cite: 173]. Being true means that one's actions align with right values and that they do not lead their followers into confusion or 'falls.' It requires a leader to be mindful of those behind them and to ensure that the example they set is worth emulating. In the poem, the speaker aspires to this quality to ensure they do not fail their future child. This suggests that the ultimate measure of a leader is the success and safety of those they guide. Being 'true' is presented as both a moral achievement and a practical necessity for the survival of family traditions."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Based on the workshop discussion, explain why it is sometimes necessary to change old ways despite following footsteps.",
+      "answer": "The workshop suggests that while children follow the footsteps of their elders, it is sometimes necessary to change old ways to adapt to new times[cite: 228]. Some customs or ideas from previous generations may no longer be practical or beneficial in a modern society. Changing these ways allows for progress and ensures that the next generation can thrive in a changing environment. However, the poem's core message remains that the *act* of guidance and being a 'true' role model stays the same, even if the specific 'footsteps' or actions change. A child can respect their elders' legacy while still choosing a path that is more appropriate for their own future. This balance between following and adapting is key to a healthy generational transition[cite: 226]."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How does the poem address the necessity for children to follow the footsteps of their forefathers?",
+      "answer": "The poem addresses this by showing that children naturally look to their 'forefathers'—represented by the father—as their primary source of direction[cite: 226]. Following these footsteps provides the child with a sense of security and a proven path for navigating life's challenges. It ensures that valuable knowledge and traditions are not lost but are passed on to the next generation. However, the child's request to walk 'slower' implies that for this to be successful, the forefathers must be understanding of the child's modern needs. The child's intention to follow is a sign of respect and a desire to maintain the family’s integrity. Ultimately, following footsteps is presented as a natural and necessary part of growing up."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the workshop activity on summarizing generations-based discussions.",
+      "answer": "The workshop activity on summarizing generational discussions helps students reflect on how knowledge and customs are passed down[cite: 223, 224]. It encourages them to think critically about whether children should always follow their forefathers and why change might be necessary[cite: 226, 228]. By writing these summaries in bullet points, students learn to synthesize complex ideas about social evolution and family legacy. This activity reinforces the poem's themes by making students consider their own role in the generational chain. It also emphasizes that their confidence and expression are more important than perfect grammar in these reflections[cite: 227]. This helps students develop a personal voice on topics that will affect their entire lives."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "How does identifying a real-life role model help a student apply the poem's lessons?",
+      "answer": "Identifying a real-life role model allows a student to move the poem's metaphorical lessons into their daily experience[cite: 229]. When a student recognizes specific qualities they appreciate in someone, they can consciously choose to follow those specific 'footsteps.' This makes the concept of being 'led' more practical and less abstract. It also encourages students to find mentors who walk at a pace they can understand, just as the child asks of the father. Having a real role model helps a student prepare for the day they will be a role model themselves. This practical application ensures that the poem's message about integrity and influence is taken to heart."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Reflect on why children sometimes realize only later that their family's decisions were right.",
+      "answer": "Children often realize that their family was right only later because they gain the experience and 'grown-up' perspective that they lacked when they were 'small'[cite: 230]. As a child grows, they begin to see the 'footsteps' and the path more clearly than they did before. They may eventually face similar challenges that their parents faced, allowing them to finally understand the reasoning behind certain decisions. The poem's theme of growth and becoming a leader suggests that maturity brings a deeper appreciation for the guidance received in the past. This realization is part of the cycle where a former follower becomes a knowledgeable leader. It underscores that parental wisdom is often a long-term investment in a child's future."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What does the poem imply about the power of imitation in a child's development?",
+      "answer": "The poem implies that imitation is the most powerful and primary tool for a child's social and moral development. The child's entire focus is on 'following' and becoming what the father 'is'[cite: 168, 171]. This suggests that children do not just listen to what parents say but actively copy what they do. Imitation allows a child to learn complex behaviors and values simply by being near a guide. However, this power also means that children will copy negative behaviors if that is the only example provided. Therefore, the father must walk 'slower' and more carefully to ensure that what is being imitated is 'true' and 'right.' Imitation is shown as the engine that drives the generational cycle."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Why is the theme of 'following' universally applicable to all children?",
+      "answer": "The theme of 'following' is universal because every child starts their life in a state of dependency and inexperience. Regardless of culture or background, children look to their primary caregivers to understand how to survive and thrive. The 'footsteps' of elders provide the first map a child uses to navigate the world. This natural instinct to follow is what ensures that human knowledge and culture are preserved over time. The poem captures this fundamental truth, which is why the author can remain 'Unknown' while the message remains clear[cite: 176]. Every child eventually feels the need for their guide to slow down so they can keep up. It is a shared human experience that connects all generations."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain the metaphorical setting of the poem—the 'path' of life.",
+      "answer": "The 'path' in the poem is a metaphorical setting representing the journey of life from childhood to adulthood and beyond. The father is currently further along the path, while the child is 'small' and just beginning their journey. The obstacles and speed of the path represent the challenges and pressures of living as a responsible adult. 'Walking' on this path refers to the act of making choices, taking actions, and living out one's values. The goal for both is to stay on the path without 'falling' or losing their way. This setting reinforces the idea that life is a continuous movement where we are either being led or leading others. It provides a simple yet profound framework for the poem's moral lessons."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Summarize the poem's philosophy on the relationship between the past, present, and future.",
+      "answer": "The poem's philosophy is that the past (the father's influence), the present (the child's following), and the future (the child leading) are all interconnected. The present is a preparation period where the lessons of the past are absorbed to ensure a successful future. The father's current 'footsteps' are the foundation upon which the child's future leadership will be built. This means that no action is isolated; every 'step' taken today echoes in the generation that follows. The child's realization of this connection is what motivates their plea for a slower and truer path. Ultimately, the poem teaches that we are all links in a chain, and our responsibility is to keep that chain 'true.' It emphasizes that the future of the lineage depends on the quality of guidance in the present."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Reflect on the poem's final message regarding the importance of being 'true' in one's life.",
+      "answer": "The final message is that being 'true' is the most important quality for anyone who has the responsibility of leading others[cite: 173]. For the speaker, being true means living a life of integrity that is worth being followed by the next generation. It is the only way to ensure that the child following in their footsteps will also lead a successful and 'right' life. This focus on being 'true' transforms the act of leading from a simple task into a moral duty. It provides a sense of purpose and a standard for every decision made throughout the journey of life. The poem ends by reminding us that our legacy is defined by whether we were true to those who relied on us for guidance. It is a final call to live a life of meaning and responsibility."
+    }
+  ]
+}

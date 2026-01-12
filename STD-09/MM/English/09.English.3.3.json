@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.3.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "To a Butterfly"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'To a Butterfly'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Wordsworth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Wordsworth"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What does the butterfly remind the poet of?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His childhood"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who was the poet’s playmate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His sister Emmeline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "His sister Emmeline"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does 'Historian of my infancy' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reminder of childhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reminder of childhood"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who feared to touch the butterfly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The poet’s sister",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A stranger",
+          "is_correct": false
+        }
+      ],
+      "answer": "The poet’s sister"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the author of the poem 'To a Butterfly'?",
+      "answer": "The poem was written by William Wordsworth[cite: 1034]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the main request the poet makes to the butterfly in the first stanza?",
+      "answer": "The poet pleads with the butterfly to stay near him and not take flight or depart yet [cite: 1016-1020]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why does the poet call the butterfly a 'Historian of my infancy'?",
+      "answer": "He calls it a historian because the butterfly serves as a reminder of his childhood or 'infancy' days[cite: 1019, 1049]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who is Emmeline mentioned in the second stanza?",
+      "answer": "Emmeline is the poet's sister[cite: 1028, 1057]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How does the poet describe their childhood days?",
+      "answer": "The poet describes those times as 'pleasant, pleasant' days filled with childish plays [cite: 1026-1027]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What did the poet and his sister do together in their childhood plays?",
+      "answer": "Together, they used to chase the butterfly[cite: 1029]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What role does the poet describe himself taking when chasing the butterfly?",
+      "answer": "He describes himself as being like a hunter rushing upon his prey [cite: 1030-1031, 1056]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did Emmeline fear to 'brush the dust' from the butterfly's wings?",
+      "answer": "She was gentle and afraid of hurting or touching the delicate creature[cite: 1033, 1055]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the expression 'Much converse do I find in thee' mean?",
+      "answer": "It means the poet wants to talk to the butterfly about many things or finds much to think about through it[cite: 1018, 1050]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is 'inversion' as explained in the English Workshop?",
+      "answer": "Inversion is when the normal word order in a line is changed to emphasize something or make the line sound better [cite: 1058-1059]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Provide an example of inversion from the poem.",
+      "answer": "An example is 'A little longer stay in sight!', where the normal order would be 'Stay in sight a little longer' [cite: 1062-1063]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Rewrite the line 'STAY near me do not take thy flight!' in regular word order.",
+      "answer": "In regular order, it would be: 'Stay near me, do not take your flight.' [cite: 1016, 1009]"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is an 'eye rhyme'?",
+      "answer": "An eye rhyme is when words have spellings that look similar, but their pronunciations are different[cite: 1068]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "List three words from the poem that are examples of eye rhymes.",
+      "answer": "The words 'rush', 'bush', and 'brush' are examples of eye rhymes in the poem[cite: 1067]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'thee' in the poem?",
+      "answer": "The word 'thee' means 'you'[cite: 1009]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Define the word 'brake' according to the text's glossary.",
+      "answer": "A 'brake' is a place overgrown with bushes[cite: 1032]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How many stanzas are there in the poem 'To a Butterfly'?",
+      "answer": "There are two stanzas in the poem [cite: 1016-1033]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the first stanza?",
+      "answer": "The rhyme scheme of the first stanza is a abbcbccb[cite: 1064]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'Dead times revive in thee'?",
+      "answer": "It means that in the butterfly, the poet sees the time that has gone by and memories of his childhood[cite: 1043, 1053]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "In the 'Warming up' section, what activity are students encouraged to prepare cards for?",
+      "answer": "They are encouraged to prepare cards with descriptions and pictures of a game they played as a small child[cite: 977]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What kind of poems can be written using nouns, verbs, and adverbs according to page 77?",
+      "answer": "Students can write 'Short Poems' following specific linguistic formats."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Fill in the blank: The poet says he followed the butterfly from _____ to bush.",
+      "answer": "He followed it from 'brake' to bush."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What 'solemn image' does the butterfly bring to the poet's heart?",
+      "answer": "The butterfly brings a solemn image of his 'father's family' ."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How does the poet describe his physical actions while acting as a 'hunter'?",
+      "answer": "He rushed upon the butterfly with 'leaps and springs' ."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "True or False: The poet used 'leaps and springs' while chasing the butterfly.",
+      "answer": "True."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who is the character that reminds the poet of his childhood?",
+      "answer": "The butterfly reminds the poet of his childhood days[cite: 1054, 1042]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who in the poem is afraid to touch the butterfly?",
+      "answer": "The poet's sister, Emmeline, is afraid to touch the butterfly[cite: 1055, 1033]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who acts like a hunter in the poem?",
+      "answer": "The poet describes himself as being like a hunter during his childhood plays[cite: 1056, 1030]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name the sister mentioned in the second stanza of the poem.",
+      "answer": "The sister mentioned is Emmeline[cite: 1057, 1028]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Provide one expression from the first stanza where the poet pleads with the butterfly to stay.",
+      "answer": "\"Stay near me\" is one of the expressions used by the poet to plead with the butterfly[cite: 1016, 1037]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Give a second expression from the first stanza where the poet asks the butterfly not to fly away.",
+      "answer": "\"Do not take thy flight\" is a second expression used to ask the butterfly to stay[cite: 1016, 1037]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Identify a third expression from the first stanza where the poet requests the butterfly to remain visible.",
+      "answer": "The poet says, \"A little longer stay in sight!\" to request the butterfly to remain[cite: 1017, 1037]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Mention a fourth expression from the first stanza where the poet asks the butterfly not to leave.",
+      "answer": "The poet pleads, \"Float near me; do not yet depart!\"[cite: 1020, 1037]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the line 'Much converse do I find in thee'?",
+      "answer": "This line means the poet wants to talk to the butterfly about many things[cite: 1041, 1050]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Explain the meaning of 'Dead time revive in thee'.",
+      "answer": "This expression means that in the butterfly, the poet sees the time that has gone by[cite: 1043, 1053]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the specific rhyme scheme of the first stanza?",
+      "answer": "The rhyme scheme of the first stanza is a abbcbccb[cite: 1064]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Define 'eye rhyme' as explained in the English Workshop.",
+      "answer": "Eye rhyme refers to words whose spellings look similar, but their pronunciations are different[cite: 1068]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which three words from the poem are cited as examples of eye rhymes?",
+      "answer": "The words 'rush', 'bush', and 'brush' are examples of eye rhymes in the poem[cite: 1067]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the regular word order for the line 'A little longer stay in sight!'?",
+      "answer": "The regular word order is 'Stay in sight a little longer'[cite: 1063]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What does the term 'inversion' mean in poetic structure?",
+      "answer": "Inversion is a change in normal word order used to emphasize something or make lines sound better [cite: 1058-1059]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why does the poet call the butterfly a 'Historian of my infancy'?",
+      "answer": "He calls it that because the butterfly acts as a reminder of his childhood days[cite: 1042, 1049]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "In the second stanza, from where to where did the poet follow the butterfly?",
+      "answer": "The poet followed the butterfly 'from brake to bush'[cite: 1033]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How did the poet move when rushing upon the butterfly as a child?",
+      "answer": "He rushed upon the butterfly with 'leaps and springs'[cite: 1031]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What was the sister Emmeline afraid to do to the butterfly's wings?",
+      "answer": "She was afraid to brush the dust from off the butterfly's wings[cite: 1033]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What image does the 'gay creature' bring to the poet's heart?",
+      "answer": "The butterfly brings a 'solemn image' of the poet's 'father's family' [cite: 1024-1025]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the format for the fourth line of the short poems on page 77?",
+      "answer": "The format is 'determiner/adjective + noun + verb + adverb'[cite: 974]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should students include on the cards they prepare for childhood games?",
+      "answer": "The cards should include a description and pictures of any one game they played[cite: 977]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "In the short poem format, what can be used as a final line instead of a statement?",
+      "answer": "A question, either simple or rhetorical, can be used as the final line[cite: 1005]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the archaic words 'thee' and 'thou' used in the poem?",
+      "answer": "Both 'thee' and 'thou' mean 'you' [cite: 1009-1010]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Explain the meaning of 'A very hunter did I rush upon the prey'.",
+      "answer": "This line means the poet rushed upon the butterfly (the prey) as if he were a hunter[cite: 1044, 1052]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the first stanza of the poem?",
+      "answer": "The rhyme scheme of the first stanza is a abbcbccb[cite: 1064]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Identify three words from the poem that form an 'eye rhyme'.",
+      "answer": "The words 'rush', 'bush', and 'brush' are examples of eye rhymes in the poem[cite: 1067]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are words like 'rush', 'bush', and 'brush' called eye rhymes?",
+      "answer": "They are called eye rhymes because their spellings look similar, but their pronunciations are different[cite: 1067, 1068]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by the expression 'Much converse do I find in thee'?",
+      "answer": "It means the poet wants to talk to the butterfly about many things or finds a great deal of conversation in its presence[cite: 1041, 1050]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "In the 'Say WHO' activity, who is described as being 'like a hunter'?",
+      "answer": "The poet describes himself as being like a hunter during his childhood plays[cite: 1030, 1056]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Who was afraid to touch the butterfly and brush the dust from its wings?",
+      "answer": "Emmeline, the poet's sister, was afraid to touch the butterfly[cite: 1033, 1055, 1057]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What activity did the poet and his sister do 'together' as children?",
+      "answer": "Together, they chased the butterfly during their childhood plays[cite: 1028, 1029]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does the poet describe the butterfly in terms of his past history?",
+      "answer": "He calls the butterfly the 'Historian of my infancy'[cite: 1019]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What 'solemn image' does the butterfly bring back to the poet's heart?",
+      "answer": "The butterfly brings a solemn image of the poet's 'father's family' to his heart[cite: 1024, 1025]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Define the poetic term 'inversion' as explained in the English Workshop.",
+      "answer": "Inversion is the change in normal word order in a line of poetry to emphasize something or make the line sound better[cite: 1058, 1059]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Rewrite the line 'A little longer stay in sight!' using regular word order.",
+      "answer": "The regular word order is: 'Stay in sight a little longer'[cite: 1062, 1063]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Where did the poet follow the butterfly in his childhood?",
+      "answer": "He followed the butterfly 'from brake to bush'[cite: 1032]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What kind of days are mentioned in the second stanza of the poem?",
+      "answer": "The poet refers to his childhood as 'pleasant, pleasant days' filled with childish plays[cite: 1026, 1027]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the archaic words 'thee' and 'thou' used in the poem?",
+      "answer": "Both 'thee' and 'thou' are old English words meaning 'you'[cite: 1009, 1010]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Identify the sister mentioned in the poem who chased butterflies with the poet.",
+      "answer": "The sister mentioned is Emmeline[cite: 1028]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the very first request the poet makes to the butterfly?",
+      "answer": "The poet asks the butterfly to 'STAY near me'[cite: 1016]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How did the poet describe his manner of approaching the butterfly as a child?",
+      "answer": "He rushed upon it 'with leaps and springs' like a hunter upon prey[cite: 1030, 1031]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the line 'Historian of my infancy'?",
+      "answer": "It means the butterfly acts as a reminder of the poet's childhood days[cite: 1042, 1049]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain the line 'Dead times revive in thee'.",
+      "answer": "It means that looking at the butterfly allows the poet to see and remember the time that has gone by[cite: 1043, 1053]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Pick out one expression from stanza one where the poet pleads with the butterfly not to leave.",
+      "answer": "An expression where the poet pleads is: 'do not yet depart!'[cite: 1020, 1037]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What was Emmeline afraid to do to the butterfly's wings?",
+      "answer": "She was afraid to brush the dust off its wings[cite: 1033]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "In the 'Chit-Chat' section, what period of life is the student asked to remember?",
+      "answer": "Students are asked to remember their time as small children in pre-primary or primary school[cite: 965]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What functional words can be used in the 'Short Poems' activity on page 77?",
+      "answer": "Students can use words like prepositions and conjunctions to make their writing more meaningful[cite: 1007]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What physical actions are mentioned when the poet 'rush(ed) upon the prey'?",
+      "answer": "The physical actions mentioned are 'leaps and springs'[cite: 1031]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why did the poet 'rush upon the prey' as a child?",
+      "answer": "He rushed upon it because he was chasing the butterfly during childhood plays[cite: 1029, 1030]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the expression 'Much converse do I find in thee'?",
+      "answer": "This expression means that the poet feels like talking to the butterfly about many things from his past[cite: 1041, 1050]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "According to the matching activity, what is the meaning of 'Historian of my infancy'?",
+      "answer": "It means the butterfly acts as a reminder of the poet's childhood days[cite: 1042, 1049]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain the meaning of 'Dead time revive in thee' based on the poem.",
+      "answer": "It means that when the poet looks at the butterfly, he sees and remembers the time that has gone by[cite: 1043, 1053]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'A very hunter did I rush upon the prey'?",
+      "answer": "This line means the poet rushed toward the butterfly as if he were a hunter chasing prey[cite: 1044, 1052]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Who is the 'Historian' referred to in the first stanza?",
+      "answer": "The butterfly is referred to as the 'Historian of my infancy'[cite: 1019, 1042]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Rewrite the line 'STAY near me do not take thy flight!' in regular word order.",
+      "answer": "The regular word order is: 'Stay near me, do not take your flight'[cite: 1016, 1061]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Rewrite 'Much converse do I find in thee' in regular word order.",
+      "answer": "The regular word order is: 'I find much converse in thee'[cite: 1018, 1061]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What two things does the poet ask the butterfly NOT to do in the first stanza?",
+      "answer": "The poet asks the butterfly not to take flight and not to depart yet[cite: 1016, 1020]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Identify the true rhyming words in the second stanza of the poem.",
+      "answer": "The true rhyming words are 'days/plays' and 'I/butterfly' [cite: 1026-1029, 1065]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "List the eye rhymes found in the second stanza.",
+      "answer": "The eye rhymes are the words 'rush', 'bush', and 'brush' [cite: 1030-1033, 1067]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'gay' in 'gay creature as thou art'?",
+      "answer": "In this context, 'gay' means happy, bright, or cheerful[cite: 1023]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What does the 'solemn image' mentioned in stanza 1 represent to the poet?",
+      "answer": "It represents a serious or formal memory of the poet's 'father's family' [cite: 1024-1025]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why does the poet use the word 'Historian' for an insect?",
+      "answer": "He uses it metaphorically because the insect 'records' or triggers memories of his childhood history[cite: 1019, 1049]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Which verb does the poet use to describe the butterfly staying in the air near him?",
+      "answer": "The poet uses the verb 'Float' in the expression 'Float near me'[cite: 1020]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Define the word 'brake' as per the poem's glossary.",
+      "answer": "A 'brake' is a place that is overgrown with bushes[cite: 1032]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What was the sister Emmeline afraid to touch on the butterfly?",
+      "answer": "She was afraid to 'brush the dust' off from its wings[cite: 1033]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "According to the Short Poem formats on page 77, what is the structure of the second line?",
+      "answer": "The structure of the second line in the first format is 'noun + verb'[cite: 972]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the structure of the third line in the first Short Poem format?",
+      "answer": "The structure is 'noun + verb + adverb'[cite: 973]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "In the first Short Poem format, what is required for the fifth line?",
+      "answer": "The fifth line requires an 'exclamation'[cite: 975]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Which parts of speech are used to build the second format of Short Poems?",
+      "answer": "The second format primarily uses 'adjectives' followed by a 'noun' [cite: 987-1000]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How many adjectives are used in the second Short Poem format?",
+      "answer": "Five adjectives are used before the final noun [cite: 987-1000]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the final line requirement for the third format of Short Poems?",
+      "answer": "The final line must be a 'question (simple/rhetorical)'[cite: 1005]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the modern English equivalent for the archaic word 'art'?",
+      "answer": "The modern English equivalent for 'art' is 'are'[cite: 1012]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the modern English equivalent for the archaic word 'bringst'?",
+      "answer": "The modern English equivalent for 'bringst' is 'bring'[cite: 1011]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the name of the poet's sister mentioned in the poem?",
+      "answer": "The poet's sister's name is Emmeline[cite: 1028]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Analyze why the poet addresses the butterfly as the 'Historian of my infancy'.",
+      "answer": "William Wordsworth calls the butterfly a 'Historian' because it acts as a living record of his earliest years. For the poet, the sight of the butterfly triggers a flood of memories from his childhood or 'infancy' that would otherwise remain forgotten[cite: 607, 630]. Just as a historian preserves the past, the butterfly 'revives' dead times by bringing them back to the poet's current consciousness[cite: 610, 641]. It serves as a bridge between his adult self and the young boy who once played in the fields. The butterfly does not just represent nature; it represents the specific history of the poet's own family and experiences. This metaphor emphasizes the power of nature to serve as a repository for human memory and emotion."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Compare and contrast the reactions of the poet and his sister Emmeline to the butterfly.",
+      "answer": "The poem highlights two very different ways children interact with nature through the poet and his sister, Emmeline. The poet describes himself as a 'hunter' who rushed upon the butterfly with 'leaps and springs,' seeing it as a 'prey' to be captured [cite: 618-619, 640]. In contrast, Emmeline was gentle and compassionate, fearing to even 'brush the dust' from the butterfly's delicate wings[cite: 621, 643]. While the boy's reaction was one of active, energetic pursuit, the girl's reaction was one of respectful distance and protective care. This contrast shows the variety of human responses to beauty, ranging from the desire to possess it to the desire to preserve it. Ultimately, both shared the 'pleasant' experience of the chase, but their physical methods revealed their different temperaments."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the significance of 'dead times' reviving in the presence of the butterfly.",
+      "answer": "The poet states that 'Dead times revive in thee,' suggesting that the butterfly has the power to bring past moments back to life[cite: 610, 631]. These 'dead times' are the poet's childhood memories that have been buried under the responsibilities of adult life. The presence of the butterfly acts as a catalyst, making the past feel as vibrant and immediate as the present. It brings a 'solemn image' to the poet's heart, specifically reminding him of his father's family and the bond with his sister [cite: 612-613]. This shows that Wordsworth views the natural world as a spiritual space where time does not strictly move forward but can be revisited. For him, nostalgia is not just a feeling but a physical revival of the soul's history."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Inversion' with examples from the poem and its effect on the reader.",
+      "answer": "Inversion is a poetic device where the normal word order of a sentence is changed to create emphasis or improve the rhyme and rhythm [cite: 646-647]. An example from the poem is 'A little longer stay in sight!', where the verb 'stay' is placed later than it would be in a normal sentence ('Stay in sight a little longer') [cite: 650-651]. Another example is 'Much converse do I find in thee,' which emphasizes the 'converse' or conversation by placing it at the start[cite: 606, 629]. This technique makes the lines sound more formal and musical, distinguishing poetry from everyday speech. It forces the reader to pay closer attention to the specific words being emphasized, such as the duration of the butterfly's stay. Inversion helps maintain the emotional tone of pleading and reverence that Wordsworth establishes throughout the text."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "What is an 'Eye Rhyme', and how does the poet use it in the second stanza?",
+      "answer": "An eye rhyme occurs when words have spellings that look identical or very similar, but their actual pronunciations are different [cite: 655-656]. In the second stanza, Wordsworth uses the words 'rush', 'bush', and 'brush' [cite: 618-621]. While they all end in '-ush' and look like they should rhyme to the eye, 'bush' is pronounced with a different vowel sound than 'rush' and 'brush'. This creates a visual symmetry on the page even if the sound is slightly off. Poetically, it adds a layer of complexity to the rhythm and shows the poet's skill in navigating the irregularities of the English language. Eye rhymes are a common feature in classical English poetry, used to create a sense of structure that exists beyond just the spoken word."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the 'Short Poems' activity and how it helps students understand parts of speech.",
+      "answer": "The 'Short Poems' activity on page 77 provides students with rigid linguistic formats to create their own creative works [cite: 557-558]. One format requires starting with a noun, followed by 'noun + verb,' and then adding adverbs and adjectives in subsequent lines [cite: 559-564]. This exercise forces students to identify and correctly use different parts of speech, such as determiners, nouns, and exclamations, in a meaningful context [cite: 592-595]. For example, a student might write 'Sea... Sea roars... Deep blue sea roars loudly!' to follow the 'noun + verb + adverb' pattern [cite: 566-571]. This makes grammar lessons less abstract and more practical by showing how word types build upon one another to create imagery. It encourages linguistic precision while allowing for personal creativity in choosing subjects like 'Sea' or 'Kitten'[cite: 586]."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Analyze the emotional plea made by the poet in the first stanza using four specific expressions.",
+      "answer": "In the first stanza, the poet is desperate for the butterfly to remain, using a series of urgent commands and pleas[cite: 625]. He begins with 'STAY near me do not take thy flight!' to establish his immediate desire for the creature's presence[cite: 604, 639]. He then asks for 'A little longer stay in sight!' to emphasize that even a short duration of time is precious to him[cite: 605]. To further prevent the butterfly from leaving, he says 'Float near me; do not yet depart!' which uses the word 'float' to describe its gentle movement[cite: 608]. Finally, he repeats his need for 'converse' or connection, showing that the butterfly is more than an insect to him; it is a companion[cite: 606]. Together, these expressions show the poet's intense emotional attachment to the memories the butterfly represents."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How does the poem illustrate the connection between nature and family history?",
+      "answer": "Wordsworth links the natural world directly to his personal family history by stating that the butterfly brings a 'solemn image to my heart, My father's family!' [cite: 612-613]. The butterfly serves as the 'Historian' that reminds him of 'pleasant, pleasant... days' spent with his sister, Emmeline [cite: 607, 614-616]. By chasing the butterfly together, the siblings built a shared history that the poet can now revisit as an adult[cite: 617]. Nature acts as a witness to their 'childish plays,' preserving the essence of their relationship long after those times have passed[cite: 615]. This suggests that nature is not just a backdrop for life, but an active participant in human emotional bonding. For the poet, seeing a butterfly is equivalent to seeing a photograph or reading a diary of his family's past."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Discuss the use of archaic language (thee, thou, art) in the poem and its effect.",
+      "answer": "The poet uses archaic or 'Old English' words such as 'thee' and 'thou' (meaning you), 'art' (meaning are), and 'bringst' (meaning bring) [cite: 597-600, 611]. This choice of language gives the poem a timeless, formal, and reverent quality that fits the 'solemn' image the poet is discussing[cite: 612]. Using 'thee' and 'thou' also implies a level of intimacy and personal connection between the poet and the butterfly, as these terms were once used for close friends or family. It elevates the butterfly from a simple insect to a significant being worthy of formal address. This style of language is characteristic of the Romantic era of poetry, which sought to find the extraordinary in ordinary things. For a modern student, these words serve as a vocabulary-building exercise while highlighting the history of the English language."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What does the 'hunter' metaphor reveal about the poet's childhood self?",
+      "answer": "By calling himself 'A very hunter' who 'rush(ed) upon the prey' with 'leaps and springs,' the poet reveals a childhood full of energy and raw excitement [cite: 618-619, 632, 640]. This metaphor suggests that as a boy, he saw the natural world as a place of adventure and conquest. He was not just a passive observer; he was an active participant who wanted to catch and hold the beauty he saw[cite: 617]. The 'hunter' image contrasts sharply with his sister's gentle fear of touching the wings, highlighting a more aggressive or perhaps less careful curiosity[cite: 621, 644]. It captures the uninhibited spirit of a child who is completely focused on the 'chase' without yet understanding the fragility of nature. This reflection allows the adult poet to look back at his younger self with both fondness and irony."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the significance of the rhyme scheme 'a abbcbccb' in the first stanza.",
+      "answer": "The rhyme scheme of the first stanza, 'a abbcbccb,' is complex and circular, which mirrors the floating and returning movement of a butterfly[cite: 652]. The repetition of the 'b' and 'c' rhymes creates a sense of continuity, as if the poet is trying to circle back to his past. This structure is not a simple alternate rhyme, suggesting that the memories being triggered are also layered and complex. It requires the reader to keep track of multiple sounds, much like the poet has to keep multiple memories in mind while looking at the butterfly. The scheme reinforces the musicality of the plea, making it sound more like a song or a chant. By using this specific pattern, Wordsworth ensures that the poem feels structurally sound yet lively, much like the subject it describes."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Analyze the line 'I followed on from brake to bush' and what it conveys about the setting.",
+      "answer": "The line 'I followed on from brake to bush' describes a wild, overgrown natural setting where the children played[cite: 621]. A 'brake' is specifically defined as a place overgrown with bushes, suggesting that the siblings were exploring thick, unmanicured landscapes[cite: 620]. This imagery conveys a sense of freedom and untamed nature, where a child can get lost in the chase. The movement 'from brake to bush' implies a persistent, multi-stage journey, showing that the butterfly led them all over the landscape[cite: 617]. It reinforces the 'hunter' metaphor, as the boy has to navigate obstacles to reach his goal. This setting is the backdrop for the 'pleasant days' that the poet now wishes to revive[cite: 614]."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "How does the 'Warming up' Chit-Chat prepare students for the emotional themes of the poem?",
+      "answer": "The Chit-Chat questions ask students about the games they played as children, their playmates, and what they remember best from that time [cite: 553-556]. By asking these questions, the textbook encourages students to tap into their own childhood nostalgia before reading Wordsworth's own memories. This makes the poem's themes of childhood plays and the sister Emmeline much more relatable [cite: 615-616]. It prepares the students to understand why a 'gay creature' like a butterfly can bring a 'solemn image' to an adult's heart [cite: 611-612]. The activity of preparing cards with descriptions and pictures of their own games mirrors the poet's act of writing this poem as a record of his past[cite: 565]. Essentially, it turns the students into 'historians' of their own infancy."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Discuss the role of sister Emmeline in the poem as a symbol of gentleness.",
+      "answer": "Sister Emmeline is portrayed as the compassionate and gentle counterpart to the poet's 'hunter' persona[cite: 616, 645]. While the poet rushes upon the butterfly with 'leaps and springs,' Emmeline is 'afraid to brush The dust from off its wings'[cite: 619, 621, 643]. Her fear is not out of cowardice, but out of a deep respect for the butterfly's fragility. She represents a more empathetic and careful way of interacting with nature, ensuring that her 'plays' do not harm the creatures she observes. The poet includes her to show that their childhood was balanced between his energy and her tenderness. For the adult poet, she is a central part of the 'solemn image' of family that makes his childhood so pleasant to remember [cite: 612-614]."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What does the poet mean by the butterfly bringing 'Much converse' to him?",
+      "answer": "When the poet says 'Much converse do I find in thee,' he is suggesting that the butterfly triggers a mental 'conversation' about his past[cite: 606, 638]. Although the butterfly is silent, its presence allows the poet to 'talk' with his own memories and reflect on his childhood history. This converse is described as 'much,' indicating that a single butterfly can open up a vast world of thoughts and stories[cite: 629]. It highlights the idea that nature can be a companion that helps humans understand themselves better. The butterfly is not just a visual object; it is an intellectual and emotional partner for the poet's introspection. This 'converse' is what leads the poet to call it the 'Historian of my infancy'[cite: 607]."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the importance of the word 'Float' in the line 'Float near me; do not yet depart!'.",
+      "answer": "The word 'Float' is used to describe the light, airy, and effortless movement of the butterfly[cite: 608]. Unlike the poet's own 'leaps and springs' as a child, the butterfly's movement is graceful and non-threatening[cite: 619]. By asking it to 'Float near me,' the poet is requesting a gentle and calm interaction, contrasting with the chaotic 'rush' of his past hunts[cite: 618, 640]. It suggests that as an adult, the poet no longer wants to catch the butterfly but simply to exist in its peaceful presence. 'Floating' also implies a dream-like state, which fits the poet's attempt to revive the 'dead times' of his memory[cite: 610, 631]. The word choice emphasizes the fragile and ethereal beauty that the poet so desperately wants to stay 'in sight'[cite: 605]."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Describe the structure of the 'Cute Little Black Naughty Playful- Kitten!' poem as a learning tool.",
+      "answer": "This short poem serves as an example of the 'adjective + noun' format taught on page 77 [cite: 588, 572-586]. It uses a string of five adjectives ('Cute', 'Little', 'Black', 'Naughty', 'Playful') to create a detailed and vivid image of the subject, 'Kitten!' [cite: 575-587]. This teaches students how multiple adjectives can be layered to build a specific character or mood for a noun. It also shows the importance of using an 'exclamation' to give the poem energy and finality[cite: 563]. By using functional words like 'and' or 'if necessary,' students can make their descriptions even more meaningful [cite: 594-595]. This format is a bridge to more complex poetry, helping students move from simple word lists to evocative descriptions. It makes learning the parts of speech engaging and visually oriented."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Analyze the line 'Thou bring'st, gay creature as thou art! A solemn image to my heart'.",
+      "answer": "This line presents a powerful contrast between the butterfly's outward appearance and its internal effect on the poet. The butterfly is a 'gay creature' (meaning bright and happy), yet it brings a 'solemn' (meaning serious and formal) image to the poet's heart [cite: 611-612]. This shows that even lighthearted beauty can lead to deep and serious reflection. The 'solemn image' refers to the poet's 'father's family,' suggesting that the butterfly is a link to important and potentially lost relatives[cite: 613]. The use of 'heart' indicates that this is a deeply emotional experience, not just a casual thought. Wordsworth is showing that nature has the power to transform a simple visual moment into a profound psychological event. It is the core of the poet's desire for the butterfly to 'stay in sight'[cite: 605]."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "What are the rules for writing the third type of short poem mentioned on page 77?",
+      "answer": "The third type of short poem focuses on verbs and adverbs, beginning with a single 'verb'[cite: 589]. The second line adds a 'verb + adverb,' and the third line expands to 'verb + adverb + adverb' [cite: 590-591]. Subsequent lines include a noun and then a full 'determiner/adjective + noun + verb + adverb + adverb' structure[cite: 592]. The poem must end with a 'question (simple/rhetorical)' to leave the reader thinking[cite: 593]. This format is designed to teach students how actions (verbs) can be modified and expanded into complex sentences. It encourages the use of 'functional words' like prepositions to ensure grammatical correctness[cite: 595]. This activity helps students see how dynamic language can be when built around a central action."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How does the poet use the word 'Sight' to emphasize the butterfly's role?",
+      "answer": "The poet asks the butterfly to 'stay in sight' a little longer, highlighting that its visual presence is what triggers his memories[cite: 605, 650]. For the poet, the butterfly is a window into the past, and as long as he can see it, he can remain connected to his 'infancy'[cite: 607]. When it flies away or takes its 'flight,' the window closes, and the 'dead times' remain dead[cite: 604, 610]. 'Sight' is the sensory link that allows him to find 'Much converse' and see the 'solemn image' of his family[cite: 606, 612]. By focusing on sight, Wordsworth is emphasizing the importance of observation and being present in nature. The butterfly must stay 'near me' so that the poet can continue his internal journey[cite: 604]."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Compare 'True Rhyme' and 'Eye Rhyme' using examples from other units.",
+      "answer": "In 'To a Butterfly,' we see true rhymes like 'days/plays' and eye rhymes like 'rush/bush/brush'[cite: 653, 655]. A true rhyme has both the same spelling and the same sound, creating a perfect auditory link. An eye rhyme, however, only looks the same on paper, which can surprise or challenge the reader's pronunciation[cite: 656]. For example, in earlier chapters like 'Comparisons' (2.1), we might find many true rhymes that create a simple rhythm. Eye rhymes require more attention to the 'Language Study' aspects of English phonetics[cite: 657]. Students are encouraged to find more examples to understand how poets play with the visual and auditory parts of language. This distinction is essential for mastering the nuances of English poetry and pronunciation."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'Pleasant, pleasant were the days' and its repetitive effect.",
+      "answer": "The poet repeats the word 'pleasant' to emphasize the deep happiness and simplicity of his childhood years[cite: 614]. This repetition creates a rhythmic and gentle tone, mirroring the 'childish plays' he is describing[cite: 615]. It suggests that those times were not just okay, but were double the fun and double the joy for him and his sister Emmeline[cite: 616]. This 'pleasant' past is what he is trying to 'revive' in the presence of the butterfly[cite: 610, 631]. The repetition also adds a touch of longing or sadness, as if the poet is trying to hold onto the feeling by saying the word twice. It is a quintessential Romantic technique to focus on the pure emotions of the past. The phrase establishes the positive baseline for his nostalgia."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the 'Pre-primary or primary school' prompt and its relevance to the poem.",
+      "answer": "The textbook prompt asks students to reflect on their 'pre-primary or primary school' days and what they 'remember best'[cite: 553, 555]. This is directly relevant to the poem because Wordsworth is also reflecting on his 'infancy' and 'childish plays'[cite: 607, 615]. For many children, school and play are the times when they first interact with nature and each other, just as the poet interacted with the butterfly and his sister[cite: 617]. By making this connection, the workshop helps students understand that the poet's feelings are a normal part of growing up. It shows that even great writers started as children chasing bugs in the bushes [cite: 618-621]. This humanizes the poet and makes his 'converse' with the butterfly much more understandable to a young reader[cite: 606]. It bridges the gap between 19th-century literature and 21st-century childhood."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "What is the meaning of the line 'I find in thee, Historian of my infancy!' in Marathi?",
+      "answer": "This line is a key metaphor where the poet sees the butterfly as a 'record-keeper' of his childhood. In Marathi, it can be understood as 'तू माझ्या बालपणाचा इतिहासकार आहेस, ज्याच्यात मला अनेक जुन्या आठवणी सापडतात'[cite: 607, 630]. The poet uses the insect as a symbolic 'book' that he can read to find 'Much converse' about his past[cite: 606]. It implies that nature holds the keys to our personal history. This Marathi context helps standard 9 students appreciate the depth of Wordsworth's personification. It shows that the butterfly is not just a bug, but a significant cultural and personal 'historian'. This translation reinforces the idea that nature and memory are universal concepts across all languages."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How does the 'Rolling Roaring Boundless Deep Blue Sea' poem follow the noun format?",
+      "answer": "This example shows the 'adjective + noun' structure where 'Sea' is the final noun being described[cite: 571, 588]. It uses five distinct adjectives—'Rolling', 'Roaring', 'Boundless', 'Deep', and 'Blue'—to build a multi-sensory image of the ocean [cite: 566-570]. 'Rolling' and 'Roaring' provide a sense of sound and movement, while 'Boundless' and 'Deep' describe its size and power [cite: 566-569]. Finally, 'Blue' gives a clear visual color[cite: 570]. This layering helps students see how a single subject can be expanded into a poem through careful word choice[cite: 595]. It follows the instructions to use 'adjective 1' through 'adjective 5' before the final 'noun' [cite: 575-587]. This activity is a practical way to learn the 'expanding horizons' of vocabulary for natural subjects."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "What is the significance of the butterfly as a 'gay creature' in the poem?",
+      "answer": "The butterfly is called a 'gay creature' because it represents happiness, light, and carefree beauty[cite: 611]. This 'gaiety' is a sharp contrast to the 'solemn' and serious feelings that the poet feels in his heart[cite: 612]. The contrast shows that something small and happy can trigger very deep and serious thoughts. The word 'creature' suggests that the butterfly is a living being with its own existence, yet it is 'art' (are) also a symbol for the poet[cite: 611, 600]. Its colorful and happy nature is what made the children want to chase it in their 'childish plays'[cite: 615, 617]. For Wordsworth, the butterfly's gaiety is the essence of childhood itself. It remains a positive and bright 'sight' in his memories[cite: 605]."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Analyze the instruction: 'Stay near me do not take thy flight!' in regular prose.",
+      "answer": "In regular prose, this line would be: 'Please stay near me and do not fly away'[cite: 604, 639]. The poet uses 'thee' and 'thy' to make the address more personal and poetic[cite: 597]. By changing the normal word order through 'inversion,' the word 'STAY' becomes the very first thing the reader sees, emphasizing the poet's urgency[cite: 647]. He is directly pleading with nature to help him maintain his link to the past[cite: 610]. Regular prose would lose this sense of desperation and rhythmic beauty[cite: 649]. This exercise in 'Language Study' helps students see how poets manipulate words to create a specific emotional effect. It shows that every word choice and position matters in a poem."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How does 'To a Butterfly' fit into the Unit 3 theme 'Expanding Horizons'?",
+      "answer": "Unit 3, 'Expanding Horizons,' focuses on moving beyond the present to explore the past and the wider world[cite: 169]. In 'To a Butterfly,' Wordsworth expands his mental horizon by using the butterfly as a 'Historian' to revisit his 'infancy'[cite: 607, 630]. He moves from the narrow 'sight' of the present to the 'dead times' of his childhood, showing that our horizons include our own history[cite: 605, 610]. The poem also encourages students to expand their linguistic horizons by learning archaic words like 'thee' and poetic devices like 'inversion'[cite: 597, 647]. By chasing memories from 'brake to bush,' the poet shows that even a small creature can lead to vast internal expansion[cite: 621]. It teaches that observing nature is a way to broaden one's emotional and intellectual world."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What is the effect of the phrase 'A very hunter' on the reader's understanding of the poet?",
+      "answer": "Calling himself 'A very hunter' makes the reader see the young poet as a focused, determined, and perhaps slightly aggressive child[cite: 618, 644]. It implies that catching the butterfly was his 'prey' and his primary mission during those 'pleasant days'[cite: 619, 614, 640]. This is a surprising image for a poet who is usually seen as peaceful and calm. It shows a more primal and uninhibited side of his childhood self that was driven by 'leaps and springs'[cite: 619]. The reader understands that his current 'converse' with the butterfly is a more mature and refined version of that early passion[cite: 606]. It provides a bridge between the physical energy of youth and the mental energy of old age. The metaphor is central to the second stanza's narrative of the 'chase'[cite: 617]."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain the role of 'leaps and springs' in the poem's imagery.",
+      "answer": "The phrase 'leaps and springs' provides a vivid physical image of the children's active and chaotic play[cite: 619, 640]. It describes how the poet 'rushed upon the prey,' showing that he was moving with his whole body to catch the butterfly[cite: 618]. This imagery creates a sense of dynamic energy and speed, contrasting with the 'floating' and 'staying' of the butterfly in the first stanza[cite: 608, 604]. It helps the reader 'see' the children jumping through the 'brake' and 'bush' in their hunt[cite: 621]. These 'leaps and springs' are the essence of the 'childish plays' that the poet now looks back on with nostalgia[cite: 615]. They represent the pure, unthinking joy of being a child in nature. The imagery turns the quiet memory into a lively scene of action."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'God love her' used by the poet for his sister.",
+      "answer": "When the poet says 'she, God love her, feared to brush,' he is expressing a deep and protective affection for his sister Emmeline[cite: 616, 621]. This parenthetical phrase 'God love her' is a way of blessing her for her gentle and compassionate nature. It shows that he values her empathy as much as his own 'hunter' energy[cite: 618, 644]. It also suggests that her kindness to the butterfly's wings was a divine or holy trait[cite: 621, 643]. By including this, Wordsworth makes the poem feel very personal and tender, like a letter to his past. It reinforces the 'solemn image' of the 'father's family' that the butterfly has brought back to his heart [cite: 612-613]. The phrase adds a layer of spiritual warmth to the narrative of their 'childish plays'[cite: 615]."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "What does the poet mean by the butterfly being an 'infant' historian?",
+      "answer": "The butterfly is the 'Historian of my infancy,' meaning it records the earliest, most 'infant' parts of the poet's life[cite: 607, 630]. For Wordsworth, 'infancy' is a time of pure connection to nature and joy, which the butterfly perfectly represents[cite: 611, 614]. It 'records' the history of when he was a small child in school or at play[cite: 553, 615]. Unlike a human historian who writes books, the butterfly preserves this history in its 'flight' and its presence in the 'brake to bush'[cite: 604, 621]. By using 'infancy,' the poet is highlighting how far back these memories go. He is essentially saying that the butterfly has known him since he was very young. This creates a powerful sense of a life-long bond with nature."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How can 'Short Poems' be used to practice 'Language Study' skills?",
+      "answer": "The 'Short Poems' activity is a direct application of 'Language Study' because it requires students to use specific grammatical structures to create art[cite: 557]. By following the formats for 'noun', 'verb', 'adverb', and 'adjectives,' students practice categorizing words and understanding their functions [cite: 559-564, 575-587]. For example, they must know the difference between 'Rolling' (adjective) and 'Sea' (noun) to build a proper line[cite: 566, 571]. They also learn how to add exclamations and questions to vary their writing[cite: 563, 593]. The activity's focus on 'functional words like prepositions' ensures that the poems are not just word lists but grammatically correct sentences[cite: 595]. It bridges the gap between the 'rules' of English and the 'practice' of creative writing. Ultimately, it expands the students' linguistic 'horizons' in a fun and interactive way[cite: 169]."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the butterfly 'not taking thy flight' immediately.",
+      "answer": "The poet's plea 'do not take thy flight!' shows that his connection to his memories is fragile and depends on the butterfly's physical presence[cite: 604, 639]. If the butterfly flies away, the 'Historian' disappears, and the poet loses his link to his 'infancy'[cite: 607, 630]. He needs it to stay 'in sight' so that he can continue his 'Much converse' and reflection[cite: 605, 606]. 'Taking flight' would represent the final loss of those childhood days that have already become 'Dead times'[cite: 610]. By asking it to stay 'A little longer,' he is trying to stop time and remain in the 'pleasant... days' for as long as possible [cite: 614-615]. This urgency highlights the poet's deep emotional need for nostalgia and his respect for the butterfly's role. It is a plea for the survival of his own past."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What does the line 'Much converse do I find in thee' tell us about the poet's imagination?",
+      "answer": "This line reveals that Wordsworth has a very active imagination where he can 'talk' to an insect about complex human emotions[cite: 606, 638]. He doesn't just see a butterfly; he 'finds' a wealth of conversation and meaning in its presence[cite: 629]. This suggests that for a poet, the natural world is full of voices and stories if one knows how to listen. The butterfly acts as a silent mirror that reflects the poet's own 'solemn image' and family history [cite: 612-613]. It shows that his imagination is what turns 'dead times' into living 'converse'[cite: 610, 631]. The poet finds 'much' in the butterfly, indicating that his mental world is expanded by simple natural observations. This is a core idea in Romantic poetry: that the individual mind and nature work together to create meaning."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Analyze the 'Historian of my infancy' metaphor as a way of recording time.",
+      "answer": "This metaphor suggests that time is not recorded in books but in the natural events of our lives[cite: 607, 630]. The butterfly is the 'Historian' because it was present during the poet's childhood 'chase' and remains present in his adult 'converse'[cite: 617, 606]. It 'revives' the time that has been forgotten or 'dead,' much like a historian revives forgotten events through research[cite: 610]. For Wordsworth, nature is a more reliable and emotional historian than a person could ever be. It records the 'pleasant... days' and the bond with his sister Emmeline in a way that feels 'gay' and alive[cite: 614, 616, 611]. This way of 'recording' time makes the poet's past feel like an accessible and 'sight'-able place[cite: 605]. It turns personal memory into a grand, historical narrative of the soul."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "How does the 'Rolling Roaring... Sea' example use exclamations effectively?",
+      "answer": "The example ends with 'Sea ...' which could be read with an implied exclamation, or we can look at 'Kitten!' which uses a clear exclamation mark[cite: 571, 586]. According to the rules on page 77, an 'exclamation' is required for the fifth line of the first Short Poem format[cite: 563]. This punctuation mark gives the poem a sense of excitement and finality, emphasizing the importance of the subject being described. It turns a list of adjectives into a passionate statement of observation [cite: 575-587]. For students, learning to use exclamations helps them express their feelings about subjects like a 'Cute Little... Kitten!'[cite: 572, 586]. It adds an emotional layer to their 'Language Study' and helps them understand how tone is conveyed in writing. The exclamation is the final 'Expanding Horizon' of the poem's structure."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What is the meaning of 'A little longer stay in sight!' in a student's daily life?",
+      "answer": "For a student, this line could refer to wanting a happy moment, like a 'game' or a 'pleasant' day, to last just a bit longer[cite: 553, 614]. It represents the desire to hold onto something beautiful before it 'departs' or takes 'flight'[cite: 608, 604]. Just as the poet wants to stay connected to his sister Emmeline and his past, a student might want to stay connected to their own friends and memories[cite: 616]. 'Staying in sight' means being present and not forgetting the good times of 'pre-primary or primary school'[cite: 605, 553]. It is a universal human feeling of wanting to slow down time when things are 'pleasant'[cite: 614]. This makes Wordsworth's 19th-century plea very relatable to a 9th-standard student's 21st-century experience. It shows that some feelings never take 'flight'."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss the 'Pre-primary school playmates' activity and its link to Emmeline.",
+      "answer": "The Chit-Chat activity asks students to identify their 'playmates' from early school days[cite: 554]. In the poem, Emmeline is identified as the poet's primary 'playmate' who joined him in 'Together chased the butterfly' [cite: 616-617]. By identifying their own playmates, students can better understand the poet's deep emotional connection to his sister. Just as students 'remember best' their games, the poet remembers 'our childish plays' with Emmeline[cite: 555, 615]. This creates a personal bridge to the text, showing that the poet's 'Historian' is recording a social history as well as a natural one[cite: 607]. Emmeline is the human face of his 'infancy,' and his playmate's gentleness is what he cherishes most[cite: 621, 643]. The activity turns a biographical fact into a relatable social experience."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze the poetic term 'Depart' and its emotional weight in the poem.",
+      "answer": "The word 'depart' is used in 'Float near me; do not yet depart!' to describe the butterfly leaving the poet's presence[cite: 608]. While 'flight' describes the physical act of flying, 'depart' carries a heavier emotional meaning, like a friend or a 'historian' leaving a room[cite: 604, 607]. It implies a finality that the poet is not yet ready for; he needs the 'converse' to continue[cite: 606]. To 'depart' would be to return to the 'Dead times' where his childhood and his family images are lost[cite: 610, 612]. The use of 'yet' shows that the poet knows the butterfly must eventually leave, but he is pleading for more time. It emphasizes the temporary and fragile nature of inspiration and memory. The word choice highlights the poet's sense of impending loss."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "How does the poem use 'Solemn' and 'Gay' to create a balanced tone?",
+      "answer": "The poet balances the 'gay creature' (the butterfly) with a 'solemn image' (his family memories) [cite: 611-612]. 'Gay' establishes a lighthearted, colorful, and 'pleasant' atmosphere for his childhood plays [cite: 614-615]. However, 'solemn' adds a layer of depth, seriousness, and perhaps a touch of sadness for what has been lost[cite: 612]. This balance ensures that the poem is not just a happy rhyme but a profound reflection on the passing of time. The poet is a 'hunter' in a 'gay' world but a 'historian' in a 'solemn' one[cite: 618, 607]. This duality is central to Wordsworth's style, finding the serious within the simple. It allows the reader to feel both the joy of the chase and the weight of the history. The balanced tone makes the final 'sight' of the butterfly even more impactful."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'Brush the dust from off its wings' as a metaphor for care.",
+      "answer": "When Emmeline fears to 'brush the dust from off its wings,' she is demonstrating a deep, almost religious care for nature's fragile beauty[cite: 621, 643]. The 'dust' refers to the delicate scales on a butterfly's wing that help it fly; to 'brush' them would be to potentially cripple the creature. Her fear is a sign of her 'tender' and 'compassionate' nature, which the poet admires ('God love her')[cite: 621]. This serves as a metaphor for how we should handle all precious things—with extreme care and respect for their fragility. It contrasts with the poet's 'hunter' instinct, suggesting that true connection to nature requires restraint as well as action[cite: 618, 644]. Emmeline's gentle touch (or lack thereof) is the ultimate 'solemn' act of her childhood plays[cite: 612, 615]. It makes her a central part of the poet's 'Historian' record."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How do 'Short Poems' help in 'Expanding Horizons' for Standard 9 students?",
+      "answer": "Unit 3's goal of 'Expanding Horizons' is achieved through 'Short Poems' by teaching students to look beyond simple sentences[cite: 169, 557]. By using formats like 'noun + verb + adverb,' students expand their ability to describe the world with precision[cite: 561, 571]. They are encouraged to use 'plenty of examples' and 'cards with pictures' to broaden their creative range[cite: 583, 565]. The activity of writing about subjects like the 'Sea' or a 'Kitten' helps them find poetry in everyday horizons[cite: 571, 586]. Learning parts of speech like 'determiners' and 'adverbs' provides them with the linguistic tools to express more complex thoughts[cite: 562, 592]. Ultimately, it shows them that even a short poem can contain a vast horizon of meaning. It turns them into active creators of English literature."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze the line 'Dead times revive in thee' as a central theme of the poem.",
+      "answer": "This line is the psychological heart of the poem, explaining why the butterfly is so important to the poet[cite: 610, 631]. 'Dead times' refers to his past, which has become stagnant and unreachable without a trigger. The butterfly 'revives' or brings these times back to life, making the poet feel 'pleasant' and 'childish' again [cite: 614-615]. This theme suggests that nothing is ever truly lost as long as we have nature to remind us of who we were. The butterfly's 'flight' is what keeps these dead times alive in the poet's mind[cite: 604, 607]. It makes the 'Historian of my infancy' an active part of his present 'heart'[cite: 607, 612]. This focus on the cyclical and living nature of memory is a key Romantic theme. It turns a simple sighting into a profound act of revival."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What is the meaning of 'A little longer stay in sight!' in terms of poetic Inversion?",
+      "answer": "In regular order, this line would be 'Stay in sight a little longer!', but the poet uses 'Inversion' to change the effect [cite: 650-651]. By placing 'A little longer' at the beginning, Wordsworth emphasizes the duration of the plea, making the reader feel how precious every second is[cite: 647]. The verb 'stay' is pushed to the middle, making it the central action that everything else revolves around. This structure makes the line sound more urgent and rhythmic than a standard sentence would[cite: 646]. It is a classic example of how 'Language Study' can improve the emotional impact of a line[cite: 648]. For students, it shows that word order is a tool they can use to 'emphasize something' in their own writing[cite: 647]. It makes the plea to the butterfly much more memorable."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How does the poet use the word 'Sight' to emphasize the butterfly's role as a historian?",
+      "answer": "The butterfly is a 'Historian' only as long as it is 'in sight'[cite: 607, 605]. Once it takes 'flight' and 'depart(s),' the historian's record is closed and the 'dead times' remain dead[cite: 604, 608, 610]. 'Sight' is the direct sensory link that allows the poet to see his 'father's family' and 'childish plays'[cite: 613, 615]. For Wordsworth, observing nature is the key to recording and remembering human history. He needs the butterfly to 'stay near me' so that he can continue his internal visual journey[cite: 604]. This focus on 'sight' highlights the Romantic idea that the eyes are the gateway to the soul's memory. The butterfly's role is not to speak, but to be seen. Its visual presence is the conversation ('Much converse') that the poet finds[cite: 606]."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "What does 'I followed on from brake to bush' tell us about the poet's tenacity?",
+      "answer": "This line shows that as a child, the poet was extremely tenacious and determined to reach his goal[cite: 621]. 'Followed on' implies a persistent chase that didn't stop at the first obstacle. Moving from 'brake to bush' suggests that he was navigating through difficult, thick, and prickly landscapes to keep up with the butterfly[cite: 620]. This tenacity is part of his 'hunter' persona, rushing upon the prey with everything he had[cite: 618, 632, 640]. It shows that his childhood was not just about gentle play but about a vigorous and active pursuit of nature. This early tenacity likely contributed to his adult ability to 'converse' so deeply with nature[cite: 606]. It captures the tireless spirit of a young boy lost in the wonder of the 'chase'[cite: 617]."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Analyze the 'Cute Little... Kitten!' example as a lesson in Determiners and Adjectives.",
+      "answer": "This short poem uses 'determiners' and 'adjectives' as instructed on page 77[cite: 588, 592]. Words like 'Cute', 'Little', 'Black', 'Naughty', and 'Playful' are adjectives that describe the noun 'Kitten!' [cite: 572-586]. The instructional text notes that the teacher should 'revise the parts of speech' and provide 'plenty of examples' for this activity [cite: 577-585]. This ensures that students understand how to correctly order and use these words to expand their subjects[cite: 595]. The exclamation mark at the end of 'Kitten!' shows how a determiner or adjective string can lead to an emotional payoff[cite: 563, 586]. This exercise is a key part of building 'Expanding Horizons' in English grammar[cite: 169]. It helps students see how simple words can be layered to create a rich and detailed picture."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What is the meaning of 'Thou bring'st, gay creature as thou art! A solemn image to my heart' in a modern context?",
+      "answer": "In a modern context, this line means 'Even though you are a happy and colorful insect, you make me think about serious and deep family memories' [cite: 611-612]. It is a reminder that beauty often has a deeper, more 'solemn' purpose than just looking good. For a 9th-grade student, it shows that nature can be a source of personal reflection, not just a subject in a science book. The use of 'heart' reminds us that our feelings are important when we interact with the world[cite: 612]. The 'gay' butterfly and 'solemn' heart together create a balanced emotional experience [cite: 611-612]. It teaches students that being an adult ('historian') involves carrying both joy and seriousness[cite: 607, 612]. Wordsworth's 19th-century 'converse' still makes sense in the 21st century[cite: 606]."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize how the poem 'To a Butterfly' celebrates the relationship between siblings.",
+      "answer": "The poem is a beautiful tribute to the shared childhood of the poet and his sister, Emmeline[cite: 616, 645]. By stating 'My sister Emmeline and I Together chased the butterfly,' Wordsworth highlights their bond and shared 'childish plays' [cite: 616-617, 615]. The butterfly serves as a 'Historian' of their mutual past, bringing back 'pleasant, pleasant... days' they spent together[cite: 607, 614, 630]. The poet contrasts his 'hunter' energy with her protective gentleness, showing how they balanced each other out [cite: 618, 621, 643-644]. This 'solemn image' of 'father's family' is anchored in their relationship, proving that family is the core of his pleasant memories [cite: 612-613]. Ultimately, the poem celebrates how two children can experience the same nature in different ways but remain linked by their love for each other and the 'gay creature' they followed[cite: 611, 621]."
+    }
+  ]
+}

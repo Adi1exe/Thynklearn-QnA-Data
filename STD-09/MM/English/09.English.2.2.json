@@ -1,0 +1,2611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.2.2",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Helen Keller and Anne Sullivan"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who was Helen Keller's teacher?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "At what age did Helen Keller become blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which word changed Helen Keller’s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What was Helen holding when she learnt the word 'water'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her hand under the spout",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her hand under the spout"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Helen compared herself to which object before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Her mother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her sister",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How did Helen Keller lose her hearing and sight?",
+      "answer": "Helen Keller became ill at the age of two, which left her both blind and deaf[cite: 642]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who was the teacher that changed Helen Keller's life?",
+      "answer": "The teacher who changed Helen's life was Anne Mansfield Sullivan[cite: 643]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "On what specific date did Anne Sullivan arrive at Helen's home?",
+      "answer": "Anne Sullivan arrived on the third of March, 1887[cite: 645]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How old was Helen Keller when her education began with Miss Sullivan?",
+      "answer": "Helen was nearly seven years old; it was three months before her seventh birthday[cite: 645]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did Helen guess that something unusual was about to happen on the day her teacher arrived?",
+      "answer": "She guessed vaguely from her mother's signs and the unusual hurrying to and fro in the house[cite: 647]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What plant covered the porch where Helen stood waiting for her teacher?",
+      "answer": "The porch was covered by a mass of honeysuckle[cite: 648]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What two negative emotions had preyed upon Helen for weeks before her teacher's arrival?",
+      "answer": "Anger and bitterness had preyed upon her continually for weeks[cite: 651]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does Helen compare herself to before her education started?",
+      "answer": "She compares herself to a great ship caught in a dense fog, groping toward the shore without a compass or sounding-line [cite: 652-653]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the 'wordless cry' of Helen's soul before she met her teacher?",
+      "answer": "The wordless cry of her soul was 'Light! Give me light!'[cite: 668]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the first gift Miss Sullivan gave to Helen?",
+      "answer": "Miss Sullivan gave Helen a doll[cite: 672]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who had dressed the doll that was sent to Helen by the blind children at Perkins Institution?",
+      "answer": "The doll had been dressed by Laura Bridgman[cite: 673]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the very first word Helen learned to spell using finger play?",
+      "answer": "The first word she learned to spell was 'd-o-l-l'[cite: 674]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How did Helen initially feel when she succeeded in spelling 'doll' correctly?",
+      "answer": "She was flushed with childish pleasure and pride[cite: 676]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "In the beginning, did Helen understand that she was actually spelling words?",
+      "answer": "No, she did not know words existed; she was simply making 'monkey-like imitation' with her fingers [cite: 678-679]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "List three other words Helen learned to spell in her early 'uncomprehending' days.",
+      "answer": "She learned to spell words like pin, hat, and cup[cite: 680]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which two words did Helen find difficult to distinguish, causing a 'tussle' with her teacher?",
+      "answer": "Helen persisted in confounding the words 'm-u-g' and 'w-a-t-e-r' [cite: 683-684]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash her new doll upon the floor?",
+      "answer": "She became impatient and frustrated with her teacher's repeated attempts to teach her the difference between 'mug' and 'water'[cite: 686]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was Helen's emotional reaction immediately after breaking the doll?",
+      "answer": "She felt keenly delighted and experienced no sorrow or regret[cite: 687, 689]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where did the 'mystery of language' finally reveal itself to Helen?",
+      "answer": "It was revealed at the well-house while water was being drawn[cite: 695, 700]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did Helen realize when she felt the cool stream of water gushing over her hand?",
+      "answer": "She realized that 'w-a-t-e-r' meant the wonderful cool something that was flowing over her hand[cite: 701]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How did the 'living word' of water affect Helen's soul?",
+      "answer": "It awakened her soul, gave it light, hope, and joy, and set it free[cite: 702]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did Helen do when she returned to the house and saw the pieces of her broken doll?",
+      "answer": "For the first time, she felt repentance and sorrow, and she vainly tried to put the pieces together [cite: 708-709]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Name four important words Helen learned that made the world 'blossom' for her.",
+      "answer": "The words were mother, father, sister, and teacher[cite: 726]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How did Helen feel as she lay in her crib at the end of the day her education began?",
+      "answer": "She was the happiest child and, for the first time, longed for a new day to come[cite: 727]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "From which institution did Helen Keller eventually graduate?",
+      "answer": "Helen Keller went on to become a graduate cum laude from Radcliffe[cite: 729]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name three self-study strategies mentioned in the 'Warming up' section.",
+      "answer": "Three strategies include reading the book aloud, making your own notes, and identifying difficult words to look them up in a dictionary[cite: 595, 614, 615]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What are some facilities that should be provided in public places for people with physical disabilities?",
+      "answer": "Necessary facilities include ramps for wheelchairs, accessible toilets, and elevators with low-level buttons[cite: 626]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What specific challenge do people with hearing loss face?",
+      "answer": "People with hearing loss face the challenge of difficulty in communication and missing out on auditory environmental cues[cite: 626]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is meant by the term 'white darkness' in the text?",
+      "answer": "It refers to a dense fog at sea that is so thick it completely shuts out the vision of those on the ship[cite: 652]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Define 'plummet and sounding-line' based on the text's glossary.",
+      "answer": "A plummet and sounding-line is a line with a plumb used specifically to measure the depth of water[cite: 661]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel like a ship without a compass or sounding-line before her education began?",
+      "answer": "She felt this way because she was blind and deaf, leaving her with no way of knowing how near the 'harbour' or a sense of direction she was[cite: 653, 668]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did Helen mean by her 'wordless cry': 'Light! Give me light!'?",
+      "answer": "She was expressing the deep soul-felt desire for knowledge and a way to understand the world around her [cite: 668-669]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who was the little girl who had dressed the doll sent to Helen?",
+      "answer": "The doll was dressed by Laura Bridgman[cite: 673]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Describe the 'monkey-like imitation' Helen initially used to learn words.",
+      "answer": "She was simply mimicking the finger movements of her teacher without understanding that she was actually spelling words or that things had names [cite: 678-679]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "List three verbs Helen learned to spell in her early uncomprehending days.",
+      "answer": "The three verbs mentioned in the text are sit, stand, and walk[cite: 680]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What caused Helen to dash her doll upon the floor in a fit of temper?",
+      "answer": "She became impatient and frustrated after persisting in confounding the words 'mug' and 'water' despite repeated attempts by her teacher [cite: 683-686]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel no regret after breaking her doll initially?",
+      "answer": "She lived in a 'still, dark world' where there was no strong sentiment, tenderness, or understanding of the value of objects[cite: 690]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Where did the fragrance of honeysuckle lead Helen and her teacher?",
+      "answer": "The fragrance attracted them and led them down the path to the well-house[cite: 695]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan use the gushing water to teach Helen?",
+      "answer": "She placed Helen's hand under the spout and spelled the word 'water' into her other hand, first slowly and then rapidly [cite: 696-697]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What 'mystery of language' was revealed to Helen at the well-house?",
+      "answer": "She realized that 'w-a-t-e-r' meant the wonderful cool something flowing over her hand [cite: 700-701]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "According to the text, what did each new name give birth to?",
+      "answer": "Each name gave birth to a new thought[cite: 704]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did every object Helen touched seem to 'quiver with life' after her awakening?",
+      "answer": "It was because she was seeing everything with a 'strange, new sight'—the understanding that everything has a name [cite: 705-706]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What did Helen do when she remembered the broken doll upon returning home?",
+      "answer": "She felt her way to the hearth, picked up the pieces, and tried vainly to put them together while feeling repentance and sorrow [cite: 708-709]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "To what magical object does Helen compare the words that made her world blossom?",
+      "answer": "She compares them to 'Aaron's rod' which blossomed with flowers[cite: 726]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How did Helen's attitude toward a new day change after her breakthrough?",
+      "answer": "For the first time in her life, she felt like a happy child and longed for a new day to come[cite: 727]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Identify which of these words from the text are 'many' (plural): day, contrasts, signs, face.",
+      "answer": "The plural words are 'contrasts' and 'signs'[cite: 745]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Rewrite this sentence in the third person: 'I felt approaching footsteps.'",
+      "answer": "Young Helen felt approaching footsteps[cite: 750]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Frame a 'who' question for the sentence: 'She brought my hat.'",
+      "answer": "Who brought Helen's hat? [cite: 758, 761]"
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Give an example of a compound word found in the passage.",
+      "answer": "Examples include 'honeysuckle', 'well-house', and 'sounding-line'[cite: 648, 661, 695]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Find an example of a present participle used in the text.",
+      "answer": "Examples include 'hurrying', 'approaching', and 'beating'[cite: 647, 652, 670]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "True or False: The most important day Helen Keller remembers is the day her teacher, Anne Sullivan, came to her.",
+      "answer": "True. Helen Keller states that the most important day she remembers in all her life is the one on which her teacher came to her[cite: 738]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "When young Helen felt footsteps and stretched out her hand, did her mother take it?",
+      "answer": "False. When she stretched out her hand, she supposed it was her mother, but it was actually her teacher who took it and held her close[cite: 739, 670, 671]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Did young Helen understand that she was spelling words when she first imitated Miss Sullivan's finger movements?",
+      "answer": "No. She learnt to spell many words in an uncomprehending way and did not know that she was spelling a word or even that words existed[cite: 740, 678, 679, 680]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What major realization did young Helen have after her experience at the well-house?",
+      "answer": "She understood that everything has a name, and each name gave birth to a new thought[cite: 741, 704]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "After her realization at the well-house, what did Helen try to do with the pieces of the broken doll?",
+      "answer": "She felt her way to the hearth and tried vainly to put the pieces of the broken doll together[cite: 742, 708]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Did young Helen feel any regret for breaking the doll at the end of that eventful day?",
+      "answer": "Yes. For the first time, she felt repentance and sorrow when she realized what she had done[cite: 743, 709]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Classify the word 'day' from the text as 'one' or 'many'.",
+      "answer": "The word 'day' is classified as 'one'[cite: 744, 746]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Classify the word 'contrasts' as 'one' or 'many'.",
+      "answer": "The word 'contrasts' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Classify the word 'teacher' as 'one' or 'many'.",
+      "answer": "The word 'teacher' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Classify the word 'lives' as 'one' or 'many'.",
+      "answer": "The word 'lives' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Classify the word 'months' as 'one' or 'many'.",
+      "answer": "The word 'months' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Classify the word 'afternoon' as 'one' or 'many'.",
+      "answer": "The word 'afternoon' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Classify the word 'signs' as 'one' or 'many'.",
+      "answer": "The word 'signs' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Classify the word 'face' as 'one' or 'many'.",
+      "answer": "The word 'face' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Classify the word 'fingers' as 'one' or 'many'.",
+      "answer": "The word 'fingers' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Classify the word 'leaves' as 'one' or 'many'.",
+      "answer": "The word 'leaves' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Classify the word 'blossoms' as 'one' or 'many'.",
+      "answer": "The word 'blossoms' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Classify the word 'anger' as 'one' or 'many'.",
+      "answer": "The word 'anger' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Classify the word 'weeks' as 'one' or 'many'.",
+      "answer": "The word 'weeks' is classified as 'many'[cite: 745, 747]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Classify the word 'struggle' as 'one' or 'many'.",
+      "answer": "The word 'struggle' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Classify the word 'ship' as 'one' or 'many'.",
+      "answer": "The word 'ship' is classified as 'one'[cite: 745, 746]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Rewrite this sentence in the third person: 'I did not know what the future held of marvel or surprise for me.'",
+      "answer": "Helen Keller did not know what the future held of marvel or surprise for her[cite: 751]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Rewrite this sentence using 'Young Helen' in place of 'I': 'The morning after my teacher came she led me into her room and gave me a doll.'",
+      "answer": "The morning after young Helen's teacher came, she led young Helen into her room and gave her a doll[cite: 752]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Rewrite this sentence starting with 'Helen Keller': 'On entering the door I remembered the doll I had broken.'",
+      "answer": "On entering the door, Helen Keller remembered the doll she had broken[cite: 753]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Change this sentence to third person: 'Then my eyes filled with tears; for I realised what I had done.'",
+      "answer": "Then Helen's eyes filled with tears; for she realised what she had done[cite: 754]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Classify the word 'blossoms' from the text as 'one' or 'many'.",
+      "answer": "The word 'blossoms' is classified as 'many'[cite: 745]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Classify the word 'afternoon' as 'one' or 'many'.",
+      "answer": "The word 'afternoon' is classified as 'one'[cite: 745]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Classify the word 'darkness' as 'one' or 'many'.",
+      "answer": "The word 'darkness' is classified as 'one'[cite: 745]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Frame a 'Who' question for the sentence: 'I was like that ship before my education began.'",
+      "answer": "Who was like that ship before her education began? [cite: 758]"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Frame a 'What' question for the sentence: 'One day I was playing with the new doll.'",
+      "answer": "What were you doing one day? [cite: 759]"
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Frame a 'When' question for the sentence: 'I learnt a great many new words that day.'",
+      "answer": "When did you learn a great many new words? [cite: 760]"
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Frame a 'Where' question for the sentence: 'We walked down the path to the well-house.'",
+      "answer": "Where did you walk down the path to? [cite: 762]"
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Frame a 'What' question for the sentence: 'That living word awakened my soul.'",
+      "answer": "What awakened your soul? [cite: 763]"
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Identify three examples of articles from the passage.",
+      "answer": "The three articles found in the passage are 'a', 'an', and 'the'[cite: 776]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "List three compound words found in the passage.",
+      "answer": "Three examples are 'honeysuckle' [cite: 648], 'well-house' [cite: 695], and 'sounding-line'[cite: 652]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Identify three present participles used in the narrative.",
+      "answer": "Three present participles are 'hurrying' [cite: 647], 'approaching' [cite: 670], and 'beating'[cite: 652]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Identify three past participles used in the passage.",
+      "answer": "Three past participles are 'upturned' [cite: 648], 'forgotten' [cite: 699], and 'awakened'[cite: 702]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "From which institution was the doll sent to Helen?",
+      "answer": "The doll was sent by the little blind children at Perkins Institution[cite: 673]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Who dressed the doll that Miss Sullivan gave to Helen?",
+      "answer": "The doll had been dressed by Laura Bridgman[cite: 673]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What was the 'wordless cry' of Helen's soul before education?",
+      "answer": "The wordless cry of her soul was 'Light! Give me light!' [cite: 668-669]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why did Helen initially feel no sorrow or regret after breaking the doll?",
+      "answer": "She felt no regret because she lived in a still, dark world where there was no strong sentiment or tenderness[cite: 690]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What was revealed to Helen at the well-house?",
+      "answer": "The mystery of language was revealed to her[cite: 700]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What did Helen realize regarding names and thoughts?",
+      "answer": "She realized that everything had a name, and each name gave birth to a new thought[cite: 704]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How did every object seem to Helen after her experience at the well-house?",
+      "answer": "As she returned to the house, every object she touched seemed to quiver with life[cite: 705]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "When did Helen first feel repentance and sorrow?",
+      "answer": "She felt it for the first time when she returned home and realized she had broken her doll[cite: 709]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Which specific words made the world blossom for Helen like 'Aaron's rod'?",
+      "answer": "The words were mother, father, sister, and teacher[cite: 726]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What did Helen long for for the first time at the end of that eventful day?",
+      "answer": "She longed for a new day to come[cite: 727]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What academic honor did Helen Keller eventually earn?",
+      "answer": "She became a graduate cum laude from Radcliffe[cite: 729]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "To what cause did Helen devote the rest of her life?",
+      "answer": "She devoted her life to teaching and giving hope to the blind and deaf[cite: 729]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How long did the friendship between Helen Keller and Anne Sullivan last?",
+      "answer": "They remained friends for the rest of their lives until Anne Sullivan's death[cite: 729]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe the role of Anne Sullivan in Helen Keller’s life.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain how Helen Keller learnt her first meaningful word.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Describe Helen Keller’s life before and after education.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain the message of the lesson 'Helen Keller and Anne Sullivan'.",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "How did education bring light into Helen Keller’s life?",
+      "answer": "Anne Sullivan played a vital role in Helen Keller’s life by patiently teaching her language through touch and experience. Education transformed Helen’s dark world into one filled with hope, understanding, and joy."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe the metaphor of the 'ship in a dense fog' that Helen Keller uses to explain her state before education.",
+      "answer": "Helen Keller compares her life before education to a great ship caught in a dense, tangible 'white darkness' at sea[cite: 652]. Like the ship, she was tense and anxious, groping her way toward a shore she could not see[cite: 652]. She emphasizes that she was in a much worse position than a real ship because she lacked a 'compass or sounding-line' to measure her progress or depth[cite: 653]. This metaphor perfectly illustrates the isolation and lack of direction she felt as a child who was both blind and deaf. Her soul was crying out for 'light,' representing knowledge and communication[cite: 668]. The arrival of her teacher acted as the signal that the harbour was finally near."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the well-house incident as the turning point in Helen's life.",
+      "answer": "The incident at the well-house was the moment when the 'mystery of language' was finally revealed to Helen[cite: 700]. While her teacher gushed cool water over one hand, she spelled the word 'w-a-t-e-r' into the other hand[cite: 697]. This sensory experience allowed Helen to connect the abstract finger movements with the physical reality of the cool liquid[cite: 701]. She describes this 'living word' as something that awakened her soul, giving her light, hope, and joy[cite: 702]. It was at this well-house that she realized for the first time that every object has a name[cite: 704]. This breakthrough effectively swept away the barriers that had previously kept her in a world of darkness and emptiness."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the difference between 'monkey-like imitation' and true understanding in Helen's learning process.",
+      "answer": "Initially, Helen learned to spell words like 'doll,' 'pin,' and 'cup' through what she calls 'monkey-like imitation' [cite: 679-680]. During this stage, she successfully made the finger movements but did not understand that she was actually spelling words or that things had names[cite: 678]. She felt only a sense of 'childish pleasure and pride' at succeeding in the physical task[cite: 676]. It was only after the experience at the well-house that her imitation transformed into a true understanding of the purpose of language [cite: 700-701]. True understanding allowed each new name to give birth to a 'new thought' rather than just a mechanical action[cite: 704]. This shift marked the true beginning of her intellectual life and her connection to the world."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the internal conflict Helen faced over the words 'mug' and 'water' and its consequence.",
+      "answer": "Helen Keller struggled immensely with distinguishing between the words 'm-u-g' and 'w-a-t-e-r' early in her education[cite: 683]. She persisted in confounding or mixing up the two, which led to a 'tussle' with her teacher[cite: 684]. Driven by impatience and frustration at Miss Sullivan's repeated attempts to correct her, Helen eventually dashed her new doll onto the floor[cite: 686]. At the time, she felt only a sense of 'satisfaction' because she did not love the doll and lacked tenderness in her dark world [cite: 690-691]. This outburst of temper highlights the intense struggle of a child trying to communicate without a shared language. It also sets the stage for her later feelings of repentance once she finally understood the value of her belongings."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How did Helen's perspective on objects change after her awakening at the well-house?",
+      "answer": "After her experience at the well-house, Helen felt as if her soul had been set free and her world was suddenly filled with life[cite: 702]. As she returned to the house, every object she touched seemed to 'quiver with life'[cite: 705]. This was because she was seeing everything with a 'strange, new sight'—the realization that everything possessed a name and an identity[cite: 706]. For the first time, she truly realized the value and significance of the things around her. This new sight led her to feel genuine 'repentance and sorrow' when she remembered the doll she had broken[cite: 709]. The objects were no longer just obstacles or causes of discomfort, but parts of a meaningful world she was eager to explore."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the role and character of Anne Sullivan as portrayed in this narrative.",
+      "answer": "Anne Sullivan is portrayed as a patient, persistent, and deeply loving teacher who completely dedicated herself to Helen[cite: 671]. She arrived at a time when Helen was filled with 'anger and bitterness' and provided the 'light of love' Helen's soul was crying for[cite: 651, 669]. Despite Helen's initial frustration and the breaking of the doll, Miss Sullivan did not give up and found creative ways to bridge the gap[cite: 685]. She understood the importance of sensory learning, which she used effectively at the well-house breakthrough [cite: 696-697]. Helen credits her with 'revealing all things' to her and being the anchor of her entire education[cite: 671]. Their bond was so strong that they remained friends for the rest of their lives until Anne's death[cite: 729]."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the quote: 'Knowledge is love and light and vision.'",
+      "answer": "This quote by Helen Keller serves as the core theme of the chapter and her entire philosophy of life[cite: 640]. For Helen, 'knowledge' was not just academic facts; it was the 'light' that pulled her out of a world of darkness and emptiness[cite: 642]. She equates it with 'love' because it was her teacher's love that provided the path to understanding[cite: 669]. 'Vision' in this context refers to an inner, intellectual sight that allowed her to see life in objects that she could not physically see with her eyes[cite: 706]. This transformation shows that education has the power to give a person a new identity and a sense of belonging. Ultimately, it suggests that being able to communicate and learn is what makes a human life full of meaning."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What does the text suggest about the emotional environment of a child with multiple disabilities?",
+      "answer": "The text describes the pre-education world of a child with multiple disabilities as one of 'darkness and emptiness'[cite: 642]. Helen Keller recalls being filled with a 'passionate struggle' and a sense of being 'afraid, alone and without any anchor'[cite: 642, 651]. She notes that 'anger and bitterness' had preyed upon her for weeks before her teacher arrived[cite: 651]. Furthermore, she mentions a lack of 'strong sentiment or tenderness' because her world was so restricted[cite: 690]. This highlights that the inability to communicate can lead to deep psychological frustration and a perceived coldness toward others. The narrative shows that these negative emotions were not a part of Helen's character, but a result of her isolation from the human experience."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "How did Helen Keller's education impact her life beyond her childhood?",
+      "answer": "Helen Keller's education was a massive success that allowed her to overcome the severe limitations of being blind and deaf. She went on to become an academic success, graduating 'cum laude' from Radcliffe College[cite: 729]. Inspired by the path her teacher had shown her, she devoted the rest of her long life to teaching and giving hope to others with similar disabilities[cite: 729]. She became a global symbol of perseverance and the power of the human spirit to transcend physical barriers. Her story provided a foundation for modern methods of educating children with sensory impairments. Ultimately, the education she received in 1887 changed her from a frustrated child into a world-renowned leader and humanitarian."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Describe the 'Warming up' activity on public facilities for the disabled and its importance.",
+      "answer": "The 'Warming up' section encourages students to discuss the specific challenges faced by people with various disabilities[cite: 616]. It asks students to consider what provisions should be made in public places to ensure equal access to facilities[cite: 617]. This activity is crucial because it builds empathy and social awareness among students regarding the daily struggles of others. By observing their own surroundings, students can identify where ramps, braille signs, or specialized restrooms are missing[cite: 618]. It also challenges students to think of ways they can personally help improve the situation for those with vision or hearing loss[cite: 618]. This educational exercise connects Helen Keller's historical story with current social responsibilities in the modern world."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the self-study strategies mentioned in the chapter and how they can help students.",
+      "answer": "The chapter lists several effective strategies for students to use when they study on their own, such as reading aloud or reading silently and attentively[cite: 597, 612]. Other useful methods include making your own notes and identifying difficult words to look them up in a dictionary[cite: 614, 615]. Students are also encouraged to try and remember what they have read or even draw diagrams for their own reference[cite: 630, 634]. Discussing the content with friends and rewriting certain parts in your own words are also recommended[cite: 622, 625]. These strategies move students away from just 'memorising answers' or 'copying readymade answers'[cite: 598, 605]. By using these active learning techniques, students can develop a deeper understanding of any difficult subject."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "What is the significance of the doll sent from Perkins Institution in Helen's story?",
+      "answer": "The doll sent from Perkins Institution served as Helen's first formal tool for learning language[cite: 672]. It was a gift from other blind children and had been dressed by Laura Bridgman, which Helen only learned later [cite: 673-674]. This doll was used by Miss Sullivan to teach Helen her very first word—'d-o-l-l'[cite: 674]. However, the doll also became a symbol of Helen's initial frustration when she dashed it upon the floor[cite: 686]. Breaking the doll represented the 'dark world' Helen lived in where objects held no emotional value[cite: 690]. Finally, her attempts to fix it after her awakening showed her newfound sense of empathy and 'repentance'[cite: 709]. Thus, the doll tracks Helen's progress from mechanical imitation to emotional and intellectual maturity."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Analyze the 'Language Study' section regarding present and past participles in the text.",
+      "answer": "The Language Study section asks students to find examples of present and past participles within Helen Keller's narrative [cite: 778-779]. Present participles in the text include words like 'hurrying,' 'approaching,' and 'beating,' which show continuous actions or states[cite: 647, 652, 670]. Past participles like 'upturned,' 'forgotten,' and 'awakened' describe completed actions or qualities resulting from actions[cite: 648, 699, 702]. Understanding these forms helps students identify how the author builds complex descriptions of physical sensations and inner changes. For instance, 'upturned face' vividly describes Helen's physical posture toward the sun[cite: 648]. This grammar exercise teaches students to appreciate how verb forms contribute to the imagery and flow of a first-person narrative."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Discuss the 'English Workshop' activity on third-person narrative and why it is useful.",
+      "answer": "The 'English Workshop' asks students to rewrite sentences from the first-person ('I') into the third-person using 'Helen Keller' or 'Young Helen' [cite: 749-750]. This exercise is useful because it forces students to understand the perspective and identity of the subject from an external viewpoint. It requires making necessary changes to pronouns and verb agreement to maintain the meaning of the original narrative[cite: 750]. For example, changing 'I did not know' to 'Helen Keller did not know' helps students practice formal biographical writing[cite: 751]. This activity also clarifies the sequence of events and the character's internal feelings for the reader. It is a fundamental skill in transforming personal accounts into structured reports or essays."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How does Helen Keller describe her physical surroundings on the day her teacher arrived?",
+      "answer": "On that eventful day, Helen Keller recalls standing on her porch, feeling 'dumb and expectant'[cite: 646]. She describes the 'afternoon sun' penetrating the 'mass of honeysuckle' that covered the porch and falling on her 'upturned face'[cite: 648]. Her fingers 'lingered almost unconsciously' on the familiar leaves and blossoms that had come out for the 'sweet Southern spring'[cite: 649]. These tactile descriptions of sun, plant life, and warmth show that even without sight or hearing, Helen was deeply connected to the sensory world. Her awareness of her mother's signs and the 'hurrying to and fro' in the house further shows her keen observation of movement[cite: 647]. This physical grounding makes her intellectual awakening later in the day even more powerful."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the 'mystery of language' and how it was revealed to Helen according to her account.",
+      "answer": "Helen describes the 'mystery of language' as the realization that symbols (finger movements) correspond to real-world objects and sensations[cite: 700]. This was revealed to her at the well-house while her teacher gushed a 'cool stream' of water over one hand[cite: 697]. As the water flowed, Miss Sullivan spelled 'w-a-t-e-r' into the other hand, starting slowly and then moving rapidly[cite: 697]. Suddenly, Helen felt a 'misty consciousness' as if she were remembering something forgotten—a 'thrill of returning thought'[cite: 699]. She finally understood that 'w-a-t-e-r' meant the wonderful cool something flowing over her hand[cite: 701]. This revelation opened up the world to her, making her realize that 'everything had a name'[cite: 704]."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "What does Helen mean when she says words made her world blossom 'like Aaron's rod'?",
+      "answer": "Helen uses the biblical metaphor of 'Aaron's rod' to describe how learning words transformed her life from a barren stick into a blossoming plant[cite: 726]. Aaron's rod was a famous rod that miraculously sprouted flowers, and for Helen, words like 'mother,' 'father,' and 'teacher' had a similar magical effect[cite: 726]. Before language, her life was 'dumb,' 'alone,' and without beauty[cite: 642, 646]. Once she understood words, her world suddenly became filled with thoughts and meaning, 'blossoming' with new possibilities[cite: 704, 726]. This metaphor highlights that education is not just about facts, but about the miraculous growth of the human soul. It underscores the joy and happiness she felt at the close of that 'eventful day'[cite: 727]."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Discuss the 'immeasurable contrasts' between Helen's life and her teacher's life.",
+      "answer": "Helen Keller writes that she is filled with wonder when she considers the 'immeasurable contrasts' between her life and Anne Sullivan's life on the day they met[cite: 644]. Helen was a child of nearly seven who lived in a world of 'darkness and emptiness,' unable to speak or hear[cite: 642, 645]. Anne Sullivan was an educated, sighted, and hearing adult who arrived from the outside world to bring 'light' to Helen's soul[cite: 643, 668]. Their meeting connected these two vastly different experiences, turning a world of isolation into one of communication. This contrast emphasizes the 'wonder' of how a single person can bridge such a huge gap through love and education. Ultimately, these two lives became inseparable through a shared mission of learning[cite: 729]."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "How did Helen's 'wordless cry' for light get answered at the very hour her teacher arrived?",
+      "answer": "Helen Keller describes her soul as having a 'wordless cry' of 'Light! Give me light!' before her education began[cite: 668]. This cry was answered when she felt approaching footsteps and was 'caught up and held close' in the arms of Anne Sullivan [cite: 670-671]. She calls this moment the 'light of love' shining on her in that very hour[cite: 669]. Miss Sullivan had come to 'reveal all things' to her and, most importantly, to 'love her'[cite: 671]. While physical sight was impossible, this spiritual and intellectual 'light' provided the vision Helen needed to navigate her world. The arrival of her teacher was the direct response to her soul's deepest need for connection and understanding."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What lesson does Helen Keller's story teach about repentance and sorrow?",
+      "answer": "Helen Keller's story shows that repentance and sorrow are complex emotions that require an understanding of the world and the value of others. Before her awakening at the well-house, she felt no 'sorrow or regret' after breaking her doll because she did not love it or understand its worth [cite: 689-690]. She only felt 'satisfaction' because her discomfort had been removed[cite: 691]. However, once she learned that everything had a name and a place in the world, she saw her actions in a new light[cite: 704]. When she returned home and saw the fragments, she tried 'vainly to put them together' and her eyes 'filled with tears' [cite: 708-709]. This proves that intellectual growth and the ability to empathize are deeply connected to our language and thoughts."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain why Helen describes March 3, 1887, as the 'most important day' she remembers.",
+      "answer": "Helen Keller considers March 3, 1887, to be the most important day of her life because it was the day her teacher, Anne Sullivan, arrived[cite: 643]. This day marked the transition from a 'world of darkness and emptiness' to a world of 'love and light'[cite: 640, 642]. It was the day her education formally began, eventually leading her to a life of teaching and humanitarian work[cite: 729]. Before this day, she felt like a ship lost in a 'dense fog,' but after meeting Miss Sullivan, she finally felt her soul being 'set free'[cite: 652, 702]. The day ended with her being the 'happiest child' and longing for the next day for the first time[cite: 727]. Therefore, this date represents the rebirth of her mind and her entry into the human community."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Analyze the tactile (touch-based) descriptions Helen uses to navigate her surroundings.",
+      "answer": "Since Helen could not see or hear, she relied entirely on tactile sensations to understand her environment[cite: 642]. She recalls the 'afternoon sun' penetrating the honeysuckle and falling on her 'upturned face'[cite: 648]. Her fingers 'lingered almost unconsciously' on leaves and blossoms, and she guessed what was happening by 'mother's signs'[cite: 647, 649]. She describes feeling 'approaching footsteps' on the ground to sense someone's arrival[cite: 670]. Most importantly, her education was entirely tactile, from 'spelling into the hand' to feeling 'gushing water' over her fingers[cite: 674, 697]. These descriptions show that for Helen, touch was not just a sense, but her entire connection to reality. It was through touch that the 'mystery of language' was eventually revealed to her[cite: 700]."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How does the 'A Turn by Turn Story' activity in Chapter 1.5 relate to the development of language?",
+      "answer": "The 'Turn by Turn Story' activity involves building a narrative one sentence at a time based on a familiar object [cite: 204-205]. This exercise mirrors the way language develops by adding new thoughts and layers to a simple concept. For a child like Helen Keller, learning that 'everything has a name' was the first step toward building her own life story[cite: 704]. Each new word she learned, like 'mother' or 'father,' acted like a new sentence in her developing understanding of the world[cite: 726]. This group activity also highlights that storytelling is a collaborative and social process. By taking down and reading sentences together, students learn how individual ideas can create a meaningful whole[cite: 207]. It emphasizes that communication is the foundation of both stories and human connection."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "What are the common strategies for identifying difficult words mentioned in the Warming up section?",
+      "answer": "The 'Warming up' section suggests that identifying difficult words is a key step in independent study[cite: 615]. Once a difficult word is spotted, students should look it up in a dictionary to understand its meaning[cite: 621]. Another strategy is to discuss these words with friends to gain different perspectives on their usage[cite: 624]. Students are also encouraged to write about their findings and make their own notes for future reference[cite: 614, 618]. Using these words correctly in your own sentences or 'rewriting certain parts' helps in memorizing them more effectively[cite: 625]. These methods help students move away from 'memorising answers' and toward a deeper, vocabulary-rich understanding of the text[cite: 598]. Overall, these active strategies make reading a more attentive and rewarding experience."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Discuss the 'Disability Challenges and Facilities' table and its educational value.",
+      "answer": "The table in the 'Warming up' section asks students to list the challenges and necessary facilities for various disabilities[cite: 626]. This includes hearing loss, vision loss, physical disability, and learning disorders[cite: 626]. The educational value lies in helping students recognize that 'challenges' are often the result of an environment that lacks 'necessary facilities'[cite: 626]. For example, a person with physical disability faces the challenge of mobility, which can be solved by providing ramps or elevators. By filling out this table, students learn that society has a responsibility to provide equal access to everyone. It moves the focus from the individual's impairment to the community's provision of support. This exercise directly supports the theme of Helen Keller's story by showing how external help (like her teacher) can overcome internal barriers."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Analyze the 'Language Study' section on compound words and provide examples from the story.",
+      "answer": "The 'Language Study' section explains that a compound word is formed when two words come together to create a new word with a new meaning[cite: 167]. It notes that compound words can be written as one word (teapot), with a hyphen (tea-making), or as two separate words (tea club)[cite: 169]. Examples provided in the text include 'evergreen,' 'blood pressure,' and 'everyday'[cite: 168]. In Helen Keller's story, students can find additional compound words such as 'honeysuckle,' 'well-house,' and 'sounding-line'[cite: 648, 652, 695]. Identifying these words helps students understand how the English language builds vocabulary through combination. It also shows that complex descriptions are often made up of simpler, joined parts. This grammar lesson reinforces word formation skills while analyzing the narrative."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "How does the author illustrate the 'bitterness and anger' she felt before education?",
+      "answer": "Helen Keller explicitly states that 'anger and bitterness' had preyed upon her continually for weeks before her teacher arrived[cite: 651]. She describes this time as a 'passionate struggle' that eventually left her in a state of 'deep languor' or tiredness[cite: 651]. This internal anger was physically manifested in her 'tussle' over the words for mug and water[cite: 683]. Her frustration led her to seize her new doll and 'dash it upon the floor' in a fit of impatience[cite: 686]. She even mentions that she felt a 'sense of satisfaction' when the doll was broken because it was the cause of her discomfort[cite: 691]. These details show that her anger was a response to her isolation and her inability to communicate her thoughts to others. Education was the only way to replace this bitterness with 'love and light'[cite: 640]."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Perkins Institution and Laura Bridgman in Helen's life.",
+      "answer": "The Perkins Institution for the Blind played a major role in Helen Keller's early education[cite: 673]. It was from this institution that a doll was sent as a gift to young Helen when her teacher arrived[cite: 673]. The doll had been dressed by Laura Bridgman, another famous student of Perkins who was also blind and deaf[cite: 673]. This gift provided the very first word Helen learned to spell—'d-o-l-l'—into her hand[cite: 674]. For Helen, this connection to other blind children and successful role models like Bridgman was a hidden source of encouragement. Although she didn't know these details until 'afterward,' they show that a supportive community was already forming around her. These figures represent the wider network of educators and students who paved the way for Helen's success."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Describe the 'misty consciousness' Helen felt at the well-house and what it revealed.",
+      "answer": "While standing at the well-house with her hand under the spout, Helen felt a 'misty consciousness' as of something forgotten[cite: 699]. She describes this as a 'thrill of returning thought' that suddenly made her understand the 'mystery of language' [cite: 699-700]. This vague or unclear feeling quickly sharpened into the definite realization that 'w-a-t-e-r' meant the cool liquid on her hand[cite: 701]. This moment revealed that everything in the world possessed a specific name that allowed people to think about and discuss it[cite: 704]. The 'misty' part refers to her previous state of confusion, which was finally cleared away by the 'light' of knowledge[cite: 668]. This awakening was the foundation for all her future intellectual achievements."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Analyze the ending of the 'eventful day' and Helen's feelings as she lay in her crib.",
+      "answer": "At the close of that 'eventful day,' Helen Keller lay in her crib and 'lived over the joys it had brought' her[cite: 727]. She states that it would have been difficult to find a 'happier child' than she was at that moment[cite: 727]. This is a sharp contrast to the 'anger and bitterness' she had felt just a few weeks earlier[cite: 651]. For the first time in her life, she 'longed for a new day to come,' showing a sense of hope and excitement for the future[cite: 727]. This change indicates that her education had given her more than just words; it had given her a reason to enjoy being alive. The day ended with her world blossoming 'like Aaron's rod,' full of potential and beauty[cite: 726]."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' section on 'Infinitives' and provide an example from the text.",
+      "answer": "The 'Language Study' section introduces the 'non-finite form' or 'infinitive' as a verb that names an action without changing for tense, number, or person [cite: 170-171]. It notes that an infinitive can be used with or without the word 'to'[cite: 171]. The text provides an example: 'How did people first begin to drink tea?' where 'to drink' is the infinitive[cite: 172]. In Helen Keller's story, a similar example is 'Can I read the book?' where 'read' is an infinitive used without 'to'[cite: 176]. Students are asked to underline these forms in various sentences to practice identifying general actions in grammar[cite: 173]. Understanding infinitives helps students write more flexible and descriptive sentences by expressing purpose or intent."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "What is the difference between a 'wordless sensation' and a 'thought' according to Helen's experience?",
+      "answer": "The text asks students to discuss the difference between a 'wordless sensation' and a 'thought' based on Helen's story [cite: 711-713]. A wordless sensation is a physical feeling that occurs without any language to describe it, such as Helen feeling 'unconsciously' on blossoms[cite: 649, 693]. In contrast, a 'thought' is a mental idea that is tied to a specific name or word[cite: 704]. Before her awakening, Helen lived mostly through wordless sensations like the 'warm sunshine' or her 'passionate struggle'[cite: 651, 692]. After her breakthrough at the well-house, each name she learned 'gave birth to a new thought'[cite: 704]. This proves that language is the tool that transforms raw physical sensations into complex, intellectual ideas."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Analyze the paragraph beginning with 'We walked down...' and its impact on the reader.",
+      "answer": "The paragraph describing the walk to the well-house is the emotional heart of the chapter[cite: 695]. The reader is invited to use 'proper intonation' to emphasize the sensory details like the 'fragrance of the honeysuckle' and the 'cool stream'[cite: 695, 697, 718]. It builds tension as Miss Sullivan places Helen's hand under the spout and begins spelling 'water' first slowly, then rapidly[cite: 697]. The sudden 'misty consciousness' Helen feels creates a sense of wonder and miracle[cite: 699]. By the end of the paragraph, the reader feels Helen's soul being 'set free' as the mystery of language is revealed[cite: 700, 702]. This passage serves as a powerful testament to the impact of tactile education on a child with disabilities."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How did Helen Keller's later work mirror the efforts of her own teacher, Anne Sullivan?",
+      "answer": "Helen Keller's later life was a direct reflection of the 'light of love' her teacher had shown her[cite: 669, 729]. After graduating cum laude from Radcliffe, she devoted the rest of her life to teaching others[cite: 729]. Specifically, she worked to give 'hope to the blind and deaf,' just as Anne Sullivan had done for her in 1887[cite: 729]. This cyclical nature of education shows that the greatest tribute to a teacher is for the student to become one themselves. Helen and Anne remained close friends until Anne's death, highlighting a lifelong partnership in advocacy[cite: 729]. Her work ensured that the breakthrough at the well-house became a path for thousands of others around the world."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' activity on articles and find three examples from the text.",
+      "answer": "The Language Study section asks students to find three examples of articles—'a,' 'an,' and 'the'—from the passage [cite: 775-776]. 'A' is used for general singular nouns, such as in 'a doll' or 'a herb'[cite: 672, 677]. 'An' is used before vowel sounds, as in 'an eventful day' or 'an antidote'[cite: 645, 646, 650]. 'The' is the definite article used for specific nouns, such as 'the porch,' 'the future,' or 'the mystery'[cite: 646, 650, 700]. These articles are essential determiners that clarify what the author is referring to in her story. By identifying them, students learn the basic rules of noun phrases in English. This exercise links simple grammar rules with the rich vocabulary of Helen Keller's autobiography."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What 'barriers' did Helen face, and how did she believe they could be 'swept away'?",
+      "answer": "Helen Keller acknowledges that even after her breakthrough at the well-house, there were still 'barriers' in her path[cite: 703]. These barriers were the physical limitations of being unable to see or hear the world directly. However, she believed these barriers could 'in time be swept away' through the power of education and persistent learning[cite: 703]. Each new name she learned gave her a 'new thought' that allowed her to bypass her physical limitations[cite: 704]. She realized that language was the ultimate tool for overcoming isolation and connecting with others. Her eagerness to learn after leaving the well-house shows her determination to remove every obstacle between her and a full life[cite: 704]."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how modern technology can be used to overcome impairments, as suggested in the workshop.",
+      "answer": "The workshop encourages students to gather information on how modern technology helps people with disabilities [cite: 766-768]. For example, people with vision loss can use 'screen readers' or braille-enabled devices to access written information. Hearing loss can be mitigated with advanced cochlear implants or speech-to-text applications on smartphones. Physical disabilities are often supported by motorized wheelchairs or smart-home devices that can be controlled by voice or eye movements. Learning disorders can be managed with specialized educational software that adapts to the student's pace. This discussion shows that while Helen Keller's 'barriers' were swept away by hand-spelling, today's technology provides even more powerful anchors for the disabled[cite: 642, 703]."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How does the 'Talking about Myself' activity from Chapter 1.5 relate to Helen's autobiography?",
+      "answer": "The activity 'Talking about Myself' asks students to describe their appearance, family, hobbies, and what they are good at[cite: 185]. This mirrors the 'Real Self' that Helen Keller explores in her autobiography as she describes her family and her world of darkness[cite: 642, 726]. The activity also asks students to create an 'Imaginary Persona' that is quite different from their real self[cite: 186]. For Helen, the child who could communicate and learn was once an 'imaginary' hope that became her new reality[cite: 650]. This exercise helps students understand that our identity is made up of our actual circumstances and our dreams for the future. By sharing these roles, students can empathize with how Helen transformed from a frustrated child into a world leader."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss the 'Step-by-Step Process' of making tea and how it relates to sequencing in a story.",
+      "answer": "The chapter 1.4 Warming up activity asks students to write the process of making tea in a step-by-step manner[cite: 22]. This exercise teaches students the importance of 'sequencing,' where actions must happen in a specific order to be successful. Similarly, Helen Keller's education followed a vital sequence: first tactile imitation, then a sensory breakthrough, and finally intellectual thought[cite: 675, 697, 704]. Just as tea requires boiling, infusing, and filtering, Helen's learning required patience, persistence, and specialized methods from her teacher[cite: 23, 685]. Both processes show that a complex 'result'—like a refreshing beverage or a set-free soul—is built through a series of logical steps. This activity helps students apply technical writing skills to the analysis of a life story."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Analyze the meaning of the phrase 'tangible white darkness' in the maritime metaphor.",
+      "answer": "Helen uses the phrase 'tangible white darkness' to describe a dense fog at sea that is so thick it can almost be felt or touched ('tangible')[cite: 652]. This 'white darkness' is a brilliant oxymoron because white is usually associated with light, yet here it creates a total absence of vision ('darkness')[cite: 656]. It perfectly mirrors her own experience of being blind, where she was surrounded by a world she could not see. The 'tangible' aspect refers to how her world was restricted to what she could physically touch with her hands[cite: 642]. This description makes the reader feel the claustrophobia and anxiety of being trapped in a sensory void. It emphasizes that without her teacher's 'light,' Helen was permanently shut in by this overwhelming fog[cite: 652, 668]."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe the 'English Workshop' activity on 'One' and 'Many' and provide three examples.",
+      "answer": "The workshop asks students to 'listen carefully and classify' various words into 'one' (singular) and 'many' (plural)[cite: 744]. Three singular examples from the text are 'day,' 'teacher,' and 'face,' which refer to individual entities [cite: 745-746]. Three plural examples are 'contrasts,' 'signs,' and 'leaves,' which indicate more than one of the object[cite: 745, 747]. This exercise helps students practice basic grammar and pluralization rules in a meaningful context. It also encourages them to pay closer attention to the nouns the author uses to describe her environment[cite: 745]. For Standard 9 students, this foundation in word classification is vital for building complex sentences in both English and Marathi."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How did the 'mystery of language' reveal itself differently from 'mechanically spelling' a word?",
+      "answer": "Mechanically spelling a word involves making the correct finger movements without understanding their meaning, which Helen calls 'monkey-like imitation'[cite: 679]. In contrast, the 'mystery of language' is the sudden realization that these movements are actual 'names' for real things[cite: 700, 704]. Before the mystery was revealed, Helen could spell 'p-i-n' or 'h-a-t' but they were just games with no purpose[cite: 680]. After the mystery was revealed at the well-house, her whole attention was 'fixed upon the motions of her fingers' with new meaning[cite: 698]. This revelation allowed her to use language as a tool for thought rather than just a physical exercise. It was the difference between being a trained animal and being an awakened human being."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss the 'Chit-Chat' activity on school subjects and its relation to Helen's eagerness to learn.",
+      "answer": "The 'Chit-Chat' section asks students about their favorite subjects and which ones they find difficult [cite: 602-603]. It asks what strategies they use to 'understand it better,' mirroring the struggle Helen faced in learning language[cite: 604]. While most students have many subjects, for young Helen, 'language' was the only subject, and it was the most difficult of all[cite: 684]. Once she had her breakthrough at the well-house, her entire attitude changed, and she left the place 'eager to learn'[cite: 704]. This activity helps students realize that 'difficulty' in a subject can be overcome with the right approach and teacher. Helen's ultimate success in graduating Radcliffe proves that no subject is impossible if one has the 'eagerness' to pursue it[cite: 704, 729]."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the Southern spring and honeysuckle in the narrative's mood.",
+      "answer": "The narrative is set against the backdrop of a 'sweet Southern spring,' which creates a mood of new beginnings and growth[cite: 649]. Helen describes the 'fragrance of the honeysuckle' that covered the porch and the well-house as a guide for her movements[cite: 648, 695]. These 'familiar leaves and blossoms' provided a sensory comfort to Helen while she was still living in darkness[cite: 649]. The blooming of the spring flowers parallels Helen's own intellectual 'blossoming' once she learns her first words[cite: 726]. By using nature to reflect Helen's inner state, the author makes the miracle of her awakening feel more natural and inevitable. The honeysuckle specifically acts as a bridge between her old tactile world and her new world of language."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What role does 'mother' play in the early part of the story before the teacher's arrival?",
+      "answer": "Helen's mother is her primary source of communication and care before Miss Sullivan arrives[cite: 647]. Helen recalls trying to understand what was happening by 'mother's signs' on the eventful day of March 3rd[cite: 647]. When Helen first felt footsteps, she 'stretched out my hand as I supposed it was my mother,' showing her trust and reliance on her[cite: 670]. Later, after Helen successfully spelled 'doll' for the first time, she ran downstairs to show her mother her new 'finger play'[cite: 677]. Her mother represents the limited, tactile world Helen inhabited before education broadened her horizon. While her mother loved her, it was only the 'teacher' who had the specialized tools to reveal the 'mystery of language'[cite: 671, 700]."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Discuss the 'Language Study' activity on framing questions with 'who,' 'what,' and 'when'.",
+      "answer": "The 'Language Study' section asks students to read specific sentences and frame at least two relevant questions on each[cite: 755]. For example, the sentence 'I was like that ship before my education began' can be used to frame 'Who was like that ship?' or 'When was she like that ship?' [cite: 756-758]. This exercise teaches students how to break down a narrative sentence into its core components of subject, action, and time. It is a vital skill for reading comprehension, as it allows students to interrogate the text for specific facts. For Standard 9 students, this practice also helps in building 'Wh-' questions in English, which are essential for dialogue and exams. It encourages an active, investigative approach to reading an autobiography."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How did the 'mystery of language' help Helen understand her past mistakes?",
+      "answer": "Before the 'mystery of language' was revealed, Helen had no way to reflect on her actions or their consequences[cite: 700]. She broke her doll without any 'sorrow or regret' because it was just a wordless object to her[cite: 689]. However, after her awakening, each name she learned 'gave birth to a new thought' that included the idea of value and care[cite: 704]. On entering her door after the breakthrough, she suddenly 'remembered the doll I had broken'[cite: 707]. She went to the hearth and tried 'vainly to put them together,' showing a new understanding of what she had destroyed[cite: 708]. This proves that language is the foundation for moral reflection and the ability to feel 'repentance and sorrow' for our actions[cite: 709]."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "What academic distinction did Helen Keller achieve, and why was it remarkable?",
+      "answer": "Helen Keller achieved the academic distinction of being a 'graduate cum laude' from Radcliffe College[cite: 729]. This was a remarkable feat because Radcliffe was an extremely prestigious and rigorous institution, and Helen was the first blind and deaf person to earn such a degree. Her success proved that intellectual capability is not limited by sensory physical disabilities. She had to overcome the 'barriers' of having information translated into braille or hand-spelling throughout her entire college career[cite: 703]. This achievement validated the patient efforts of her teacher, Anne Sullivan, and changed global perceptions of disability. It serves as the inspiring conclusion to a story that began in a world of 'darkness and emptiness'[cite: 642]."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the 'English Workshop' activity on 'Own Experience' and its creative value.",
+      "answer": "The 'English Workshop' asks students to write about their own experience of doing something successfully for the first time[cite: 764]. Students are encouraged to write a 10-12 line composition after preparing an outline[cite: 765]. This activity has high creative value because it helps students connect Helen Keller's story to their own life 'breakthroughs'. Just as Helen felt a 'thrill' at the well-house, students might remember the joy of learning to ride a bike or solving a difficult puzzle[cite: 699]. It teaches them to use descriptive language and logical sequencing in their own first-person narratives. By reflecting on their own successes, students can better appreciate the magnitude of Helen Keller's achievement."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the transformation of Helen Keller's soul from the beginning to the end of the chapter.",
+      "answer": "At the beginning of the chapter, Helen's soul is in a state of 'passionate struggle,' filled with 'anger and bitterness' and a 'wordless cry' for light[cite: 651, 668]. She describes her world as 'still, dark,' and without any 'strong sentiment or tenderness'[cite: 690]. However, after the 'mystery of language' is revealed, her living word 'awakened my soul' and gave it 'light, hope, joy'[cite: 702]. She transforms from a child who dashes dolls on the floor to one who feels 'repentance and sorrow' and longs for each new day[cite: 686, 709, 727]. By the end of the chapter, her world is 'blossoming like Aaron's rod,' and she is the 'happiest child' alive[cite: 726, 727]. This transformation is the ultimate proof that 'Knowledge is love and light and vision'[cite: 640]."
+    }
+  ]
+}

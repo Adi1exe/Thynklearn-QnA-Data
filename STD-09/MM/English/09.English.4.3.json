@@ -1,0 +1,1473 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.4.3",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Silver"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Silver'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "At what time of the day is the scene described in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What walks the night in silver shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moon"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which animals are shown sleeping in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog and doves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dog and doves"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which two things are shown to move in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon and mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon and mouse"
+    },
+    {
+  "question_id": 51,
+  "question_type": "SHORT",
+  "question": "Why does everything appear silver in the poem?",
+  "answer": "Everything appears silver because the moonlight spreads over all objects and gives them a silvery shine."
+},
+{
+  "question_id": 52,
+  "question_type": "SHORT",
+  "question": "What picture of the night does the poem present?",
+  "answer": "The poem presents a calm, quiet and beautiful moonlit night filled with peace and stillness."
+},
+{
+  "question_id": 53,
+  "question_type": "SHORT",
+  "question": "What does 'silver shoon' mean?",
+  "answer": "'Silver shoon' means silver shoes, describing the moonlight shining on the paws of the dog."
+},
+{
+  "question_id": 54,
+  "question_type": "SHORT",
+  "question": "Which objects are at rest in the poem?",
+  "answer": "The dog, doves, fish, and the harvest mouse are shown to be resting in the poem."
+},
+{
+  "question_id": 55,
+  "question_type": "SHORT",
+  "question": "Why is the moon compared to a living being?",
+  "answer": "The moon is compared to a living being because it is shown walking slowly and watching things closely."
+},
+
+{
+  "question_id": 151,
+  "question_type": "LONG",
+  "question": "Describe the night scene depicted in the poem 'Silver'.",
+  "answer": "The poem describes a peaceful and magical moonlit night. The moonlight turns everything into silver, including trees, fruits, animals and water. The night is quiet and calm, with all creatures resting. The poet uses gentle imagery to create a soothing atmosphere. The scene appears dream-like and beautiful. It highlights the silent beauty of nature at night."
+},
+{
+  "question_id": 152,
+  "question_type": "LONG",
+  "question": "Explain the imagery used by the poet in the poem.",
+  "answer": "The poet uses visual imagery to describe how moonlight changes the appearance of objects. Words like silver fruits, silver feathers and silver paws create vivid pictures. Living and non-living things are equally affected by moonlight. The imagery makes the scene peaceful and magical. It helps readers imagine the beauty of the night clearly."
+},
+{
+  "question_id": 153,
+  "question_type": "LONG",
+  "question": "How does repetition of the word 'silver' affect the poem?",
+  "answer": "The repetition of the word 'silver' creates a rhythmic and musical effect. It emphasizes how moonlight dominates the entire scene. The repeated word connects all images in the poem. It also strengthens the dreamy and calm mood. This repetition makes the poem memorable and visually rich."
+},
+{
+  "question_id": 154,
+  "question_type": "LONG",
+  "question": "What message does the poem convey about nature?",
+  "answer": "The poem shows that nature is peaceful and beautiful at night. It highlights harmony between animals, plants and surroundings. The moonlight brings unity by making everything look similar. The poem teaches us to appreciate quiet moments in nature. It presents nature as gentle and soothing."
+},
+{
+  "question_id": 155,
+  "question_type": "LONG",
+  "question": "Write the rhyme scheme of the poem and explain it.",
+  "answer": "The poem follows a regular rhyme scheme where alternate lines rhyme. This creates a smooth and flowing rhythm. The rhyme scheme adds musical quality to the poem. It supports the calm and gentle mood of the night scene. The structure makes the poem pleasant to read aloud."
+}
+
+  ]
+}
